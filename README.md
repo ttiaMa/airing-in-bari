@@ -1,2 +1,2 @@
 # airing-in-bari
-Webpage with daily updates on the movies on air near Bari, Italy 
+a daily updated list showcasing movies in theaters near me, filtered on my preferences
