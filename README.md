@@ -1,2 +1,4 @@
 # airing-in-bari
-a daily updated list showcasing movies in theaters near me, filtered on my preferences
+A daily updated list of movies playing in theaters near me, filtered by my preferences
+
+Source is from mymovies.it refined with TMDB metadata
