@@ -265,9 +265,10 @@ h2 {
   width: 18px;
   height: 18px;
   border-radius: 4px;
-  vertical-align: middle;
   object-fit: contain;
   transition: transform 0.1s;
+  display: block;
+  transform: translateY(-1px);
 }
 
 .movie-icon:hover {
