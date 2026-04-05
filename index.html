@@ -4,28 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>I Film in Programmazione a Bari</title>
-  <style>
-    body { margin: 0; padding: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #f4f4f7; }
-    .container { max-width: 650px; margin: 0 auto; background-color: #ffffff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
-    h2 { text-align: center; color: #2c3e50; margin-top: 0; margin-bottom: 5px; letter-spacing: 1px; }
-    .subtitle { text-align: center; color: #7f8c8d; font-size: 13px; margin-top: 0; margin-bottom: 30px; padding-bottom: 15px; border-bottom: 2px solid #e74c3c; }
-    
-    .movie-card { margin-bottom: 25px; width: 100%; border-collapse: collapse; }
-    .movie-poster { width: 140px; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); display: block; }
-    .movie-title { margin: 0 0 10px 0; color: #d35400; font-size: 18px; display: flex; align-items: center; flex-wrap: wrap; gap: 6px;}
-    .movie-icon { width: 18px; height: 18px; border-radius: 3px; border: 1px solid #e0e0e0; vertical-align: text-bottom; }
-    .movie-desc { margin: 0 0 10px 0; font-size: 14px; color: #555555; line-height: 1.5; font-style: italic; }
-    .movie-meta { margin: 0 0 4px 0; font-size: 13px; color: #333333; }
-    
-    .cinemas-box { background-color: #f8f9fa; padding: 12px; border-radius: 6px; border-left: 3px solid #3498db; margin-top: 12px; }
-    .cinemas-title { font-size: 13px; color: #2c3e50; display: block; margin-bottom: 4px; font-weight: bold; }
-    .cinema-item { font-size: 13px; color: #444444; display: block; margin-bottom: 2px; }
-    .cinema-link { color: #2980b9; text-decoration: none; font-weight: bold; }
-    
-    hr { border: 0; border-top: 1px solid #eeeeee; margin-bottom: 25px; }
-    .footer { margin-top: 40px; text-align: center; font-size: 12px; color: #95a5a6; line-height: 1.6; }
-    .github-btn { display: inline-flex; align-items: center; background-color: #24292e; color: #ffffff; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
@@ -34,31 +13,46 @@
       <i>* Gli orari vengono aggiornati alle 8:00 e alle 12:00</i>
     </p>
 
-    <!-- Qui verranno iniettati i film via JavaScript -->
+    <!-- Filters Section -->
+    <div class="filters-container" id="filters-container" style="display: none;">
+      <div class="filter-group">
+        <label for="cinema-filter">Filtra per Cinema</label>
+        <select id="cinema-filter">
+          <option value="all">Tutti i cinema</option>
+          <!-- Options verranno iniettate via JS -->
+        </select>
+      </div>
+      
+      <div class="filter-group">
+        <label for="time-filter">Orario minimo</label>
+        <select id="time-filter">
+          <!-- opzioni generate via JS in formato 24h -->
+        </select>
+      </div>
+    </div>
+
+    <!-- Movies Container dove iniettiamo i risultati -->
     <div id="movies-container">
-      <p style="text-align: center; color: #7f8c8d;">Caricamento film in corso...</p>
+      <p class="loading-state">Caricamento film in corso...</p>
     </div>
 
     <!-- Footer -->
     <div class="footer">
       <p style="margin: 0 0 15px 0;">
-        <a href="https://github.com/ttiaMa/airing-in-bari" target="_blank" class="github-btn">
-          <svg height="16" viewBox="0 0 16 16" width="16" style="fill: #ffffff; margin-right: 6px;"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
-          GitHub ⭐
+        <a href="https://github.com/ttiaMa/airing-in-bari" target="_blank">
+          <img src="https://img.shields.io/github/stars/ttiaMa/airing-in-bari?style=for-the-badge&logo=github&label=GitHub&color=24292e" alt="GitHub Stars">
         </a>
       </p>
-      <p style="margin: 0; font-family: monospace; color: #bdc3c7;">v2.0 (Dynamic Fetch)</p>
+      <p style="margin: 0; font-family: monospace; color: #7f8c8d;">v2.1</p>
     </div>
   </div>
 
   <script>
-    // Funzione per generare il percorso del file JSON basato su una data
-    function getJsonPath(date) {
-      const year = date.toLocaleString('it-IT', { year: 'numeric', timeZone: 'Europe/Rome' });
-      const month = date.toLocaleString('it-IT', { month: '2-digit', timeZone: 'Europe/Rome' });
-      const day = date.toLocaleString('it-IT', { day: '2-digit', timeZone: 'Europe/Rome' });
-      return `data/${year}/${month}/${year}-${month}-${day}.json`;
-    }
+    // --- 1. CONFIGURAZIONE E VARIABILI GLOBALI ---
+    
+    // Manteniamo una copia globale dei film scaricati 
+    // per poter ri-renderizzare facilmente quando l'utente applica i filtri.
+    let globalMoviesData = []; 
 
     // URL Personalizzati dei cinema
     const cinemaLinks = {
@@ -70,10 +64,37 @@
       "Galleria": "https://www.multicinemagalleria.it/programmazione/"
     };
 
-    async function loadMovies() {
+    // --- 2. FUNZIONI DI UTILITÀ ---
+
+    // Genera il percorso del file JSON basato su una data specifica
+    function getJsonPath(date) {
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, '0');
+      const day = String(date.getDate()).padStart(2, '0');
+      return `./data/${year}/${month}/${year}-${month}-${day}.json`;
+    }
+
+    // Compara due stringhe orario, formato "HH:mm". Ritorna true se timeA >= timeB
+    function isTimeGreaterOrEqual(timeA, timeB) {
+      // Se non abbiamo un filtro tempo, va sempre bene
+      if (!timeB) return true;
+      
+      const [aHours, aMinutes] = timeA.split(':').map(Number);
+      const [bHours, bMinutes] = timeB.split(':').map(Number);
+      
+      if (aHours > bHours) return true;
+      if (aHours === bHours && aMinutes >= bMinutes) return true;
+      
+      return false;
+    }
+
+    // --- 3. FETCH E INIZIALIZZAZIONE ---
+
+    async function initApp() {
       let currentDate = new Date();
       let data = null;
       let dateFound = null;
+      let fetchError = false;
 
       // Prova a scaricare i dati di oggi, se fallisce prova ieri, e così via (max 3 tentativi)
       for (let i = 0; i < 3; i++) {
@@ -83,95 +104,220 @@
           if (response.ok) {
             data = await response.json();
             dateFound = currentDate;
-            break; // Dati trovati, esci dal ciclo
+            break; // Abbiamo trovato i dati! Usciamo dal ciclo.
           }
         } catch (e) {
-          console.log(`File ${path} non trovato, provo il giorno precedente...`);
+          console.log(`[Info] File ${path} non trovato o errore CORS. Passo al prossimo giorno...`, e);
+          if (e instanceof TypeError) fetchError = true;
         }
-        // Sottrai un giorno
+        // Nessun dato per questa data, andiamo indietro di 24 ore
         currentDate.setDate(currentDate.getDate() - 1);
       }
 
       const container = document.getElementById('movies-container');
 
       if (!data) {
-        container.innerHTML = `<p style="text-align: center; color: #e74c3c;">Nessun dato trovato per la programmazione attuale.</p>`;
+        if (window.location.protocol === 'file:' && fetchError) {
+          container.innerHTML = `<p class="empty-state">Non riesco a caricare i dati.<br>Se stai aprendo il file direttamente dal PC, serve un server HTTP locale (es: <code>python -m http.server</code>).</p>`;
+        } else {
+          container.innerHTML = `<p class="empty-state">Nessun dato trovato per la programmazione attuale.</p>`;
+        }
         return;
       }
 
-      // Aggiorna il titolo con la data del JSON trovato
+      // 3.1 Aggiorna il titolo con la data corretta in cui abbiamo trovato i film
       const formattedDate = dateFound.toLocaleDateString('it-IT', { timeZone: 'Europe/Rome', day: '2-digit', month: '2-digit' });
       document.getElementById('page-title').innerHTML = `🎬 I Film in Programmazione a Bari - ${formattedDate}`;
 
-      // Genera l'HTML per i film
-      let htmlContent = '';
+      // 3.2 Salviamo i dati a livello globale e popoliamo i filtri
+      globalMoviesData = data;
+      populateCinemaFilter(data);
+      populateTimeFilter();
+      
+      // Rendiamo visibili i filtri, in quanto abbiamo i dati
+      document.getElementById('filters-container').style.display = 'flex';
 
-      data.forEach(movie => {
-        // Usa tmdb_title o original_title, con fallback su un generico "Titolo Sconosciuto"
-        const title = movie.tmdb_title || movie.original_title || "Titolo Sconosciuto";
-        const searchTitle = movie.original_title || title;
-        
-        const letterboxdUrl = `https://letterboxd.com/search/films/${encodeURIComponent(searchTitle)}/`;
-        const imdbUrl = `https://www.imdb.com/find/?q=${encodeURIComponent(searchTitle)}`;
-        
-        // Gestione generi e descrizione (supporta il nuovo JSON)
-        const genresText = Array.isArray(movie.genres) ? movie.genres.join(", ") : (movie.genres || 'N/D');
-        const descText = movie.overview || movie.details || 'Nessuna descrizione disponibile.';
+      // 3.3 Renderizza i film per la prima volta (nessun filtro impostato)
+      renderMovies();
+    }
 
-        // Generazione HTML Cinema
-        let cinemasHtml = '';
+    // --- 4. LOGICA DEI FILTRI ---
+    
+    // Trova tutti i nomi dei cinema unici presenti nei film del giorno
+    function populateCinemaFilter(movies) {
+      const cinemaSelect = document.getElementById('cinema-filter');
+      const uniqueCinemas = new Set();
+      
+      // Estraiamo tutti i cinema da tutti i film
+      movies.forEach(movie => {
         if (movie.cinemas && Array.isArray(movie.cinemas)) {
           movie.cinemas.forEach(cinema => {
-            const timesString = Array.isArray(cinema.times) ? cinema.times.join(", ") : cinema.times;
-            const cinemaName = cinema.name ? cinema.name.trim() : "";
-            const cinemaUrl = cinemaLinks[cinemaName] || "";
-            
-            const cinemaDisplayName = cinemaUrl 
-              ? `<a href="${cinemaUrl}" target="_blank" class="cinema-link">${cinemaName}</a>` 
-              : `<strong>${cinemaName}</strong>`;
+            if (cinema.name) {
+              uniqueCinemas.add(cinema.name.trim());
+            }
+          });
+        }
+      });
+      
+      // Li stampiamo nel menu a tendina
+      const sortedCinemas = Array.from(uniqueCinemas).sort();
+      sortedCinemas.forEach(cinemaName => {
+        const option = document.createElement('option');
+        option.value = cinemaName;
+        option.textContent = cinemaName;
+        cinemaSelect.appendChild(option);
+      });
+      
+      // Listener sul cinema — il tempo lo gestiamo nella propria funzione
+      cinemaSelect.addEventListener('change', renderMovies);
+    }
 
-            cinemasHtml += `<span class="cinema-item">• ${cinemaDisplayName}: ${timesString}</span>`;
+    // Popola il menu orario con ore in formato 24h (00:00 - 23:00)
+    function populateTimeFilter() {
+      const timeSelect = document.getElementById('time-filter');
+
+      // Prima opzione: nessun filtro
+      const defaultOpt = document.createElement('option');
+      defaultOpt.value = '';
+      defaultOpt.textContent = 'Qualsiasi ora';
+      timeSelect.appendChild(defaultOpt);
+
+      // Generiamo le ore dalla sera (17 alle 23)
+      for (let h = 17; h <= 23; h++) {
+        const label = String(h).padStart(2, '0') + ':00';
+        const opt = document.createElement('option');
+        opt.value = label;
+        opt.textContent = label;
+        timeSelect.appendChild(opt);
+      }
+
+      timeSelect.addEventListener('change', renderMovies);
+    }
+
+    // --- 5. RENDERIZZAZIONE DELL'UI ---
+
+    // Disegna la lista dei film basandosi sui dati globali e sui filtri attuali
+    function renderMovies() {
+      const container = document.getElementById('movies-container');
+      
+      // Leggiamo i valori correnti dai filtri inseriti dall'utente
+      const selectedCinemaValue = document.getElementById('cinema-filter').value;
+      const selectedTimeValue = document.getElementById('time-filter').value; // Es: "20:00"
+
+      let htmlContent = '';
+      let moviesRendered = 0;
+
+      globalMoviesData.forEach(movie => {
+        // Prepariamo l'array dei cinema che rispetti I FILTRI per questo preciso film
+        let validCinemas = [];
+
+        if (movie.cinemas && Array.isArray(movie.cinemas)) {
+          movie.cinemas.forEach(cinema => {
+            const cinemaName = cinema.name ? cinema.name.trim() : "";
+            
+            // 1) Filtro Cinema (saltiamo questo cinema se l'utente ne ha selezionato un altro)
+            if (selectedCinemaValue !== 'all' && cinemaName !== selectedCinemaValue) {
+              return; 
+            }
+
+            // 2) Filtro Orario (prendiamo solo gli orari >= a quello selezionato)
+            let validTimesForCinema = [];
+            
+            // converti cinema.times (potrebbe essere stringa) in un array per sicurezza
+            let timesArray = Array.isArray(cinema.times) ? cinema.times : cinema.times.split(",").map(t => t.trim());
+            
+            timesArray.forEach(timeString => {
+              // Pulisce eventuale sporcizia dalla stringa (es: spazi superflui)
+              const cleanTime = timeString.replace(/[^0-9:]/g, ''); 
+              if (isTimeGreaterOrEqual(cleanTime, selectedTimeValue)) {
+                validTimesForCinema.push(timeString);
+              }
+            });
+
+            // Se questo cinema ha ancora orari disponibili dopo aver applicato il limite di tempo, 
+            // creiamo un oggetto e lo conserviamo.
+            if (validTimesForCinema.length > 0) {
+              validCinemas.push({
+                name: cinemaName,
+                times: validTimesForCinema
+              });
+            }
           });
         }
 
+        // Se dopo aver fatto il filtro questo film non ha ZERO cinema disponibili, allora possiamo mostrarlo
+        if (validCinemas.length === 0) {
+          return; // Salta al prossimo 'movie' senza aggiungerlo al codice HTML
+        }
+
+        moviesRendered++;
+
+        // Risolviamo i vari dati del film per visualizzarli in UI
+        const title = movie.tmdb_title || movie.original_title || "Titolo Sconosciuto";
+        const searchTitle = movie.original_title || title;
+        const letterboxdUrl = `https://letterboxd.com/search/films/${encodeURIComponent(searchTitle)}/`;
+        const imdbUrl = `https://www.imdb.com/find/?q=${encodeURIComponent(searchTitle)}`;
+        const genresText = Array.isArray(movie.genres) ? movie.genres.join(", ") : (movie.genres || 'N/D');
+        const descText = movie.overview || movie.details || 'Nessuna descrizione disponibile.';
+
+        // Generazione HTML interna per i Cinema restanti per questo Film
+        let cinemasHtml = '';
+        validCinemas.forEach(cinema => {
+          const timesString = cinema.times.join(", ");
+          const cinemaUrl = cinemaLinks[cinema.name] || "";
+          
+          const cinemaDisplayName = cinemaUrl 
+            ? `<a href="${cinemaUrl}" target="_blank" class="cinema-link">${cinema.name}</a>` 
+            : `<strong>${cinema.name}</strong>`;
+
+          cinemasHtml += `<span class="cinema-item">• ${cinemaDisplayName}: ${timesString}</span>`;
+        });
+
+        // HTML del singolo movie-card (struttura a Flexbox div invece che table)
         htmlContent += `
-          <table class="movie-card">
-            <tr>
-              <td width="140" valign="top" style="padding-right: 20px;">
-                <img src="${movie.poster_url || ''}" alt="${title}" class="movie-poster">
-              </td>
-              <td valign="top">
-                <h3 class="movie-title">
-                  ${title.toUpperCase()}
-                  <a href="${letterboxdUrl}" target="_blank" title="Cerca su Letterboxd">
-                    <img src="https://letterboxd.com/apple-touch-icon.png" class="movie-icon" alt="Letterboxd">
-                  </a>
-                  <a href="${imdbUrl}" target="_blank" title="Cerca su IMDb">
-                    <img src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" class="movie-icon" alt="IMDb">
-                  </a>
-                </h3>
-                
-                <p class="movie-desc">"${descText}"</p>
-                <p class="movie-meta"><strong>Regia:</strong> ${movie.director || 'N/D'}</p>
-                <p class="movie-meta"><strong>Genere:</strong> ${genresText}</p>
-                ${movie.cast ? `<p class="movie-meta"><strong>Cast:</strong> ${movie.cast}</p>` : ''}
-                
-                <div class="cinemas-box">
-                  <span class="cinemas-title">📍 Sale e Orari:</span>
-                  ${cinemasHtml}
-                </div>
-              </td>
-            </tr>
-          </table>
+          <div class="movie-card">
+            <div class="movie-poster-container">
+              <img src="${movie.poster_url || ''}" alt="${title}" class="movie-poster">
+            </div>
+            
+            <div class="movie-info">
+              <h3 class="movie-title">
+                ${title.toUpperCase()}
+                <a href="${letterboxdUrl}" target="_blank" title="Cerca su Letterboxd">
+                  <img src="https://letterboxd.com/apple-touch-icon.png" class="movie-icon" alt="Letterboxd">
+                </a>
+                <a href="${imdbUrl}" target="_blank" title="Cerca su IMDb">
+                  <img src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" class="movie-icon" alt="IMDb">
+                </a>
+              </h3>
+              
+              <p class="movie-desc">"${descText}"</p>
+              <p class="movie-meta"><strong>Regia:</strong> ${movie.director || 'N/D'}</p>
+              <p class="movie-meta"><strong>Genere:</strong> ${genresText}</p>
+              ${movie.cast ? `<p class="movie-meta"><strong>Cast:</strong> ${movie.cast}</p>` : ''}
+              
+              <div class="cinemas-box">
+                <span class="cinemas-title">📍 Sale e Orari:</span>
+                ${cinemasHtml}
+              </div>
+            </div>
+          </div>
           <hr>
         `;
       });
 
-      container.innerHTML = htmlContent;
+      // Se non abbiamo stampato nemmeno un film (tutti fliltrati)
+      if (moviesRendered === 0) {
+        container.innerHTML = `<p class="empty-state">Nessun film trovato con i filtri correnti.</p>`;
+      } else {
+        container.innerHTML = htmlContent;
+      }
     }
 
-    // Avvia il caricamento quando la pagina è pronta
-    document.addEventListener('DOMContentLoaded', loadMovies);
+    // --- AVVIA L'APP ALLA PARTENZA ---
+    
+    // Non appena il browser ha caricato tutto il DOM (HTML), eseguiamo la funzione principale
+    document.addEventListener('DOMContentLoaded', initApp);
   </script>
 </body>
 </html>
