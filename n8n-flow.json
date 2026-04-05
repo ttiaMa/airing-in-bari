@@ -1,0 +1,699 @@
+{
+  "name": "scrape cinema movies in Bari - airing.mathya.it (for sharing)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "triggerAtHour": 8
+            },
+            {
+              "triggerAtHour": 12
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -672,
+        -96
+      ],
+      "id": "8b812bcc-0ff4-4a7e-85f6-9e8fe2fc7726",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Get the items from the previous node\nconst items = $input.all();\nconst result =[];\n\nfor (const item of items) {\n  // Usually, the HTTP Request node outputs string data into \"item.json.data\"\n  // Adjust this property if your HTML is stored under a different key.\n  const html = item.json.data || item.json; \n  \n  if (typeof html !== 'string') {\n    continue;\n  }\n\n  // The HTML uses '<div id=\"divTrailer_X\"' as a container for each movie section.\n  // We split the HTML string by this to process one movie at a time.\n  const blocks = html.split('<div id=\"divTrailer_').slice(1);\n\n  // Helper function to strip HTML tags and normalize extra spaces\n  const stripTags = (str) => {\n      return str.replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').replace(/\\s+/g, ' ').trim();\n  };\n\n  for (const block of blocks) {\n    // 1. Extract Title and URL\n    const titleMatch = block.match(/<div class=\"schedine-titolo\">[\\s\\S]*?<a href=\"([^\"]+)\"[^>]*>([^<]+)<\\/a>/);\n    if (!titleMatch) continue; // Skip if no title is found in this block\n\n    const url = titleMatch[1].trim();\n    const title = titleMatch[2].trim();\n\n    // 2. Extract Details (Description, Genre, Country, Year, Duration)\n    const detailsMatch = block.match(/<div class=\"mm-line-height-130 schedine-lancio\">([\\s\\S]*?)<\\/div>/);\n    let details = \"\";\n    if (detailsMatch) {\n        details = stripTags(detailsMatch[1]);\n    }\n\n    // 3. Extract Director(s)\n    const directorMatch = block.match(/Un film di\\s+([\\s\\S]*?)\\./);\n    let director = \"\";\n    if (directorMatch) {\n        director = stripTags(directorMatch[1]);\n    }\n\n    // 4. Extract Cast\n    const castMatch = block.match(/<span>Con\\s+([\\s\\S]*?)<\\/span>/);\n    let cast = \"\";\n    if (castMatch) {\n        cast = stripTags(castMatch[1]);\n    }\n\n    // 5. Extract Cinemas and Showtimes\n    // The class 'mm-light-grey' wraps the block detailing the cinema and showtimes\n    const cinemaBlocks = block.split('class=\"mm-light-grey\"').slice(1);\n    const cinemas =[];\n\n    for (const cBlock of cinemaBlocks) {\n        // Find cinema name\n        const cinemaNameMatch = cBlock.match(/<div style=\"padding-top:3px; float:left; font-weight:600;\">([^<]+)<\\/div>/);\n        let cinemaName = cinemaNameMatch ? cinemaNameMatch[1].trim() : \"Sconosciuto\";\n        \n        // Clean up the word \"CINEMA \" from the beginning of the name if it exists\n        cinemaName = cinemaName.replace(/^CINEMA\\s+/i, '');\n\n        // Find all showtimes for this specific cinema\n        const timeRegex = /<span class=\"mm-medium mm-weight-700\">([^<]+)<\\/span>/g;\n        const times =[];\n        let tMatch;\n        \n        while ((tMatch = timeRegex.exec(cBlock)) !== null) {\n            times.push(tMatch[1].trim());\n        }\n\n        // Only add if we found a valid name or times\n        if (cinemaName !== \"Sconosciuto\" || times.length > 0) {\n            cinemas.push({\n                name: cinemaName,\n                times: times\n            });\n        }\n    }\n\n    // Prepare the final item to return to n8n\n    result.push({\n        json: {\n            title: title,\n            cast: cast,\n            details: details,\n            cinemas: cinemas\n        }\n    });\n  }\n}\n\n// Return the extracted items so subsequent nodes can process them one by one\nreturn result;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -272,
+        -176
+      ],
+      "id": "d55ef8eb-d4e2-43ba-9e9f-1123d4063007",
+      "name": "Clean Json"
+    },
+    {
+      "parameters": {
+        "jsCode": "// 1. Inserisci qui la tua API Key di TMDB\nconst TMDB_API_KEY = 'YOUR_API_KEY';\n\n// 2. n8n prende tutti i dati in ingresso tramite $input.all()\nconst items = $input.all();\n\n// 3. Iteriamo su tutti i film in arrivo\nfor (const item of items) {\n  // I dati veri e propri in n8n risiedono sempre dentro la proprietà \"json\"\n  const movie = item.json;\n  const title = movie.title;\n  \n  // Estraiamo l'anno dalla descrizione (es. 2026) per usarlo come eventuale fallback\n  const yearMatch = movie.details ? movie.details.match(/\\b(19|20)\\d{2}\\b/) : null;\n  const year = yearMatch ? yearMatch[0] : '';\n\n  try {\n    // --- PRIMO TENTATIVO: SOLO TITOLO ---\n    let searchUrl = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}&language=it-IT`;\n    \n    let searchResponse = await this.helpers.httpRequest({\n      method: 'GET',\n      url: searchUrl,\n      json: true \n    });\n\n    // --- SECONDO TENTATIVO: TITOLO + ANNO ---\n    // Se la prima ricerca non ha prodotto risultati e abbiamo estratto l'anno, riproviamo\n    if ((!searchResponse.results || searchResponse.results.length === 0) && year) {\n      let searchUrlWithYear = `${searchUrl}&primary_release_year=${year}`;\n      searchResponse = await this.helpers.httpRequest({\n        method: 'GET',\n        url: searchUrlWithYear,\n        json: true \n      });\n    }\n\n    // 5. Se ci sono risultati, arricchiamo il JSON originale\n    if (searchResponse.results && searchResponse.results.length > 0) {\n      const tmdbMatch = searchResponse.results[0];\n      const tmdbId = tmdbMatch.id;\n      \n      // Salviamo le info base prese dalla ricerca\n      movie.tmdb_id = tmdbId;\n      movie.tmdb_title = tmdbMatch.title;\n      movie.original_title = tmdbMatch.original_title;\n      movie.overview = tmdbMatch.overview;\n      movie.release_date = tmdbMatch.release_date;\n      movie.vote_average = tmdbMatch.vote_average;\n      movie.poster_url = tmdbMatch.poster_path ? `https://image.tmdb.org/t/p/w500${tmdbMatch.poster_path}` : null;\n\n      // --- RECUPERO DETTAGLI ESTESI (GENERI + REGISTA) ---\n      try {\n        // Usiamo append_to_response=credits per prendere sia i dettagli (generi) sia la crew in una sola chiamata\n        const detailsUrl = `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_API_KEY}&append_to_response=credits&language=it-IT`;\n        \n        const detailsResponse = await this.helpers.httpRequest({\n          method: 'GET',\n          url: detailsUrl,\n          json: true\n        });\n\n        // 1. Recuperiamo i GENERI\n        if (detailsResponse.genres && detailsResponse.genres.length > 0) {\n           movie.genres = detailsResponse.genres.map(g => g.name).join(', ');\n        } else {\n           movie.genres = null;\n        }\n\n        // 2. Recuperiamo il REGISTA\n        if (detailsResponse.credits && detailsResponse.credits.crew) {\n            const directors = detailsResponse.credits.crew.filter(person => person.job === 'Director');\n            movie.director = directors.length > 0 ? directors.map(d => d.name).join(', ') : null;\n        } else {\n            movie.director = null;\n        }\n        \n      } catch (detailsError) {\n        // Se fallisce il recupero dettagli, impostiamo null ma teniamo i dati base\n        movie.genres = null;\n        movie.director = null;\n        movie.details_error = detailsError.message;\n      }\n      // --- FINE SEZIONE DETTAGLI ---\n\n    } else {\n      // Se non trova niente né col primo né col secondo tentativo\n      movie.tmdb_id = null;\n      movie.director = null;\n      movie.genres = null;\n    }\n  } catch (error) {\n    // Gestione errori globale\n    movie.tmdb_id = null;\n    movie.director = null;\n    movie.genres = null;\n    movie.error = error.message;\n  }\n}\n\n// 6. Restituisce gli elementi arricchiti al nodo successivo\nreturn items;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        128,
+        -80
+      ],
+      "id": "8fa79d0b-94c1-48b0-a0bb-4f658c8aa691",
+      "name": "Enrich with TMDB"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Funzione ultra-compatta: \\s+ elimina in un colpo solo \\n, \\r, \\t e spazi multipli.\n// Il controllo 'typeof' evita crash se il campo è undefined o null.\nconst cleanText = (text) => \n  typeof text === 'string' ? text.replace(/\\s+/g, ' ').trim() : \"N/A\";\n\n// Creiamo l'array mappando direttamente gli input di n8n\nconst moviesForLLM = $input.all().map(item => {\n  const m = item.json;\n  \n  return {\n    t: m.title,                               // t = title\n    d: cleanText(m.director),                 // d = director (NUOVO)\n    g: cleanText(m.genres),                   // g = genres (NUOVO)\n    c: cleanText(m.cast),                     // c = cast\n    p: cleanText(m.overview || m.details),    // p = plot (trama)\n    r: m.vote_average || \"N/A\"                // r = rating (voto)\n  };\n});\n\n// Generiamo il JSON minimizzato pronto per l'LLM\nreturn[{\n  json: {\n    llm_payload: JSON.stringify(moviesForLLM),\n    total_movies: moviesForLLM.length\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        320,
+        -80
+      ],
+      "id": "841db852-566a-4a02-9cc9-9c0fabc1a074",
+      "name": "Minimize JSON"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Act as a sophisticated film curator with high-brow, cinephile taste.\n\nAnalyze the provided list of movies (where 't' is Title, 'c' is Cast, 'p' is Plot, 'r' is Rating).\n\nSelect ONLY the movies that fit these criteria:\n1. **CULT & CLASSICS:** Re-releases of cinema history classics or not (Priority) (Even italian re-releases).\n2. **A24 / ELEVATED GENRE:** Psychological thrillers, surrealism, arthouse (e.g., Lanthimos, Eggers).\n3. **EVENT MOVIES:** Major cinematic events with high critical acclaim (e.g., Nolan, Villeneuve).\n4. **ITALIAN CINEMA:** REJECT standard comedies. ACCEPT only major auteurs (Sorrentino, Garrone, Rohrwacher).\n5. **REJECT:** Commercial horror, generic comedies, blockbusters without artistic merit, too political movies.\n6. PRESTIGE ANIMATION: Major animation releases with high artistic value or critical acclaim (e.g., Pixar originals, Studio Ghibli) and important theatrical re-releases of Japanese animation classics. REJECT purely commercial children's cartoons.\n\n**INPUT DATA:**\n{{ $json.llm_payload }}\n\n**INSTRUCTIONS:**\n- Populate the output list \"recommendations\".\n- For each selected movie, provide:\n  - \"title\": The EXACT title string from input 't' (do not translate or fix typos).\n  - \"ai_reason\": A short, punchy explanation of why this fits the cinephile criteria (e.g., \"It's a classic re-release\", \"A24 horror style\", \"Winner of Palme d'Or\").\n- Order movies by most important productions.",
+        "hasOutputParser": true,
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        512,
+        -80
+      ],
+      "id": "e4041675-2a6d-4cb0-8c36-e15bb15e3107",
+      "name": "AI Filtering for Suggestions",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n  \"recommendations\": [\n    {\n      \"title\": \"CIME TEMPESTOSE\",\n      \"ai_reason\": \"A bold, auteur-driven adaptation of a literary classic, fitting the 'Event Movie' criteria perfectly.\"\n    },\n    {\n      \"title\": \"THE LIGHTHOUSE\",\n      \"ai_reason\": \"An A24 psychological horror masterpiece by Robert Eggers. Atmospheric and elevated genre.\"\n    }\n  ]\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        656,
+        144
+      ],
+      "id": "37dba9a9-d687-4df0-824e-5982cc5430e6",
+      "name": "Structured Output Parser"
+    },
+    {
+      "parameters": {
+        "modelName": "models/gemini-3-flash-preview",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1,
+      "position": [
+        512,
+        144
+      ],
+      "id": "ca739203-741a-4468-b13d-c1cf7a6961c1",
+      "name": "Google Gemini Chat Model",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "VvopiqD5nxb7pQgj",
+          "name": "Google Gemini(PaLM) Api account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fieldToSplitOut": "output.recommendations",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        832,
+        -80
+      ],
+      "id": "4cdbd421-a7cf-434d-aa79-35764ae12483",
+      "name": "Split Out"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "fieldsToMatchString": "title",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        832,
+        160
+      ],
+      "id": "8e25b12d-60ca-48b2-8062-5271b0b44198",
+      "name": "Merge"
+    },
+    {
+      "parameters": {
+        "sendTo": "EXAMPLE@mail.com",
+        "subject": "=Programmazione Film del {{ $now.format('dd/MM') }} - {{ $('Merge').all()[0].json.title }}, {{ $('Merge').all()[1].json.title }}, {{ $('Merge').all()[2].json.title }}",
+        "message": "={{ $json.finalHtml }}",
+        "options": {
+          "appendAttribution": false
+        }
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.2,
+      "position": [
+        1488,
+        -32
+      ],
+      "id": "39609d08-c320-4971-9fca-d3ac910f9d00",
+      "name": "Send a message",
+      "webhookId": "43c8d29e-5b9c-4678-99ea-b1ff38cf85d2",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "9oMw1tayNozHXFzq",
+          "name": "Gmail account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "https://www.mymovies.it/cinema//bari/",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -464,
+        -176
+      ],
+      "id": "5d00afe8-3d7d-43bb-ae92-a51e5b723b67",
+      "name": "HTTP Request to TMDB - Bari"
+    },
+    {
+      "parameters": {
+        "url": "https://www.mymovies.it/cinema/bari/casamassima/",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -464,
+        0
+      ],
+      "id": "508e3e14-be08-4b3a-a81f-f2af3fc458f4",
+      "name": "HTTP Request to TMDB - Casamassima"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Get the items from the previous node\nconst items = $input.all();\nconst result =[];\n\nfor (const item of items) {\n  // Usually, the HTTP Request node outputs string data into \"item.json.data\"\n  // Adjust this property if your HTML is stored under a different key.\n  const html = item.json.data || item.json; \n  \n  if (typeof html !== 'string') {\n    continue;\n  }\n\n  // The HTML uses '<div id=\"divTrailer_X\"' as a container for each movie section.\n  // We split the HTML string by this to process one movie at a time.\n  const blocks = html.split('<div id=\"divTrailer_').slice(1);\n\n  // Helper function to strip HTML tags and normalize extra spaces\n  const stripTags = (str) => {\n      return str.replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').replace(/\\s+/g, ' ').trim();\n  };\n\n  for (const block of blocks) {\n    // 1. Extract Title and URL\n    const titleMatch = block.match(/<div class=\"schedine-titolo\">[\\s\\S]*?<a href=\"([^\"]+)\"[^>]*>([^<]+)<\\/a>/);\n    if (!titleMatch) continue; // Skip if no title is found in this block\n\n    const url = titleMatch[1].trim();\n    const title = titleMatch[2].trim();\n\n    // 2. Extract Details (Description, Genre, Country, Year, Duration)\n    const detailsMatch = block.match(/<div class=\"mm-line-height-130 schedine-lancio\">([\\s\\S]*?)<\\/div>/);\n    let details = \"\";\n    if (detailsMatch) {\n        details = stripTags(detailsMatch[1]);\n    }\n\n    // 3. Extract Director(s)\n    const directorMatch = block.match(/Un film di\\s+([\\s\\S]*?)\\./);\n    let director = \"\";\n    if (directorMatch) {\n        director = stripTags(directorMatch[1]);\n    }\n\n    // 4. Extract Cast\n    const castMatch = block.match(/<span>Con\\s+([\\s\\S]*?)<\\/span>/);\n    let cast = \"\";\n    if (castMatch) {\n        cast = stripTags(castMatch[1]);\n    }\n\n    // 5. Extract Cinemas and Showtimes\n    // The class 'mm-light-grey' wraps the block detailing the cinema and showtimes\n    const cinemaBlocks = block.split('class=\"mm-light-grey\"').slice(1);\n    const cinemas =[];\n\n    for (const cBlock of cinemaBlocks) {\n        // Find cinema name\n        const cinemaNameMatch = cBlock.match(/<div style=\"padding-top:3px; float:left; font-weight:600;\">([^<]+)<\\/div>/);\n        let cinemaName = cinemaNameMatch ? cinemaNameMatch[1].trim() : \"Sconosciuto\";\n        \n        // Clean up the word \"CINEMA \" from the beginning of the name if it exists\n        cinemaName = cinemaName.replace(/^CINEMA\\s+/i, '');\n\n        // Find all showtimes for this specific cinema\n        const timeRegex = /<span class=\"mm-medium mm-weight-700\">([^<]+)<\\/span>/g;\n        const times =[];\n        let tMatch;\n        \n        while ((tMatch = timeRegex.exec(cBlock)) !== null) {\n            times.push(tMatch[1].trim());\n        }\n\n        // Only add if we found a valid name or times\n        if (cinemaName !== \"Sconosciuto\" || times.length > 0) {\n            cinemas.push({\n                name: cinemaName,\n                times: times\n            });\n        }\n    }\n\n    // Prepare the final item to return to n8n\n    result.push({\n        json: {\n            title: title,\n            cast: cast,\n            details: details,\n            cinemas: cinemas\n        }\n    });\n  }\n}\n\n// Return the extracted items so subsequent nodes can process them one by one\nreturn result;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -272,
+        0
+      ],
+      "id": "e91fa9cf-4fba-47c5-ba1f-ac7675887bcd",
+      "name": "Clean Json1"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "fieldsToMatchString": "title",
+        "joinMode": "keepEverything",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        -64,
+        -80
+      ],
+      "id": "98a42a39-2f94-4377-bb53-89791da313d5",
+      "name": "Merge1"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Ottieni la data di oggi\nconst today = new Date().toLocaleDateString('it-IT', { day: '2-digit', month: '2-digit', year: 'numeric' });\n\n// Intestazione principale\nlet discordMessage = `# 🎬 PROGRAMMAZIONE BARI | ${today}\\n\\n`;\n\nconst items = $input.all();\n\nitems.forEach((item) => {\n    const movie = item.json;\n    \n    // 1. Titolo\n    const displayTitle = movie.original_title ? movie.original_title : (movie.title || \"Titolo Sconosciuto\");\n    \n    // 1b. Genere: spazio + parentesi (testo normale)\n    const genreSuffix = movie.genres ? ` (${movie.genres})` : \"\";\n\n    // 2. Regista e Cast\n    const director = movie.director || \"\";\n    \n    let shortCast = \"\";\n    if (movie.cast) {\n        const castArray = Array.isArray(movie.cast) ? movie.cast : movie.cast.split(',');\n        shortCast = castArray.map(c => c.trim()).slice(0, 3).join(', ');\n    }\n\n    // Costruisce la riga credits aggiungendo '*' all'inizio e alla fine per il CORSIVO\n    let creditsLine = \"\";\n    let content = \"\";\n    \n    if (director && shortCast) {\n        content = `${director} ~ ${shortCast}`;\n    } else if (director) {\n        content = `${director}`;\n    } else if (shortCast) {\n        content = `${shortCast}`;\n    }\n\n    // Se c'è contenuto, aggiunge l'icona, va a capo e applica il corsivo (*)\n    if (content) {\n        creditsLine = `\\n*🎭 ${content}*`;\n    }\n\n    // 3. Cinema e Orari\n    let cinemasText = \"\";\n    if (movie.cinemas && Array.isArray(movie.cinemas)) {\n        movie.cinemas.forEach(cinema => {\n            const times = Array.isArray(cinema.times) ? cinema.times.join(\", \") : cinema.times;\n            cinemasText += `\\n📍 **${cinema.name}:** ${times}`;\n        });\n    }\n    \n    // Assemblaggio:\n    // ABBIAMO RIMOSSO \"###\" -> Altrimenti Discord fa tutta la riga in grassetto.\n    // Ora: Emoji + Titolo in grassetto + Genere normale\n    discordMessage += `🎞️ **${displayTitle}**${genreSuffix}`;\n    discordMessage += creditsLine; \n    discordMessage += cinemasText;\n    \n    discordMessage += `\\n\\n`;\n});\n\n// Pulizia finale\ndiscordMessage = discordMessage.trimEnd();\n\nreturn[{\n    json: {\n        discord_message: discordMessage\n    }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1072,
+        272
+      ],
+      "id": "dff10b98-2887-43bc-aa1b-ef868eaa62df",
+      "name": "Write the Discord message",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "method": "PATCH",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "content",
+              "value": "={{ $json.discord_message }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        1264,
+        272
+      ],
+      "id": "388071ba-665e-4bd7-9cd5-0a35d89816fc",
+      "name": "HTTP Request",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "fdc53907-fde2-46c9-a3e1-ea401f12d355",
+              "leftValue": "={{ $now.toFormat('cccc') }}",
+              "rightValue": "Monday",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            },
+            {
+              "id": "ab47cb10-c6dd-4065-831d-55231c37f2cf",
+              "leftValue": "={{ $now.hour }}",
+              "rightValue": 10,
+              "operator": {
+                "type": "number",
+                "operation": "lte"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        1264,
+        48
+      ],
+      "id": "05d99bdb-74ae-46c7-b233-a5f012a4186d",
+      "name": "Monday?"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Prendiamo tutti gli elementi in input e li trasformiamo in un unico array JSON\nconst allMovies = $input.all().map(item => item.json);\n\n// Restituiamo un singolo elemento che contiene l'array convertito in formato Testo (Stringa JSON)\nreturn [{\n    json: {\n        fileContent: JSON.stringify(allMovies, null, 2)\n    }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1072,
+        48
+      ],
+      "id": "34b2e15c-eba8-4300-996c-203c4f104358",
+      "name": "Merge in single JSON Array"
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "ttiaMa",
+          "mode": "list",
+          "cachedResultName": "ttiaMa"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "airing-in-bari",
+          "mode": "list",
+          "cachedResultName": "airing-in-bari"
+        },
+        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
+        "additionalParameters": {}
+      },
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        1488,
+        128
+      ],
+      "id": "386e9669-1e3b-4ac2-87b8-1fdd10029623",
+      "name": "Get todays JSON",
+      "webhookId": "28a533df-3ee0-4cd6-81d8-0671acb30521",
+      "credentials": {
+        "githubApi": {
+          "id": "6FZx2p3Ggmf0wCIZ",
+          "name": "GitHub account ttiaMa"
+        }
+      },
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "operation": "edit",
+        "owner": {
+          "__rl": true,
+          "value": "ttiaMa",
+          "mode": "list",
+          "cachedResultName": "ttiaMa"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "airing-in-bari",
+          "mode": "list",
+          "cachedResultName": "airing-in-bari"
+        },
+        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
+        "fileContent": "={{ $json.fileContent }}",
+        "commitMessage": "=update - {{ $now.setZone('Europe/Rome').toFormat('dd/MM/yyyy HH:mm') }}"
+      },
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        1728,
+        48
+      ],
+      "id": "3080662d-8c62-4296-beb1-017a0de2ef1a",
+      "name": "Update JSON",
+      "webhookId": "fdcbe286-322a-4d74-921d-f4854b370297",
+      "credentials": {
+        "githubApi": {
+          "id": "6FZx2p3Ggmf0wCIZ",
+          "name": "GitHub account ttiaMa"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "owner": {
+          "__rl": true,
+          "value": "ttiaMa",
+          "mode": "list",
+          "cachedResultName": "ttiaMa"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "airing-in-bari",
+          "mode": "list",
+          "cachedResultName": "airing-in-bari"
+        },
+        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
+        "fileContent": "={{ $json.fileContent }}",
+        "commitMessage": "=new file - {{ $now.setZone('Europe/Rome').toFormat('dd/MM/yyyy HH:mm') }}"
+      },
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        1728,
+        208
+      ],
+      "id": "4a546b72-6985-4180-a254-4b0971b1e96b",
+      "name": "Create JSON",
+      "webhookId": "d3d645d1-0d72-4ccd-97c2-7f4b5728c6b4",
+      "credentials": {
+        "githubApi": {
+          "id": "6FZx2p3Ggmf0wCIZ",
+          "name": "GitHub account ttiaMa"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "this block requires entering TMDB API key.",
+        "height": 224,
+        "width": 160
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        96,
+        -160
+      ],
+      "typeVersion": 1,
+      "id": "c693d577-e4b8-4851-b0da-6e0eb2304490",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "content": "logic to update a pinned message in a discord server (could be enabled using your webhook)",
+        "height": 240,
+        "width": 352,
+        "color": 5
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1040,
+        208
+      ],
+      "typeVersion": 1,
+      "id": "21c6e464-c7af-41c6-9f0a-6f03f17eb7b7",
+      "name": "Sticky Note1"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request to TMDB - Bari",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "HTTP Request to TMDB - Casamassima",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean Json": {
+      "main": [
+        [
+          {
+            "node": "Merge1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enrich with TMDB": {
+      "main": [
+        [
+          {
+            "node": "Minimize JSON",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Minimize JSON": {
+      "main": [
+        [
+          {
+            "node": "AI Filtering for Suggestions",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "AI Filtering for Suggestions",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Filtering for Suggestions",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Filtering for Suggestions": {
+      "main": [
+        [
+          {
+            "node": "Split Out",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Out": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Write the Discord message",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge in single JSON Array",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send a message": {
+      "main": [
+        []
+      ]
+    },
+    "HTTP Request to TMDB - Bari": {
+      "main": [
+        [
+          {
+            "node": "Clean Json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request to TMDB - Casamassima": {
+      "main": [
+        [
+          {
+            "node": "Clean Json1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean Json1": {
+      "main": [
+        [
+          {
+            "node": "Merge1",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Merge1": {
+      "main": [
+        [
+          {
+            "node": "Enrich with TMDB",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Write the Discord message": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Monday?": {
+      "main": [
+        [
+          {
+            "node": "Send a message",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Get todays JSON",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge in single JSON Array": {
+      "main": [
+        [
+          {
+            "node": "Monday?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get todays JSON": {
+      "main": [
+        [
+          {
+            "node": "Update JSON",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Create JSON",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false,
+    "timeSavedMode": "fixed",
+    "errorWorkflow": "h3U7GWjTJ8nYrFWa",
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "versionId": "be0f70ab-7875-4f68-83af-897c74a06925",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "e5a23cd17208a5a9ae9e369bb8a562ddadb385db4102697c22ade3e9c9eae57f"
+  },
+  "id": "iuYKjX0tqht2uqDK",
+  "tags": []
+}
