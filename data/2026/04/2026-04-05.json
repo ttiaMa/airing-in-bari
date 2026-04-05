@@ -1,268 +1,146 @@
 [
   {
-    "title": "UNA BATTAGLIA DOPO L'ALTRA",
-    "ai_reason": "A monumental event for any cinephile, marking the return of Paul Thomas Anderson, arguably the most important American auteur working today.",
-    "cast": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro, Regina Hall",
-    "details": "Anderson fa il suo 'grande romanzo americano'. Un film corrosivo sulle rivoluzioni familiari, politiche, sociali. Drammatico, Thriller - USA 2025. Durata 161 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:15",
-          "14:40"
-        ]
-      }
-    ],
-    "tmdb_id": 1054867,
-    "tmdb_title": "Una battaglia dopo l’altra",
-    "original_title": "One Battle After Another",
-    "overview": "Un gruppo di ex rivoluzionari si riunisce quando un loro perfido nemico riemerge dal loro passato, dopo sedici anni di silenzio. Il gruppo avrà il duro compito di salvare la figlia di uno di loro, prima che accada l'inevitabile.",
-    "release_date": "2025-09-23",
-    "vote_average": 7.408,
-    "poster_url": "https://image.tmdb.org/t/p/w500/3TjxuSfBSkhB8OvBov7Dk4L0Bcd.jpg",
-    "genres": "Thriller, Crime, Azione",
-    "director": "Paul Thomas Anderson"
-  },
-  {
-    "title": "NOUVELLE VAGUE",
-    "ai_reason": "Richard Linklater exploring the genesis of the French New Wave is a meta-cinematic dream, essential viewing for anyone devoted to film history.",
-    "cast": "Guillaume Marbeck, Zoey Deutch, Aubry Dullin, Alix Bénézech",
-    "details": "Il racconto appassionato e appassionante della realizzazione di Fino all'ultimo respiro, film-simbolo della nouvelle vague. Commedia, Biografico, Drammatico - Francia 2025. Durata 106 Minuti.",
+    "title": "LO STRANIERO",
+    "ai_reason": "A mandatory theatrical recovery of Luchino Visconti’s adaptation of Camus, epitomizing the height of Italian auteur mastery and existential cinema history.",
+    "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
+    "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
     "cinemas": [
       {
         "name": "Splendor",
         "times": [
-          "17:00",
-          "19:00",
+          "16:30",
+          "18:45",
           "21:00"
         ]
       }
     ],
-    "tmdb_id": 1254808,
-    "tmdb_title": "Nouvelle Vague",
-    "original_title": "Nouvelle Vague",
-    "overview": "1959. La nouvelle vague impazza a Parigi e i primi film girati dai suoi esponenti François Truffaut e Claude Chabrol raccolgono un plauso unanime. Manca solo a Jean-Luc Godard di passare dietro la macchina da presa, ma si convince a farlo e trova l'aiuto del produttore Beauregarde. Ne nascerà \"Fino all'ultimo respiro\", film-simbolo della corrente, destinato a cambiare per sempre la storia del cinema.",
-    "release_date": "2025-10-08",
-    "vote_average": 7.349,
-    "poster_url": "https://image.tmdb.org/t/p/w500/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
-    "genres": "Commedia, Dramma, Storia",
-    "director": "Richard Linklater"
-  },
-  {
-    "title": "HAMNET - NEL NOME DEL FIGLIO",
-    "ai_reason": "A prestige literary adaptation directed by Oscar-winner Chloé Zhao, promising an ethereal and profound exploration of Shakespearean history.",
-    "cast": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn",
-    "details": "Un film di fantasmi, di morti e rinascite. L'energia potentemente femminile della regista sa affrontare un dolore lancinante con coraggio ed empatia. Drammatico, USA 2025. Durata 125 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "18:30"
-        ]
-      },
-      {
-        "name": "Galleria",
-        "times": [
-          "15:45",
-          "18:00"
-        ]
-      }
-    ],
-    "tmdb_id": 858024,
-    "tmdb_title": "Hamnet - Nel nome del figlio",
-    "original_title": "Hamnet",
-    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
-    "release_date": "2025-11-26",
-    "vote_average": 7.731,
-    "poster_url": "https://image.tmdb.org/t/p/w500/pq4ZOXXRViRs7lCk6hbPpwapDBO.jpg",
-    "genres": "Dramma, Romance, Storia",
-    "director": "Chloé Zhao"
-  },
-  {
-    "title": "IL MAGO DEL CREMLINO - LE ORIGINI DI PUTIN",
-    "ai_reason": "Master auteur Olivier Assayas delivers a high-brow psychodrama that dissects power and truth with intellectual rigor.",
-    "cast": "Paul Dano, Alicia Vikander, Tom Sturridge, Jeffrey Wright",
-    "details": "Nonostante ambizione e cast eccellente, il film di Assayas resta intrappolato in uno sguardo datato e poco incisivo sul potere russo. Drammatico, Thriller - Francia 2025. Durata 159 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "15:35",
-          "21:05"
-        ]
-      }
-    ],
-    "tmdb_id": 1291659,
-    "tmdb_title": "Il mago del Cremlino - Le origini di Putin",
-    "original_title": "Le mage du Kremlin",
-    "overview": "Russia, primi anni Novanta. L’URSS è crollata. Nel caos di un Paese che cerca di ricostruirsi, Vadim Baranov, un giovane brillante, sta per trovare la propria strada. Prima artista d’avanguardia, poi produttore di reality show, diventa spin doctor di un ex agente del KGB in ascesa: Vladimir Putin. Immerso nel cuore del sistema, Baranov plasma la nuova Russia, confondendo i confini tra verità e menzogna, credenze e manipolazione. Ma c’è una figura che sfugge al suo controllo: Ksenia, donna libera e inafferrabile, che incarna la possibilità di fuga, lontano da questo gioco pericoloso. Quindici anni dopo, ritiratosi nel silenzio e avvolto nel mistero, Baranov accetta di parlare, rivelando i segreti occulti del regime che ha contribuito a costruire.",
-    "release_date": "2026-01-21",
-    "vote_average": 6.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/6YilH8o9Y2ZJNdu2Ak5m6you8zL.jpg",
+    "tmdb_id": 31332,
+    "tmdb_title": "Lo straniero",
+    "original_title": "Lo straniero",
+    "overview": "Dal romanzo (1942) di Albert Camus: nel 1935 ad Algeri l'impiegato Mersault uccide un arabo, accanendosi a revolverate sul cadavere. Condannato a morte, non si difende durante il processo, estraneo al proprio caso.",
+    "release_date": "1967-10-14",
+    "vote_average": 6.764,
+    "poster_url": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg",
     "genres": "Dramma",
-    "director": "Olivier Assayas"
+    "director": "Luchino Visconti"
   },
   {
-    "title": "LA SPOSA!",
-    "ai_reason": "An elevated genre piece from Maggie Gyllenhaal, reimagining a classic myth with a stylized, punk-inspired aesthetic.",
-    "cast": "Jessie Buckley, Christian Bale, Jake Gyllenhaal, Peter Sarsgaard",
-    "details": "Un film ipertrofico, esagerato nei suoi effetti, che racconta la volontà di ogni donna di appropriarsi della propria storia. Drammatico, Horror - USA 2026. Durata 126 Minuti.",
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "Director Kristoffer Borgli brings his sharp, surrealist A24 sensibilities to a star-studded exploration of relational psychodrama and social discomfort.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:25",
-          "21:50",
-          "11:00"
+          "17:45",
+          "18:50",
+          "21:30",
+          "22:10",
+          "23:50"
         ]
       },
       {
         "name": "Uci Cinemas Showville",
         "times": [
-          "11:00",
-          "13:40",
-          "19:00",
-          "21:40"
-        ]
-      }
-    ],
-    "tmdb_id": 1159831,
-    "tmdb_title": "La Sposa!",
-    "original_title": "The Bride!",
-    "overview": "Nella Chicago degli anni '30, un solitario Mostro di Frankenstein (Christian Bale) viaggia in cerca dell'aiuto della pionieristica scienziata Dr. Euphronious (Annette Bening), chiedendole di creare per lui una compagna. I due riportano in vita una giovane donna assassinata, e così nasce La Sposa (Jessie Buckley). Ma ciò che segue va ben oltre ogni aspettativa: omicidi! Possessioni! Un movimento culturale selvaggio e radicale! E due amanti fuorilegge uniti in una storia d’amore esplosiva e incontrollabile!",
-    "release_date": "2026-03-04",
-    "vote_average": 6.6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/6CPov1YcWUByY32mASEiJaVatk0.jpg",
-    "genres": "Fantascienza, Horror, Commedia",
-    "director": "Maggie Gyllenhaal"
-  },
-  {
-    "title": "CIME TEMPESTOSE",
-    "ai_reason": "Emerald Fennell brings her sharp, provocative vision to the Yorkshire moors in this subversive and visually striking adaptation of the Gothic classic.",
-    "cast": "Margot Robbie, Jacob Elordi, Hong Chau, Shazad Latif",
-    "details": "Un film che entra nell'universo fantasy e social del 2026, senza sottolineare le sfumature psicosociali del romanzo di Brontë. Drammatico, USA, Gran Bretagna 2026. Durata 136 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
+          "10:40",
           "13:30",
-          "22:05"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "14:00",
-          "17:00",
-          "21:01",
-          "21:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1316092,
-    "tmdb_title": "“Cime Tempestose”",
-    "original_title": "\"Wuthering Heights\"",
-    "overview": "Una storia d'amore appassionata e tumultuosa ambientata sullo sfondo delle brughiere dello Yorkshire, che esplora la relazione intensa e distruttiva tra Heathcliff e Catherine Earnshaw.",
-    "release_date": "2026-02-11",
-    "vote_average": 6.4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/bWniBa1w4Cb327bNSMJtqZXCp0H.jpg",
-    "genres": "Romance, Dramma",
-    "director": "Emerald Fennell"
-  },
-  {
-    "title": "I PECCATORI",
-    "ai_reason": "A major cinematic event from Ryan Coogler, blending high-stakes genre tension with sophisticated narrative depth.",
-    "cast": "Michael B. Jordan, Hailee Steinfeld, Miles Caton, Jack O'Connell (II)",
-    "details": "Ryan Coogler firma insieme al musicista Ludwig Göransson il suo film più originale. Horror, Azione, Drammatico - USA 2025. Durata 137 Minuti. Consigli per la visione: Ragazzi +13",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:25"
-        ]
-      }
-    ],
-    "tmdb_id": 1233413,
-    "tmdb_title": "I peccatori",
-    "original_title": "Sinners",
-    "overview": "Tornati nella regione natia con un discreto bottino e con abbondanti alcolici dalla malavita di Chicago, i gemelli Smoke e Stack trasformano una baracca in un locale di ballo e gioco clandestino per la popolazione nera. La festa notturna innesca una gioia contagiosa, ma presto si avvicinano tre bianchi che chiedono insistentemente di poter entrare. Sarà presto chiara la loro intenzione.",
-    "release_date": "2025-04-16",
-    "vote_average": 7.487,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg",
-    "genres": "Horror, Azione, Thriller",
-    "director": "Ryan Coogler"
-  },
-  {
-    "title": "LA PICCOLA AMELIE",
-    "ai_reason": "A delicate piece of prestige animation that avoids commercial tropes to explore childhood through a sophisticated, artistic lens.",
-    "cast": "",
-    "details": "Forte e coloratissimo, un adattamento animato della biografia creativa di Amélie Nothomb. Animazione, Francia 2025. Durata 75 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:00",
-          "13:10"
-        ]
-      }
-    ],
-    "tmdb_id": 682012,
-    "tmdb_title": "La piccola Amelie",
-    "original_title": "Amélie et la métaphysique des tubes",
-    "overview": "Amélie è una bambina belga nata in Giappone. Grazie al suo amico Nishio-san, il mondo è pieno di avventure e scoperte. Ma nel giorno del suo terzo compleanno, un evento cambia il corso della sua vita. Perché a quell'età per Amélie tutto è in gioco: la felicità ma anche la tragedia.",
-    "release_date": "2025-06-25",
-    "vote_average": 7.991,
-    "poster_url": "https://image.tmdb.org/t/p/w500/in0kk41QEtO8ITaEzkpjX2LQBuJ.jpg",
-    "genres": "Animazione, Dramma, Famiglia",
-    "director": "Maïlys Vallade, Liane-cho Han"
-  },
-  {
-    "title": "RENTAL FAMILY - NELLE VITE DEGLI ALTRI",
-    "ai_reason": "A refined arthouse drama from director Hikari, offering a poignant look at identity and performance in modern Tokyo.",
-    "cast": "Brendan Fraser, Paolo Andrea Di Pietro, Takehiro Hira, Shinji Ozeki (II)",
-    "details": "Una commedia universale che riesce nell'impresa di aprire i cuori e contagiare speranza in chi guarda. Commedia drammatica, Giappone, USA 2025. Durata 103 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
           "16:40",
-          "18:05"
+          "18:50",
+          "21:20",
+          "22:10",
+          "10:20"
         ]
       }
     ],
-    "tmdb_id": 1208348,
-    "tmdb_title": "Rental Family - Nelle vite degli altri",
-    "original_title": "Rental Family",
-    "overview": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
-    "release_date": "2025-11-20",
-    "vote_average": 7.8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Hikari"
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 6.755,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia",
+    "director": "Kristoffer Borgli"
   },
   {
-    "title": "EPIC - ELVIS PRESLEY IN CONCERT",
-    "ai_reason": "A visionary theatrical event from Baz Luhrmann that transcends the typical concert film, offering a maximalist cinematic experience.",
-    "cast": "Elvis Presley",
-    "details": "Poema musicale e ritratto impressionista che porta a lucentezza le sessioni di prova di Elvis. Documentario, USA, Australia 2025. Durata 96 Minuti.",
+    "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
+    "ai_reason": "An ambitious sci-fi event combining the vision of Lord & Miller with a prestige cast including Sandra Hüller, promising a cerebral and visually grand cinematic experience.",
+    "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
+    "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
         "times": [
-          "13:30",
-          "19:20",
-          "20:40"
+          "15:40",
+          "22:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "13:00",
+          "16:20",
+          "22:20",
+          "23:10"
         ]
       }
     ],
-    "tmdb_id": 1445363,
-    "tmdb_title": "EPiC: Elvis Presley in Concert",
-    "original_title": "EPiC: Elvis Presley in Concert",
-    "overview": "Molto più di un film concerto. Questo è EPiC: Elvis Presley in Concert.\r Un’esperienza cinematografica unica dal candidato al Premio Oscar® Baz Luhrmann, dal 5 marzo al cinema.  Elvis canta e racconta la sua storia come mai fatto prima in una nuova esperienza cinematografica dal visionario regista Baz Luhrmann.",
-    "release_date": "2026-02-18",
-    "vote_average": 8.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-    "genres": "Musica, Documentario",
-    "director": "Baz Luhrmann"
+    "tmdb_id": 687163,
+    "tmdb_title": "L'ultima missione: Project Hail Mary",
+    "original_title": "Project Hail Mary",
+    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+    "release_date": "2026-03-15",
+    "vote_average": 8.195,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+    "genres": "Fantascienza, Avventura",
+    "director": "Phil Lord, Christopher Miller"
+  },
+  {
+    "title": "MIO FRATELLO È UN VICHINGO - THE LAST VIKING",
+    "ai_reason": "A masterclass in dark, existential Nordic humor from the visionary Anders Thomas Jensen, anchored by the incomparable Mads Mikkelsen.",
+    "cast": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling",
+    "details": "Jensen prosegue a raccontare il dramma con feroce umorismo, incrementando qualità e complessità della narrazione. Commedia, Drammatico - Danimarca, Svezia 2025. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1295400,
+    "tmdb_title": "Mio fratello è un vichingo",
+    "original_title": "Den sidste viking",
+    "overview": "Anker viene rilasciato dal carcere dopo una condanna a quindici anni per rapina. A seppellire il bottino era stato Manfred, suo fratello. Solo lui sa dove si trova. Purtroppo Manfred ha sviluppato un disturbo mentale che gli ha fatto dimenticare tutto. I fratelli intraprendono un inatteso viaggio alla scoperta del denaro – e di sé stessi. Den sidste viking è una storia divertente, affascinante e provocatoria sull’identità.",
+    "release_date": "2025-10-09",
+    "vote_average": 7.217,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
+    "genres": "Commedia, Crime, Dramma",
+    "director": "Anders Thomas Jensen"
+  },
+  {
+    "title": "LOS DOMINGOS",
+    "ai_reason": "A sophisticated and intimate Spanish drama that cements Alauda Ruiz de Azúa as a significant and refined voice in contemporary European arthouse.",
+    "cast": "Blanca Soroa, Patricia López Arnaiz, Miguel Garcés, Juan Minujín",
+    "details": "Un dramma insieme familiare ed esistenziale che si schiera contro rigidità ed egoismi, con una regia raffinata e attori convincenti. Drammatico, Spagna 2025. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:15",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1443576,
+    "tmdb_title": "Los domingos",
+    "original_title": "Los domingos",
+    "overview": "",
+    "release_date": "2025-10-17",
+    "vote_average": 7.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
+    "genres": "Dramma",
+    "director": "Alauda Ruiz de Azúa"
   }
 ]
