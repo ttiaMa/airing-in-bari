@@ -258,7 +258,7 @@
         const letterboxdUrl = `https://letterboxd.com/search/films/${encodeURIComponent(searchTitle)}/`;
         const imdbUrl = `https://www.imdb.com/find/?q=${encodeURIComponent(searchTitle)}`;
         const genresText = Array.isArray(movie.genres) ? movie.genres.join(", ") : (movie.genres || 'N/D');
-        const descText = movie.overview || movie.details || 'Nessuna descrizione disponibile.';
+        const descText = movie.details || movie.overview || 'Nessuna descrizione disponibile.';
 
         // Generazione HTML interna per i Cinema restanti per questo Film
         let cinemasHtml = '';
