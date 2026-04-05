@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="it">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>I Film in Programmazione a Bari</title>
   <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
+
 <body>
   <div class="container">
     <h2 id="page-title">🎬 I Film in Programmazione a Bari</h2>
@@ -16,18 +19,23 @@
     <!-- Filters Section -->
     <div class="filters-container" id="filters-container" style="display: none;">
       <div class="filter-group">
-        <label for="cinema-filter">Filtra per Cinema</label>
-        <select id="cinema-filter">
-          <option value="all">Tutti i cinema</option>
-          <!-- Options verranno iniettate via JS -->
-        </select>
+        <label>🎞️ Cinema</label>
+        <div class="custom-dropdown" id="cinema-dropdown">
+          <div class="dropdown-header" id="cinema-dropdown-header">Tutti i cinema</div>
+          <div class="dropdown-options" id="cinema-dropdown-options">
+            <!-- Checkbox "Tutti" e singoli cinema verranno iniettati via JS -->
+          </div>
+        </div>
       </div>
-      
+
       <div class="filter-group">
-        <label for="time-filter">Orario minimo</label>
-        <select id="time-filter">
-          <!-- opzioni generate via JS in formato 24h -->
-        </select>
+        <label>🕐 Orario proiezione</label>
+        <div class="custom-dropdown" id="time-dropdown">
+          <div class="dropdown-header" id="time-dropdown-header">Qualsiasi ora</div>
+          <div class="dropdown-options" id="time-dropdown-options">
+            <!-- Opzioni orario generate via JS -->
+          </div>
+        </div>
       </div>
     </div>
 
@@ -40,7 +48,9 @@
     <div class="footer">
       <p style="margin: 0 0 15px 0;">
         <a href="https://github.com/ttiaMa/airing-in-bari" target="_blank">
-          <img src="https://img.shields.io/github/stars/ttiaMa/airing-in-bari?style=for-the-badge&logo=github&label=GitHub&color=181717&v=2" alt="GitHub Stars">
+          <img
+            src="https://img.shields.io/github/stars/ttiaMa/airing-in-bari?style=for-the-badge&logo=github&label=GitHub&color=181717&v=2"
+            alt="GitHub Stars">
         </a>
       </p>
       <p style="margin: 0; font-family: monospace; color: #7f8c8d;">v2.1</p>
@@ -49,10 +59,10 @@
 
   <script>
     // --- 1. CONFIGURAZIONE E VARIABILI GLOBALI ---
-    
+
     // Manteniamo una copia globale dei film scaricati 
     // per poter ri-renderizzare facilmente quando l'utente applica i filtri.
-    let globalMoviesData = []; 
+    let globalMoviesData = [];
 
     // URL Personalizzati dei cinema
     const cinemaLinks = {
@@ -78,13 +88,13 @@
     function isTimeGreaterOrEqual(timeA, timeB) {
       // Se non abbiamo un filtro tempo, va sempre bene
       if (!timeB) return true;
-      
+
       const [aHours, aMinutes] = timeA.split(':').map(Number);
       const [bHours, bMinutes] = timeB.split(':').map(Number);
-      
+
       if (aHours > bHours) return true;
       if (aHours === bHours && aMinutes >= bMinutes) return true;
-      
+
       return false;
     }
 
@@ -133,7 +143,7 @@
       globalMoviesData = data;
       populateCinemaFilter(data);
       populateTimeFilter();
-      
+
       // Rendiamo visibili i filtri, in quanto abbiamo i dati
       document.getElementById('filters-container').style.display = 'flex';
 
@@ -142,56 +152,140 @@
     }
 
     // --- 4. LOGICA DEI FILTRI ---
-    
-    // Trova tutti i nomi dei cinema unici presenti nei film del giorno
+
+    // Gestione apertura/chiusura dropdown (generico per tutti)
+    document.querySelectorAll('.dropdown-header').forEach(header => {
+      header.addEventListener('click', (e) => {
+        // Chiudi gli altri se aperti
+        document.querySelectorAll('.custom-dropdown.open').forEach(dd => {
+          if (dd !== header.parentElement) dd.classList.remove('open');
+        });
+        header.parentElement.classList.toggle('open');
+        e.stopPropagation();
+      });
+    });
+
+    // Chiudi tutti i dropdown cliccando fuori
+    document.addEventListener('click', () => {
+      document.querySelectorAll('.custom-dropdown.open').forEach(dd => dd.classList.remove('open'));
+    });
+
+    // Trova tutti i nomi dei cinema unici presenti nei film del giorno e crea i toggle
     function populateCinemaFilter(movies) {
-      const cinemaSelect = document.getElementById('cinema-filter');
+      const optionsContainer = document.getElementById('cinema-dropdown-options');
       const uniqueCinemas = new Set();
-      
-      // Estraiamo tutti i cinema da tutti i film
+
       movies.forEach(movie => {
         if (movie.cinemas && Array.isArray(movie.cinemas)) {
           movie.cinemas.forEach(cinema => {
-            if (cinema.name) {
-              uniqueCinemas.add(cinema.name.trim());
-            }
+            if (cinema.name) uniqueCinemas.add(cinema.name.trim());
           });
         }
       });
-      
-      // Li stampiamo nel menu a tendina
+
       const sortedCinemas = Array.from(uniqueCinemas).sort();
-      sortedCinemas.forEach(cinemaName => {
-        const option = document.createElement('option');
-        option.value = cinemaName;
-        option.textContent = cinemaName;
-        cinemaSelect.appendChild(option);
+
+      // 1. "Tutti"
+      optionsContainer.appendChild(createDropdownItem('all', 'Tutti', true));
+
+      // 2. Singoli cinema
+      sortedCinemas.forEach(name => {
+        optionsContainer.appendChild(createDropdownItem(name, name));
       });
-      
-      // Listener sul cinema — il tempo lo gestiamo nella propria funzione
-      cinemaSelect.addEventListener('change', renderMovies);
+
+      // Gestione logica selezione
+      const checkboxes = optionsContainer.querySelectorAll('input');
+      checkboxes.forEach(cb => {
+        cb.addEventListener('change', (e) => {
+          if (e.target.value === 'all' && e.target.checked) {
+            checkboxes.forEach(other => { if (other.value !== 'all') other.checked = false; });
+          } else if (e.target.checked) {
+            optionsContainer.querySelector('input[value="all"]').checked = false;
+          }
+
+          const anyChecked = Array.from(checkboxes).some(c => c.checked);
+          if (!anyChecked) optionsContainer.querySelector('input[value="all"]').checked = true;
+
+          updateDropdownHeaderText();
+          renderMovies();
+        });
+      });
+
+      updateDropdownHeaderText();
     }
 
-    // Popola il menu orario con ore in formato 24h (00:00 - 23:00)
-    function populateTimeFilter() {
-      const timeSelect = document.getElementById('time-filter');
+    // Aggiorna il testo dell'header in base alle selezioni
+    function updateDropdownHeaderText() {
+      const header = document.getElementById('cinema-dropdown-header');
+      const checked = Array.from(document.querySelectorAll('#cinema-dropdown-options input:checked'));
+      const values = checked.map(c => c.value);
 
-      // Prima opzione: nessun filtro
-      const defaultOpt = document.createElement('option');
-      defaultOpt.value = '';
-      defaultOpt.textContent = 'Qualsiasi ora';
-      timeSelect.appendChild(defaultOpt);
+      if (values.includes('all')) {
+        header.textContent = 'Tutti i cinema';
+      } else if (values.length === 1) {
+        header.textContent = values[0];
+      } else {
+        header.textContent = `${values.length} cinema scelti`;
+      }
+    }
+
+    // Helper per creare un elemento della lista dropdown
+    function createDropdownItem(value, label, checked = false) {
+      const div = document.createElement('div');
+      div.className = 'dropdown-item';
+      div.innerHTML = `
+        <input type="checkbox" value="${value}" ${checked ? 'checked' : ''}>
+        <label>${label}</label>
+      `;
+      // Impedisci la chiusura del dropdown cliccando sull'item
+      div.addEventListener('click', (e) => {
+        if (e.target.tagName !== 'INPUT') {
+          const cb = div.querySelector('input');
+          cb.checked = !cb.checked;
+          cb.dispatchEvent(new Event('change'));
+        }
+        e.stopPropagation();
+      });
+      return div;
+    }
+
+    // Popola il menu orario in formato 24h (17:00 - 23:00) usando dropdown custom
+    function populateTimeFilter() {
+      const optionsContainer = document.getElementById('time-dropdown-options');
+
+      // "Qualsiasi ora" come default
+      const allItem = createTimeItem('', 'Qualsiasi ora', true);
+      optionsContainer.appendChild(allItem);
 
       // Generiamo le ore dalla sera (17 alle 23)
       for (let h = 17; h <= 23; h++) {
         const label = String(h).padStart(2, '0') + ':00';
-        const opt = document.createElement('option');
-        opt.value = label;
-        opt.textContent = label;
-        timeSelect.appendChild(opt);
+        optionsContainer.appendChild(createTimeItem(label, label));
       }
+    }
 
-      timeSelect.addEventListener('change', renderMovies);
+    // Helper per creare un item del dropdown orario (single-select)
+    function createTimeItem(value, label, isDefault = false) {
+      const div = document.createElement('div');
+      div.className = 'dropdown-item' + (isDefault ? ' selected' : '');
+      div.dataset.value = value;
+      div.textContent = label;
+      div.addEventListener('click', (e) => {
+        // Single-select: deseleziona tutti gli altri
+        const siblings = div.parentElement.querySelectorAll('.dropdown-item');
+        siblings.forEach(s => s.classList.remove('selected'));
+        div.classList.add('selected');
+
+        // Aggiorna header
+        document.getElementById('time-dropdown-header').textContent = label;
+
+        // Chiudi dropdown
+        document.getElementById('time-dropdown').classList.remove('open');
+
+        renderMovies();
+        e.stopPropagation();
+      });
+      return div;
     }
 
     // --- 5. RENDERIZZAZIONE DELL'UI ---
@@ -199,10 +293,14 @@
     // Disegna la lista dei film basandosi sui dati globali e sui filtri attuali
     function renderMovies() {
       const container = document.getElementById('movies-container');
-      
-      // Leggiamo i valori correnti dai filtri inseriti dall'utente
-      const selectedCinemaValue = document.getElementById('cinema-filter').value;
-      const selectedTimeValue = document.getElementById('time-filter').value; // Es: "20:00"
+
+      // Leggiamo i cinema selezionati
+      const cinemaCheckboxes = document.querySelectorAll('#cinema-dropdown-options input:checked');
+      const selectedCinemas = Array.from(cinemaCheckboxes).map(cb => cb.value);
+      const isAllSelected = selectedCinemas.includes('all');
+
+      const selectedTimeItem = document.querySelector('#time-dropdown-options .dropdown-item.selected');
+      const selectedTimeValue = selectedTimeItem ? selectedTimeItem.dataset.value : '';
 
       let htmlContent = '';
       let moviesRendered = 0;
@@ -214,21 +312,21 @@
         if (movie.cinemas && Array.isArray(movie.cinemas)) {
           movie.cinemas.forEach(cinema => {
             const cinemaName = cinema.name ? cinema.name.trim() : "";
-            
+
             // 1) Filtro Cinema (saltiamo questo cinema se l'utente ne ha selezionato un altro)
-            if (selectedCinemaValue !== 'all' && cinemaName !== selectedCinemaValue) {
-              return; 
+            if (!isAllSelected && !selectedCinemas.includes(cinemaName)) {
+              return;
             }
 
             // 2) Filtro Orario (prendiamo solo gli orari >= a quello selezionato)
             let validTimesForCinema = [];
-            
+
             // converti cinema.times (potrebbe essere stringa) in un array per sicurezza
             let timesArray = Array.isArray(cinema.times) ? cinema.times : cinema.times.split(",").map(t => t.trim());
-            
+
             timesArray.forEach(timeString => {
               // Pulisce eventuale sporcizia dalla stringa (es: spazi superflui)
-              const cleanTime = timeString.replace(/[^0-9:]/g, ''); 
+              const cleanTime = timeString.replace(/[^0-9:]/g, '');
               if (isTimeGreaterOrEqual(cleanTime, selectedTimeValue)) {
                 validTimesForCinema.push(timeString);
               }
@@ -265,9 +363,9 @@
         validCinemas.forEach(cinema => {
           const timesString = cinema.times.join(", ");
           const cinemaUrl = cinemaLinks[cinema.name] || "";
-          
-          const cinemaDisplayName = cinemaUrl 
-            ? `<a href="${cinemaUrl}" target="_blank" class="cinema-link">${cinema.name}</a>` 
+
+          const cinemaDisplayName = cinemaUrl
+            ? `<a href="${cinemaUrl}" target="_blank" class="cinema-link">${cinema.name}</a>`
             : `<strong>${cinema.name}</strong>`;
 
           cinemasHtml += `<span class="cinema-item">• ${cinemaDisplayName}: ${timesString}</span>`;
@@ -315,9 +413,10 @@
     }
 
     // --- AVVIA L'APP ALLA PARTENZA ---
-    
+
     // Non appena il browser ha caricato tutto il DOM (HTML), eseguiamo la funzione principale
     document.addEventListener('DOMContentLoaded', initApp);
   </script>
 </body>
+
 </html>
