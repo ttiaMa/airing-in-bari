@@ -1,7 +1,7 @@
 [
   {
     "title": "LO STRANIERO",
-    "ai_reason": "A monumental restoration of Luchino Visconti’s existentialist masterpiece; this Camus adaptation is an essential piece of Italian cinema history.",
+    "ai_reason": "A definitive restoration of Luchino Visconti’s adaptation of Camus; an essential milestone of Italian auteur cinema and existentialist storytelling.",
     "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
     "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
     "cinemas": [
@@ -26,7 +26,7 @@
   },
   {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Kristoffer Borgli continues his streak of psychological surrealism with this high-pedigree A24-style production, featuring a powerhouse prestige cast.",
+    "ai_reason": "Directed by Kristoffer Borgli (Dream Scenario), this A24-style surrealist drama represents the pinnacle of contemporary elevated genre filmmaking.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -64,8 +64,31 @@
     "director": "Kristoffer Borgli"
   },
   {
+    "title": "MIO FRATELLO È UN VICHINGO - THE LAST VIKING",
+    "ai_reason": "Anders Thomas Jensen is a master of the grotesque and the absurd; a high-brow Danish arthouse offering featuring the incomparable Mads Mikkelsen.",
+    "cast": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling",
+    "details": "Jensen prosegue a raccontare il dramma con feroce umorismo, incrementando qualità e complessità della narrazione. Commedia, Drammatico - Danimarca, Svezia 2025. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1295400,
+    "tmdb_title": "Mio fratello è un vichingo",
+    "original_title": "Den sidste viking",
+    "overview": "Anker viene rilasciato dal carcere dopo una condanna a quindici anni per rapina. A seppellire il bottino era stato Manfred, suo fratello. Solo lui sa dove si trova. Purtroppo Manfred ha sviluppato un disturbo mentale che gli ha fatto dimenticare tutto. I fratelli intraprendono un inatteso viaggio alla scoperta del denaro – e di sé stessi. Den sidste viking è una storia divertente, affascinante e provocatoria sull’identità.",
+    "release_date": "2025-10-09",
+    "vote_average": 7.215,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
+    "genres": "Commedia, Crime, Dramma",
+    "director": "Anders Thomas Jensen"
+  },
+  {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A major cinematic event of significant artistic weight, pairing the visionary direction of Lord & Miller with the formidable talent of Ryan Gosling and Sandra Hüller.",
+    "ai_reason": "A major cinematic event in the vein of high-concept science fiction, promising the intellectual and visual scale of a Villeneuve production.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
@@ -95,28 +118,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
     "genres": "Fantascienza, Avventura",
     "director": "Phil Lord, Christopher Miller"
-  },
-  {
-    "title": "MIO FRATELLO È UN VICHINGO - THE LAST VIKING",
-    "ai_reason": "A triumph of dark, absurdist Danish cinema from cult auteur Anders Thomas Jensen, anchored by the peerless Mads Mikkelsen.",
-    "cast": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling",
-    "details": "Jensen prosegue a raccontare il dramma con feroce umorismo, incrementando qualità e complessità della narrazione. Commedia, Drammatico - Danimarca, Svezia 2025. Durata 116 Minuti.",
-    "cinemas": [
-      {
-        "name": "Abc",
-        "times": [
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1295400,
-    "tmdb_title": "Mio fratello è un vichingo",
-    "original_title": "Den sidste viking",
-    "overview": "Anker viene rilasciato dal carcere dopo una condanna a quindici anni per rapina. A seppellire il bottino era stato Manfred, suo fratello. Solo lui sa dove si trova. Purtroppo Manfred ha sviluppato un disturbo mentale che gli ha fatto dimenticare tutto. I fratelli intraprendono un inatteso viaggio alla scoperta del denaro – e di sé stessi. Den sidste viking è una storia divertente, affascinante e provocatoria sull’identità.",
-    "release_date": "2025-10-09",
-    "vote_average": 7.215,
-    "poster_url": "https://image.tmdb.org/t/p/w500/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
-    "genres": "Commedia, Crime, Dramma",
-    "director": "Anders Thomas Jensen"
   }
 ]
