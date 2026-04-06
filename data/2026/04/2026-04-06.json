@@ -1,0 +1,192 @@
+[
+  {
+    "title": "LO STRANIERO",
+    "ai_reason": "A sophisticated literary adaptation where François Ozon bridges the gap between classic existentialism and modern auteur cinema.",
+    "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
+    "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  },
+  {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "A high-profile surrealist experiment that subverts social conventions, perfectly aligning with the 'elevated genre' movement.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:10",
+          "18:50",
+          "21:30",
+          "22:05",
+          "23:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:40",
+          "13:30",
+          "16:40",
+          "18:50",
+          "21:20",
+          "22:10",
+          "10:20"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  },
+  {
+    "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
+    "ai_reason": "A grand-scale sci-fi event that combines high production value with an ambitious, hope-driven narrative.",
+    "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
+    "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "15:20",
+          "20:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "13:00",
+          "16:20",
+          "22:20",
+          "23:10"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  },
+  {
+    "title": "MIO FRATELLO È UN VICHINGO - THE LAST VIKING",
+    "ai_reason": "A masterclass in the Scandinavian grotesque, offering a complex and high-quality narrative for the discerning viewer.",
+    "cast": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling",
+    "details": "Jensen prosegue a raccontare il dramma con feroce umorismo, incrementando qualità e complessità della narrazione. Commedia, Drammatico - Danimarca, Svezia 2025. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  },
+  {
+    "title": "GLI OCCHI DEGLI ALTRI",
+    "ai_reason": "A dark and intense Italian production that defines a specific directorial gaze, rejecting commercial tropes for emotional depth.",
+    "cast": "Filippo Timi, Jasmine Trinca, Matteo Olivetti, Anna Ferzetti",
+    "details": "Una morbosa ballata della morte di notevole intensità emotiva e passionale. De Sica definisce l'identità del suo sguardo. Drammatico, Italia, Belgio 2025. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  },
+  {
+    "title": "È L'ULTIMA BATTUTA?",
+    "ai_reason": "A prestige directorial effort that emphasizes performance and cinematic craftsmanship over generic comedic beats.",
+    "cast": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper",
+    "details": "Il terzo film di Bradley Cooper è bellissimo e travolgente. Strepitosi Will Arnett e Laura Dern. Commedia, USA 2025. Durata 121 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:00",
+          "14:20",
+          "19:50"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  },
+  {
+    "title": "LOS DOMINGOS",
+    "ai_reason": "A refined European drama that tackles existential and familial rigidity through a sophisticated lens.",
+    "cast": "Blanca Soroa, Patricia López Arnaiz, Miguel Garcés, Juan Minujín",
+    "details": "Un dramma insieme familiare ed esistenziale che si schiera contro rigidità ed egoismi, con una regia raffinata e attori convincenti. Drammatico, Spagna 2025. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:15",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  },
+  {
+    "title": "JUMPERS - UN SALTO TRA GLI ANIMALI",
+    "ai_reason": "Prestige animation that honors the artistic tradition of tackling courageous and delicate themes.",
+    "cast": "Tecla Insolia, Giorgio Panariello, Francesco Prando, Rossella Izzo",
+    "details": "Un cartone animato che continua la tradizione Disney Pixar di affrontare argomenti delicati con un piglio coraggioso. Animazione, Avventura, Commedia - USA 2026. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:50"
+        ]
+      },
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "14:00",
+          "15:45"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "error": "Request failed with status code 401"
+  }
+]
