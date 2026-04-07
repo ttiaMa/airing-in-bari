@@ -10,4 +10,4 @@ Source: mymovies.it enriched with TMDB metadata
 you can also find the n8n flow i'm using and make your own changes
 
 preview here:
-<img width="1737" height="434" alt="image" src="https://github.com/user-attachments/assets/a833517c-6a9a-4426-bb37-c0ffc1a85fe6" />
+<img width="2058" height="570" alt="firefox_vPXYgHhdMj" src="https://github.com/user-attachments/assets/09e5b3c4-d4aa-4daf-b879-d4a34db25c18" />
