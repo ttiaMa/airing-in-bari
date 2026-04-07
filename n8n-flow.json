@@ -1,5 +1,5 @@
 {
-  "name": "scrape cinema movies in Bari - airing.mathya.it (for sharing)",
+  "name": "scrape cinema movies in Bari - airing.mathya.it (github)",
   "nodes": [
     {
       "parameters": {
@@ -20,7 +20,7 @@
         -672,
         -96
       ],
-      "id": "8b812bcc-0ff4-4a7e-85f6-9e8fe2fc7726",
+      "id": "896fe092-07a8-4b94-9d32-5b75bb66e4ef",
       "name": "Schedule Trigger"
     },
     {
@@ -33,7 +33,7 @@
         -272,
         -176
       ],
-      "id": "d55ef8eb-d4e2-43ba-9e9f-1123d4063007",
+      "id": "ef84a3a4-f398-484f-854b-1555b69b841c",
       "name": "Clean Json"
     },
     {
@@ -46,7 +46,7 @@
         128,
         -80
       ],
-      "id": "8fa79d0b-94c1-48b0-a0bb-4f658c8aa691",
+      "id": "3421910c-0ad7-4ccf-87d3-f2cbd023f040",
       "name": "Enrich with TMDB"
     },
     {
@@ -59,7 +59,7 @@
         320,
         -80
       ],
-      "id": "841db852-566a-4a02-9cc9-9c0fabc1a074",
+      "id": "f613ab85-5974-4051-8279-5624f4fa4076",
       "name": "Minimize JSON"
     },
     {
@@ -75,7 +75,7 @@
         512,
         -80
       ],
-      "id": "e4041675-2a6d-4cb0-8c36-e15bb15e3107",
+      "id": "13d90c64-d650-4f7e-ba1f-a3afc4b0126a",
       "name": "AI Filtering for Suggestions",
       "retryOnFail": true
     },
@@ -89,7 +89,7 @@
         656,
         144
       ],
-      "id": "37dba9a9-d687-4df0-824e-5982cc5430e6",
+      "id": "a4714781-77ae-49f9-ae69-10097c67b8a9",
       "name": "Structured Output Parser"
     },
     {
@@ -103,12 +103,12 @@
         512,
         144
       ],
-      "id": "ca739203-741a-4468-b13d-c1cf7a6961c1",
+      "id": "96d3e153-79f0-488e-b43c-334ff6ea91db",
       "name": "Google Gemini Chat Model",
       "credentials": {
         "googlePalmApi": {
-          "id": "VvopiqD5nxb7pQgj",
-          "name": "Google Gemini(PaLM) Api account"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -123,7 +123,7 @@
         832,
         -80
       ],
-      "id": "4cdbd421-a7cf-434d-aa79-35764ae12483",
+      "id": "82e01fd6-40c9-4ae4-b288-c22f6e968f1e",
       "name": "Split Out"
     },
     {
@@ -138,12 +138,12 @@
         832,
         160
       ],
-      "id": "8e25b12d-60ca-48b2-8062-5271b0b44198",
+      "id": "8e13697b-8e19-4750-a8c8-84cde38246b2",
       "name": "Merge"
     },
     {
       "parameters": {
-        "sendTo": "EXAMPLE@mail.com",
+        "sendTo": "",
         "subject": "=Programmazione Film del {{ $now.format('dd/MM') }} - {{ $('Merge').all()[0].json.title }}, {{ $('Merge').all()[1].json.title }}, {{ $('Merge').all()[2].json.title }}",
         "message": "={{ $json.finalHtml }}",
         "options": {
@@ -156,13 +156,13 @@
         1488,
         -32
       ],
-      "id": "39609d08-c320-4971-9fca-d3ac910f9d00",
+      "id": "0da4e46d-58d8-497d-87cf-623f9b09cf22",
       "name": "Send a message",
-      "webhookId": "43c8d29e-5b9c-4678-99ea-b1ff38cf85d2",
+      "webhookId": "c9ea28d1-b2a6-480f-a4f9-addf547bcbc8",
       "credentials": {
         "gmailOAuth2": {
-          "id": "9oMw1tayNozHXFzq",
-          "name": "Gmail account"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -177,7 +177,7 @@
         -464,
         -176
       ],
-      "id": "5d00afe8-3d7d-43bb-ae92-a51e5b723b67",
+      "id": "ca68042f-cde5-4603-95b3-9f2937ead8c3",
       "name": "HTTP Request to TMDB - Bari"
     },
     {
@@ -191,7 +191,7 @@
         -464,
         0
       ],
-      "id": "508e3e14-be08-4b3a-a81f-f2af3fc458f4",
+      "id": "e0bcdf22-1d18-40a0-803d-1af842ef4e33",
       "name": "HTTP Request to TMDB - Casamassima"
     },
     {
@@ -204,7 +204,7 @@
         -272,
         0
       ],
-      "id": "e91fa9cf-4fba-47c5-ba1f-ac7675887bcd",
+      "id": "d9965896-169c-404d-aa18-15842141550c",
       "name": "Clean Json1"
     },
     {
@@ -220,7 +220,7 @@
         -64,
         -80
       ],
-      "id": "98a42a39-2f94-4377-bb53-89791da313d5",
+      "id": "a5f4f6eb-2c1e-44d4-a8b0-ec5d9d8f5fd8",
       "name": "Merge1"
     },
     {
@@ -233,13 +233,14 @@
         1072,
         272
       ],
-      "id": "dff10b98-2887-43bc-aa1b-ef868eaa62df",
+      "id": "ae46f516-8157-4a6b-9a0b-2d4c964c030f",
       "name": "Write the Discord message",
       "disabled": true
     },
     {
       "parameters": {
         "method": "PATCH",
+        "url": "",
         "sendBody": true,
         "bodyParameters": {
           "parameters": [
@@ -254,12 +255,160 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        1264,
+        1280,
         272
       ],
-      "id": "388071ba-665e-4bd7-9cd5-0a35d89816fc",
+      "id": "49634563-a007-4170-9443-474648443998",
       "name": "HTTP Request",
       "disabled": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// Prendiamo tutti gli elementi in input e li trasformiamo in un unico array JSON\nconst allMovies = $input.all().map(item => item.json);\n\n// Restituiamo un singolo elemento che contiene l'array convertito in formato Testo (Stringa JSON)\nreturn [{\n    json: {\n        fileContent: JSON.stringify(allMovies, null, 2)\n    }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1280,
+        128
+      ],
+      "id": "97a11afa-2615-43af-bb86-d7d97d07d2ac",
+      "name": "Merge in single JSON Array"
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "ttiaMa",
+          "mode": "list",
+          "cachedResultName": "ttiaMa"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "airing-in-bari",
+          "mode": "list",
+          "cachedResultName": "airing-in-bari"
+        },
+        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
+        "additionalParameters": {}
+      },
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        1488,
+        128
+      ],
+      "id": "af6b4681-ed1e-44ff-90d1-7ceec02ba961",
+      "name": "Get todays JSON",
+      "webhookId": "065737b9-4d8b-4d13-837b-06860fe97e28",
+      "credentials": {
+        "githubApi": {
+          "id": "6FZx2p3Ggmf0wCIZ",
+          "name": "GitHub account ttiaMa"
+        }
+      },
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "operation": "edit",
+        "owner": {
+          "__rl": true,
+          "value": "ttiaMa",
+          "mode": "list",
+          "cachedResultName": "ttiaMa"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "airing-in-bari",
+          "mode": "list",
+          "cachedResultName": "airing-in-bari"
+        },
+        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
+        "fileContent": "={{ $json.fileContent }}",
+        "commitMessage": "=update - {{ $now.setZone('Europe/Rome').toFormat('dd/MM/yyyy HH:mm') }}"
+      },
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        1712,
+        48
+      ],
+      "id": "9dea6e35-32d7-4de3-933f-188844480009",
+      "name": "Update JSON",
+      "webhookId": "a363708d-db51-49ea-b412-64752f1e9500",
+      "credentials": {
+        "githubApi": {
+          "id": "6FZx2p3Ggmf0wCIZ",
+          "name": "GitHub account ttiaMa"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "owner": {
+          "__rl": true,
+          "value": "ttiaMa",
+          "mode": "list",
+          "cachedResultName": "ttiaMa"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "airing-in-bari",
+          "mode": "list",
+          "cachedResultName": "airing-in-bari"
+        },
+        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
+        "fileContent": "={{ $json.fileContent }}",
+        "commitMessage": "=new file - {{ $now.setZone('Europe/Rome').toFormat('dd/MM/yyyy HH:mm') }}"
+      },
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        1712,
+        208
+      ],
+      "id": "36641f50-4c83-4217-b700-6839372ec61b",
+      "name": "Create JSON",
+      "webhookId": "6693b167-7342-4f82-a39d-001bd2088b70",
+      "credentials": {
+        "githubApi": {
+          "id": "6FZx2p3Ggmf0wCIZ",
+          "name": "GitHub account ttiaMa"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "this block requires entering TMDB API key.",
+        "height": 224,
+        "width": 160
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        96,
+        -160
+      ],
+      "typeVersion": 1,
+      "id": "9c8127d3-c1f4-46eb-a3f2-3c5cfa26da25",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Calcola la data odierna nel formato dd/MM (fuso orario italiano)\nconst formattedDate = new Date().toLocaleDateString('it-IT', { \n    timeZone: 'Europe/Rome', \n    day: '2-digit', \n    month: '2-digit' \n});\n\n// 1. Initialize the HTML header\nlet htmlContent = `\n<!DOCTYPE html>\n<html lang=\"it\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>I Film in Programmazione a Bari - ${formattedDate}</title>\n</head>\n<body style=\"margin: 0; padding: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #f4f4f7;\">\n  <div style=\"max-width: 650px; margin: 0 auto; background-color: #ffffff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);\">\n    \n    <h2 style=\"text-align: center; color: #2c3e50; margin-top: 0; margin-bottom: 5px; letter-spacing: 1px;\">\n      🎬 I Film in Programmazione a Bari - ${formattedDate}\n    </h2>\n    \n    <p style=\"text-align: center; color: #7f8c8d; font-size: 13px; margin-top: 0; margin-bottom: 30px; padding-bottom: 15px; border-bottom: 2px solid #e74c3c;\">\n      <i>* Gli orari vengono aggiornati alle 8:00 e alle 12:00</i>\n    </p>\n`;\n\n// 2. Loop through all items coming from the previous node\nfor (const item of $input.all()) {\n    const movie = item.json;\n    \n    // Format Cinemas list with custom links\n    let cinemasHtml = \"\";\n    if (movie.cinemas && Array.isArray(movie.cinemas)) {\n        movie.cinemas.forEach(cinema => {\n            const timesString = Array.isArray(cinema.times) ? cinema.times.join(\", \") : cinema.times;\n            \n            // --- Logica per link personalizzati dei Cinema ---\n            let cinemaUrl = \"\";\n            const cinemaName = cinema.name ? cinema.name.trim() : \"\";\n            \n            if (cinemaName === \"The Space Casamassima\") {\n                cinemaUrl = \"https://www.thespacecinema.it/cinema/casamassima/al-cinema\";\n            } else if (cinemaName === \"Splendor\") {\n                cinemaUrl = \"https://www.cinemasplendor.eu/\";\n            } else if (cinemaName === \"Abc\") {\n                cinemaUrl = \"https://www.facebook.com/Cinemabcbari/\";\n            } else if (cinemaName === \"Uci Cinemas Showville\") {\n                cinemaUrl = \"https://ucicinemas.it/cinema/uci-cinemas-showville-bari\";\n            } else if (cinemaName === \"Il Piccolo\") {\n                cinemaUrl = \"https://www.cinemapiccolo.it/\";\n            } else if (cinemaName === \"Galleria\") {\n                cinemaUrl = \"https://www.multicinemagalleria.it/programmazione/\";\n            }\n            \n            // Creiamo il nome del cinema (cliccabile o meno in base alla presenza dell'URL)\n            const cinemaDisplayName = cinemaUrl \n                ? `<a href=\"${cinemaUrl}\" target=\"_blank\" style=\"color: #2980b9; text-decoration: none;\">${cinemaName}</a>`\n                : cinemaName;\n            // ------------------------------------------------\n\n            cinemasHtml += `<span style=\"font-size: 13px; color: #444444; display: block; margin-bottom: 2px;\">• <strong>${cinemaDisplayName}:</strong> ${timesString}</span>`;\n        });\n    }\n\n    // Determina il titolo da cercare: usa original_title se presente, altrimenti usa title come paracadute.\n    const searchTitle = movie.original_title ? movie.original_title : movie.title;\n    \n    // Generate Letterboxd URL \n    const letterboxdUrl = `https://letterboxd.com/search/films/${encodeURIComponent(searchTitle)}/`;\n    \n    // Generate IMDb URL\n    const imdbUrl = `https://www.imdb.com/find/?q=${encodeURIComponent(searchTitle)}`;\n\n    // Handle Genres (check if array or string)\n    const genresText = Array.isArray(movie.genres) ? movie.genres.join(\", \") : (movie.genres || '');\n\n    // Append the movie block to the HTML string\n    htmlContent += `\n    <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-bottom: 25px;\">\n      <tr>\n        <td width=\"140\" valign=\"top\" style=\"padding-right: 20px;\">\n          <img src=\"${movie.poster_url}\" alt=\"${movie.title}\" width=\"140\" style=\"border-radius: 6px; display: block; width: 140px; max-width: 140px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);\">\n        </td>\n        <td valign=\"top\">\n          <h3 style=\"margin: 0 0 10px 0; color: #d35400; font-size: 18px;\">\n            ${movie.title.toUpperCase()}\n            \n            <!-- Icona Letterboxd accanto al titolo -->\n            <a href=\"${letterboxdUrl}\" target=\"_blank\" title=\"Cerca su Letterboxd\" style=\"text-decoration: none; margin-left: 6px; display: inline-block;\">\n              <img src=\"https://letterboxd.com/apple-touch-icon.png\" width=\"18\" height=\"18\" alt=\"Letterboxd\" style=\"vertical-align: text-bottom; border-radius: 3px; border: 1px solid #e0e0e0;\">\n            </a>\n            \n            <!-- Icona IMDb accanto a Letterboxd -->\n            <a href=\"${imdbUrl}\" target=\"_blank\" title=\"Cerca su IMDb\" style=\"text-decoration: none; margin-left: 6px; display: inline-block;\">\n              <img src=\"https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png\" width=\"18\" height=\"18\" alt=\"IMDb\" style=\"vertical-align: text-bottom; border-radius: 3px; border: 1px solid #e0e0e0;\">\n            </a>\n          </h3>\n          \n          <p style=\"margin: 0 0 10px 0; font-size: 14px; color: #555555; line-height: 1.5; font-style: italic;\">\n            \"${movie.details}\"\n          </p>\n\n          <p style=\"margin: 0 0 4px 0; font-size: 13px; color: #333333;\">\n            <strong>Regia:</strong> ${movie.director || 'N/D'}\n          </p>\n          <p style=\"margin: 0 0 4px 0; font-size: 13px; color: #333333;\">\n            <strong>Genere:</strong> ${genresText}\n          </p>\n\n          <p style=\"margin: 0 0 12px 0; font-size: 13px; color: #333333;\">\n            <strong>Cast:</strong> ${movie.cast}\n          </p>\n          \n          <div style=\"background-color: #f8f9fa; padding: 12px; border-radius: 6px; border-left: 3px solid #3498db;\">\n            <strong style=\"font-size: 13px; color: #2c3e50; display: block; margin-bottom: 4px;\">📍 Sale e Orari:</strong>\n            ${cinemasHtml}\n          </div>\n        </td>\n      </tr>\n    </table>\n    <hr style=\"border: 0; border-top: 1px solid #eeeeee; margin-bottom: 25px;\">\n    `;\n}\n\n// 3. Close the HTML tags\nhtmlContent += `\n    <!-- Inizio Footer -->\n    <div style=\"margin-top: 40px; text-align: center; font-size: 12px; color: #95a5a6; line-height: 1.6;\">\n      \n      <p style=\"margin: 0 0 12px 0;\">\n        <!-- posso mettere testo qui -->\n      </p>\n      \n      <p style=\"margin: 0 0 15px 0;\">\n        <!-- posso mettere testo qui -->\n        <a href=\"https://github.com/ttiaMa/airing-in-bari\" target=\"_blank\" style=\"display: inline-block; background-color: #24292e; color: #ffffff; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(0,0,0,0.1);\">\n          <svg height=\"16\" viewBox=\"0 0 16 16\" width=\"16\" style=\"fill: #ffffff; vertical-align: text-bottom; margin-right: 6px;\"><path d=\"M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z\"></path></svg>\n          GitHub ⭐\n        </a>\n      </p>\n      \n      <p style=\"margin: 0; font-family: monospace; color: #bdc3c7;\">\n        v1.2\n      </p>\n      \n    </div>\n    <!-- Fine Footer -->\n  </div>\n</body>\n</html>\n`;\n\n// 4. Return ONE single item containing the final HTML\nreturn [{\n    json: {\n        finalHtml: htmlContent\n    }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1280,
+        -32
+      ],
+      "id": "ddc286ae-23fb-4fd2-a601-7cd3d1e9935e",
+      "name": "Compile the HTML Mail"
     },
     {
       "parameters": {
@@ -298,165 +447,179 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.3,
       "position": [
-        1264,
-        48
-      ],
-      "id": "05d99bdb-74ae-46c7-b233-a5f012a4186d",
-      "name": "Monday?"
-    },
-    {
-      "parameters": {
-        "jsCode": "// Prendiamo tutti gli elementi in input e li trasformiamo in un unico array JSON\nconst allMovies = $input.all().map(item => item.json);\n\n// Restituiamo un singolo elemento che contiene l'array convertito in formato Testo (Stringa JSON)\nreturn [{\n    json: {\n        fileContent: JSON.stringify(allMovies, null, 2)\n    }\n}];"
-      },
-      "type": "n8n-nodes-base.code",
-      "typeVersion": 2,
-      "position": [
         1072,
         48
       ],
-      "id": "34b2e15c-eba8-4300-996c-203c4f104358",
-      "name": "Merge in single JSON Array"
-    },
-    {
-      "parameters": {
-        "resource": "file",
-        "operation": "get",
-        "owner": {
-          "__rl": true,
-          "value": "ttiaMa",
-          "mode": "list",
-          "cachedResultName": "ttiaMa"
-        },
-        "repository": {
-          "__rl": true,
-          "value": "airing-in-bari",
-          "mode": "list",
-          "cachedResultName": "airing-in-bari"
-        },
-        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
-        "additionalParameters": {}
-      },
-      "type": "n8n-nodes-base.github",
-      "typeVersion": 1.1,
-      "position": [
-        1488,
-        128
-      ],
-      "id": "386e9669-1e3b-4ac2-87b8-1fdd10029623",
-      "name": "Get todays JSON",
-      "webhookId": "28a533df-3ee0-4cd6-81d8-0671acb30521",
-      "credentials": {
-        "githubApi": {
-          "id": "6FZx2p3Ggmf0wCIZ",
-          "name": "GitHub account ttiaMa"
-        }
-      },
-      "onError": "continueErrorOutput"
-    },
-    {
-      "parameters": {
-        "resource": "file",
-        "operation": "edit",
-        "owner": {
-          "__rl": true,
-          "value": "ttiaMa",
-          "mode": "list",
-          "cachedResultName": "ttiaMa"
-        },
-        "repository": {
-          "__rl": true,
-          "value": "airing-in-bari",
-          "mode": "list",
-          "cachedResultName": "airing-in-bari"
-        },
-        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
-        "fileContent": "={{ $json.fileContent }}",
-        "commitMessage": "=update - {{ $now.setZone('Europe/Rome').toFormat('dd/MM/yyyy HH:mm') }}"
-      },
-      "type": "n8n-nodes-base.github",
-      "typeVersion": 1.1,
-      "position": [
-        1728,
-        48
-      ],
-      "id": "3080662d-8c62-4296-beb1-017a0de2ef1a",
-      "name": "Update JSON",
-      "webhookId": "fdcbe286-322a-4d74-921d-f4854b370297",
-      "credentials": {
-        "githubApi": {
-          "id": "6FZx2p3Ggmf0wCIZ",
-          "name": "GitHub account ttiaMa"
-        }
-      }
-    },
-    {
-      "parameters": {
-        "resource": "file",
-        "owner": {
-          "__rl": true,
-          "value": "ttiaMa",
-          "mode": "list",
-          "cachedResultName": "ttiaMa"
-        },
-        "repository": {
-          "__rl": true,
-          "value": "airing-in-bari",
-          "mode": "list",
-          "cachedResultName": "airing-in-bari"
-        },
-        "filePath": "=data/{{ $now.setZone('Europe/Rome').toFormat('yyyy/MM/yyyy-MM-dd') }}.json",
-        "fileContent": "={{ $json.fileContent }}",
-        "commitMessage": "=new file - {{ $now.setZone('Europe/Rome').toFormat('dd/MM/yyyy HH:mm') }}"
-      },
-      "type": "n8n-nodes-base.github",
-      "typeVersion": 1.1,
-      "position": [
-        1728,
-        208
-      ],
-      "id": "4a546b72-6985-4180-a254-4b0971b1e96b",
-      "name": "Create JSON",
-      "webhookId": "d3d645d1-0d72-4ccd-97c2-7f4b5728c6b4",
-      "credentials": {
-        "githubApi": {
-          "id": "6FZx2p3Ggmf0wCIZ",
-          "name": "GitHub account ttiaMa"
-        }
-      }
-    },
-    {
-      "parameters": {
-        "content": "this block requires entering TMDB API key.",
-        "height": 224,
-        "width": 160
-      },
-      "type": "n8n-nodes-base.stickyNote",
-      "position": [
-        96,
-        -160
-      ],
-      "typeVersion": 1,
-      "id": "c693d577-e4b8-4851-b0da-6e0eb2304490",
-      "name": "Sticky Note"
-    },
-    {
-      "parameters": {
-        "content": "logic to update a pinned message in a discord server (could be enabled using your webhook)",
-        "height": 240,
-        "width": 352,
-        "color": 5
-      },
-      "type": "n8n-nodes-base.stickyNote",
-      "position": [
-        1040,
-        208
-      ],
-      "typeVersion": 1,
-      "id": "21c6e464-c7af-41c6-9f0a-6f03f17eb7b7",
-      "name": "Sticky Note1"
+      "id": "05ae9847-29f5-43fa-a568-6a755dad7b61",
+      "name": "MondayMorning?"
     }
   ],
-  "pinData": {},
+  "pinData": {
+    "Merge": [
+      {
+        "json": {
+          "title": "LO STRANIERO",
+          "ai_reason": "A fundamental classic of Italian and world cinema: Luchino Visconti adapts Albert Camus’ existentialist masterpiece, starring the legendary Marcello Mastroianni.",
+          "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
+          "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
+          "cinemas": [
+            {
+              "name": "Splendor",
+              "times": [
+                "16:30",
+                "18:45",
+                "21:00"
+              ]
+            }
+          ],
+          "tmdb_id": 31332,
+          "tmdb_title": "Lo straniero",
+          "original_title": "Lo straniero",
+          "overview": "Dal romanzo (1942) di Albert Camus: nel 1935 ad Algeri l'impiegato Mersault uccide un arabo, accanendosi a revolverate sul cadavere. Condannato a morte, non si difende durante il processo, estraneo al proprio caso.",
+          "release_date": "1967-10-14",
+          "vote_average": 6.764,
+          "poster_url": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg",
+          "genres": "Dramma",
+          "director": "Luchino Visconti"
+        },
+        "binary": {},
+        "pairedItem": [
+          {
+            "item": 0
+          },
+          {
+            "item": 12,
+            "input": 1
+          }
+        ]
+      },
+      {
+        "json": {
+          "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+          "ai_reason": "Kristoffer Borgli, the mind behind 'Dream Scenario', returns with an A24-produced psychological deconstruction of relationships featuring a high-prestige cast.",
+          "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+          "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+          "cinemas": [
+            {
+              "name": "The Space Casamassima",
+              "times": [
+                "14:10",
+                "17:55",
+                "18:35",
+                "21:30"
+              ]
+            },
+            {
+              "name": "Uci Cinemas Showville",
+              "times": [
+                "13:30",
+                "16:40",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "tmdb_id": 1325734,
+          "tmdb_title": "The Drama - Un segreto è per sempre",
+          "original_title": "The Drama",
+          "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+          "release_date": "2026-03-26",
+          "vote_average": 6.973,
+          "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+          "genres": "Romance, Commedia, Dramma",
+          "director": "Kristoffer Borgli"
+        },
+        "binary": {},
+        "pairedItem": [
+          {
+            "item": 1
+          },
+          {
+            "item": 0,
+            "input": 1
+          }
+        ]
+      },
+      {
+        "json": {
+          "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
+          "ai_reason": "A significant cinematic event in high-concept sci-fi, pairing visionary directors Phil Lord and Christopher Miller with the dramatic weight of Ryan Gosling and Sandra Hüller.",
+          "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
+          "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
+          "cinemas": [
+            {
+              "name": "The Space Casamassima",
+              "times": [
+                "14:30",
+                "21:15"
+              ]
+            },
+            {
+              "name": "Uci Cinemas Showville",
+              "times": [
+                "13:20",
+                "21:15"
+              ]
+            }
+          ],
+          "tmdb_id": 687163,
+          "tmdb_title": "L'ultima missione: Project Hail Mary",
+          "original_title": "Project Hail Mary",
+          "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+          "release_date": "2026-03-15",
+          "vote_average": 8.189,
+          "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+          "genres": "Fantascienza, Avventura",
+          "director": "Phil Lord, Christopher Miller"
+        },
+        "binary": {},
+        "pairedItem": [
+          {
+            "item": 2
+          },
+          {
+            "item": 3,
+            "input": 1
+          }
+        ]
+      },
+      {
+        "json": {
+          "title": "MIO FRATELLO È UN VICHINGO - THE LAST VIKING",
+          "ai_reason": "Anders Thomas Jensen is a master of dark, absurdist Danish cinema; his collaboration with Mads Mikkelsen guarantees a sophisticated, cult-tier exploration of the human psyche.",
+          "cast": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling",
+          "details": "Jensen prosegue a raccontare il dramma con feroce umorismo, incrementando qualità e complessità della narrazione. Commedia, Drammatico - Danimarca, Svezia 2025. Durata 116 Minuti.",
+          "cinemas": [
+            {
+              "name": "Abc",
+              "times": [
+                "20:30"
+              ]
+            }
+          ],
+          "tmdb_id": 1295400,
+          "tmdb_title": "Mio fratello è un vichingo",
+          "original_title": "Den sidste viking",
+          "overview": "Anker viene rilasciato dal carcere dopo una condanna a quindici anni per rapina. A seppellire il bottino era stato Manfred, suo fratello. Solo lui sa dove si trova. Purtroppo Manfred ha sviluppato un disturbo mentale che gli ha fatto dimenticare tutto. I fratelli intraprendono un inatteso viaggio alla scoperta del denaro – e di sé stessi. Den sidste viking è una storia divertente, affascinante e provocatoria sull’identità.",
+          "release_date": "2025-10-09",
+          "vote_average": 7.223,
+          "poster_url": "https://image.tmdb.org/t/p/w500/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
+          "genres": "Commedia, Crime, Dramma",
+          "director": "Anders Thomas Jensen"
+        },
+        "binary": {},
+        "pairedItem": [
+          {
+            "item": 3
+          },
+          {
+            "item": 11,
+            "input": 1
+          }
+        ]
+      }
+    ]
+  },
   "connections": {
     "Schedule Trigger": {
       "main": [
@@ -565,7 +728,7 @@
             "index": 0
           },
           {
-            "node": "Merge in single JSON Array",
+            "node": "MondayMorning?",
             "type": "main",
             "index": 0
           }
@@ -632,29 +795,11 @@
         ]
       ]
     },
-    "Monday?": {
-      "main": [
-        [
-          {
-            "node": "Send a message",
-            "type": "main",
-            "index": 0
-          }
-        ],
-        [
-          {
-            "node": "Get todays JSON",
-            "type": "main",
-            "index": 0
-          }
-        ]
-      ]
-    },
     "Merge in single JSON Array": {
       "main": [
         [
           {
-            "node": "Monday?",
+            "node": "Get todays JSON",
             "type": "main",
             "index": 0
           }
@@ -678,9 +823,38 @@
           }
         ]
       ]
+    },
+    "Compile the HTML Mail": {
+      "main": [
+        [
+          {
+            "node": "Send a message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "MondayMorning?": {
+      "main": [
+        [
+          {
+            "node": "Compile the HTML Mail",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Merge in single JSON Array",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
-  "active": false,
+  "active": true,
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate",
@@ -689,11 +863,11 @@
     "errorWorkflow": "h3U7GWjTJ8nYrFWa",
     "callerPolicy": "workflowsFromSameOwner"
   },
-  "versionId": "be0f70ab-7875-4f68-83af-897c74a06925",
+  "versionId": "5af5f69c-45ec-431a-bfe0-47a836803e61",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "e5a23cd17208a5a9ae9e369bb8a562ddadb385db4102697c22ade3e9c9eae57f"
   },
-  "id": "iuYKjX0tqht2uqDK",
+  "id": "f4BG1nyln7ksdSWN5iNng",
   "tags": []
 }
