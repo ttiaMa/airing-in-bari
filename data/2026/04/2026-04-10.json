@@ -1,7 +1,7 @@
 [
   {
     "title": "LO STRANIERO",
-    "ai_reason": "A quintessential classic re-release from master Luchino Visconti, adapting Albert Camus' existentialist masterpiece. Essential viewing for any serious student of cinema history.",
+    "ai_reason": "A quintessential restoration of Luchino Visconti's work, adapting Albert Camus' masterpiece; an absolute necessity for any serious cinephile's canon.",
     "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
     "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
     "cinemas": [
@@ -25,7 +25,7 @@
   },
   {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Director Kristoffer Borgli is a rising star in the 'elevated genre' space; this production fits the surrealist, psychological mold expected of high-brow arthouse drama with a prestige cast.",
+    "ai_reason": "Kristoffer Borgli continues his ascent as a master of modern surrealism and social discomfort, following the A24-adjacent path of high-concept psychological drama.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -53,14 +53,67 @@
     "original_title": "The Drama",
     "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
     "release_date": "2026-03-26",
-    "vote_average": 7.073,
+    "vote_average": 7.059,
     "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
     "genres": "Romance, Commedia, Dramma",
     "director": "Kristoffer Borgli"
   },
   {
+    "title": "UN ANNO DI SCUOLA",
+    "ai_reason": "Laura Samani, following her breakthrough at Cannes with 'Piccolo Corpo', solidifies her status as a vital new voice in contemporary Italian arthouse cinema.",
+    "cast": "Stella Wendick, Giacomo Covi, Pietro Giustolisi, Samuel Volturno",
+    "details": "Da tempo non si vedeva un'adolescenza raccontata in questo modo. Un film pieno di consapevolezza e libertà. Drammatico, Italia, Francia 2025. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1442922,
+    "tmdb_title": "Un anno di scuola",
+    "original_title": "Un anno di scuola",
+    "overview": "Settembre 2007, Trieste. Fred, diciottenne svedese esuberante e coraggiosa, arriva in città per frequentare l'ultimo anno di un Istituto Tecnico. Si ritrova ad essere l'unica ragazza in una classe di soli maschi e catalizza l'attenzione di tutti, in particolare quella di tre amici: Antero, affascinante e riservato; Pasini, seduttore istrionico; Mitis, bonaccione protettivo. I tre si appartengono da quando hanno memoria. L'arrivo di Fred sconvolge la loro omogeneità, mettendo a dura prova la loro amicizia. Mentre ognuno di loro la desidera segretamente per sé, Fred vuole essere ammessa nel gruppo, ma le viene chiesto continuamente di sacrificare qualcosa di sé per diventare una di loro.",
+    "release_date": "2026-04-09",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
+    "genres": "Dramma",
+    "director": "Laura Samani"
+  },
+  {
+    "title": "MIO FRATELLO È UN VICHINGO - THE LAST VIKING",
+    "ai_reason": "The reunion of Anders Thomas Jensen and Mads Mikkelsen promises the kind of pitch-black, absurdist Scandinavian humor that defines cult cinema.",
+    "cast": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling",
+    "details": "Jensen prosegue a raccontare il dramma con feroce umorismo, incrementando qualità e complessità della narrazione. Commedia, Drammatico - Danimarca, Svezia 2025. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1295400,
+    "tmdb_title": "Mio fratello è un vichingo",
+    "original_title": "Den sidste viking",
+    "overview": "Anker viene rilasciato dal carcere dopo una condanna a quindici anni per rapina. A seppellire il bottino era stato Manfred, suo fratello. Solo lui sa dove si trova. Purtroppo Manfred ha sviluppato un disturbo mentale che gli ha fatto dimenticare tutto. I fratelli intraprendono un inatteso viaggio alla scoperta del denaro – e di sé stessi. Den sidste viking è una storia divertente, affascinante e provocatoria sull’identità.",
+    "release_date": "2025-10-09",
+    "vote_average": 7.208,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
+    "genres": "Commedia, Crime, Dramma",
+    "director": "Anders Thomas Jensen"
+  },
+  {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A major cinematic event featuring a collaboration between Ryan Gosling and prestige actress Sandra Hüller. This promises high-concept sci-fi with significant critical pedigree.",
+    "ai_reason": "A major sci-fi cinematic event that pairs high-concept storytelling with prestige talent like Sandra Hüller and Ryan Gosling.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
@@ -89,56 +142,26 @@
     "director": "Phil Lord, Christopher Miller"
   },
   {
-    "title": "MIO FRATELLO È UN VICHINGO - THE LAST VIKING",
-    "ai_reason": "Anders Thomas Jensen is a cult favorite known for his darkly comedic, absurdist style. His collaboration with Mads Mikkelsen represents the peak of contemporary Danish auteur cinema.",
-    "cast": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling",
-    "details": "Jensen prosegue a raccontare il dramma con feroce umorismo, incrementando qualità e complessità della narrazione. Commedia, Drammatico - Danimarca, Svezia 2025. Durata 116 Minuti.",
+    "title": "È L'ULTIMA BATTUTA?",
+    "ai_reason": "Bradley Cooper continues his trajectory as a prestige director, moving into intimate, character-driven drama with a sophisticated cast.",
+    "cast": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper",
+    "details": "Il terzo film di Bradley Cooper è bellissimo e travolgente. Strepitosi Will Arnett e Laura Dern. Commedia, USA 2025. Durata 121 Minuti.",
     "cinemas": [
       {
-        "name": "Abc",
+        "name": "The Space Casamassima",
         "times": [
-          "20:30"
+          "16:30"
         ]
       }
     ],
-    "tmdb_id": 1295400,
-    "tmdb_title": "Mio fratello è un vichingo",
-    "original_title": "Den sidste viking",
-    "overview": "Anker viene rilasciato dal carcere dopo una condanna a quindici anni per rapina. A seppellire il bottino era stato Manfred, suo fratello. Solo lui sa dove si trova. Purtroppo Manfred ha sviluppato un disturbo mentale che gli ha fatto dimenticare tutto. I fratelli intraprendono un inatteso viaggio alla scoperta del denaro – e di sé stessi. Den sidste viking è una storia divertente, affascinante e provocatoria sull’identità.",
-    "release_date": "2025-10-09",
-    "vote_average": 7.208,
-    "poster_url": "https://image.tmdb.org/t/p/w500/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
-    "genres": "Commedia, Crime, Dramma",
-    "director": "Anders Thomas Jensen"
-  },
-  {
-    "title": "UN ANNO DI SCUOLA",
-    "ai_reason": "Laura Samani is one of the most exciting new auteurs in Italian cinema. This work moves beyond standard genre tropes into the realm of atmospheric, high-art character studies.",
-    "cast": "Stella Wendick, Giacomo Covi, Pietro Giustolisi, Samuel Volturno",
-    "details": "Da tempo non si vedeva un'adolescenza raccontata in questo modo. Un film pieno di consapevolezza e libertà. Drammatico, Italia, Francia 2025. Durata 102 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "19:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:00",
-          "19:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1442922,
-    "tmdb_title": "Un anno di scuola",
-    "original_title": "Un anno di scuola",
-    "overview": "Settembre 2007, Trieste. Fred, diciottenne svedese esuberante e coraggiosa, arriva in città per frequentare l'ultimo anno di un Istituto Tecnico. Si ritrova ad essere l'unica ragazza in una classe di soli maschi e catalizza l'attenzione di tutti, in particolare quella di tre amici: Antero, affascinante e riservato; Pasini, seduttore istrionico; Mitis, bonaccione protettivo. I tre si appartengono da quando hanno memoria. L'arrivo di Fred sconvolge la loro omogeneità, mettendo a dura prova la loro amicizia. Mentre ognuno di loro la desidera segretamente per sé, Fred vuole essere ammessa nel gruppo, ma le viene chiesto continuamente di sacrificare qualcosa di sé per diventare una di loro.",
-    "release_date": "2026-04-09",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
-    "genres": "Dramma",
-    "director": "Laura Samani"
+    "tmdb_id": 1140498,
+    "tmdb_title": "È l’ultima battuta?",
+    "original_title": "Is This Thing On?",
+    "overview": "Alex (Will Arnett) affronta la crisi di mezza età e un imminente divorzio, in cerca di un nuovo inizio nel mondo della stand-up comedy newyorkese, mentre Tess (Laura Dern) riflette sui sacrifici fatti per la famiglia. I due dovranno confrontarsi con la gestione condivisa dei figli, la propria identità e la possibilità che l’amore possa assumere una nuova forma.",
+    "release_date": "2025-12-19",
+    "vote_average": 6.491,
+    "poster_url": "https://image.tmdb.org/t/p/w500/duMlNVMT2Xtexc0tg93tstcJPoA.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Bradley Cooper"
   }
 ]
