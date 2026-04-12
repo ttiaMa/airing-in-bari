@@ -1,7 +1,7 @@
 [
   {
     "title": "FINO ALL'ULTIMO RESPIRO",
-    "ai_reason": "An essential cornerstone of the Nouvelle Vague; Godard's masterpiece is a fundamental re-release for any serious student of cinema history.",
+    "ai_reason": "A foundational masterpiece of the French New Wave by Jean-Luc Godard. Essential viewing for any serious student of cinema history.",
     "cast": "Jean-Paul Belmondo, Jean Seberg, Daniel Boulanger, Jean-Pierre Melville",
     "details": "Il manifesto della Nouvelle Vague, un film immortale che ha segnato una svolta nella storia del cinema. Drammatico, Francia 1960. Durata 89 Minuti. Consigli per la visione: Ragazzi +13",
     "cinemas": [
@@ -24,7 +24,7 @@
   },
   {
     "title": "LO STRANIERO",
-    "ai_reason": "Luchino Visconti's high-brow adaptation of Albert Camus' existentialist landmark is a peak example of Italian auteur cinema.",
+    "ai_reason": "Luchino Visconti’s adaptation of Camus’ existentialist landmark; a monumental encounter between a titan of Italian cinema and a giant of literature.",
     "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
     "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
     "cinemas": [
@@ -48,7 +48,7 @@
   },
   {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Kristoffer Borgli (Sick of Myself) continues his ascent as a master of uncomfortable, surreal social satire in the vein of the A24 aesthetic.",
+    "ai_reason": "Kristoffer Borgli continues his ascent as a master of 'elevated genre' with this cerebral, high-concept drama featuring the prestige pairing of Pattinson and Zendaya.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -85,7 +85,7 @@
   },
   {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A major cinematic sci-fi event featuring a prestige cast, including Sandra Hüller, signaling high-concept storytelling with critical ambition.",
+    "ai_reason": "A major cinematic event combining the visionary direction of Lord and Miller with a prestige cast including Ryan Gosling and Sandra Hüller.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
@@ -117,8 +117,32 @@
     "director": "Phil Lord, Christopher Miller"
   },
   {
+    "title": "ELIO",
+    "ai_reason": "A Pixar original from the creative mind of Domee Shi, representing the highest tier of contemporary artistic animation over commercial children's fare.",
+    "cast": "Alessandra Mastronardi, Adriano Giannini, Lucio Corsi, Neri Marcorè",
+    "details": "Una narrazione a rotta di collo, sospesa nello spazio e in sfida con le leggi della gravità, che affronta questioni esistenziali. Animazione, Avventura, Commedia - USA 2025. Durata 99 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:40",
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1022787,
+    "tmdb_title": "Elio",
+    "original_title": "Elio",
+    "overview": "Elio è un bambino di undici anni con un carattere artistico, creativo e sognatore, ma ha difficoltà a integrarsi con gli altri. A causa di questo problema, il piccolo è sempre rinchiuso in casa. Nel frattempo sua madre Olga è impegnata nella direzione di un progetto militare top-secret ed è intenta a decodificare uno strano segnale giunto dallo spazio. La donna, però, non immagina che dietro quel messaggio ci sia proprio suo figlio. Elio, infatti, è stato teletrasportato nello spazio ed è finito per essere scambiato per un ambasciatore intergalattico mandato dal pianeta Terra...",
+    "release_date": "2025-06-18",
+    "vote_average": 6.925,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kFxz2c6cmINliKSLoUm4r6m0B2B.jpg",
+    "genres": "Animazione, Famiglia, Fantascienza, Avventura, Commedia",
+    "director": "Madeline Sharafian, Domee Shi, Adrian Molina"
+  },
+  {
     "title": "UN ANNO DI SCUOLA",
-    "ai_reason": "Following the acclaimed 'Small Body', Laura Samani confirms her status as a vital new voice in Italian auteur-driven period drama.",
+    "ai_reason": "Laura Samani is one of the most vital new voices in Italian arthouse cinema; a rigorous and poetic exploration of youth and gender dynamics.",
     "cast": "Stella Wendick, Giacomo Covi, Pietro Giustolisi, Samuel Volturno",
     "details": "Da tempo non si vedeva un'adolescenza raccontata in questo modo. Un film pieno di consapevolezza e libertà. Drammatico, Italia, Francia 2025. Durata 102 Minuti.",
     "cinemas": [
@@ -148,86 +172,14 @@
     "director": "Laura Samani"
   },
   {
-    "title": "ELIO",
-    "ai_reason": "Representing the artistic peak of prestige animation, this Pixar original is helmed by Academy Award winner Domee Shi.",
-    "cast": "Alessandra Mastronardi, Adriano Giannini, Lucio Corsi, Neri Marcorè",
-    "details": "Una narrazione a rotta di collo, sospesa nello spazio e in sfida con le leggi della gravità, che affronta questioni esistenziali. Animazione, Avventura, Commedia - USA 2025. Durata 99 Minuti.",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "10:40",
-          "11:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1022787,
-    "tmdb_title": "Elio",
-    "original_title": "Elio",
-    "overview": "Elio è un bambino di undici anni con un carattere artistico, creativo e sognatore, ma ha difficoltà a integrarsi con gli altri. A causa di questo problema, il piccolo è sempre rinchiuso in casa. Nel frattempo sua madre Olga è impegnata nella direzione di un progetto militare top-secret ed è intenta a decodificare uno strano segnale giunto dallo spazio. La donna, però, non immagina che dietro quel messaggio ci sia proprio suo figlio. Elio, infatti, è stato teletrasportato nello spazio ed è finito per essere scambiato per un ambasciatore intergalattico mandato dal pianeta Terra...",
-    "release_date": "2025-06-18",
-    "vote_average": 6.925,
-    "poster_url": "https://image.tmdb.org/t/p/w500/kFxz2c6cmINliKSLoUm4r6m0B2B.jpg",
-    "genres": "Animazione, Famiglia, Fantascienza, Avventura, Commedia",
-    "director": "Madeline Sharafian, Domee Shi, Adrian Molina"
-  },
-  {
-    "title": "È L'ULTIMA BATTUTA?",
-    "ai_reason": "Bradley Cooper continues to refine his prestige filmmaking credentials in this sophisticated, character-driven exploration of identity and transition.",
-    "cast": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper",
-    "details": "Il terzo film di Bradley Cooper è bellissimo e travolgente. Strepitosi Will Arnett e Laura Dern. Commedia, USA 2025. Durata 121 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:15",
-          "14:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1140498,
-    "tmdb_title": "È l’ultima battuta?",
-    "original_title": "Is This Thing On?",
-    "overview": "Alex (Will Arnett) affronta la crisi di mezza età e un imminente divorzio, in cerca di un nuovo inizio nel mondo della stand-up comedy newyorkese, mentre Tess (Laura Dern) riflette sui sacrifici fatti per la famiglia. I due dovranno confrontarsi con la gestione condivisa dei figli, la propria identità e la possibilità che l’amore possa assumere una nuova forma.",
-    "release_date": "2025-12-19",
-    "vote_average": 6.509,
-    "poster_url": "https://image.tmdb.org/t/p/w500/duMlNVMT2Xtexc0tg93tstcJPoA.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Bradley Cooper"
-  },
-  {
-    "title": "TI UCCIDERANNO",
-    "ai_reason": "Kirill Sokolov brings a hyper-stylized, 'elevated' approach to genre filmmaking that transcends commercial horror through sheer directorial audacity.",
-    "cast": "Zazie Beetz, Myha'la Herrold, Paterson Joseph, Tom Felton",
-    "details": "Divertimento puro. Horror, action e commedia nerissima in un film che mette in scena la violenza stilizzata. Horror, Azione, Commedia - Sudafrica, USA 2026. Durata 94 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "00:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1292695,
-    "tmdb_title": "Ti uccideranno",
-    "original_title": "They Will Kill You",
-    "overview": "\"Ti uccideranno\" porta sul grande schermo un horror-action-comedy ad alto tasso di adrenalina e intriso di sangue, in cui una giovane donna deve sopravvivere alla notte al Virgil, dove è stata da poco assunta come domestica, senza sapere che quell’edificio nasconde un passato inquietante fatto di inspiegabili sparizioni.  Ne nasce uno scontro cinematografico audace e senza freni, tra uccisioni efferate e un umorismo nerissimo.",
-    "release_date": "2026-03-25",
-    "vote_average": 6.539,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8TyQyuQr7F8WEeiqvkqEoiiZmKo.jpg",
-    "genres": "Azione, Horror, Commedia",
-    "director": "Кирилл Соколов"
-  },
-  {
     "title": "VITA MIA",
-    "ai_reason": "Edoardo Winspeare offers a poetic, auteurist meditation on memory and the Italian landscape, far removed from commercial tropes.",
+    "ai_reason": "Edoardo Winspeare delivers a contemplative, historical drama far removed from standard commercial tropes, focusing on the refined intersection of memory and landscape.",
     "cast": "Dominique Sanda, Celeste Casciaro, Antonino Bruschetta, Ignazio Oliva",
     "details": "Winspeare amplia il suo sguardo all'Europa conservando intatta la sua sensibilità nei confronti di chi porta sullo schermo. Drammatico, Italia, Francia 2026. Durata 125 Minuti.",
     "cinemas": [
       {
         "name": "Galleria",
         "times": [
-          "10:10",
           "15:50",
           "21:00"
         ]
@@ -242,30 +194,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m4AQCx8Guair2rADsIzyCCCSkWB.jpg",
     "genres": "Dramma, Storia",
     "director": "Edoardo Winspeare"
-  },
-  {
-    "title": "LA SALITA",
-    "ai_reason": "A culturally rich narrative that pays homage to the legendary Eduardo De Filippo, blending theatrical history with cinematic drama.",
-    "cast": "Roberta Caronia, Francesco Cossu, Antonio Milo, Shalana Santana",
-    "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "18:20",
-          "16:00",
-          "18:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1523111,
-    "tmdb_title": "La salita",
-    "original_title": "La salita",
-    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
-    "release_date": "2025-08-28",
-    "vote_average": 10,
-    "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
-    "genres": "Dramma",
-    "director": "Massimiliano Gallo"
   }
 ]
