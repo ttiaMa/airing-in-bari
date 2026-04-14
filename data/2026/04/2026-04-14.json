@@ -1,30 +1,7 @@
 [
   {
-    "title": "LO STRANIERO",
-    "ai_reason": "A fundamental piece of cinema history; the legendary Luchino Visconti adapts Albert Camus' existentialist masterpiece. A mandatory selection for any high-brow curator.",
-    "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
-    "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "16:45"
-        ]
-      }
-    ],
-    "tmdb_id": 31332,
-    "tmdb_title": "Lo straniero",
-    "original_title": "Lo straniero",
-    "overview": "Dal romanzo (1942) di Albert Camus: nel 1935 ad Algeri l'impiegato Mersault uccide un arabo, accanendosi a revolverate sul cadavere. Condannato a morte, non si difende durante il processo, estraneo al proprio caso.",
-    "release_date": "1967-10-14",
-    "vote_average": 6.764,
-    "poster_url": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg",
-    "genres": "Dramma",
-    "director": "Luchino Visconti"
-  },
-  {
     "title": "IL SILENZIO DEGLI INNOCENTI",
-    "ai_reason": "A seminal psychological thriller that remains a benchmark of the genre; Jonathan Demme's classic is an essential theatrical experience.",
+    "ai_reason": "A essential re-release of Jonathan Demme’s masterpiece; a cornerstone of the psychological thriller genre that defines cinematic excellence.",
     "cast": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine",
     "details": "Jonathan Demme sperimenta e innova il genere thriller, cambiandolo per sempre. Thriller, USA 1991. Durata 118 Minuti.",
     "cinemas": [
@@ -46,8 +23,31 @@
     "director": "Jonathan Demme"
   },
   {
+    "title": "LO STRANIERO",
+    "ai_reason": "Luchino Visconti adapting Albert Camus. This is high-brow cinema history at its most rigorous and essential.",
+    "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
+    "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:45"
+        ]
+      }
+    ],
+    "tmdb_id": 31332,
+    "tmdb_title": "Lo straniero",
+    "original_title": "Lo straniero",
+    "overview": "Dal romanzo (1942) di Albert Camus: nel 1935 ad Algeri l'impiegato Mersault uccide un arabo, accanendosi a revolverate sul cadavere. Condannato a morte, non si difende durante il processo, estraneo al proprio caso.",
+    "release_date": "1967-10-14",
+    "vote_average": 6.764,
+    "poster_url": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg",
+    "genres": "Dramma",
+    "director": "Luchino Visconti"
+  },
+  {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Directed by Kristoffer Borgli, the mind behind 'Dream Scenario', this promises the sharp, social surrealism typical of the A24/elevated genre wave.",
+    "ai_reason": "Director Kristoffer Borgli brings his signature surrealist, elevated-genre touch to a cast led by Robert Pattinson and Zendaya.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -75,14 +75,14 @@
     "original_title": "The Drama",
     "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
     "release_date": "2026-03-26",
-    "vote_average": 7.102,
+    "vote_average": 7.096,
     "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
     "genres": "Romance, Commedia, Dramma",
     "director": "Kristoffer Borgli"
   },
   {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A major cinematic event in the sci-fi genre, pairing the artistic weight of Sandra Hüller with Ryan Gosling under the direction of Lord and Miller.",
+    "ai_reason": "A major cinematic event pairing directors Lord and Miller with prestige actors Ryan Gosling and Sandra Hüller for a high-concept sci-fi.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
@@ -105,14 +105,14 @@
     "original_title": "Project Hail Mary",
     "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
     "release_date": "2026-03-15",
-    "vote_average": 8.2,
+    "vote_average": 8.23,
     "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
     "genres": "Fantascienza, Avventura",
     "director": "Phil Lord, Christopher Miller"
   },
   {
     "title": "UN ANNO DI SCUOLA",
-    "ai_reason": "Laura Samani is one of Italy's most promising contemporary auteurs; her presence marks this as a significant entry for modern Italian arthouse cinema.",
+    "ai_reason": "Laura Samani is a vital voice in contemporary Italian auteur cinema; a sensitive and stylistically refined coming-of-age portrait.",
     "cast": "Stella Wendick, Giacomo Covi, Pietro Giustolisi, Samuel Volturno",
     "details": "Da tempo non si vedeva un'adolescenza raccontata in questo modo. Un film pieno di consapevolezza e libertà. Drammatico, Italia, Francia 2025. Durata 102 Minuti.",
     "cinemas": [
@@ -142,7 +142,7 @@
   },
   {
     "title": "VITA MIA",
-    "ai_reason": "Edoardo Winspeare represents a sophisticated, localized Italian auteurism; the inclusion of the legendary Dominique Sanda confirms its prestige status.",
+    "ai_reason": "Edoardo Winspeare continues his poetic exploration of Italian identity, featuring the legendary Dominique Sanda in a meditative work.",
     "cast": "Dominique Sanda, Celeste Casciaro, Antonino Bruschetta, Ignazio Oliva",
     "details": "Winspeare amplia il suo sguardo all'Europa conservando intatta la sua sensibilità nei confronti di chi porta sullo schermo. Drammatico, Italia, Francia 2026. Durata 125 Minuti.",
     "cinemas": [
@@ -150,7 +150,7 @@
         "name": "Galleria",
         "times": [
           "15:50",
-          "20:30"
+          "21:00"
         ]
       }
     ],
@@ -163,28 +163,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m4AQCx8Guair2rADsIzyCCCSkWB.jpg",
     "genres": "Dramma, Storia",
     "director": "Edoardo Winspeare"
-  },
-  {
-    "title": "È L'ULTIMA BATTUTA?",
-    "ai_reason": "Bradley Cooper's transition into prestige, character-driven dramas suggests a high level of artistic merit and critical ambition.",
-    "cast": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper",
-    "details": "Il terzo film di Bradley Cooper è bellissimo e travolgente. Strepitosi Will Arnett e Laura Dern. Commedia, USA 2025. Durata 121 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:35"
-        ]
-      }
-    ],
-    "tmdb_id": 1140498,
-    "tmdb_title": "È l’ultima battuta?",
-    "original_title": "Is This Thing On?",
-    "overview": "Alex (Will Arnett) affronta la crisi di mezza età e un imminente divorzio, in cerca di un nuovo inizio nel mondo della stand-up comedy newyorkese, mentre Tess (Laura Dern) riflette sui sacrifici fatti per la famiglia. I due dovranno confrontarsi con la gestione condivisa dei figli, la propria identità e la possibilità che l’amore possa assumere una nuova forma.",
-    "release_date": "2025-12-19",
-    "vote_average": 6.457,
-    "poster_url": "https://image.tmdb.org/t/p/w500/duMlNVMT2Xtexc0tg93tstcJPoA.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Bradley Cooper"
   }
 ]
