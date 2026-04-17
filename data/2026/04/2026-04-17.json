@@ -1,7 +1,38 @@
 [
   {
+    "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
+    "ai_reason": "A major cinematic event in the sci-fi genre, combining the intellectual rigor of Andy Weir's source material with the prestige presence of Sandra Hüller and Ryan Gosling.",
+    "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
+    "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:10",
+          "21:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 687163,
+    "tmdb_title": "L'ultima missione: Project Hail Mary",
+    "original_title": "Project Hail Mary",
+    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+    "release_date": "2026-03-15",
+    "vote_average": 8.217,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+    "genres": "Fantascienza, Avventura",
+    "director": "Phil Lord, Christopher Miller"
+  },
+  {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Directed by Kristoffer Borgli (Sick of Myself, Dream Scenario), this is a prime example of the 'elevated genre' movement, blending psychological drama with high-prestige casting.",
+    "ai_reason": "Kristoffer Borgli, the master of surrealist social discomfort, directs a prestige cast in what promises to be a quintessential 'elevated' psychological drama.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -35,39 +66,8 @@
     "director": "Kristoffer Borgli"
   },
   {
-    "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A significant cinematic event in the hard sci-fi tradition, featuring a powerhouse duo of Ryan Gosling and Cannes favorite Sandra Hüller.",
-    "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
-    "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "17:10",
-          "21:20"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:00",
-          "21:50"
-        ]
-      }
-    ],
-    "tmdb_id": 687163,
-    "tmdb_title": "L'ultima missione: Project Hail Mary",
-    "original_title": "Project Hail Mary",
-    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
-    "release_date": "2026-03-15",
-    "vote_average": 8.217,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
-    "genres": "Fantascienza, Avventura",
-    "director": "Phil Lord, Christopher Miller"
-  },
-  {
     "title": "IL CASO 137",
-    "ai_reason": "Dominik Moll is a master of the contemporary French procedural; this is a rigorous, auteur-driven investigation into social and personal ethics.",
+    "ai_reason": "Following 'The Night of the 12th', Dominik Moll returns with a meticulous, high-brow procedural that explores the complexities of justice and institutional ethics.",
     "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
     "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
     "cinemas": [
@@ -84,14 +84,14 @@
     "original_title": "Dossier 137",
     "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
     "release_date": "2025-11-19",
-    "vote_average": 7,
+    "vote_average": 7.007,
     "poster_url": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
     "genres": "Crime, Dramma",
     "director": "Dominik Moll"
   },
   {
     "title": "LA DONNA PIÙ RICCA DEL MONDO",
-    "ai_reason": "An essential pick for any cinephile due to the presence of Isabelle Huppert, the reigning queen of high-brow arthouse drama.",
+    "ai_reason": "Isabelle Huppert, the ultimate icon of cinephile cinema, leads this sophisticated French exploration of power, wealth, and moral decay.",
     "cast": "Isabelle Huppert, Laurent Lafitte, Marina Foïs, Raphaël Personnaz",
     "details": "Un compendio esuberante - ma senza ambizione - di uno degli scandali famigliari del secolo. Drammatico, Francia, Belgio 2025. Durata 121 Minuti.",
     "cinemas": [
@@ -114,8 +114,32 @@
     "director": "Thierry Klifa"
   },
   {
+    "title": "IL DELITTO DEL 3° PIANO",
+    "ai_reason": "A stylish, Hitchcockian exercise in voyeurism and psychological tension that brilliantly blurs the boundary between fiction and reality.",
+    "cast": "Guillaume Gallienne, Laetitia Casta, Gilles Lellouche, Isabel Aimé González-Sola",
+    "details": "Una godibile e divertente ricostruzione de La finestra sul cortile. Con una scatenata Laetitia Casta. Commedia, Francia 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:10",
+          "21:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1471224,
+    "tmdb_title": "Il delitto del 3° piano",
+    "original_title": "Le Crime du 3e étage",
+    "overview": "La storia di Anna, appassionata di cinema hitchcockiano, e di suo marito Pierre, celebre autore di thriller. Vivono in un elegante palazzo borghese, immersi in una quotidianità raffinata ma logorata dalla routine. Passano le giornate a scrivere, correggere, limare parole… senza più riuscire a parlarsi davvero. Finché qualcosa cambia. Dalle finestre del loro appartamento iniziano a osservare i nuovi vicini: una coppia inquieta, nervosa, sempre sul punto di esplodere. Quello che nasce come un gioco voyeuristico si trasforma presto in un’ossessione. Una scomparsa improvvisa, un orologio macchiato di sangue, occhiali spia, rumori nel cuore della notte: ogni indizio sembra gridare che qualcosa di terribile sia avvenuto proprio lì, nell’appartamento del 3° piano. Convinti di trovarsi davanti a un vero delitto, Anna e Pierre si spingono in un’indagine pericolosa. E più si avvicinano alla verità, più il confine tra il thriller che scrivono e la vita che vivono inizia a sfumare.",
+    "release_date": "2026-03-11",
+    "vote_average": 6.48,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Piv68hegZuIwPvsh2nglwUowYi.jpg",
+    "genres": "Commedia, Dramma, Crime",
+    "director": "Rémi Bezançon"
+  },
+  {
     "title": "VITA MIA",
-    "ai_reason": "Edoardo Winspeare is a respected voice in Italian auteur cinema; this film features the legendary Dominique Sanda, adding immense prestige.",
+    "ai_reason": "Auteur Edoardo Winspeare delivers a poetic and deeply personal historical drama, standing as a significant work of contemporary Italian arthouse cinema.",
     "cast": "Dominique Sanda, Celeste Casciaro, Antonino Bruschetta, Ignazio Oliva",
     "details": "Winspeare amplia il suo sguardo all'Europa conservando intatta la sua sensibilità nei confronti di chi porta sullo schermo. Drammatico, Italia, Francia 2026. Durata 125 Minuti.",
     "cinemas": [
@@ -135,30 +159,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m4AQCx8Guair2rADsIzyCCCSkWB.jpg",
     "genres": "Dramma, Storia",
     "director": "Edoardo Winspeare"
-  },
-  {
-    "title": "IL DELITTO DEL 3° PIANO",
-    "ai_reason": "A sophisticated French exploration of Hitchcockian voyeurism that blurs the lines between thriller fiction and reality.",
-    "cast": "Guillaume Gallienne, Laetitia Casta, Gilles Lellouche, Isabel Aimé González-Sola",
-    "details": "Una godibile e divertente ricostruzione de La finestra sul cortile. Con una scatenata Laetitia Casta. Commedia, Francia 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "19:10",
-          "15:50",
-          "20:45"
-        ]
-      }
-    ],
-    "tmdb_id": 1471224,
-    "tmdb_title": "Il delitto del 3° piano",
-    "original_title": "Le Crime du 3e étage",
-    "overview": "La storia di Anna, appassionata di cinema hitchcockiano, e di suo marito Pierre, celebre autore di thriller. Vivono in un elegante palazzo borghese, immersi in una quotidianità raffinata ma logorata dalla routine. Passano le giornate a scrivere, correggere, limare parole… senza più riuscire a parlarsi davvero. Finché qualcosa cambia. Dalle finestre del loro appartamento iniziano a osservare i nuovi vicini: una coppia inquieta, nervosa, sempre sul punto di esplodere. Quello che nasce come un gioco voyeuristico si trasforma presto in un’ossessione. Una scomparsa improvvisa, un orologio macchiato di sangue, occhiali spia, rumori nel cuore della notte: ogni indizio sembra gridare che qualcosa di terribile sia avvenuto proprio lì, nell’appartamento del 3° piano. Convinti di trovarsi davanti a un vero delitto, Anna e Pierre si spingono in un’indagine pericolosa. E più si avvicinano alla verità, più il confine tra il thriller che scrivono e la vita che vivono inizia a sfumare.",
-    "release_date": "2026-03-11",
-    "vote_average": 6.48,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8Piv68hegZuIwPvsh2nglwUowYi.jpg",
-    "genres": "Commedia, Dramma, Crime",
-    "director": "Rémi Bezançon"
   }
 ]
