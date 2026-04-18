@@ -1,7 +1,7 @@
 [
   {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A major sci-fi event featuring an elite cast including Sandra Hüller and Ryan Gosling, promising a high-concept narrative of scale and intellect.",
+    "ai_reason": "A major cinematic event featuring a prestige cast and high-concept science fiction, reminiscent of the intellectual scale of Villeneuve or Nolan.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
@@ -32,7 +32,7 @@
   },
   {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Kristoffer Borgli continues his trajectory of surreal psychological satire, perfectly embodying the 'elevated genre' aesthetic associated with modern masters like Lanthimos.",
+    "ai_reason": "Directed by Kristoffer Borgli and starring Robert Pattinson, this is a prime example of the 'elevated' genre and psychological surrealism associated with the contemporary A24 school.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -63,14 +63,38 @@
     "original_title": "The Drama",
     "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
     "release_date": "2026-03-26",
-    "vote_average": 7,
+    "vote_average": 7.036,
     "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
     "genres": "Romance, Commedia, Dramma",
     "director": "Kristoffer Borgli"
   },
   {
+    "title": "LA DONNA PIÙ RICCA DEL MONDO",
+    "ai_reason": "Isabelle Huppert leads this sophisticated French character study, offering the type of rigorous, high-brow performance essential for a curated arthouse selection.",
+    "cast": "Isabelle Huppert, Laurent Lafitte, Marina Foïs, Raphaël Personnaz",
+    "details": "Un compendio esuberante - ma senza ambizione - di uno degli scandali famigliari del secolo. Drammatico, Francia, Belgio 2025. Durata 121 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:50",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1309725,
+    "tmdb_title": "La donna più ricca del mondo",
+    "original_title": "La Femme la plus riche du monde",
+    "overview": "I soldi non fanno la felicità, lo sa bene Marianne Farrère, miliardaria proprietaria della galassia Windler. Marianne 'vende' cosmetici e bellezza ma sembra aver bruciato la sua in un matrimonio di facciata e in una gabbia di cristallo che un giorno qualcuno frantuma. Il suo impero, costruito sul collaborazionismo e l'antisemitismo, è assediato da Pierre-Alain Fantin, fotografo e scrittore irriverente e adulatore. Pierre-Alain incontra Marianne ed è subito 'amore', di quelli che mordono il cuore e non lo mollano più. Vulnerabile davanti a un uomo che la fa respirare di nuovo, cambiando décor e abiti, la donna lo trattiene a colpi di assegni. Lui prende tutto e ne vuole ancora. Mentre Marianne ricopre d'oro il suo nuovo giocattolo, la famiglia si inquieta e serra i ranghi. Ma lei fa i capricci e quello che vuole. Almeno fino a quando la figlia non deciderà altrimenti.",
+    "release_date": "2025-10-29",
+    "vote_average": 6.028,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tJFj2o8k6yMM5wpaFeSkZzTVpBo.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Thierry Klifa"
+  },
+  {
     "title": "IL CASO 137",
-    "ai_reason": "Directed by César-winner Dominik Moll, this rigorous French procedural offers the intellectual depth and social commentary expected of high-brow European crime cinema.",
+    "ai_reason": "Dominik Moll, a master of the contemporary European procedural, delivers a sharp, socially-conscious crime drama with significant critical pedigree.",
     "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
     "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
     "cinemas": [
@@ -93,8 +117,33 @@
     "director": "Dominik Moll"
   },
   {
+    "title": "IL DELITTO DEL 3° PIANO",
+    "ai_reason": "A meta-cinematic exploration of voyeurism and Hitchcockian tropes that deconstructs the thriller genre through a refined European lens.",
+    "cast": "Guillaume Gallienne, Laetitia Casta, Gilles Lellouche, Isabel Aimé González-Sola",
+    "details": "Una godibile e divertente ricostruzione de La finestra sul cortile. Con una scatenata Laetitia Casta. Commedia, Francia 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:10",
+          "15:50",
+          "20:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1471224,
+    "tmdb_title": "Il delitto del 3° piano",
+    "original_title": "Le Crime du 3e étage",
+    "overview": "La storia di Anna, appassionata di cinema hitchcockiano, e di suo marito Pierre, celebre autore di thriller. Vivono in un elegante palazzo borghese, immersi in una quotidianità raffinata ma logorata dalla routine. Passano le giornate a scrivere, correggere, limare parole… senza più riuscire a parlarsi davvero. Finché qualcosa cambia. Dalle finestre del loro appartamento iniziano a osservare i nuovi vicini: una coppia inquieta, nervosa, sempre sul punto di esplodere. Quello che nasce come un gioco voyeuristico si trasforma presto in un’ossessione. Una scomparsa improvvisa, un orologio macchiato di sangue, occhiali spia, rumori nel cuore della notte: ogni indizio sembra gridare che qualcosa di terribile sia avvenuto proprio lì, nell’appartamento del 3° piano. Convinti di trovarsi davanti a un vero delitto, Anna e Pierre si spingono in un’indagine pericolosa. E più si avvicinano alla verità, più il confine tra il thriller che scrivono e la vita che vivono inizia a sfumare.",
+    "release_date": "2026-03-11",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Piv68hegZuIwPvsh2nglwUowYi.jpg",
+    "genres": "Commedia, Dramma, Crime",
+    "director": "Rémi Bezançon"
+  },
+  {
     "title": "VITA MIA",
-    "ai_reason": "A refined example of contemporary Italian auteur cinema from Edoardo Winspeare, further elevated by the presence of screen legend Dominique Sanda.",
+    "ai_reason": "Edoardo Winspeare represents authentic Italian auteur cinema, here collaborating with the legendary Dominique Sanda for a poetic, historical meditation on memory.",
     "cast": "Dominique Sanda, Celeste Casciaro, Antonino Bruschetta, Ignazio Oliva",
     "details": "Winspeare amplia il suo sguardo all'Europa conservando intatta la sua sensibilità nei confronti di chi porta sullo schermo. Drammatico, Italia, Francia 2026. Durata 125 Minuti.",
     "cinemas": [
@@ -114,29 +163,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m4AQCx8Guair2rADsIzyCCCSkWB.jpg",
     "genres": "Dramma, Storia",
     "director": "Edoardo Winspeare"
-  },
-  {
-    "title": "LA DONNA PIÙ RICCA DEL MONDO",
-    "ai_reason": "Cinephile icon Isabelle Huppert commands this prestige drama, ensuring a performance of sophisticated complexity and artistic merit.",
-    "cast": "Isabelle Huppert, Laurent Lafitte, Marina Foïs, Raphaël Personnaz",
-    "details": "Un compendio esuberante - ma senza ambizione - di uno degli scandali famigliari del secolo. Drammatico, Francia, Belgio 2025. Durata 121 Minuti.",
-    "cinemas": [
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "18:50",
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1309725,
-    "tmdb_title": "La donna più ricca del mondo",
-    "original_title": "La Femme la plus riche du monde",
-    "overview": "I soldi non fanno la felicità, lo sa bene Marianne Farrère, miliardaria proprietaria della galassia Windler. Marianne 'vende' cosmetici e bellezza ma sembra aver bruciato la sua in un matrimonio di facciata e in una gabbia di cristallo che un giorno qualcuno frantuma. Il suo impero, costruito sul collaborazionismo e l'antisemitismo, è assediato da Pierre-Alain Fantin, fotografo e scrittore irriverente e adulatore. Pierre-Alain incontra Marianne ed è subito 'amore', di quelli che mordono il cuore e non lo mollano più. Vulnerabile davanti a un uomo che la fa respirare di nuovo, cambiando décor e abiti, la donna lo trattiene a colpi di assegni. Lui prende tutto e ne vuole ancora. Mentre Marianne ricopre d'oro il suo nuovo giocattolo, la famiglia si inquieta e serra i ranghi. Ma lei fa i capricci e quello che vuole. Almeno fino a quando la figlia non deciderà altrimenti.",
-    "release_date": "2025-10-29",
-    "vote_average": 6.028,
-    "poster_url": "https://image.tmdb.org/t/p/w500/tJFj2o8k6yMM5wpaFeSkZzTVpBo.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Thierry Klifa"
   }
 ]
