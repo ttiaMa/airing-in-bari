@@ -1,0 +1,142 @@
+[
+  {
+    "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
+    "ai_reason": "A major sci-fi event featuring an elite cast including Sandra Hüller and Ryan Gosling, promising a high-concept narrative of scale and intellect.",
+    "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
+    "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:45",
+          "22:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "12:40",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 687163,
+    "tmdb_title": "L'ultima missione: Project Hail Mary",
+    "original_title": "Project Hail Mary",
+    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+    "release_date": "2026-03-15",
+    "vote_average": 8.214,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+    "genres": "Fantascienza, Avventura",
+    "director": "Phil Lord, Christopher Miller"
+  },
+  {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "Kristoffer Borgli continues his trajectory of surreal psychological satire, perfectly embodying the 'elevated genre' aesthetic associated with modern masters like Lanthimos.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:00",
+          "17:10",
+          "19:20",
+          "21:30",
+          "22:30",
+          "23:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "13:40",
+          "16:50",
+          "18:50",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia, Dramma",
+    "director": "Kristoffer Borgli"
+  },
+  {
+    "title": "IL CASO 137",
+    "ai_reason": "Directed by César-winner Dominik Moll, this rigorous French procedural offers the intellectual depth and social commentary expected of high-brow European crime cinema.",
+    "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
+    "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1294698,
+    "tmdb_title": "Il caso 137",
+    "original_title": "Dossier 137",
+    "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
+    "release_date": "2025-11-19",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
+    "genres": "Crime, Dramma",
+    "director": "Dominik Moll"
+  },
+  {
+    "title": "VITA MIA",
+    "ai_reason": "A refined example of contemporary Italian auteur cinema from Edoardo Winspeare, further elevated by the presence of screen legend Dominique Sanda.",
+    "cast": "Dominique Sanda, Celeste Casciaro, Antonino Bruschetta, Ignazio Oliva",
+    "details": "Winspeare amplia il suo sguardo all'Europa conservando intatta la sua sensibilità nei confronti di chi porta sullo schermo. Drammatico, Italia, Francia 2026. Durata 125 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1570925,
+    "tmdb_title": "Vita mia",
+    "original_title": "Vita mia",
+    "overview": "Didi, una nobildonna ungherese sopravvissuta alla guerra e al comunismo, vive nel Salento da anni, sotto la cura di Vita, una giovane pugliese. Trascorre i suoi ultimi giorni tra ricordi, sensi di colpa e amicizia in ricerca della pace.",
+    "release_date": "2026-04-09",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/m4AQCx8Guair2rADsIzyCCCSkWB.jpg",
+    "genres": "Dramma, Storia",
+    "director": "Edoardo Winspeare"
+  },
+  {
+    "title": "LA DONNA PIÙ RICCA DEL MONDO",
+    "ai_reason": "Cinephile icon Isabelle Huppert commands this prestige drama, ensuring a performance of sophisticated complexity and artistic merit.",
+    "cast": "Isabelle Huppert, Laurent Lafitte, Marina Foïs, Raphaël Personnaz",
+    "details": "Un compendio esuberante - ma senza ambizione - di uno degli scandali famigliari del secolo. Drammatico, Francia, Belgio 2025. Durata 121 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:50",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1309725,
+    "tmdb_title": "La donna più ricca del mondo",
+    "original_title": "La Femme la plus riche du monde",
+    "overview": "I soldi non fanno la felicità, lo sa bene Marianne Farrère, miliardaria proprietaria della galassia Windler. Marianne 'vende' cosmetici e bellezza ma sembra aver bruciato la sua in un matrimonio di facciata e in una gabbia di cristallo che un giorno qualcuno frantuma. Il suo impero, costruito sul collaborazionismo e l'antisemitismo, è assediato da Pierre-Alain Fantin, fotografo e scrittore irriverente e adulatore. Pierre-Alain incontra Marianne ed è subito 'amore', di quelli che mordono il cuore e non lo mollano più. Vulnerabile davanti a un uomo che la fa respirare di nuovo, cambiando décor e abiti, la donna lo trattiene a colpi di assegni. Lui prende tutto e ne vuole ancora. Mentre Marianne ricopre d'oro il suo nuovo giocattolo, la famiglia si inquieta e serra i ranghi. Ma lei fa i capricci e quello che vuole. Almeno fino a quando la figlia non deciderà altrimenti.",
+    "release_date": "2025-10-29",
+    "vote_average": 6.028,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tJFj2o8k6yMM5wpaFeSkZzTVpBo.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Thierry Klifa"
+  }
+]
