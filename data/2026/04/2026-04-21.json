@@ -1,65 +1,79 @@
 [
   {
+    "title": "PRIMA DELL'ALBA",
+    "ai_reason": "An essential theatrical re-release of Linklater’s quintessential masterpiece of independent cinema and romantic realism.",
+    "cast": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Poschl",
+    "details": "Un film alla Rohmer molto piacevole. Linklater - americano - aderisce alle sfumature del cinema europeo. Sentimentale, USA, Australia, Svizzera 1995. Durata 105 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [],
+    "tmdb_id": 76,
+    "tmdb_title": "Prima dell'alba",
+    "original_title": "Before Sunrise",
+    "overview": "Una coppia di litigiosi vicini di scompartimento inducono Celine, francese, 23 anni, di ritorno a Parigi da Budapest, a cambiare posto sul treno.",
+    "release_date": "1995-01-27",
+    "vote_average": 7.973,
+    "poster_url": "https://image.tmdb.org/t/p/w500/spq5HMRiYpVlyx3gvp0m5LtEixL.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Richard Linklater"
+  },
+  {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "A quintessential 'elevated genre' piece from Kristoffer Borgli, the mind behind 'Dream Scenario', featuring an elite arthouse-adjacent cast.",
+    "ai_reason": "Kristoffer Borgli follows 'Dream Scenario' with another anticipated slice of elevated, socially-conscious arthouse cinema.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:50",
-          "18:25",
-          "19:30",
-          "21:30",
-          "22:25"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:20",
-          "20:00"
-        ]
-      }
-    ],
+    "cinemas": [],
     "tmdb_id": 1325734,
     "tmdb_title": "The Drama - Un segreto è per sempre",
     "original_title": "The Drama",
     "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
     "release_date": "2026-03-26",
-    "vote_average": 7.029,
+    "vote_average": 7.033,
     "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
     "genres": "Romance, Commedia, Dramma",
     "director": "Kristoffer Borgli"
   },
   {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A significant cinematic event combining high-concept science fiction with the prestige of Academy Award nominee Sandra Hüller.",
+    "ai_reason": "A high-concept sci-fi event movie featuring the prestige pairing of Ryan Gosling and 'Anatomy of a Fall' star Sandra Hüller.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "21:45",
-          "20:30"
-        ]
-      }
-    ],
+    "cinemas": [],
     "tmdb_id": 687163,
     "tmdb_title": "L'ultima missione: Project Hail Mary",
     "original_title": "Project Hail Mary",
     "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
     "release_date": "2026-03-15",
-    "vote_average": 8.2,
+    "vote_average": 8.225,
     "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
     "genres": "Fantascienza, Avventura",
     "director": "Phil Lord, Christopher Miller"
   },
   {
+    "title": "LA DONNA PIÙ RICCA DEL MONDO",
+    "ai_reason": "A sophisticated French character study anchored by the peerless, high-brow screen icon Isabelle Huppert.",
+    "cast": "Isabelle Huppert, Laurent Lafitte, Marina Foïs, Raphaël Personnaz",
+    "details": "Un compendio esuberante - ma senza ambizione - di uno degli scandali famigliari del secolo. Drammatico, Francia, Belgio 2025. Durata 121 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:50",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1309725,
+    "tmdb_title": "La donna più ricca del mondo",
+    "original_title": "La Femme la plus riche du monde",
+    "overview": "I soldi non fanno la felicità, lo sa bene Marianne Farrère, miliardaria proprietaria della galassia Windler. Marianne 'vende' cosmetici e bellezza ma sembra aver bruciato la sua in un matrimonio di facciata e in una gabbia di cristallo che un giorno qualcuno frantuma. Il suo impero, costruito sul collaborazionismo e l'antisemitismo, è assediato da Pierre-Alain Fantin, fotografo e scrittore irriverente e adulatore. Pierre-Alain incontra Marianne ed è subito 'amore', di quelli che mordono il cuore e non lo mollano più. Vulnerabile davanti a un uomo che la fa respirare di nuovo, cambiando décor e abiti, la donna lo trattiene a colpi di assegni. Lui prende tutto e ne vuole ancora. Mentre Marianne ricopre d'oro il suo nuovo giocattolo, la famiglia si inquieta e serra i ranghi. Ma lei fa i capricci e quello che vuole. Almeno fino a quando la figlia non deciderà altrimenti.",
+    "release_date": "2025-10-29",
+    "vote_average": 6.028,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tJFj2o8k6yMM5wpaFeSkZzTVpBo.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Thierry Klifa"
+  },
+  {
     "title": "IL CASO 137",
-    "ai_reason": "A rigorous and intellectually stimulating work from Dominik Moll, a distinguished voice in contemporary French auteur cinema.",
+    "ai_reason": "Dominik Moll, a master of the contemporary French procedural, delivers a rigorous and auteur-driven investigation.",
     "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
     "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
     "cinemas": [
@@ -82,42 +96,11 @@
     "director": "Dominik Moll"
   },
   {
-    "title": "VITA MIA",
-    "ai_reason": "A poetic exploration of memory and history by Edoardo Winspeare, a director who embodies the authentic, non-commercial spirit of Italian auteurism.",
-    "cast": "Dominique Sanda, Celeste Casciaro, Antonino Bruschetta, Ignazio Oliva",
-    "details": "Winspeare amplia il suo sguardo all'Europa conservando intatta la sua sensibilità nei confronti di chi porta sullo schermo. Drammatico, Italia, Francia 2026. Durata 125 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "16:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1570925,
-    "tmdb_title": "Vita mia",
-    "original_title": "Vita mia",
-    "overview": "Didi, una nobildonna ungherese sopravvissuta alla guerra e al comunismo, vive nel Salento da anni, sotto la cura di Vita, una giovane pugliese. Trascorre i suoi ultimi giorni tra ricordi, sensi di colpa e amicizia in ricerca della pace.",
-    "release_date": "2026-04-09",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/m4AQCx8Guair2rADsIzyCCCSkWB.jpg",
-    "genres": "Dramma, Storia",
-    "director": "Edoardo Winspeare"
-  },
-  {
     "title": "IL DELITTO DEL 3° PIANO",
-    "ai_reason": "A sophisticated, meta-cinematic thriller that engages with Hitchcockian voyeurism through a refined French lens.",
+    "ai_reason": "A meta-cinematic psychological thriller that serves as a sophisticated homage to Hitchcockian voyeurism.",
     "cast": "Guillaume Gallienne, Laetitia Casta, Gilles Lellouche, Isabel Aimé González-Sola",
     "details": "Una godibile e divertente ricostruzione de La finestra sul cortile. Con una scatenata Laetitia Casta. Commedia, Francia 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "20:05",
-          "21:05"
-        ]
-      }
-    ],
+    "cinemas": [],
     "tmdb_id": 1471224,
     "tmdb_title": "Il delitto del 3° piano",
     "original_title": "Le Crime du 3e étage",
@@ -130,18 +113,10 @@
   },
   {
     "title": "TABÙ - EGON SCHIELE",
-    "ai_reason": "An essential documentary portrait of Egon Schiele, whose transgressive Viennese Expressionism continues to challenge and provoke.",
+    "ai_reason": "An evocative documentary exploration of Egon Schiele’s transgressive aesthetic, perfect for the art-house circuit.",
     "cast": "",
     "details": "Un documentario coraggioso che avvicina il pubblico all'umanità e al pensiero di un creatore controverso come Egon Schiele. Documentario, 2026. Durata 90 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "19:00",
-          "20:45"
-        ]
-      }
-    ],
+    "cinemas": [],
     "tmdb_id": 1657234,
     "tmdb_title": "Tabù - Egon Schiele",
     "original_title": "Tabù - Egon Schiele",
@@ -153,7 +128,19 @@
     "director": "Michele Mally"
   },
   {
-    "title": "PRIMA DEL'ALBA",
-    "ai_reason": "A seminal masterpiece of independent cinema; Linklater's exploration of transient connection remains a cornerstone of the genre."
+    "title": "LA SALITA",
+    "ai_reason": "A culturally significant drama focusing on the artistic legacy of Eduardo De Filippo, a titan of Italian theater.",
+    "cast": "Roberta Caronia, Francesco Cossu, Antonio Milo, Shalana Santana",
+    "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
+    "cinemas": [],
+    "tmdb_id": 1523111,
+    "tmdb_title": "La salita",
+    "original_title": "La salita",
+    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
+    "release_date": "2026-04-09",
+    "vote_average": 9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
+    "genres": "Dramma",
+    "director": "Massimiliano Gallo"
   }
 ]
