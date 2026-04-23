@@ -1,7 +1,7 @@
 [
   {
     "title": "RESURRECTION",
-    "ai_reason": "A mandatory experience for any cinephile, Bi Gan is a master of contemporary surrealism and dreamlike, non-linear narratives.",
+    "ai_reason": "A masterful display of contemporary surrealism from Bi Gan, one of the most visionary auteurs in modern world cinema.",
     "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
     "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
     "cinemas": [
@@ -23,31 +23,8 @@
     "director": "毕赣"
   },
   {
-    "title": "PRIMA DELL'ALBA",
-    "ai_reason": "A cornerstone of independent cinema history; Linklater's classic remains the gold standard for romantic realism.",
-    "cast": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Poschl",
-    "details": "Un film alla Rohmer molto piacevole. Linklater - americano - aderisce alle sfumature del cinema europeo. Sentimentale, USA, Australia, Svizzera 1995. Durata 105 Minuti. Consigli per la visione: Ragazzi +16",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 76,
-    "tmdb_title": "Prima dell'alba",
-    "original_title": "Before Sunrise",
-    "overview": "Una coppia di litigiosi vicini di scompartimento inducono Celine, francese, 23 anni, di ritorno a Parigi da Budapest, a cambiare posto sul treno.",
-    "release_date": "1995-01-27",
-    "vote_average": 7.973,
-    "poster_url": "https://image.tmdb.org/t/p/w500/spq5HMRiYpVlyx3gvp0m5LtEixL.jpg",
-    "genres": "Dramma, Romance",
-    "director": "Richard Linklater"
-  },
-  {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Kristoffer Borgli is the new vanguard of elevated genre; a psychological drama that promises the intellectual rigor of modern A24 productions.",
+    "ai_reason": "Kristoffer Borgli continues his exploration of psychological unease in this A24-adjacent elevated drama featuring a powerhouse cast.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -78,7 +55,7 @@
   },
   {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A major cinematic event that pairs high-concept science fiction with the prestige of Sandra Hüller and Ryan Gosling.",
+    "ai_reason": "A major cinematic event that promises high-concept science fiction with the intellectual rigor of a Villeneuve epic.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
@@ -100,31 +77,8 @@
     "director": "Phil Lord, Christopher Miller"
   },
   {
-    "title": "LA DONNA PIÙ RICCA DEL MONDO",
-    "ai_reason": "Led by the legendary Isabelle Huppert, this French production explores power and vulnerability with arthouse sophistication.",
-    "cast": "Isabelle Huppert, Laurent Lafitte, Marina Foïs, Raphaël Personnaz",
-    "details": "Un compendio esuberante - ma senza ambizione - di uno degli scandali famigliari del secolo. Drammatico, Francia, Belgio 2025. Durata 121 Minuti.",
-    "cinemas": [
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "21:15"
-        ]
-      }
-    ],
-    "tmdb_id": 1309725,
-    "tmdb_title": "La donna più ricca del mondo",
-    "original_title": "La Femme la plus riche du monde",
-    "overview": "I soldi non fanno la felicità, lo sa bene Marianne Farrère, miliardaria proprietaria della galassia Windler. Marianne 'vende' cosmetici e bellezza ma sembra aver bruciato la sua in un matrimonio di facciata e in una gabbia di cristallo che un giorno qualcuno frantuma. Il suo impero, costruito sul collaborazionismo e l'antisemitismo, è assediato da Pierre-Alain Fantin, fotografo e scrittore irriverente e adulatore. Pierre-Alain incontra Marianne ed è subito 'amore', di quelli che mordono il cuore e non lo mollano più. Vulnerabile davanti a un uomo che la fa respirare di nuovo, cambiando décor e abiti, la donna lo trattiene a colpi di assegni. Lui prende tutto e ne vuole ancora. Mentre Marianne ricopre d'oro il suo nuovo giocattolo, la famiglia si inquieta e serra i ranghi. Ma lei fa i capricci e quello che vuole. Almeno fino a quando la figlia non deciderà altrimenti.",
-    "release_date": "2025-10-29",
-    "vote_average": 6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/tJFj2o8k6yMM5wpaFeSkZzTVpBo.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Thierry Klifa"
-  },
-  {
     "title": "IL CASO 137",
-    "ai_reason": "Director Dominik Moll delivers a rigorous and intellectually stimulating French procedural in the vein of his previous acclaimed work.",
+    "ai_reason": "Dominik Moll delivers a sophisticated, high-brow crime drama that prioritizes psychological depth and artistic precision over genre tropes.",
     "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
     "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
     "cinemas": [
@@ -148,7 +102,7 @@
   },
   {
     "title": "LA PIÙ PICCOLA",
-    "ai_reason": "A refined example of contemporary French arthouse cinema, exploring identity and philosophy with delicate auteur sensitivity.",
+    "ai_reason": "A refined piece of French arthouse cinema exploring identity with the delicate touch characteristic of Hafsia Herzi’s direction.",
     "cast": "Nadia Melliti, Park Ji-min, Amina Ben Mohamed, Melissa Guers",
     "details": "Un racconto di emancipazione in un film puro e misurato che non cede al discorso militante. Drammatico, Francia, Germania 2025. Durata 106 Minuti.",
     "cinemas": [
@@ -170,38 +124,15 @@
     "director": "Hafsia Herzi"
   },
   {
-    "title": "LA SALITA",
-    "ai_reason": "An essential piece of Italian cultural history focusing on the artistic legacy of the great Eduardo De Filippo.",
-    "cast": "Roberta Caronia, Francesco Cossu, Antonio Milo, Shalana Santana",
-    "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "18:05"
-        ]
-      }
-    ],
-    "tmdb_id": 1523111,
-    "tmdb_title": "La salita",
-    "original_title": "La salita",
-    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
-    "release_date": "2026-04-09",
-    "vote_average": 9,
-    "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
-    "genres": "Dramma",
-    "director": "Massimiliano Gallo"
-  },
-  {
     "title": "IL DELITTO DEL 3° PIANO",
-    "ai_reason": "A meta-textual, Hitchcockian thriller that plays with cinematic voyeurism and the boundaries between fiction and reality.",
+    "ai_reason": "An elegant, Hitchcockian psychological thriller that plays with voyeurism and the boundaries between reality and fiction.",
     "cast": "Guillaume Gallienne, Laetitia Casta, Gilles Lellouche, Isabel Aimé González-Sola",
     "details": "Una godibile e divertente ricostruzione de La finestra sul cortile. Con una scatenata Laetitia Casta. Commedia, Francia 2026. Durata 106 Minuti.",
     "cinemas": [
       {
         "name": "Galleria",
         "times": [
-          "15:50"
+          "21:05"
         ]
       }
     ],
