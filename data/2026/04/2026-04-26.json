@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PORCO ROSSO",
+    "ai_reason": "A cornerstone of world animation by maestro Hayao Miyazaki; a prestige Ghibli classic that demands a big-screen experience.",
+    "cast": "Shuuichirou Moriyama, Akemi Okamura, Akio Ôtsuka, Tokiko Kato",
+    "details": "Dietro il divertissement, un'opera che lascia emergere il lato più politico e libertario di Miyazaki. Animazione, Giappone 1992. Durata 94 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "11:00",
+          "16:10"
+        ]
+      }
+    ],
+    "tmdb_id": 11621,
+    "tmdb_title": "Porco Rosso",
+    "original_title": "紅の豚",
+    "overview": "In quella che Miyazaki Hayao definisce “l’epoca degli idrovolanti”, Marco Pagot è un ex-pilota che si è misteriosamente ritrovato nelle mutate sembianze di un maiale antropomorfo. Con il nome di battaglia di Porco Rosso, vola alla ventura sui cieli dell’Adriatico a bordo del suo idrovolante vermiglio, sfuggendo al giogo fascista e sbarcando il lunario come cacciatore di taglie. Ma l’arrivo del pilota americano Curtis, assoldato dai Pirati del Cielo, lo costringerà a nuove battaglie per salvare il proprio onore e quello di una radiosa fanciulla, per la riconquista di un perduto amore e della fiducia nell’umanità.",
+    "release_date": "1992-07-18",
+    "vote_average": 7.796,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tf8bPa4RhARqQhZZlhBPHMRKsoV.jpg",
+    "genres": "Animazione, Avventura, Fantasy",
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "title": "RESURRECTION",
+    "ai_reason": "Visionary Chinese auteur Bi Gan returns with a surrealist, genre-bending odyssey that defines the peak of contemporary arthouse.",
+    "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
+    "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 878608,
+    "tmdb_title": "Resurrection",
+    "original_title": "狂野时代",
+    "overview": "In un mondo in cui l’umanità ha barattato la sua capacità di sognare con l’immortalità, un giovane sognatore intraprende un’odissea onirica attraverso le epoche e i generi. Una ragazza, determinata a scoprire la realtà che si nasconde tra le pieghe del sogno, lo segue nelle sue peregrinazioni.",
+    "release_date": "2025-11-22",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "毕赣"
+  },
+  {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "An elevated psychological exploration from Kristoffer Borgli, featuring an impeccable cast of modern prestige cinema icons.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:20",
+          "20:55"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:15",
+          "16:10",
+          "18:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 7.033,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia, Dramma",
+    "director": "Kristoffer Borgli"
+  },
+  {
+    "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
+    "ai_reason": "A major cinematic event combining high-concept science fiction with the gravitas of lead Sandra Hüller.",
+    "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
+    "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "12:50",
+          "20:40"
+        ]
+      }
+    ],
+    "tmdb_id": 687163,
+    "tmdb_title": "L'ultima missione: Project Hail Mary",
+    "original_title": "Project Hail Mary",
+    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+    "release_date": "2026-03-15",
+    "vote_average": 8.216,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+    "genres": "Fantascienza, Avventura",
+    "director": "Phil Lord, Christopher Miller"
+  },
+  {
+    "title": "IL CASO 137",
+    "ai_reason": "High-caliber French social-thriller by Dominik Moll, following the critical success of 'The Night of the 12th'.",
+    "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
+    "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1294698,
+    "tmdb_title": "Il caso 137",
+    "original_title": "Dossier 137",
+    "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
+    "release_date": "2025-11-19",
+    "vote_average": 6.977,
+    "poster_url": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
+    "genres": "Crime, Dramma",
+    "director": "Dominik Moll"
+  },
+  {
+    "title": "LA PIÙ PICCOLA",
+    "ai_reason": "An intimate, philosophically charged work of French arthouse cinema from the distinctive voice of Hafsia Herzi.",
+    "cast": "Nadia Melliti, Park Ji-min, Amina Ben Mohamed, Melissa Guers",
+    "details": "Un racconto di emancipazione in un film puro e misurato che non cede al discorso militante. Drammatico, Francia, Germania 2025. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 961077,
+    "tmdb_title": "La più piccola",
+    "original_title": "La Petite Dernière",
+    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
+    "release_date": "2025-10-22",
+    "vote_average": 6.833,
+    "poster_url": "https://image.tmdb.org/t/p/w500/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Hafsia Herzi"
+  }
+]
