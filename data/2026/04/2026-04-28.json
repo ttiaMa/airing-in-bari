@@ -1,0 +1,154 @@
+[
+  {
+    "title": "RESURRECTION",
+    "ai_reason": "A visionary return from Bi Gan, blending temporal surrealism with the poetic language of high-brow slow cinema. Essential for fans of avant-garde structure.",
+    "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
+    "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 878608,
+    "tmdb_title": "Resurrection",
+    "original_title": "狂野时代",
+    "overview": "In un mondo in cui l’umanità ha barattato la sua capacità di sognare con l’immortalità, un giovane sognatore intraprende un’odissea onirica attraverso le epoche e i generi. Una ragazza, determinata a scoprire la realtà che si nasconde tra le pieghe del sogno, lo segue nelle sue peregrinazioni.",
+    "release_date": "2025-11-22",
+    "vote_average": 7.008,
+    "poster_url": "https://image.tmdb.org/t/p/w500/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "毕赣"
+  },
+  {
+    "title": "UN SACCO BELLO",
+    "ai_reason": "A seminal piece of Italian cinema history; this cult classic re-release captures the bittersweet mastery of Verdone's directorial debut.",
+    "cast": "Carlo Verdone, Mario Brega, Renato Scarpa, Veronica Miriel",
+    "details": "Sei personaggi e un solo attore: Carlo Verdone. Un debutto straordinario. Commedia, Italia 1980. Durata 99 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20"
+        ]
+      }
+    ],
+    "tmdb_id": 37767,
+    "tmdb_title": "Un sacco bello",
+    "original_title": "Un sacco bello",
+    "overview": "Carlo Verdone interpreta tre personaggi diversi in una Roma ferragostana, assolata e deserta. Il film esordisce con Enzo, irriducibile ragazzo prossimo alla trentina, privo oramai d'amici. Leo, ingenuo e goffo ragazzo trasteverino che deve raggiungere la madre in vacanza a Ladispoli, incontra casualmente in strada una ragazza spagnola, Marisol, la quale è disperata perché non trova nessun albergo libero e perché tutti i musei e i monumenti sono chiusi per ferie. Terzo personaggio principale è Ruggero, che vive in una comunità di ragazzi dopo aver avuto una visione mistica; Ruggero è una sorta di hippie che professa l'amore libero e il distacco dal mondo moderno.",
+    "release_date": "1980-01-19",
+    "vote_average": 7.14,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aZF4GkVU2AN7pSHEcKqTTp8Si3.jpg",
+    "genres": "Commedia",
+    "director": "Carlo Verdone"
+  },
+  {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "Kristoffer Borgli delivers another sharp exploration of psychological discomfort, maintaining the elevated genre pedigree of his A24-adjacent work.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:50",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "18:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 7.005,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia, Dramma",
+    "director": "Kristoffer Borgli"
+  },
+  {
+    "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
+    "ai_reason": "A major cinematic event in the sci-fi canon, elevated by the casting of Sandra Hüller and the ambitious direction of Lord and Miller.",
+    "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
+    "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "20:10"
+        ]
+      }
+    ],
+    "tmdb_id": 687163,
+    "tmdb_title": "L'ultima missione: Project Hail Mary",
+    "original_title": "Project Hail Mary",
+    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+    "release_date": "2026-03-15",
+    "vote_average": 8.206,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+    "genres": "Fantascienza, Avventura",
+    "director": "Phil Lord, Christopher Miller"
+  },
+  {
+    "title": "IL CASO 137",
+    "ai_reason": "Dominik Moll provides a rigorous, socially conscious crime drama that prioritizes psychological nuance and auteur perspective over generic tropes.",
+    "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
+    "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1294698,
+    "tmdb_title": "Il caso 137",
+    "original_title": "Dossier 137",
+    "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
+    "release_date": "2025-11-19",
+    "vote_average": 6.984,
+    "poster_url": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
+    "genres": "Crime, Dramma",
+    "director": "Dominik Moll"
+  },
+  {
+    "title": "LA PIÙ PICCOLA",
+    "ai_reason": "Hafsia Herzi confirms her status as a vital voice in contemporary French arthouse cinema with this intimate and culturally layered portrait of identity.",
+    "cast": "Nadia Melliti, Park Ji-min, Amina Ben Mohamed, Melissa Guers",
+    "details": "Un racconto di emancipazione in un film puro e misurato che non cede al discorso militante. Drammatico, Francia, Germania 2025. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 961077,
+    "tmdb_title": "La più piccola",
+    "original_title": "La Petite Dernière",
+    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
+    "release_date": "2025-10-22",
+    "vote_average": 6.853,
+    "poster_url": "https://image.tmdb.org/t/p/w500/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Hafsia Herzi"
+  }
+]
