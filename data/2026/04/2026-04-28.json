@@ -1,7 +1,7 @@
 [
   {
     "title": "RESURRECTION",
-    "ai_reason": "A visionary return from Bi Gan, blending temporal surrealism with the poetic language of high-brow slow cinema. Essential for fans of avant-garde structure.",
+    "ai_reason": "A visionary, dreamlike odyssey from Bi Gan, a leading figure in contemporary surrealist and arthouse cinema.",
     "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
     "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
     "cinemas": [
@@ -23,37 +23,8 @@
     "director": "毕赣"
   },
   {
-    "title": "UN SACCO BELLO",
-    "ai_reason": "A seminal piece of Italian cinema history; this cult classic re-release captures the bittersweet mastery of Verdone's directorial debut.",
-    "cast": "Carlo Verdone, Mario Brega, Renato Scarpa, Veronica Miriel",
-    "details": "Sei personaggi e un solo attore: Carlo Verdone. Un debutto straordinario. Commedia, Italia 1980. Durata 99 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "19:20"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "19:20"
-        ]
-      }
-    ],
-    "tmdb_id": 37767,
-    "tmdb_title": "Un sacco bello",
-    "original_title": "Un sacco bello",
-    "overview": "Carlo Verdone interpreta tre personaggi diversi in una Roma ferragostana, assolata e deserta. Il film esordisce con Enzo, irriducibile ragazzo prossimo alla trentina, privo oramai d'amici. Leo, ingenuo e goffo ragazzo trasteverino che deve raggiungere la madre in vacanza a Ladispoli, incontra casualmente in strada una ragazza spagnola, Marisol, la quale è disperata perché non trova nessun albergo libero e perché tutti i musei e i monumenti sono chiusi per ferie. Terzo personaggio principale è Ruggero, che vive in una comunità di ragazzi dopo aver avuto una visione mistica; Ruggero è una sorta di hippie che professa l'amore libero e il distacco dal mondo moderno.",
-    "release_date": "1980-01-19",
-    "vote_average": 7.14,
-    "poster_url": "https://image.tmdb.org/t/p/w500/aZF4GkVU2AN7pSHEcKqTTp8Si3.jpg",
-    "genres": "Commedia",
-    "director": "Carlo Verdone"
-  },
-  {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Kristoffer Borgli delivers another sharp exploration of psychological discomfort, maintaining the elevated genre pedigree of his A24-adjacent work.",
+    "ai_reason": "Kristoffer Borgli brings his unique elevated-genre sensibility to a psychological narrative led by prestige actors Pattinson and Zendaya.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -84,7 +55,7 @@
   },
   {
     "title": "L'ULTIMA MISSIONE - PROJECT HAIL MARY",
-    "ai_reason": "A major cinematic event in the sci-fi canon, elevated by the casting of Sandra Hüller and the ambitious direction of Lord and Miller.",
+    "ai_reason": "A major cinematic event in the sci-fi genre, elevated by the presence of prestige actress Sandra Hüller.",
     "cast": "Ryan Gosling, Milana Vayntrub, Sandra Hüller, Ken Leung",
     "details": "Un'opera sci-fi sulla speranza. Che lascia spazio ai toni da favola. Fantascienza, USA 2026. Durata 156 Minuti.",
     "cinemas": [
@@ -100,14 +71,14 @@
     "original_title": "Project Hail Mary",
     "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra… ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
     "release_date": "2026-03-15",
-    "vote_average": 8.206,
+    "vote_average": 8.208,
     "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
     "genres": "Fantascienza, Avventura",
     "director": "Phil Lord, Christopher Miller"
   },
   {
     "title": "IL CASO 137",
-    "ai_reason": "Dominik Moll provides a rigorous, socially conscious crime drama that prioritizes psychological nuance and auteur perspective over generic tropes.",
+    "ai_reason": "A rigorous and critically acclaimed social thriller from Dominik Moll, one of France's most precise contemporary directors.",
     "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
     "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
     "cinemas": [
@@ -129,8 +100,60 @@
     "director": "Dominik Moll"
   },
   {
+    "title": "LA DONNA PIÙ RICCA DEL MONDO",
+    "ai_reason": "A vehicle for the incomparable Isabelle Huppert, representing the pinnacle of French prestige and high-brow character study.",
+    "cast": "Isabelle Huppert, Laurent Lafitte, Marina Foïs, Raphaël Personnaz",
+    "details": "Un compendio esuberante - ma senza ambizione - di uno degli scandali famigliari del secolo. Drammatico, Francia, Belgio 2025. Durata 121 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "21:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1309725,
+    "tmdb_title": "La donna più ricca del mondo",
+    "original_title": "La Femme la plus riche du monde",
+    "overview": "I soldi non fanno la felicità, lo sa bene Marianne Farrère, miliardaria proprietaria della galassia Windler. Marianne 'vende' cosmetici e bellezza ma sembra aver bruciato la sua in un matrimonio di facciata e in una gabbia di cristallo che un giorno qualcuno frantuma. Il suo impero, costruito sul collaborazionismo e l'antisemitismo, è assediato da Pierre-Alain Fantin, fotografo e scrittore irriverente e adulatore. Pierre-Alain incontra Marianne ed è subito 'amore', di quelli che mordono il cuore e non lo mollano più. Vulnerabile davanti a un uomo che la fa respirare di nuovo, cambiando décor e abiti, la donna lo trattiene a colpi di assegni. Lui prende tutto e ne vuole ancora. Mentre Marianne ricopre d'oro il suo nuovo giocattolo, la famiglia si inquieta e serra i ranghi. Ma lei fa i capricci e quello che vuole. Almeno fino a quando la figlia non deciderà altrimenti.",
+    "release_date": "2025-10-29",
+    "vote_average": 6.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tJFj2o8k6yMM5wpaFeSkZzTVpBo.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Thierry Klifa"
+  },
+  {
+    "title": "UN SACCO BELLO",
+    "ai_reason": "A mandatory restoration/re-release of a seminal cult classic that shaped the landscape of modern Italian cinema.",
+    "cast": "Carlo Verdone, Mario Brega, Renato Scarpa, Veronica Miriel",
+    "details": "Sei personaggi e un solo attore: Carlo Verdone. Un debutto straordinario. Commedia, Italia 1980. Durata 99 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20"
+        ]
+      }
+    ],
+    "tmdb_id": 37767,
+    "tmdb_title": "Un sacco bello",
+    "original_title": "Un sacco bello",
+    "overview": "Carlo Verdone interpreta tre personaggi diversi in una Roma ferragostana, assolata e deserta. Il film esordisce con Enzo, irriducibile ragazzo prossimo alla trentina, privo oramai d'amici. Leo, ingenuo e goffo ragazzo trasteverino che deve raggiungere la madre in vacanza a Ladispoli, incontra casualmente in strada una ragazza spagnola, Marisol, la quale è disperata perché non trova nessun albergo libero e perché tutti i musei e i monumenti sono chiusi per ferie. Terzo personaggio principale è Ruggero, che vive in una comunità di ragazzi dopo aver avuto una visione mistica; Ruggero è una sorta di hippie che professa l'amore libero e il distacco dal mondo moderno.",
+    "release_date": "1980-01-19",
+    "vote_average": 7.14,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aZF4GkVU2AN7pSHEcKqTTp8Si3.jpg",
+    "genres": "Commedia",
+    "director": "Carlo Verdone"
+  },
+  {
     "title": "LA PIÙ PICCOLA",
-    "ai_reason": "Hafsia Herzi confirms her status as a vital voice in contemporary French arthouse cinema with this intimate and culturally layered portrait of identity.",
+    "ai_reason": "Hafsia Herzi delivers an intimate, auteur-driven piece of French realism exploring complex themes of identity and devotion.",
     "cast": "Nadia Melliti, Park Ji-min, Amina Ben Mohamed, Melissa Guers",
     "details": "Un racconto di emancipazione in un film puro e misurato che non cede al discorso militante. Drammatico, Francia, Germania 2025. Durata 106 Minuti.",
     "cinemas": [
@@ -150,5 +173,28 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
     "genres": "Dramma, Romance",
     "director": "Hafsia Herzi"
+  },
+  {
+    "title": "LA SALITA",
+    "ai_reason": "A high-prestige drama that honors the artistic legacy of Eduardo De Filippo and the redemptive power of the theatrical arts.",
+    "cast": "Roberta Caronia, Francesco Cossu, Antonio Milo, Shalana Santana",
+    "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1523111,
+    "tmdb_title": "La salita",
+    "original_title": "La salita",
+    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
+    "release_date": "2026-04-09",
+    "vote_average": 9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
+    "genres": "Dramma",
+    "director": "Massimiliano Gallo"
   }
 ]
