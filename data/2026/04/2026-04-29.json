@@ -1,7 +1,30 @@
 [
   {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "A high-prestige production directed by Kristoffer Borgli (Dream Scenario), this film perfectly embodies the A24 brand of elevated, psychological deconstruction of modern relationships.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia, Dramma",
+    "director": "Kristoffer Borgli"
+  },
+  {
     "title": "RESURRECTION",
-    "ai_reason": "Bi Gan is a visionary of contemporary surrealism; this dream-like sci-fi odyssey is a mandatory experience for those seeking the cutting edge of global arthouse cinema.",
+    "ai_reason": "A major cinematic event for cinephiles; Bi Gan is a master of surrealism and dream-narratives, making this genre-bending sci-fi a must-watch for those seeking visual poetry.",
     "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
     "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
     "cinemas": [
@@ -23,32 +46,8 @@
     "director": "毕赣"
   },
   {
-    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Helmed by Kristoffer Borgli, the mind behind 'Dream Scenario', this production epitomizes the 'elevated genre' movement with its psychological depth and high-prestige casting.",
-    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
-    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "15:50",
-          "21:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1325734,
-    "tmdb_title": "The Drama - Un segreto è per sempre",
-    "original_title": "The Drama",
-    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
-    "release_date": "2026-03-26",
-    "vote_average": 7.013,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
-    "genres": "Romance, Commedia, Dramma",
-    "director": "Kristoffer Borgli"
-  },
-  {
     "title": "IL CASO 137",
-    "ai_reason": "Dominik Moll is a master of the sophisticated European thriller; this critically acclaimed procedural offers a nuanced and intellectually rigorous look at contemporary social tensions.",
+    "ai_reason": "Directed by Dominik Moll, an essential voice in contemporary European cinema, this is a rigorous, high-brow social thriller that transcends the crime genre.",
     "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
     "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
     "cinemas": [
@@ -69,5 +68,28 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
     "genres": "Crime, Dramma",
     "director": "Dominik Moll"
+  },
+  {
+    "title": "LA PIÙ PICCOLA",
+    "ai_reason": "A quintessential piece of French arthouse cinema that explores identity and tradition through a sophisticated, philosophical lens.",
+    "cast": "Nadia Melliti, Park Ji-min, Amina Ben Mohamed, Melissa Guers",
+    "details": "Un racconto di emancipazione in un film puro e misurato che non cede al discorso militante. Drammatico, Francia, Germania 2025. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 961077,
+    "tmdb_title": "La più piccola",
+    "original_title": "La Petite Dernière",
+    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
+    "release_date": "2025-10-22",
+    "vote_average": 6.844,
+    "poster_url": "https://image.tmdb.org/t/p/w500/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Hafsia Herzi"
   }
 ]
