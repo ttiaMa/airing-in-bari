@@ -1,0 +1,73 @@
+[
+  {
+    "title": "RESURRECTION",
+    "ai_reason": "Bi Gan is a visionary of contemporary surrealism; this dream-like sci-fi odyssey is a mandatory experience for those seeking the cutting edge of global arthouse cinema.",
+    "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
+    "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 878608,
+    "tmdb_title": "Resurrection",
+    "original_title": "狂野时代",
+    "overview": "In un mondo in cui l’umanità ha barattato la sua capacità di sognare con l’immortalità, un giovane sognatore intraprende un’odissea onirica attraverso le epoche e i generi. Una ragazza, determinata a scoprire la realtà che si nasconde tra le pieghe del sogno, lo segue nelle sue peregrinazioni.",
+    "release_date": "2025-11-22",
+    "vote_average": 7.09,
+    "poster_url": "https://image.tmdb.org/t/p/w500/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "毕赣"
+  },
+  {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "Helmed by Kristoffer Borgli, the mind behind 'Dream Scenario', this production epitomizes the 'elevated genre' movement with its psychological depth and high-prestige casting.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:50",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 7.013,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia, Dramma",
+    "director": "Kristoffer Borgli"
+  },
+  {
+    "title": "IL CASO 137",
+    "ai_reason": "Dominik Moll is a master of the sophisticated European thriller; this critically acclaimed procedural offers a nuanced and intellectually rigorous look at contemporary social tensions.",
+    "cast": "Léa Drucker, Jonathan Turnbull, Solan Machado Graner, Sandra Colombo",
+    "details": "La polarizzazione tra polizia e società civile in un film che mantiene la purezza narrativa rifiutando ogni faziosità. Thriller, Francia 2025. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1294698,
+    "tmdb_title": "Il caso 137",
+    "original_title": "Dossier 137",
+    "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
+    "release_date": "2025-11-19",
+    "vote_average": 6.984,
+    "poster_url": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
+    "genres": "Crime, Dramma",
+    "director": "Dominik Moll"
+  }
+]
