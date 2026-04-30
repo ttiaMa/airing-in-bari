@@ -1,7 +1,7 @@
 [
   {
     "title": "RESURRECTION",
-    "ai_reason": "A highly anticipated return from Bi Gan, a master of modern surrealism and temporal fluidity. This is essential viewing for any serious cinephile seeking a dream-like, elevated genre experience.",
+    "ai_reason": "Bi Gan returns with a transcendental, surrealist odyssey that pushes the boundaries of arthouse cinema and dream-logic narrative.",
     "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
     "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
     "cinemas": [
@@ -23,8 +23,31 @@
     "director": "毕赣"
   },
   {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "Kristoffer Borgli directs this high-concept psychological exploration, featuring a prestige cast in what promises to be a quintessential 'elevated' cinematic event.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "00:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 7.009,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia, Dramma",
+    "director": "Kristoffer Borgli"
+  },
+  {
     "title": "KOKUHO - IL MAESTRO DI KABUKI",
-    "ai_reason": "A prestige piece of international cinema exploring the rigorous discipline of Kabuki. Under Sang-il Lee's direction, this represents a sophisticated study of cultural artistry and legacy.",
+    "ai_reason": "A meticulous and visually stunning character study of traditional Kabuki art, representing the pinnacle of contemporary international arthouse.",
     "cast": "Ryô Yoshizawa, Ryûsei Yokohama, Mitsuki Takahata, Shinobu Terajima",
     "details": "Un mélo storico di grande respiro che riflette sul vedere e sull'essere visti. Drammatico, Giappone 2025. Durata 174 Minuti.",
     "cinemas": [
@@ -44,5 +67,54 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xxoJMdnlzWFenlCujMSqSdm7Bg1.jpg",
     "genres": "Dramma",
     "director": "李相日"
+  },
+  {
+    "title": "NEL TEPORE DEL BALLO",
+    "ai_reason": "A significant work from a master of Italian cinema, Pupi Avati, exploring themes of fall and redemption through an auteur's lens.",
+    "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
+    "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "10:50",
+          "16:10",
+          "18:15",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1312390,
+    "tmdb_title": "Nel tepore del ballo",
+    "original_title": "Nel tepore del ballo",
+    "overview": "Il film racconta la parabola umana e sentimentale di Gianni Riccio (Massimo Ghini) conduttore televisivo di successo travolto da uno scandalo giudiziario che lo costringe a rimettere in discussione tutta la sua esistenza.  Una storia di caduta e rinascita, dove il ritorno alle origini e l’incontro con un amore passato si intrecciano con la riscoperta di sé.",
+    "release_date": "2026-04-30",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
+    "genres": "Dramma",
+    "director": "Pupi Avati"
+  },
+  {
+    "title": "UN POETA",
+    "ai_reason": "A sophisticated, bitter comedy from a Cannes-winning filmmaker that offers a sharp critique of modern disillusionment.",
+    "cast": "Ubeimar Rios, Rebeca Andrade, Guillermo Cardona, Alisson Correa",
+    "details": "Simon Mesa Soto al secondo lungometraggio dirige una commedia amara sui sogni infranti e sul cinismo imperante. Commedia, Colombia, Germania, Svezia 2025. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "20:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1465563,
+    "tmdb_title": "Un poeta",
+    "original_title": "Un poeta",
+    "overview": "",
+    "release_date": "2025-08-28",
+    "vote_average": 7.817,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Simón Mesa Soto"
   }
 ]
