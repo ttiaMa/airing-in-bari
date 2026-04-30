@@ -1,0 +1,48 @@
+[
+  {
+    "title": "RESURRECTION",
+    "ai_reason": "A highly anticipated return from Bi Gan, a master of modern surrealism and temporal fluidity. This is essential viewing for any serious cinephile seeking a dream-like, elevated genre experience.",
+    "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
+    "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 878608,
+    "tmdb_title": "Resurrection",
+    "original_title": "狂野时代",
+    "overview": "In un mondo in cui l’umanità ha barattato la sua capacità di sognare con l’immortalità, un giovane sognatore intraprende un’odissea onirica attraverso le epoche e i generi. Una ragazza, determinata a scoprire la realtà che si nasconde tra le pieghe del sogno, lo segue nelle sue peregrinazioni.",
+    "release_date": "2025-11-22",
+    "vote_average": 7.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "毕赣"
+  },
+  {
+    "title": "KOKUHO - IL MAESTRO DI KABUKI",
+    "ai_reason": "A prestige piece of international cinema exploring the rigorous discipline of Kabuki. Under Sang-il Lee's direction, this represents a sophisticated study of cultural artistry and legacy.",
+    "cast": "Ryô Yoshizawa, Ryûsei Yokohama, Mitsuki Takahata, Shinobu Terajima",
+    "details": "Un mélo storico di grande respiro che riflette sul vedere e sull'essere visti. Drammatico, Giappone 2025. Durata 174 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "17:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1379266,
+    "tmdb_title": "Kokuho - Il maestro di Kabuki",
+    "original_title": "国宝",
+    "overview": "Il giovane Kikuo (Soya Kurokawa), figlio di un boss della yakuza, si fa notare durante un banchetto a Nagasaki esibendosi in un ruolo femminile kabuki. Tra gli ospiti lo nota l'attore kabuki Hanjiro Hanai (Ken Watanabe), che riconosce immediatamente il talento del quattordicenne. Dopo la morte del padre di Kikuo, Hanjiro accoglie il ragazzo con sé e si trasferisce con lui a Osaka. Lì, Kikuo cresce insieme al figlio di Hanjiro, Shunsuke (Keitatsu Koshiyama). Nonostante le loro diverse origini, i due stringono una forte amicizia, mentre vengono formati insieme sotto la guida di Hanjiro. Solo uno di loro però diventerà il più grande maestro del kabuki della sua epoca.",
+    "release_date": "2025-06-06",
+    "vote_average": 7.944,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xxoJMdnlzWFenlCujMSqSdm7Bg1.jpg",
+    "genres": "Dramma",
+    "director": "李相日"
+  }
+]
