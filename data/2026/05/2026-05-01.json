@@ -1,7 +1,7 @@
 [
   {
     "title": "RESURRECTION",
-    "ai_reason": "A visionary return for Bi Gan, crafting a surrealist sci-fi odyssey that challenges the boundaries of oniric arthouse cinema.",
+    "ai_reason": "A visionary return for Bi Gan, the master of contemporary surrealism, offering a high-concept arthouse odyssey through dreams and immortality.",
     "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
     "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
     "cinemas": [
@@ -23,31 +23,8 @@
     "director": "毕赣"
   },
   {
-    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Kristoffer Borgli delivers another sharp piece of elevated genre, dissecting modern relationships with psychological precision and prestige casting.",
-    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
-    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "00:35"
-        ]
-      }
-    ],
-    "tmdb_id": 1325734,
-    "tmdb_title": "The Drama - Un segreto è per sempre",
-    "original_title": "The Drama",
-    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
-    "release_date": "2026-03-26",
-    "vote_average": 7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
-    "genres": "Romance, Commedia, Dramma",
-    "director": "Kristoffer Borgli"
-  },
-  {
     "title": "KOKUHO - IL MAESTRO DI KABUKI",
-    "ai_reason": "A prestige exploration of Kabuki art, this production represents the height of culturally significant and artistically rigorous world cinema.",
+    "ai_reason": "A meticulous prestige drama from Sang-il Lee, capturing the discipline and soul of traditional Japanese Kabuki through a rigorous auteur lens.",
     "cast": "Ryô Yoshizawa, Ryûsei Yokohama, Mitsuki Takahata, Shinobu Terajima",
     "details": "Un mélo storico di grande respiro che riflette sul vedere e sull'essere visti. Drammatico, Giappone 2025. Durata 174 Minuti.",
     "cinemas": [
@@ -63,14 +40,14 @@
     "original_title": "国宝",
     "overview": "Il giovane Kikuo (Soya Kurokawa), figlio di un boss della yakuza, si fa notare durante un banchetto a Nagasaki esibendosi in un ruolo femminile kabuki. Tra gli ospiti lo nota l'attore kabuki Hanjiro Hanai (Ken Watanabe), che riconosce immediatamente il talento del quattordicenne. Dopo la morte del padre di Kikuo, Hanjiro accoglie il ragazzo con sé e si trasferisce con lui a Osaka. Lì, Kikuo cresce insieme al figlio di Hanjiro, Shunsuke (Keitatsu Koshiyama). Nonostante le loro diverse origini, i due stringono una forte amicizia, mentre vengono formati insieme sotto la guida di Hanjiro. Solo uno di loro però diventerà il più grande maestro del kabuki della sua epoca.",
     "release_date": "2025-06-06",
-    "vote_average": 7.945,
+    "vote_average": 7.9,
     "poster_url": "https://image.tmdb.org/t/p/w500/xxoJMdnlzWFenlCujMSqSdm7Bg1.jpg",
     "genres": "Dramma",
     "director": "李相日"
   },
   {
     "title": "NEL TEPORE DEL BALLO",
-    "ai_reason": "Master Pupi Avati returns to the screen with a poignant, auteur-driven drama, far removed from the banality of mainstream Italian comedy.",
+    "ai_reason": "A late-career reflective drama by Pupi Avati, a cornerstone of Italian auteur cinema, exploring the depths of memory and redemption.",
     "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
     "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
     "cinemas": [
@@ -92,5 +69,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
     "genres": "Dramma",
     "director": "Pupi Avati"
+  },
+  {
+    "title": "YELLOW LETTERS",
+    "ai_reason": "A sophisticated, high-stakes study of artistic integrity and survival from acclaimed director İlker Çatak.",
+    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
+    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1315657,
+    "tmdb_title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "release_date": "2026-03-05",
+    "vote_average": 7.519,
+    "poster_url": "https://image.tmdb.org/t/p/w500/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "genres": "Dramma",
+    "director": "İlker Çatak"
   }
 ]
