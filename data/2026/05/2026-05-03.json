@@ -1,7 +1,7 @@
 [
   {
     "title": "RESURRECTION",
-    "ai_reason": "From the visionary director of 'Long Day's Journey into Night', Bi Gan returns with a high-concept, dream-like odyssey that defines contemporary surrealist mastery.",
+    "ai_reason": "A visionary work from Bi Gan, blending sci-fi with surrealist arthouse sensibilities in a dreamlike cinematic odyssey.",
     "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
     "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
     "cinemas": [
@@ -24,7 +24,7 @@
   },
   {
     "title": "SUICIDE CLUB",
-    "ai_reason": "A seminal piece of Japanese transgressive cinema from cult auteur Sion Sono, offering a surreal and visceral critique of modern social alienation.",
+    "ai_reason": "Sion Sono's transgressive cult masterpiece; a visceral, provocative pillar of modern Japanese cinema.",
     "cast": "Ryo Ishibashi, Masatoshi Nagase, Mai Hosho, Tamao Satô",
     "details": "Un'opera perturbante che fa sollevare domande allo spettatore. Anche sul presente. Horror, Giappone 2001. Durata 99 Minuti.",
     "cinemas": [
@@ -47,7 +47,7 @@
   },
   {
     "title": "KOKUHO - IL MAESTRO DI KABUKI",
-    "ai_reason": "A meticulously crafted prestige drama by Lee Sang-il that explores the soul of traditional Japanese performance through a refined and high-brow lens.",
+    "ai_reason": "A high-prestige epic exploring the intersection of tradition and artistry from acclaimed director Sang-il Lee.",
     "cast": "Ryô Yoshizawa, Ryûsei Yokohama, Mitsuki Takahata, Shinobu Terajima",
     "details": "Un mélo storico di grande respiro che riflette sul vedere e sull'essere visti. Drammatico, Giappone 2025. Durata 174 Minuti.",
     "cinemas": [
@@ -69,8 +69,33 @@
     "director": "李相日"
   },
   {
+    "title": "YELLOW LETTERS",
+    "ai_reason": "An intellectual and poignant look at the struggle for artistic integrity from rising arthouse director İlker Çatak.",
+    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
+    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1315657,
+    "tmdb_title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "release_date": "2026-03-05",
+    "vote_average": 7.446,
+    "poster_url": "https://image.tmdb.org/t/p/w500/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "genres": "Dramma",
+    "director": "İlker Çatak"
+  },
+  {
     "title": "NEL TEPORE DEL BALLO",
-    "ai_reason": "A late-career work from the legendary Italian maestro Pupi Avati, prioritizing human fragility and melancholic introspection over commercial artifice.",
+    "ai_reason": "A poignant drama from Pupi Avati, one of Italian cinema’s enduring maestri, exploring the fragility of success and memory.",
     "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
     "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
     "cinemas": [
@@ -92,28 +117,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
     "genres": "Dramma",
     "director": "Pupi Avati"
-  },
-  {
-    "title": "FINALE: ALLEGRO",
-    "ai_reason": "A sophisticated example of independent Italian arthouse cinema, focusing on the intersection of memory, aging, and artistic interiority.",
-    "cast": "Barbara Bouchet, Anna Bonasso, Luigi Diberti, Nutsa Khubulava",
-    "details": "Emanuela Piovano prosegue il suo percorso autoriale verso il racconto di un'umanità che il cinema spesso ignora. Drammatico, Italia 2026. Durata 113 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "18:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1657991,
-    "tmdb_title": "Finale: Allegro",
-    "original_title": "Finale: Allegro",
-    "overview": "Karina ha avuto successo, amori difficili e una vita intensa. Ora vive sola con il suo pianoforte e il gatto Veleno, convinta di aver già deciso cosa fare del tempo che le resta. Ma il passato torna a bussare, una giovane collaboratrice domestica entra nella sua quotidianità, e l’amore impossibile per Elena chiede ancora spazio. Tra imprevisti e piccoli tradimenti, Karina scopre che anche a un passo dal finale può esistere un nuovo inizio.",
-    "release_date": "2026-04-09",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/fLI6FbCh1fcfRr1FiPljQNJZF1X.jpg",
-    "genres": "Dramma",
-    "director": "Emanuela Piovano"
   }
 ]
