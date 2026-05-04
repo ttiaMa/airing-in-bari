@@ -1,0 +1,105 @@
+[
+  {
+    "title": "LO STRANIERO",
+    "ai_reason": "Luchino Visconti's magisterial adaptation of Camus is a cornerstone of European intellectual cinema and a definitive classic.",
+    "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
+    "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 31332,
+    "tmdb_title": "Lo straniero",
+    "original_title": "Lo straniero",
+    "overview": "Dal romanzo (1942) di Albert Camus: nel 1935 ad Algeri l'impiegato Mersault uccide un arabo, accanendosi a revolverate sul cadavere. Condannato a morte, non si difende durante il processo, estraneo al proprio caso.",
+    "release_date": "1967-10-14",
+    "vote_average": 6.796,
+    "poster_url": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg",
+    "genres": "Dramma",
+    "director": "Luchino Visconti"
+  },
+  {
+    "title": "EYES WIDE SHUT",
+    "ai_reason": "Stanley Kubrick's final masterpiece is an essential, dream-like exploration of the subconscious and a monumental event in cinema history.",
+    "cast": "Nicole Kidman, Tom Cruise, Madison Eginton, Jackie Sawiris",
+    "details": "Beatificato a priori, questo film ha chiuso tre parabole: ricerca, carriera e vita. Drammatico, Gran Bretagna, USA 1999. Durata 160 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:30",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 345,
+    "tmdb_title": "Eyes Wide Shut",
+    "original_title": "Eyes Wide Shut",
+    "overview": "Belli, ricchi e apparentemente felici, William e Alice Hartford sono ad un veglione a casa di amici; lei balla con un uomo che le fa una corte discreta ma serrata, lui flirta con alcune ragazze. Ancora sotto l'effetto della festa, alcuni giorni dopo Alice e William cominciano un pericoloso gioco della verità. Scioccato dalle rivelazioni di Alice, William esce ed inizia una peregrinazione per la città che lo porterà a scoprire nuovi mondi, persone insolite e soprattutto qualcosa di sé... e di Alice.",
+    "release_date": "1999-07-16",
+    "vote_average": 7.486,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yTCzjCDtdZDNE1lHiJ2gGylyMcX.jpg",
+    "genres": "Dramma, Thriller, Mistero",
+    "director": "Stanley Kubrick"
+  },
+  {
+    "title": "LA BALIA",
+    "ai_reason": "A piercing psychological study by Marco Bellocchio, one of Italy's most significant and enduring auteurs.",
+    "cast": "Michele Placido, Fabrizio Bentivoglio, Valeria Bruni Tedeschi, Jacqueline Lustig",
+    "details": "Drammatico, Italia 1999. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 188117,
+    "tmdb_title": "La balia",
+    "original_title": "La balia",
+    "overview": "Il dottor Mori, neuropsichiatra silenzioso e isolato, è sposato con Vittoria. La loro esistenza sembra serena, ma la nascita di un bambino fa esplodere la crisi. Il neonato rifiuta il latte materno e questo provoca in Vittoria una sorta di rifiuto del figlio. Mori è costretto ad assumere Annetta una balia dal carattere istintivo e che farà sprofondare in una crisi profonda Vittoria.",
+    "release_date": "1999-05-21",
+    "vote_average": 6.591,
+    "poster_url": "https://image.tmdb.org/t/p/w500/pS9HGJWbZzQrW6krv6XRIQ2MUwB.jpg",
+    "genres": "Dramma",
+    "director": "Marco Bellocchio"
+  },
+  {
+    "title": "NEL TEPORE DEL BALLO",
+    "ai_reason": "A melancholic and sophisticated work from Pupi Avati, a veteran maestro of Italian auteur cinema.",
+    "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
+    "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:10",
+          "18:15",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1312390,
+    "tmdb_title": "Nel tepore del ballo",
+    "original_title": "Nel tepore del ballo",
+    "overview": "Il film racconta la parabola umana e sentimentale di Gianni Riccio (Massimo Ghini) conduttore televisivo di successo travolto da uno scandalo giudiziario che lo costringe a rimettere in discussione tutta la sua esistenza.  Una storia di caduta e rinascita, dove il ritorno alle origini e l’incontro con un amore passato si intrecciano con la riscoperta di sé.",
+    "release_date": "2026-04-30",
+    "vote_average": 6.667,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
+    "genres": "Dramma",
+    "director": "Pupi Avati"
+  }
+]
