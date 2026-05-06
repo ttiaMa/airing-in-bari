@@ -1,14 +1,14 @@
 [
   {
     "title": "EYES WIDE SHUT",
-    "ai_reason": "A seminal final masterpiece by Stanley Kubrick; this essential classic is a masterclass in psychological tension and surrealist visual storytelling.",
+    "ai_reason": "An essential Kubrick masterpiece and a definitive pillar of psychological cinema history.",
     "cast": "Nicole Kidman, Tom Cruise, Madison Eginton, Jackie Sawiris",
     "details": "Beatificato a priori, questo film ha chiuso tre parabole: ricerca, carriera e vita. Drammatico, Gran Bretagna, USA 1999. Durata 160 Minuti. Consigli per la visione: Ragazzi +16",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "20:30"
+          "18:00"
         ]
       },
       {
@@ -23,14 +23,14 @@
     "original_title": "Eyes Wide Shut",
     "overview": "Belli, ricchi e apparentemente felici, William e Alice Hartford sono ad un veglione a casa di amici; lei balla con un uomo che le fa una corte discreta ma serrata, lui flirta con alcune ragazze. Ancora sotto l'effetto della festa, alcuni giorni dopo Alice e William cominciano un pericoloso gioco della verità. Scioccato dalle rivelazioni di Alice, William esce ed inizia una peregrinazione per la città che lo porterà a scoprire nuovi mondi, persone insolite e soprattutto qualcosa di sé... e di Alice.",
     "release_date": "1999-07-16",
-    "vote_average": 7.5,
+    "vote_average": 7.486,
     "poster_url": "https://image.tmdb.org/t/p/w500/yTCzjCDtdZDNE1lHiJ2gGylyMcX.jpg",
     "genres": "Dramma, Thriller, Mistero",
     "director": "Stanley Kubrick"
   },
   {
     "title": "RESURRECTION",
-    "ai_reason": "Bi Gan is a titan of contemporary arthouse cinema; this surrealist odyssey is a mandatory watch for lovers of poetic and dreamlike narrative structures.",
+    "ai_reason": "A visionary surrealist odyssey from Bi Gan, the contemporary master of dreamlike arthouse.",
     "cast": "Jackson Yee, Qi Shu, Mark Chao, Gengxi Li, Jue Huang",
     "details": "Un romantico e ambiziosissimo viaggio che prova a digerire e risputare un secolo abbondante di cinema. Drammatico, Cina 2025. Durata 160 Minuti.",
     "cinemas": [
@@ -53,7 +53,7 @@
   },
   {
     "title": "KOKUHO - IL MAESTRO DI KABUKI",
-    "ai_reason": "A prestigious international production from Lee Sang-il exploring the refined world of Kabuki; a perfect example of high-culture cinematic craftsmanship.",
+    "ai_reason": "A prestigious and visually rich examination of Japanese heritage from acclaimed director Lee Sang-il.",
     "cast": "Ryô Yoshizawa, Ryûsei Yokohama, Mitsuki Takahata, Shinobu Terajima",
     "details": "Un mélo storico di grande respiro che riflette sul vedere e sull'essere visti. Drammatico, Giappone 2025. Durata 174 Minuti.",
     "cinemas": [
@@ -75,33 +75,8 @@
     "director": "李相日"
   },
   {
-    "title": "YELLOW LETTERS",
-    "ai_reason": "Directed by acclaimed auteur İlker Çatak, this is a sophisticated social drama that examines the integrity of art under political and personal pressure.",
-    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
-    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "16:30",
-          "18:45",
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1315657,
-    "tmdb_title": "Yellow Letters",
-    "original_title": "Gelbe Briefe",
-    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
-    "release_date": "2026-03-05",
-    "vote_average": 7.419,
-    "poster_url": "https://image.tmdb.org/t/p/w500/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
-    "genres": "Dramma",
-    "director": "İlker Çatak"
-  },
-  {
     "title": "NEL TEPORE DEL BALLO",
-    "ai_reason": "A work by a recognized maestro of Italian auteur cinema, Pupi Avati, offering a melancholic and deeply humanistic character study.",
+    "ai_reason": "A poignant new work from Pupi Avati, one of the true living masters of Italian auteur cinema.",
     "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
     "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
     "cinemas": [
@@ -123,5 +98,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
     "genres": "Dramma",
     "director": "Pupi Avati"
+  },
+  {
+    "title": "YELLOW LETTERS",
+    "ai_reason": "Sophisticated arthouse drama from İlker Çatak that explores the friction between artistic integrity and survival.",
+    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
+    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1315657,
+    "tmdb_title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "release_date": "2026-03-05",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "genres": "Dramma",
+    "director": "İlker Çatak"
   }
 ]
