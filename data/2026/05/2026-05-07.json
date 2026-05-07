@@ -1,0 +1,74 @@
+[
+  {
+    "title": "NEL TEPORE DEL BALLO",
+    "ai_reason": "A veteran work from the Italian maestro Pupi Avati, whose distinct auteur voice remains essential for any student of national cinema.",
+    "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
+    "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1312390,
+    "tmdb_title": "Nel tepore del ballo",
+    "original_title": "Nel tepore del ballo",
+    "overview": "Il film racconta la parabola umana e sentimentale di Gianni Riccio (Massimo Ghini) conduttore televisivo di successo travolto da uno scandalo giudiziario che lo costringe a rimettere in discussione tutta la sua esistenza.  Una storia di caduta e rinascita, dove il ritorno alle origini e l’incontro con un amore passato si intrecciano con la riscoperta di sé.",
+    "release_date": "2026-04-30",
+    "vote_average": 6.571,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
+    "genres": "Dramma",
+    "director": "Pupi Avati"
+  },
+  {
+    "title": "YELLOW LETTERS",
+    "ai_reason": "A compelling piece of contemporary arthouse cinema by İlker Çatak, exploring the moral and existential dilemmas of artists under systemic pressure.",
+    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
+    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1315657,
+    "tmdb_title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "release_date": "2026-03-05",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "genres": "Dramma",
+    "director": "İlker Çatak"
+  },
+  {
+    "title": "NOI DUE SCONOSCIUTI",
+    "ai_reason": "A prestige psychological drama from Susanne Bier, highlighting her mastery in dissecting the intricacies of grief and human connection.",
+    "cast": "Lisa Loven Kongsli, Herbert Nordrum, Rolf Kristian Larsen, Nasrin Khusrawi",
+    "details": "Dramma e commedia sentimentale si mescolano in un'indagine avvincente che racconta un aspetto poco trattato della maternità. Commedia, Norvegia, Lettonia, Lituania, Danimarca, Finlandia 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:30",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 3877,
+    "tmdb_title": "Noi due sconosciuti",
+    "original_title": "Things We Lost in the Fire",
+    "overview": "Dopo la tragica scomparsa del marito, la vita di Audrey Burke e dei suoi due figli é molto brutta e triste. La donna decide così di chiedere al migliore amico di suo marito, un avvocato con alle spalle dei problemi di droga, di trasferirsi da loro per aiutarsi reciprocamente a superare le difficoltà che entrambi stanno attraversando...",
+    "release_date": "2007-09-26",
+    "vote_average": 6.6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tTMj7mshcRhjekIzPMmkP8lw0f5.jpg",
+    "genres": "Dramma",
+    "director": "Susanne Bier"
+  }
+]
