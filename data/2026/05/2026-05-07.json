@@ -1,30 +1,7 @@
 [
   {
-    "title": "NEL TEPORE DEL BALLO",
-    "ai_reason": "A veteran work from the Italian maestro Pupi Avati, whose distinct auteur voice remains essential for any student of national cinema.",
-    "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
-    "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "18:25"
-        ]
-      }
-    ],
-    "tmdb_id": 1312390,
-    "tmdb_title": "Nel tepore del ballo",
-    "original_title": "Nel tepore del ballo",
-    "overview": "Il film racconta la parabola umana e sentimentale di Gianni Riccio (Massimo Ghini) conduttore televisivo di successo travolto da uno scandalo giudiziario che lo costringe a rimettere in discussione tutta la sua esistenza.  Una storia di caduta e rinascita, dove il ritorno alle origini e l’incontro con un amore passato si intrecciano con la riscoperta di sé.",
-    "release_date": "2026-04-30",
-    "vote_average": 6.571,
-    "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
-    "genres": "Dramma",
-    "director": "Pupi Avati"
-  },
-  {
     "title": "YELLOW LETTERS",
-    "ai_reason": "A compelling piece of contemporary arthouse cinema by İlker Çatak, exploring the moral and existential dilemmas of artists under systemic pressure.",
+    "ai_reason": "A poignant arthouse exploration of artistic integrity and political exile from Oscar-nominated director İlker Çatak.",
     "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
     "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
     "cinemas": [
@@ -48,8 +25,54 @@
     "director": "İlker Çatak"
   },
   {
+    "title": "NEL TEPORE DEL BALLO",
+    "ai_reason": "A new melancholic vision from Pupi Avati, one of the foundational maestros of Italian auteur cinema.",
+    "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
+    "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1312390,
+    "tmdb_title": "Nel tepore del ballo",
+    "original_title": "Nel tepore del ballo",
+    "overview": "Il film racconta la parabola umana e sentimentale di Gianni Riccio (Massimo Ghini) conduttore televisivo di successo travolto da uno scandalo giudiziario che lo costringe a rimettere in discussione tutta la sua esistenza.  Una storia di caduta e rinascita, dove il ritorno alle origini e l’incontro con un amore passato si intrecciano con la riscoperta di sé.",
+    "release_date": "2026-04-30",
+    "vote_average": 6.571,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
+    "genres": "Dramma",
+    "director": "Pupi Avati"
+  },
+  {
+    "title": "ANTARTICA - QUASI UNA FIABA",
+    "ai_reason": "A cerebral, isolated character study featuring the elite of Italian talent, including Silvio Orlando and Barbara Ronchi.",
+    "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
+    "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1438958,
+    "tmdb_title": "Antartica - Quasi una fiaba",
+    "original_title": "Antartica - Quasi una fiaba",
+    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
+    "release_date": "2026-05-14",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
+    "genres": "Dramma",
+    "director": "Lucia Calamaro"
+  },
+  {
     "title": "NOI DUE SCONOSCIUTI",
-    "ai_reason": "A prestige psychological drama from Susanne Bier, highlighting her mastery in dissecting the intricacies of grief and human connection.",
+    "ai_reason": "Susanne Bier's masterful direction ensures a prestige cinematic experience exploring the complexities of human fragility.",
     "cast": "Lisa Loven Kongsli, Herbert Nordrum, Rolf Kristian Larsen, Nasrin Khusrawi",
     "details": "Dramma e commedia sentimentale si mescolano in un'indagine avvincente che racconta un aspetto poco trattato della maternità. Commedia, Norvegia, Lettonia, Lituania, Danimarca, Finlandia 2025. Durata 100 Minuti.",
     "cinemas": [
@@ -70,5 +93,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tTMj7mshcRhjekIzPMmkP8lw0f5.jpg",
     "genres": "Dramma",
     "director": "Susanne Bier"
+  },
+  {
+    "title": "ILLUSIONE",
+    "ai_reason": "A sophisticated psychological inquiry from Francesca Archibugi, examining the darker fringes of the human psyche through an auteur lens.",
+    "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
+    "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:50",
+          "18:10",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1407548,
+    "tmdb_title": "Illusione",
+    "original_title": "Illusione",
+    "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
+    "release_date": "2026-05-07",
+    "vote_average": 2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
+    "genres": "Dramma, Mistero",
+    "director": "Francesca Archibugi"
   }
 ]
