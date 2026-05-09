@@ -1,7 +1,7 @@
 [
   {
     "title": "NEL TEPORE DEL BALLO",
-    "ai_reason": "Directed by Pupi Avati, a maestro of Italian cinema, this film represents the essential auteur-driven drama that defines the country's rich cinematic heritage.",
+    "ai_reason": "A late-career work from the legendary Italian master Pupi Avati, this film represents the pinnacle of auteur-driven drama, focusing on the melancholic decay and spiritual rebirth of a public figure.",
     "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
     "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
     "cinemas": [
@@ -23,33 +23,8 @@
     "director": "Pupi Avati"
   },
   {
-    "title": "YELLOW LETTERS",
-    "ai_reason": "From the acclaimed director of 'The Teachers\\' Lounge', İlker Çatak delivers a sophisticated piece of world cinema exploring the intersection of art and institutional pressure.",
-    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
-    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "16:30",
-          "18:45",
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1315657,
-    "tmdb_title": "Yellow Letters",
-    "original_title": "Gelbe Briefe",
-    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
-    "release_date": "2026-03-05",
-    "vote_average": 7.4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg",
-    "genres": "Dramma",
-    "director": "İlker Çatak"
-  },
-  {
     "title": "ILLUSIONE",
-    "ai_reason": "Francesca Archibugi is a prominent Italian auteur; this psychological mystery offers the elevated narrative depth and character study expected of high-brow cinema.",
+    "ai_reason": "Directed by the esteemed Francesca Archibugi, this film is an elevated psychological mystery that trades commercial tropes for a sophisticated and unsettling exploration of the human psyche.",
     "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
     "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
     "cinemas": [
@@ -74,7 +49,7 @@
   },
   {
     "title": "ANTARTICA - QUASI UNA FIABA",
-    "ai_reason": "A cerebral Italian drama featuring the prestige talent of Silvio Orlando, fitting the criteria for intellectual, non-commercial Italian productions.",
+    "ai_reason": "A refined intellectual drama featuring a prestige cast led by Silvio Orlando, this film offers a high-brow exploration of scientific ego and human isolation in an evocative, near-mythic setting.",
     "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
     "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
     "cinemas": [
