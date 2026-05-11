@@ -1,0 +1,129 @@
+[
+  {
+    "title": "A QUALCUNO PIACE CALDO",
+    "ai_reason": "A cornerstone of cinema history, this re-release of Billy Wilder's masterpiece is an essential watch for any serious cinephile.",
+    "cast": "Jack Lemmon, Billy Gray, Joan Shawlee, Marilyn Monroe",
+    "details": "Una pietra miliare della commedia americana, forse la migliore interpretazione di Marilyn Monroe. Commedia, USA 1959. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 239,
+    "tmdb_title": "A qualcuno piace caldo",
+    "original_title": "Some Like It Hot",
+    "overview": "Joe e Jerry, due musicisti assistono per errore al massacro del giorno di San Valentino, a Chicago, nel 1929 e sono costretti a scappare. Per nascondersi si inseriscono un una piccola orchestra tutta femminile, fingendosi donne. Ma per per \"Josephine\" e \"Daphne\" sarà l'inizio di una lunga serie di equivoci...",
+    "release_date": "1959-03-19",
+    "vote_average": 8.081,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lQJjgZFUg086TmHQXDHOhAnAK4f.jpg",
+    "genres": "Commedia, Romance, Crime",
+    "director": "Billy Wilder"
+  },
+  {
+    "title": "MILLENNIUM ACTRESS",
+    "ai_reason": "A visionary work by the late Satoshi Kon; this is prestige animation that blurs the line between reality and memory with high artistic merit.",
+    "cast": "Fumiko Orikasa, Mami Koyama, Miyoko Shoji, Kôichi Yamadera",
+    "details": "Un'affascinante e complessa indagine sul potere dell'amore e del cinema. Animazione, Giappone 2001. Durata 87 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:40",
+          "19:50"
+        ]
+      }
+    ],
+    "tmdb_id": 33320,
+    "tmdb_title": "Millennium Actress",
+    "original_title": "千年女優",
+    "overview": "Gen'ya Tachibana, il boss di uno studio televisivo è intenzionato a realizzare un documentario sulla stella cinematografica del secolo passato, la famosa Chiyoko Fujiwara, ormai settantenne, e insieme al cameraman Kyōji Ida raggiunge l'abitazione di questa, situata in un luogo piuttosto sperduto. Infatti la bellissima Chiyoko, dopo una lunga carriera cinematografica, si ritirò misteriosamente nell'anonimato. Una volta giunti a casa dell'anziana donna, Genya Tachibana, che aveva lavorato in passato con la donna, si fa trasportare dal racconto della donna che mischia vita privata ad aneddoti relativi al suo lavoro, fino a confondere sempre più le sue esperienze personali con la trama di tutti i suoi film...",
+    "release_date": "2002-09-14",
+    "vote_average": 7.834,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hlblOom21GZFdygnRr3OXIrz5O.jpg",
+    "genres": "Animazione, Dramma, Romance",
+    "director": "Satoshi Kon"
+  },
+  {
+    "title": "ILLUSIONE",
+    "ai_reason": "A sophisticated psychological mystery from major Italian auteur Francesca Archibugi, featuring a top-tier prestige cast.",
+    "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
+    "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:50",
+          "18:10",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1407548,
+    "tmdb_title": "Illusione",
+    "original_title": "Illusione",
+    "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
+    "release_date": "2026-05-07",
+    "vote_average": 5.75,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
+    "genres": "Dramma, Mistero",
+    "director": "Francesca Archibugi"
+  },
+  {
+    "title": "ANTARTICA - QUASI UNA FIABA",
+    "ai_reason": "A refined intellectual drama from the celebrated Lucia Calamaro, starring the legendary Silvio Orlando; the epitome of contemporary Italian prestige cinema.",
+    "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
+    "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1438958,
+    "tmdb_title": "Antartica - Quasi una fiaba",
+    "original_title": "Antartica - Quasi una fiaba",
+    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
+    "release_date": "2026-05-14",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
+    "genres": "Dramma",
+    "director": "Lucia Calamaro"
+  },
+  {
+    "title": "LA GIOIA",
+    "ai_reason": "An arthouse exploration of fragile human connections featuring Valeria Golino, fitting the criteria for elevated Italian auteur-driven drama.",
+    "cast": "Valeria Golino, Saul Nanni, Jasmine Trinca, Francesco Colella",
+    "details": "Una sfida attoriale vinta per Valeria Golino in un film che si muove sulle tracce del grande cinema noir. Drammatico, Italia 2025. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1395353,
+    "tmdb_title": "La gioia",
+    "original_title": "La gioia",
+    "overview": "Gioia è un’insegnante di liceo che non ha mai conosciuto l’amore, se non quello opprimente dei genitori, con cui vive ancora. Tra gli studenti della sua scuola c’è Alessio, un ragazzo, che usa il suo corpo come uno strumento per rimediare qualche centinaio di euro e aiutare sua madre, cassiera in un supermercato. Tra Alessio e Gioia nasce un legame proibito, fragile e inspiegabilmente necessario per entrambi. Ma il desiderio di un riscatto sociale e umano per Alessio è un veleno silenzioso che gli impedisce di farsi conquistare definitivamente dalla dolcezza disarmante di Gioia. Così, distrugge tutto e cancella l’unica persona che lo abbia mai amato.",
+    "release_date": "2026-02-12",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7Knu11VK9j1xqta3JuPpZyxwXWr.jpg",
+    "genres": "Dramma",
+    "director": "Nicolangelo Gelormini"
+  }
+]
