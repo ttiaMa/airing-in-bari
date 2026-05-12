@@ -1,7 +1,7 @@
 [
   {
     "title": "A QUALCUNO PIACE CALDO",
-    "ai_reason": "A monumental masterpiece of cinema history, this re-release of Billy Wilder’s definitive comedy is essential viewing for any serious cinephile.",
+    "ai_reason": "A mandatory viewing of cinematic history; Wilder's subversive masterpiece remains the pinnacle of the Golden Age comedy.",
     "cast": "Jack Lemmon, Billy Gray, Joan Shawlee, Marilyn Monroe",
     "details": "Una pietra miliare della commedia americana, forse la migliore interpretazione di Marilyn Monroe. Commedia, USA 1959. Durata 120 Minuti.",
     "cinemas": [
@@ -23,8 +23,31 @@
     "director": "Billy Wilder"
   },
   {
+    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
+    "ai_reason": "Kristoffer Borgli, the mind behind 'Sick of Myself', returns with an elevated psychological drama that serves as a major cinematic event.",
+    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
+    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1325734,
+    "tmdb_title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "release_date": "2026-03-26",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genres": "Romance, Commedia, Dramma",
+    "director": "Kristoffer Borgli"
+  },
+  {
     "title": "MILLENNIUM ACTRESS",
-    "ai_reason": "A pinnacle of prestige animation by the visionary Satoshi Kon; a complex, meta-narrative journey through the history of Japanese cinema.",
+    "ai_reason": "A masterpiece of prestige animation; Satoshi Kon’s surrealist exploration of memory and cinema is essential for any serious cinephile.",
     "cast": "Fumiko Orikasa, Mami Koyama, Miyoko Shoji, Kôichi Yamadera",
     "details": "Un'affascinante e complessa indagine sul potere dell'amore e del cinema. Animazione, Giappone 2001. Durata 87 Minuti. Consigli per la visione: Ragazzi +13",
     "cinemas": [
@@ -54,31 +77,8 @@
     "director": "Satoshi Kon"
   },
   {
-    "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Director Kristoffer Borgli represents the vanguard of the 'elevated genre' movement; a psychological exploration of intimacy and deception.",
-    "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
-    "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "21:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1325734,
-    "tmdb_title": "The Drama - Un segreto è per sempre",
-    "original_title": "The Drama",
-    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
-    "release_date": "2026-03-26",
-    "vote_average": 6.968,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
-    "genres": "Romance, Commedia, Dramma",
-    "director": "Kristoffer Borgli"
-  },
-  {
     "title": "NEL TEPORE DEL BALLO",
-    "ai_reason": "A new work from Pupi Avati, a cornerstone of Italian auteur cinema, offering a sophisticated and melancholy reflection on fame and memory.",
+    "ai_reason": "A poignant work from a legendary Italian auteur, Pupi Avati continues to explore the depths of human sentiment with prestige.",
     "cast": "Massimo Ghini, Isabella Ferrari, Giuliana De Sio, Lina Sastri",
     "details": "Attori che sanno osare in un film libero, dove Pupi Avati si rinnova rimanendo fedele a se stesso. Drammatico, Italia 2026. Durata 92 Minuti.",
     "cinemas": [
@@ -100,31 +100,8 @@
     "director": "Pupi Avati"
   },
   {
-    "title": "ANTARTICA - QUASI UNA FIABA",
-    "ai_reason": "An intellectual and atmospheric piece of Italian auteur cinema featuring the legendary Silvio Orlando, blending scientific isolation with deep human drama.",
-    "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
-    "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "18:05"
-        ]
-      }
-    ],
-    "tmdb_id": 1438958,
-    "tmdb_title": "Antartica - Quasi una fiaba",
-    "original_title": "Antartica - Quasi una fiaba",
-    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
-    "release_date": "2026-05-14",
-    "vote_average": 4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
-    "genres": "Dramma",
-    "director": "Lucia Calamaro"
-  },
-  {
     "title": "ILLUSIONE",
-    "ai_reason": "Francesca Archibugi crafts a refined psychological mystery that eschews commercial tropes in favor of an intricate, character-driven investigation.",
+    "ai_reason": "Archibugi delivers a sophisticated, character-driven psychological inquiry, steering clear of generic Italian tropes.",
     "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
     "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
     "cinemas": [
