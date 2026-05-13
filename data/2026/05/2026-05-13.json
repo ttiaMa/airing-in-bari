@@ -1,7 +1,7 @@
 [
   {
     "title": "MILLENNIUM ACTRESS",
-    "ai_reason": "A meta-cinematic masterpiece of Japanese animation from the legendary Satoshi Kon, exploring the blur between reality and film history.",
+    "ai_reason": "A visionary masterpiece by Satoshi Kon; this theatrical re-release is a pinnacle of prestige Japanese animation and a love letter to cinema history.",
     "cast": "Fumiko Orikasa, Mami Koyama, Miyoko Shoji, Kôichi Yamadera",
     "details": "Un'affascinante e complessa indagine sul potere dell'amore e del cinema. Animazione, Giappone 2001. Durata 87 Minuti. Consigli per la visione: Ragazzi +13",
     "cinemas": [
@@ -24,7 +24,7 @@
   },
   {
     "title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
-    "ai_reason": "Directed by Kristoffer Borgli, this surrealist psychological drama is a definitive example of the modern A24-style 'elevated genre' movement.",
+    "ai_reason": "Director Kristoffer Borgli (Dream Scenario) continues his streak of elevated, psychological narratives with a stellar arthouse cast.",
     "cast": "Robert Pattinson, Zendaya, Alana Haim, Mamoudou Athie",
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
@@ -40,14 +40,62 @@
     "original_title": "The Drama",
     "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
     "release_date": "2026-03-26",
-    "vote_average": 7,
+    "vote_average": 6.967,
     "poster_url": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
     "genres": "Romance, Commedia, Dramma",
     "director": "Kristoffer Borgli"
   },
   {
+    "title": "YELLOW LETTERS",
+    "ai_reason": "A significant work of international arthouse cinema from İlker Çatak, focusing on the existential and artistic struggles of creators.",
+    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
+    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1315657,
+    "tmdb_title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "release_date": "2026-03-05",
+    "vote_average": 7.406,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg",
+    "genres": "Dramma",
+    "director": "İlker Çatak"
+  },
+  {
+    "title": "ANTARTICA - QUASI UNA FIABA",
+    "ai_reason": "A high-brow Italian production featuring the intellectual depth of playwright Lucia Calamaro and the veteran talent of Silvio Orlando.",
+    "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
+    "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1438958,
+    "tmdb_title": "Antartica - Quasi una fiaba",
+    "original_title": "Antartica - Quasi una fiaba",
+    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
+    "release_date": "2026-05-14",
+    "vote_average": 4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
+    "genres": "Dramma",
+    "director": "Lucia Calamaro"
+  },
+  {
     "title": "ILLUSIONE",
-    "ai_reason": "A dark psychological mystery from major Italian auteur Francesca Archibugi, focusing on a complex, intellectual investigation of trauma.",
+    "ai_reason": "A sophisticated psychological drama from veteran auteur Francesca Archibugi, exploring complex human enigmas with a prestige cast.",
     "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
     "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
     "cinemas": [
@@ -69,28 +117,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
     "genres": "Dramma, Mistero",
     "director": "Francesca Archibugi"
-  },
-  {
-    "title": "ANTARTICA - QUASI UNA FIABA",
-    "ai_reason": "A rigorous arthouse production featuring the prestigious Silvio Orlando, exploring ideological conflict within a remote scientific community.",
-    "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
-    "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "18:05"
-        ]
-      }
-    ],
-    "tmdb_id": 1438958,
-    "tmdb_title": "Antartica - Quasi una fiaba",
-    "original_title": "Antartica - Quasi una fiaba",
-    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
-    "release_date": "2026-05-14",
-    "vote_average": 4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
-    "genres": "Dramma",
-    "director": "Lucia Calamaro"
   }
 ]
