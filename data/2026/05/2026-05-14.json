@@ -1,7 +1,45 @@
 [
   {
+    "title": "MABOROSI - I BAGLIORI DELL'ANIMA",
+    "ai_reason": "The directorial debut of Hirokazu Kore-eda is a meditative masterpiece of contemporary Japanese cinema, essential for any serious cinephile.",
+    "cast": "Makiko Esumi, Takashi Naitô, Tadanobu Asano, Gohki Kashiyama",
+    "details": "Un'opera silenziosa, quasi astratta, un debutto sorprendente per rigore formale e intensità emotiva. Drammatico, Giappone 1995. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "16:05",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:30",
+          "22:05"
+        ]
+      }
+    ],
+    "tmdb_id": 18872,
+    "tmdb_title": "Maborosi - I bagliori dell'anima",
+    "original_title": "幻の光",
+    "overview": "Yumiko non si rassegna in seguito alla perdita di due tra gli esseri viventi a lei più cari: la nonna ed il primo marito, entrambi scomparsi in circostanze misteriose di cui ella si sente parte in causa. La vita, la famiglia, la morte, i bambini.",
+    "release_date": "1995-10-01",
+    "vote_average": 7.441,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zi7lbih371fRlKw2VJnJIlJIy5V.jpg",
+    "genres": "Dramma",
+    "director": "是枝裕和"
+  },
+  {
     "title": "MOTHER MARY",
-    "ai_reason": "A quintessential example of 'elevated genre' from David Lowery, a director deeply entrenched in the A24 aesthetic of surreal, psychological narratives.",
+    "ai_reason": "David Lowery is a visionary of the 'elevated genre' movement; this production promises the same ethereal, psychological depth found in his previous A24 collaborations.",
     "cast": "Anne Hathaway, Michaela Coel, Hunter Schafer, Sian Clifford",
     "details": "Un'opera libera che scruta il lato oscuro dell'animo umano. Con due attrici dal livello altissimo. Drammatico, Gran Bretagna, USA, Germania, Finlandia 2025. Durata 112 Minuti.",
     "cinemas": [
@@ -32,7 +70,7 @@
   },
   {
     "title": "LE CITTÀ DI PIANURA",
-    "ai_reason": "A major triumph in contemporary Italian auteur cinema, having swept the David di Donatello awards for its sophisticated, philosophical exploration of the human condition.",
+    "ai_reason": "A major triumph at the David di Donatello, this film represents the pinnacle of contemporary Italian auteur cinema with its rigorous artistic direction.",
     "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
     "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
     "cinemas": [
@@ -52,5 +90,46 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
     "genres": "Commedia",
     "director": "Francesco Sossai"
+  },
+  {
+    "title": "QUASI GRAZIA",
+    "ai_reason": "A prestige biographical work focusing on Nobel laureate Grazia Deledda, featuring the refined talent of Laura Morante—a cornerstone of cultural cinema.",
+    "cast": "Laura Morante, Irene Maiorino, Ivana Monti, Monica Demuru",
+    "details": "Grazia Deledda raccontata in tre momenti della vita in un film che spinge sulle radici sarde della grande scrittrice. Drammatico, Italia 2025. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:00",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1575562,
+    "tmdb_title": "Quasi Grazia",
+    "original_title": "Quasi Grazia",
+    "overview": "Roma, 1907. Grazia ha trentasei anni e vive a Roma con il marito e i figli da almeno sette anni. La città di Nuoro sembra chiamarla, o forse sfidarla: la visita inaspettata di sua madre Francesca, di suo fratello Santus e del tuttofare di famiglia Giovanni rompe la routine quotidiana della giovane scrittrice sarda. Stoccolma, 1927. È il pomeriggio prima della cerimonia del Premio Nobel: in una stanza del Grand Hôtel, marito e moglie discutono teneramente, entrambi stupiti, di come la vita li abbia condotti alle soglie di questo giorno glorioso. Roma, 1935. In una piccola clinica, un famoso oncologo cerca le parole giuste per comunicare a una donna la ferocia del male che la porterà via.",
+    "release_date": "2026-05-14",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7xxuXuHFLhgCtsnmSFcKjm9lk5v.jpg",
+    "genres": "Dramma, Storia",
+    "director": "Peter Marcias"
+  },
+  {
+    "title": "MANAS - SORELLE",
+    "ai_reason": "A powerful example of international arthouse cinema, this notable directorial debut offers a searing and aesthetically rigorous look at human resilience.",
+    "cast": "Jamilli Correa, Dira Paes, Fatima Macedo, Rômulo Braga",
+    "details": "Un notevole esordio alla regia, che racconta il Male ma restituisce anche la bellezza dei luoghi e delle persone. Drammatico, Brasile 2024. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "20:45"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null
   }
 ]
