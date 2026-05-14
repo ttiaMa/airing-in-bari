@@ -1,0 +1,56 @@
+[
+  {
+    "title": "MOTHER MARY",
+    "ai_reason": "A quintessential example of 'elevated genre' from David Lowery, a director deeply entrenched in the A24 aesthetic of surreal, psychological narratives.",
+    "cast": "Anne Hathaway, Michaela Coel, Hunter Schafer, Sian Clifford",
+    "details": "Un'opera libera che scruta il lato oscuro dell'animo umano. Con due attrici dal livello altissimo. Drammatico, Gran Bretagna, USA, Germania, Finlandia 2025. Durata 112 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:45",
+          "19:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:50",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1102883,
+    "tmdb_title": "Mother Mary",
+    "original_title": "Mother Mary",
+    "overview": "Alla vigilia del suo grande rientro in scena, l’iconica pop star Mother Mary riavvicina Sam, un tempo sua migliore amica e costumista e ora stilista affermata, per chiederle di confezionarle un nuovo abito. L’incontro riaprirà la strada a sentimenti forti e mai sopiti, ferite e tensioni irrisolte.",
+    "release_date": "2026-04-16",
+    "vote_average": 5.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/GKGvadeAmAkkY2MHLzYDUP685R.jpg",
+    "genres": "Dramma, Fantasy, Musica, Thriller",
+    "director": "David Lowery"
+  },
+  {
+    "title": "LE CITTÀ DI PIANURA",
+    "ai_reason": "A major triumph in contemporary Italian auteur cinema, having swept the David di Donatello awards for its sophisticated, philosophical exploration of the human condition.",
+    "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
+    "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1462322,
+    "tmdb_title": "Le città di pianura",
+    "original_title": "Le città di pianura",
+    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
+    "release_date": "2025-09-25",
+    "vote_average": 7.587,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
+    "genres": "Commedia",
+    "director": "Francesco Sossai"
+  }
+]
