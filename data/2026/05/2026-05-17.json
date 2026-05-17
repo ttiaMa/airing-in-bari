@@ -1,7 +1,7 @@
 [
   {
     "title": "MABOROSI - I BAGLIORI DELL'ANIMA",
-    "ai_reason": "A sublime re-release of Hirokazu Kore-eda’s 1995 debut; a meditative masterclass in stillness and cinematic grief from a world-renowned auteur.",
+    "ai_reason": "The debut masterpiece of Hirokazu Kore-eda; an essential re-release for any serious cinephile exploring themes of memory and loss.",
     "cast": "Makiko Esumi, Takashi Naitô, Tadanobu Asano, Gohki Kashiyama",
     "details": "Un'opera silenziosa, quasi astratta, un debutto sorprendente per rigore formale e intensità emotiva. Drammatico, Giappone 1995. Durata 110 Minuti.",
     "cinemas": [
@@ -24,31 +24,8 @@
     "director": "是枝裕和"
   },
   {
-    "title": "THE WHISPERING STAR",
-    "ai_reason": "Cult auteur Sion Sono delivers a minimalist, surrealist sci-fi exploration of memory; an essential piece of high-brow, avant-garde cinema.",
-    "cast": "Kenji Endo, Yûto Ikeda, Megumi Kagurazaka, Mori Kouko",
-    "details": "Un film delicatissimo che racconta attraverso gli occhi di un robot i sentimenti umani e il valore dei ricordi. Fantascienza, Giappone 2015. Durata 101 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:00"
-        ]
-      }
-    ],
-    "tmdb_id": 355993,
-    "tmdb_title": "The Whispering Star",
-    "original_title": "ひそひそ星",
-    "overview": "Gli umani sono ormai una specie in via di estinzione e l’80% della popolazione è composta da robot. Machine ID 722 Yoko Suzuki è un’androide il cui compito è quello di consegnare pacchi agli umani dispersi nella galassia: si tratta di oggetti comuni, come una matita, un cappello o un abito, ma per chi li riceve rappresentano qualcosa di più, sono il ricordo di qualcosa che è andato perduto, capace di far battere loro il cuore. Yoko arriva a Whispering Star, la stella dei sussurri, un luogo dove ogni rumore superiore a 30 decibel può uccidere gli abitanti; in punta di piedi cercherà di raggiungere l’indirizzo della destinataria a cui consegnare un pacco dal contenuto misterioso.",
-    "release_date": "2015-09-10",
-    "vote_average": 7.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8ursNY89WP7sg9i6BCJtUICRWHB.jpg",
-    "genres": "Dramma, Fantascienza",
-    "director": "園子温"
-  },
-  {
     "title": "MOTHER MARY",
-    "ai_reason": "Arthouse visionary David Lowery directs an elevated drama with a high-profile cast, blending music and psychological tension in the vein of A24’s finest.",
+    "ai_reason": "David Lowery is a master of atmospheric, elevated drama; this exploration of the pop-star psyche fits the A24-adjacent arthouse aesthetic.",
     "cast": "Anne Hathaway, Michaela Coel, Hunter Schafer, Sian Clifford",
     "details": "Un'opera libera che scruta il lato oscuro dell'animo umano. Con due attrici dal livello altissimo. Drammatico, Gran Bretagna, USA, Germania, Finlandia 2025. Durata 112 Minuti.",
     "cinemas": [
@@ -79,8 +56,31 @@
     "director": "David Lowery"
   },
   {
+    "title": "THE WHISPERING STAR",
+    "ai_reason": "A meditative, surrealist sci-fi journey from cult visionary Sion Sono, offering a stark, poetic contrast to mainstream genre filmmaking.",
+    "cast": "Kenji Endo, Yûto Ikeda, Megumi Kagurazaka, Mori Kouko",
+    "details": "Un film delicatissimo che racconta attraverso gli occhi di un robot i sentimenti umani e il valore dei ricordi. Fantascienza, Giappone 2015. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 355993,
+    "tmdb_title": "The Whispering Star",
+    "original_title": "ひそひそ星",
+    "overview": "Gli umani sono ormai una specie in via di estinzione e l’80% della popolazione è composta da robot. Machine ID 722 Yoko Suzuki è un’androide il cui compito è quello di consegnare pacchi agli umani dispersi nella galassia: si tratta di oggetti comuni, come una matita, un cappello o un abito, ma per chi li riceve rappresentano qualcosa di più, sono il ricordo di qualcosa che è andato perduto, capace di far battere loro il cuore. Yoko arriva a Whispering Star, la stella dei sussurri, un luogo dove ogni rumore superiore a 30 decibel può uccidere gli abitanti; in punta di piedi cercherà di raggiungere l’indirizzo della destinataria a cui consegnare un pacco dal contenuto misterioso.",
+    "release_date": "2015-09-10",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8ursNY89WP7sg9i6BCJtUICRWHB.jpg",
+    "genres": "Dramma, Fantascienza",
+    "director": "園子温"
+  },
+  {
     "title": "LE CITTÀ DI PIANURA",
-    "ai_reason": "A major triumph at the David di Donatello awards; this elevated road movie represents the best of contemporary Italian auteur filmmaking.",
+    "ai_reason": "A significant achievement in contemporary Italian cinema, distinguished by its prestigious David di Donatello wins for Best Film and Best Director.",
     "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
     "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
     "cinemas": [
@@ -102,8 +102,32 @@
     "director": "Francesco Sossai"
   },
   {
+    "title": "QUASI GRAZIA",
+    "ai_reason": "An elegant period piece focused on Nobel laureate Grazia Deledda, featuring the refined performances typical of prestige Italian auteur cinema.",
+    "cast": "Laura Morante, Irene Maiorino, Ivana Monti, Monica Demuru",
+    "details": "Grazia Deledda raccontata in tre momenti della vita in un film che spinge sulle radici sarde della grande scrittrice. Drammatico, Italia 2025. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:00",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1575562,
+    "tmdb_title": "Quasi Grazia",
+    "original_title": "Quasi Grazia",
+    "overview": "Roma, 1907. Grazia ha trentasei anni e vive a Roma con il marito e i figli da almeno sette anni. La città di Nuoro sembra chiamarla, o forse sfidarla: la visita inaspettata di sua madre Francesca, di suo fratello Santus e del tuttofare di famiglia Giovanni rompe la routine quotidiana della giovane scrittrice sarda. Stoccolma, 1927. È il pomeriggio prima della cerimonia del Premio Nobel: in una stanza del Grand Hôtel, marito e moglie discutono teneramente, entrambi stupiti, di come la vita li abbia condotti alle soglie di questo giorno glorioso. Roma, 1935. In una piccola clinica, un famoso oncologo cerca le parole giuste per comunicare a una donna la ferocia del male che la porterà via.",
+    "release_date": "2026-05-14",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7xxuXuHFLhgCtsnmSFcKjm9lk5v.jpg",
+    "genres": "Dramma, Storia",
+    "director": "Peter Marcias"
+  },
+  {
     "title": "ILLUSIONE",
-    "ai_reason": "A sophisticated psychological mystery from Francesca Archibugi, exploring trauma and the human psyche with the nuance expected of Italian prestige cinema.",
+    "ai_reason": "Francesca Archibugi is a staple of high-brow Italian drama; here she weaves a sophisticated mystery with deep psychological undercurrents.",
     "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
     "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
     "cinemas": [
@@ -126,27 +150,26 @@
     "director": "Francesca Archibugi"
   },
   {
-    "title": "QUASI GRAZIA",
-    "ai_reason": "A prestigious historical biopic featuring Laura Morante; a high-brow examination of the life of Nobel Prize winner Grazia Deledda.",
-    "cast": "Laura Morante, Irene Maiorino, Ivana Monti, Monica Demuru",
-    "details": "Grazia Deledda raccontata in tre momenti della vita in un film che spinge sulle radici sarde della grande scrittrice. Drammatico, Italia 2025. Durata 80 Minuti.",
+    "title": "ANTARTICA - QUASI UNA FIABA",
+    "ai_reason": "A cerebral and isolated character study featuring a top-tier Italian cast, prioritizing scientific and emotional depth over commercial tropes.",
+    "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
+    "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
     "cinemas": [
       {
-        "name": "Il Piccolo",
+        "name": "Galleria",
         "times": [
-          "18:00",
-          "19:30"
+          "15:50"
         ]
       }
     ],
-    "tmdb_id": 1575562,
-    "tmdb_title": "Quasi Grazia",
-    "original_title": "Quasi Grazia",
-    "overview": "Roma, 1907. Grazia ha trentasei anni e vive a Roma con il marito e i figli da almeno sette anni. La città di Nuoro sembra chiamarla, o forse sfidarla: la visita inaspettata di sua madre Francesca, di suo fratello Santus e del tuttofare di famiglia Giovanni rompe la routine quotidiana della giovane scrittrice sarda. Stoccolma, 1927. È il pomeriggio prima della cerimonia del Premio Nobel: in una stanza del Grand Hôtel, marito e moglie discutono teneramente, entrambi stupiti, di come la vita li abbia condotti alle soglie di questo giorno glorioso. Roma, 1935. In una piccola clinica, un famoso oncologo cerca le parole giuste per comunicare a una donna la ferocia del male che la porterà via.",
+    "tmdb_id": 1438958,
+    "tmdb_title": "Antartica - Quasi una fiaba",
+    "original_title": "Antartica - Quasi una fiaba",
+    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
     "release_date": "2026-05-14",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/7xxuXuHFLhgCtsnmSFcKjm9lk5v.jpg",
-    "genres": "Dramma, Storia",
-    "director": "Peter Marcias"
+    "vote_average": 4.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
+    "genres": "Dramma",
+    "director": "Lucia Calamaro"
   }
 ]
