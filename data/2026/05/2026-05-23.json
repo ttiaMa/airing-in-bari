@@ -1,7 +1,7 @@
 [
   {
     "title": "MABOROSI - I BAGLIORI DELL'ANIMA",
-    "ai_reason": "The debut masterpiece by Hirokazu Kore-eda, this is an essential re-release for enthusiasts of world cinema and meditative, atmospheric storytelling.",
+    "ai_reason": "A fundamental masterpiece of world cinema, this is the debut feature from Japanese auteur Hirokazu Kore-eda. A mandatory viewing for any serious cinephile.",
     "cast": "Makiko Esumi, Takashi Naitô, Tadanobu Asano, Gohki Kashiyama",
     "details": "Un'opera silenziosa, quasi astratta, un debutto sorprendente per rigore formale e intensità emotiva. Drammatico, Giappone 1995. Durata 110 Minuti.",
     "cinemas": [
@@ -25,7 +25,7 @@
   },
   {
     "title": "AMARGA NAVIDAD",
-    "ai_reason": "A new work from Spanish auteur Pedro Almodóvar that explores his signature themes of autofiction and the blurring lines between art and reality.",
+    "ai_reason": "The latest work from Spanish master Pedro Almodóvar, continuing his sophisticated exploration of the metafictional boundaries between life and art.",
     "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
     "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -58,7 +58,7 @@
   },
   {
     "title": "LE CITTÀ DI PIANURA",
-    "ai_reason": "A major critical success and winner at the David di Donatello, representing the highest caliber of contemporary Italian auteur filmmaking.",
+    "ai_reason": "An essential piece of contemporary Italian prestige cinema, having swept the David di Donatello awards for its directorial vision and performances.",
     "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
     "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
     "cinemas": [
@@ -81,7 +81,7 @@
   },
   {
     "title": "QUASI GRAZIA",
-    "ai_reason": "A prestige historical drama centered on Nobel laureate Grazia Deledda, featuring the refined performances of Laura Morante.",
+    "ai_reason": "A refined historical drama centered on Nobel laureate Grazia Deledda, featuring the impeccable Laura Morante in a performance of high cultural prestige.",
     "cast": "Laura Morante, Irene Maiorino, Ivana Monti, Monica Demuru",
     "details": "Grazia Deledda raccontata in tre momenti della vita in un film che spinge sulle radici sarde della grande scrittrice. Drammatico, Italia 2025. Durata 80 Minuti.",
     "cinemas": [
@@ -101,29 +101,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7xxuXuHFLhgCtsnmSFcKjm9lk5v.jpg",
     "genres": "Dramma, Storia",
     "director": "Peter Marcias"
-  },
-  {
-    "title": "ILLUSIONE",
-    "ai_reason": "Francesca Archibugi crafts an elevated psychological mystery that avoids genre tropes in favor of a deep, auteur-driven character study.",
-    "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
-    "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "18:05",
-          "20:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1407548,
-    "tmdb_title": "Illusione",
-    "original_title": "Illusione",
-    "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
-    "release_date": "2026-05-07",
-    "vote_average": 5.833,
-    "poster_url": "https://image.tmdb.org/t/p/w500/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
-    "genres": "Dramma, Mistero",
-    "director": "Francesca Archibugi"
   }
 ]
