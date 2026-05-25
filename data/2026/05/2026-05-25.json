@@ -1,0 +1,157 @@
+[
+  {
+    "title": "AMARGA NAVIDAD",
+    "ai_reason": "A major cinematic event from legendary auteur Pedro Almodóvar, exploring the sophisticated interplay between meta-fiction and reality.",
+    "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
+    "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:50",
+          "18:15",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30",
+          "19:10",
+          "21:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1088548,
+    "tmdb_title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "release_date": "2026-03-20",
+    "vote_average": 6.705,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Pedro Almodóvar"
+  },
+  {
+    "title": "GLI UOMINI PREFERISCONO LE BIONDE",
+    "ai_reason": "An essential re-release of Howard Hawks’ masterpiece; a foundational text of Hollywood’s Golden Age and a masterclass in direction.",
+    "cast": "Jane Russell, Marilyn Monroe, Charles Coburn, Elliott Reid",
+    "details": "Commedia, USA 1953. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:30",
+          "21:15"
+        ]
+      }
+    ],
+    "tmdb_id": 759,
+    "tmdb_title": "Gli uomini preferiscono le bionde",
+    "original_title": "Gentlemen Prefer Blondes",
+    "overview": "Due ballerine americane - la bionda Lorelei e la bruna Dorothy s'imbarcano su una nave diretta in Francia, la prima per farsi sposare dal figlio di un miliardario, la seconda per motivi professionali.",
+    "release_date": "1953-07-14",
+    "vote_average": 7.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/fnjSIY0RXudqb9VR9qemXhMaE3u.jpg",
+    "genres": "Commedia, Romance",
+    "director": "Howard Hawks"
+  },
+  {
+    "title": "ILLUSIONE",
+    "ai_reason": "A haunting psychological investigation from acclaimed Italian director Francesca Archibugi, delving into the dark complexities of the human psyche.",
+    "cast": "Jasmine Trinca, Michele Riondino, Angelina Andrei, Vittoria Puccini",
+    "details": "Un'opera che spiazza per la complessità della narrazione e dei registri utilizzati. Drammatico, Italia, Belgio 2025. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1407548,
+    "tmdb_title": "Illusione",
+    "original_title": "Illusione",
+    "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
+    "release_date": "2026-05-07",
+    "vote_average": 5.833,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
+    "genres": "Dramma, Mistero",
+    "director": "Francesca Archibugi"
+  },
+  {
+    "title": "I GOONIES",
+    "ai_reason": "A definitive cult classic of 80s cinema history, this theatrical re-release is a mandatory pillar of pop-culture heritage.",
+    "cast": "Josh Brolin, Sean Astin, Jeff Cohen, Martha Plimpton",
+    "details": "Un cult movie che ha segnato una generazione e ne influenza ancora delle altre. Avventura, USA 1985. Durata 111 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 9340,
+    "tmdb_title": "I Goonies",
+    "original_title": "The Goonies",
+    "overview": "Il giovane adolescente Mikey Walsh e i suoi amici partono in una missione per trovare il tesoro del pirata Willie \"Occhio Solo\", nella speranza di salvare le loro case dalla demolizione.",
+    "release_date": "1985-06-07",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/e1FLwSph4V85y8QE1ewQOwFzn6b.jpg",
+    "genres": "Avventura, Commedia, Famiglia",
+    "director": "Richard Donner"
+  },
+  {
+    "title": "LUCIO FONTANA - THE FINAL CUT",
+    "ai_reason": "A high-brow documentary offering an unprecedented and artistic look at one of the most radical figures in contemporary art history.",
+    "cast": "",
+    "details": "Documentario, Italia 2026.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:15"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "20:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1698723,
+    "tmdb_title": "Lucio Fontana, The Final Cut",
+    "original_title": "Lucio Fontana, The Final Cut",
+    "overview": "Un ritratto potente e inedio del maestro che ha aperto lo spazio all'arte contemporanea",
+    "release_date": "2026-05-25",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zPRf1gdaw1YWDSsA0vQDY6miUC8.jpg",
+    "genres": "Documentario",
+    "director": "Andrea Bettinetti"
+  },
+  {
+    "title": "BOWIE - THE FINAL ACT",
+    "ai_reason": "A prestigious biographical portrait of a transgressive artistic icon, catering to the cinephile's appetite for high-culture music history.",
+    "cast": "David Bowie, Gary Kemp, Goldie, Moby, Hanif Kureishi",
+    "details": "Documentario, Biografico - USA 2025.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1571485,
+    "tmdb_title": "Bowie: The Final Act",
+    "original_title": "Bowie: The Final Act",
+    "overview": "",
+    "release_date": "2025-12-26",
+    "vote_average": 7.969,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tPG2I0qr61aE5xZwbM9WiT3nHxJ.jpg",
+    "genres": "Documentario, Musica",
+    "director": "Jonathan Stiasny"
+  }
+]
