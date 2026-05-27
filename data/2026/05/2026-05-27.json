@@ -1,7 +1,7 @@
 [
   {
     "title": "MABOROSI - I BAGLIORI DELL'ANIMA",
-    "ai_reason": "The debut masterpiece from Hirokazu Kore-eda, this is a cornerstone of contemplative Japanese arthouse cinema.",
+    "ai_reason": "A sublime theatrical re-release of Kore-eda's debut; a masterclass in contemplative, high-brow Japanese arthouse cinema exploring grief and light.",
     "cast": "Makiko Esumi, Takashi Naitô, Tadanobu Asano, Gohki Kashiyama",
     "details": "Un'opera silenziosa, quasi astratta, un debutto sorprendente per rigore formale e intensità emotiva. Drammatico, Giappone 1995. Durata 110 Minuti.",
     "cinemas": [
@@ -24,7 +24,7 @@
   },
   {
     "title": "AMARGA NAVIDAD",
-    "ai_reason": "A significant release from Pedro Almodóvar, a definitive auteur exploring his signature themes of autofiction and identity.",
+    "ai_reason": "Auteur cinema at its peak; Almodóvar explores the intricate boundaries of autofiction and artistic inspiration with his signature visual elegance.",
     "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
     "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -50,14 +50,14 @@
     "original_title": "Amarga Navidad",
     "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
     "release_date": "2026-03-20",
-    "vote_average": 6.7,
+    "vote_average": 6.653,
     "poster_url": "https://image.tmdb.org/t/p/w500/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar"
   },
   {
     "title": "LE CITTÀ DI PIANURA",
-    "ai_reason": "A prestigious triumph at the David di Donatello, cementing Francesco Sossai as a major voice in contemporary Italian auteur cinema.",
+    "ai_reason": "A significant Italian auteurist triumph; a David di Donatello-winning road movie that avoids commercial tropes for pure artistic expression.",
     "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
     "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
     "cinemas": [
@@ -80,7 +80,7 @@
   },
   {
     "title": "QUASI GRAZIA",
-    "ai_reason": "A high-brow historical drama featuring Laura Morante that celebrates Italian literary history with prestige and gravitas.",
+    "ai_reason": "High-prestige Italian production; Laura Morante embodies the literary soul of Nobel laureate Grazia Deledda in this sophisticated historical triptych.",
     "cast": "Laura Morante, Irene Maiorino, Ivana Monti, Monica Demuru",
     "details": "Grazia Deledda raccontata in tre momenti della vita in un film che spinge sulle radici sarde della grande scrittrice. Drammatico, Italia 2025. Durata 80 Minuti.",
     "cinemas": [
@@ -102,31 +102,42 @@
     "director": "Peter Marcias"
   },
   {
-    "title": "LUCIO FONTANA - THE FINAL CUT",
-    "ai_reason": "An essential documentary for the art-house crowd, offering a deep dive into the spatialist revolution of avant-garde master Lucio Fontana.",
-    "cast": "",
-    "details": "Un doc necessario che diffonde i valori e le azioni (ancora molto attuali) di Lucio Fontana. Documentario, Italia 2026. Durata 90 Minuti.",
+    "title": "BACKROOMS",
+    "ai_reason": "An A24-backed descent into elevated horror; a surrealist exploration of liminal spaces featuring the exceptional Renate Reinsve.",
+    "cast": "Avan Jogia, Finn Bennett, Lukita Maxwell, Renate Reinsve",
+    "details": "Il grande salto dall'Analog Horror al cinema d'autore dello youtuber prodigio Kane Parsons. Horror, USA 2026. Durata 111 Minuti.",
     "cinemas": [
       {
-        "name": "Galleria",
+        "name": "The Space Casamassima",
         "times": [
-          "16:00"
+          "16:05",
+          "18:50",
+          "19:25",
+          "21:30",
+          "22:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:10",
+          "22:10"
         ]
       }
     ],
-    "tmdb_id": 1698723,
-    "tmdb_title": "Lucio Fontana, The Final Cut",
-    "original_title": "Lucio Fontana, The Final Cut",
-    "overview": "Un ritratto potente e inedio del maestro che ha aperto lo spazio all'arte contemporanea",
-    "release_date": "2026-05-25",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/zPRf1gdaw1YWDSsA0vQDY6miUC8.jpg",
-    "genres": "Documentario",
-    "director": "Andrea Bettinetti"
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 5.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons"
   },
   {
     "title": "BOWIE - THE FINAL ACT",
-    "ai_reason": "A comprehensive and artistically significant documentary on a transcendental icon of music and visual culture.",
+    "ai_reason": "A refined documentary event chronicling the career of cinema’s most chameleonic and avant-garde musical icon; essential for the cultured viewer.",
     "cast": "David Bowie, Gary Kemp, Goldie, Moby, Hanif Kureishi",
     "details": "Un doc sulla carriera di David Bowie, che dà molto peso alla musica. Documentario, Biografico - USA 2025. Durata 90 Minuti.",
     "cinemas": [
@@ -148,8 +159,31 @@
     "director": "Jonathan Stiasny"
   },
   {
+    "title": "LUCIO FONTANA - THE FINAL CUT",
+    "ai_reason": "An essential documentary for the art-house circuit, providing a rigorous portrait of the radical spatialism of a definitive Italian master.",
+    "cast": "",
+    "details": "Un doc necessario che diffonde i valori e le azioni (ancora molto attuali) di Lucio Fontana. Documentario, Italia 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1698723,
+    "tmdb_title": "Lucio Fontana, The Final Cut",
+    "original_title": "Lucio Fontana, The Final Cut",
+    "overview": "Un ritratto potente e inedio del maestro che ha aperto lo spazio all'arte contemporanea",
+    "release_date": "2026-05-25",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zPRf1gdaw1YWDSsA0vQDY6miUC8.jpg",
+    "genres": "Documentario",
+    "director": "Andrea Bettinetti"
+  },
+  {
     "title": "I GOONIES",
-    "ai_reason": "A mandatory theatrical re-release of a legendary cult classic that remains a foundational piece of 80s cinema history.",
+    "ai_reason": "A quintessential cult classic re-release; a vital piece of 1980s cinema history returning to its rightful place on the big screen.",
     "cast": "Josh Brolin, Sean Astin, Jeff Cohen, Martha Plimpton",
     "details": "Un cult movie che ha segnato una generazione e ne influenza ancora delle altre. Avventura, USA 1985. Durata 111 Minuti. Consigli per la visione: Film per tutti",
     "cinemas": [
