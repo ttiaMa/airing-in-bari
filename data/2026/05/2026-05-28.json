@@ -1,9 +1,9 @@
 [
   {
     "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
-    "ai_reason": "A definitive cult classic re-release, unifying Tarantino's magnum opus of genre pastiche into its most complete and visceral form.",
+    "ai_reason": "The definitive, uncut vision of Tarantino's postmodern odyssey; a mandatory cult event for any serious student of cinema history.",
     "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
-    "details": "Azione, 2004. Durata 281 Minuti.",
+    "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -33,7 +33,7 @@
   },
   {
     "title": "AMARGA NAVIDAD",
-    "ai_reason": "A high-brow exploration of autofiction from Pedro Almodóvar, a essential auteur for any serious student of contemporary world cinema.",
+    "ai_reason": "A new exploration of the meta-textual boundaries between reality and art from a premier European auteur.",
     "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
     "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -59,14 +59,14 @@
     "original_title": "Amarga Navidad",
     "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
     "release_date": "2026-03-20",
-    "vote_average": 6.632,
+    "vote_average": 6.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar"
   },
   {
     "title": "BACKROOMS",
-    "ai_reason": "An exercise in surrealist, liminal horror; this elevated genre piece features arthouse darling Renate Reinsve and promises a sophisticated take on existential dread.",
+    "ai_reason": "An elevated genre piece that translates liminal surrealism to the big screen, bolstered by a high-pedigree arthouse cast.",
     "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
     "details": "Più che un film un'installazione, un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -96,22 +96,29 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6,
+    "vote_average": 6.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons"
   },
   {
     "title": "TUNER - L'ACCORDATORE",
-    "ai_reason": "A prestige psychological thriller centered on sensory perception and isolation, anchored by the presence of legendary veteran Dustin Hoffman.",
+    "ai_reason": "A sensory-focused psychological thriller from Oscar-winner Daniel Roher, promising a rigorous character study of auditory burden.",
     "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
     "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
     "cinemas": [
       {
-        "name": "Il Piccolo",
+        "name": "The Space Casamassima",
         "times": [
-          "18:30",
+          "20:50",
           "20:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:40",
+          "21:50"
         ]
       }
     ],
@@ -124,5 +131,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
     "genres": "Crime, Thriller",
     "director": "Daniel Roher"
+  },
+  {
+    "title": "IL SILENZIO DEGLI ALTRI",
+    "ai_reason": "A formally poignant and sophisticated arthouse drama examining the intersections of disability, motherhood, and social isolation.",
+    "cast": "Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario",
+    "details": "Un film che immerge nelle percezioni della protagonista trovando una completa identificazione tra il suo sguardo e quello della cineasta. Drammatico, Spagna 2025. Durata 99 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:30",
+          "21:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1303613,
+    "tmdb_title": "Il silenzio degli altri",
+    "original_title": "Sorda",
+    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
+    "release_date": "2025-04-04",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
+    "genres": "Dramma",
+    "director": "Eva Libertad"
   }
 ]
