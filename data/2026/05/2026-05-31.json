@@ -1,7 +1,7 @@
 [
   {
     "title": "IL SILENZIO DEGLI INNOCENTI",
-    "ai_reason": "A fundamental masterpiece of cinema history; this re-release is an essential pilgrimage for any serious cinephile.",
+    "ai_reason": "A cornerstone of cinema history and a flawless synthesis of psychological horror and thriller; an absolute must-watch classic.",
     "cast": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine",
     "details": "Jonathan Demme sperimenta e innova il genere thriller, cambiandolo per sempre. Thriller, USA 1991. Durata 118 Minuti.",
     "cinemas": [
@@ -23,64 +23,8 @@
     "director": "Jonathan Demme"
   },
   {
-    "title": "LA MESSA È FINITA",
-    "ai_reason": "A crucial work by Nanni Moretti, one of Italy's true auteurs, offering a poignant look at faith and society.",
-    "cast": "Marco Messeri, Nanni Moretti, Ferruccio De Ceresa, Margarita Lozano",
-    "details": "Un meritato Orso d'argento per il film di Moretti che presenta uno dei personaggi più intensi della sua filmografia. Drammatico, Italia 1985. Durata 94 Minuti. Consigli per la visione: Ragazzi +16",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:10"
-        ]
-      }
-    ],
-    "tmdb_id": 60732,
-    "tmdb_title": "La messa è finita",
-    "original_title": "La messa è finita",
-    "overview": "Tornato a Roma dopo anni, don Giulio, un giovane sacerdote, viene messo a capo di una chiesa di periferia, dove ritrova famigliari e amici. I rapporti con tutti loro e con i parrocchiani, che il sacerdote non riesce ad aiutare, metteranno a dura prova la propria vocazione e la sua fede.",
-    "release_date": "1985-11-15",
-    "vote_average": 7.4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/eCdfHMyFRc5uDG2cdIOlc5rBGUd.jpg",
-    "genres": "Dramma",
-    "director": "Nanni Moretti"
-  },
-  {
-    "title": "AMARGA NAVIDAD",
-    "ai_reason": "A significant new work from Spanish master Pedro Almodóvar, exploring the boundaries between autobiography and fiction.",
-    "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
-    "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "15:55",
-          "18:10",
-          "21:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "11:10",
-          "18:40",
-          "21:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1088548,
-    "tmdb_title": "Amarga Navidad",
-    "original_title": "Amarga Navidad",
-    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
-    "release_date": "2026-03-20",
-    "vote_average": 6.598,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Pedro Almodóvar"
-  },
-  {
     "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
-    "ai_reason": "The definitive, long-awaited unified version of Tarantino's martial arts epic, a major cult cinematic event.",
+    "ai_reason": "The definitive, unified vision of Tarantino's martial arts epic; a mandatory cinematic event for any serious cinephile.",
     "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
     "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
     "cinemas": [
@@ -112,8 +56,64 @@
     "director": "Quentin Tarantino"
   },
   {
+    "title": "LA MESSA È FINITA",
+    "ai_reason": "A seminal work by Nanni Moretti, capturing existential malaise with the distinct voice of a major Italian auteur.",
+    "cast": "Marco Messeri, Nanni Moretti, Ferruccio De Ceresa, Margarita Lozano",
+    "details": "Un meritato Orso d'argento per il film di Moretti che presenta uno dei personaggi più intensi della sua filmografia. Drammatico, Italia 1985. Durata 94 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10"
+        ]
+      }
+    ],
+    "tmdb_id": 60732,
+    "tmdb_title": "La messa è finita",
+    "original_title": "La messa è finita",
+    "overview": "Tornato a Roma dopo anni, don Giulio, un giovane sacerdote, viene messo a capo di una chiesa di periferia, dove ritrova famigliari e amici. I rapporti con tutti loro e con i parrocchiani, che il sacerdote non riesce ad aiutare, metteranno a dura prova la propria vocazione e la sua fede.",
+    "release_date": "1985-11-15",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eCdfHMyFRc5uDG2cdIOlc5rBGUd.jpg",
+    "genres": "Dramma",
+    "director": "Nanni Moretti"
+  },
+  {
+    "title": "AMARGA NAVIDAD",
+    "ai_reason": "The legendary Pedro Almodóvar returns with a meta-fictional exploration of art and life, cementing his status as a titan of arthouse cinema.",
+    "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
+    "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:55",
+          "18:10",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:10",
+          "18:40",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1088548,
+    "tmdb_title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "release_date": "2026-03-20",
+    "vote_average": 6.598,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Pedro Almodóvar"
+  },
+  {
     "title": "BACKROOMS",
-    "ai_reason": "Elevated psychological horror featuring a prestigious cast, including arthouse darling Renate Reinsve.",
+    "ai_reason": "Surrealist, elevated horror that transforms internet lore into a claustrophobic nightmare, featuring a prestigious arthouse cast.",
     "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
     "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -129,8 +129,7 @@
           "18:45",
           "20:05",
           "22:00",
-          "22:30",
-          "00:30"
+          "22:30"
         ]
       },
       {
@@ -149,14 +148,14 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.629,
+    "vote_average": 6.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons"
   },
   {
     "title": "IL REGNO DI KENSUKE",
-    "ai_reason": "A stunning example of prestige hand-drawn animation with a high-caliber voice cast, prioritizing artistry over commercialism.",
+    "ai_reason": "An exquisite example of prestige animation, blending hand-drawn artistry with a poignant, mature narrative and an acclaimed cast.",
     "cast": "Cillian Murphy, Ken Watanabe, Sally Hawkins, Raffey Cassidy",
     "details": "Un racconto di formazione che è anche favola ecologista. Perfetto per un pubblico di adolescenti. Animazione, Gran Bretagna, Lussemburgo, Francia 2024. Durata 85 Minuti.",
     "cinemas": [
@@ -178,8 +177,31 @@
     "director": "Kirk Hendry, Neil Boyle"
   },
   {
+    "title": "TUNER - L'ACCORDATORE",
+    "ai_reason": "A sensory psychological thriller from Oscar-winner Daniel Roher, focusing on the obsessive and isolating nature of the auditory world.",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
+    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1340206,
+    "tmdb_title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "release_date": "2026-05-11",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
+    "genres": "Crime, Thriller",
+    "director": "Daniel Roher"
+  },
+  {
     "title": "IL SILENZIO DEGLI ALTRI",
-    "ai_reason": "A sensitive and profound piece of arthouse cinema that explores the human condition through a specific sensory lens.",
+    "ai_reason": "A profound and delicate arthouse drama exploring the intersection of disability and motherhood with great sensitivity.",
     "cast": "Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario",
     "details": "Un film che immerge nelle percezioni della protagonista trovando una completa identificazione tra il suo sguardo e quello della cineasta. Drammatico, Spagna 2025. Durata 99 Minuti.",
     "cinemas": [
@@ -200,28 +222,5 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
     "genres": "Dramma",
     "director": "Eva Libertad"
-  },
-  {
-    "title": "TUNER - L'ACCORDATORE",
-    "ai_reason": "A high-concept psychological thriller directed by Oscar-winner Daniel Roher, blending genre tropes with auteur sensitivity.",
-    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
-    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "21:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1340206,
-    "tmdb_title": "Tuner - L’accordatore",
-    "original_title": "Tuner",
-    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
-    "release_date": "2026-05-11",
-    "vote_average": 6.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
-    "genres": "Crime, Thriller",
-    "director": "Daniel Roher"
   }
 ]
