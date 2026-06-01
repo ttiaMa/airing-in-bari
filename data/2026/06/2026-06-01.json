@@ -1,0 +1,179 @@
+[
+  {
+    "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
+    "ai_reason": "An essential Tarantino masterpiece presented in its rarest, most complete form; a definitive cult event for any true cinephile.",
+    "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
+    "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:50",
+          "19:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:10",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 414419,
+    "tmdb_title": "Kill Bill: The Whole Bloody Affair",
+    "original_title": "Kill Bill: The Whole Bloody Affair",
+    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
+    "release_date": "2011-03-27",
+    "vote_average": 8.076,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+    "genres": "Azione, Crime",
+    "director": "Quentin Tarantino"
+  },
+  {
+    "title": "IL SILENZIO DEGLI INNOCENTI",
+    "ai_reason": "A cornerstone of psychological thriller history and a masterclass in tension, serving as a vital re-release of a cinema classic.",
+    "cast": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine",
+    "details": "Jonathan Demme sperimenta e innova il genere thriller, cambiandolo per sempre. Thriller, USA 1991. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "23:55"
+        ]
+      }
+    ],
+    "tmdb_id": 274,
+    "tmdb_title": "Il silenzio degli innocenti",
+    "original_title": "The Silence of the Lambs",
+    "overview": "Dal romanzo omonimo di Thomas Harris. Una giovane recluta dell'FBI è incaricata di far visita in carcere a Hannibal Lecter, psichiatra pluriomicida, per ottenere informazioni su un assassino psicopatico che ha ucciso e scuoiato cinque donne.",
+    "release_date": "1991-02-14",
+    "vote_average": 8.345,
+    "poster_url": "https://image.tmdb.org/t/p/w500/atl34CKeaKGONBdyhbIweutyZjX.jpg",
+    "genres": "Crime, Thriller, Dramma",
+    "director": "Jonathan Demme"
+  },
+  {
+    "title": "AMARGA NAVIDAD",
+    "ai_reason": "A sophisticated meta-narrative exploration from Almodóvar, one of the most significant and vibrant voices in European auteur cinema.",
+    "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
+    "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:55",
+          "18:10",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:20",
+          "18:20",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1088548,
+    "tmdb_title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "release_date": "2026-03-20",
+    "vote_average": 6.595,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Pedro Almodóvar"
+  },
+  {
+    "title": "BACKROOMS",
+    "ai_reason": "A descent into liminal horror and surrealism that aligns with the A24 aesthetic, redefining elevated genre for a new generation.",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:45",
+          "15:30",
+          "17:15",
+          "18:05",
+          "18:15",
+          "20:00",
+          "22:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:00",
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.79,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons"
+  },
+  {
+    "title": "TUNER - L'ACCORDATORE",
+    "ai_reason": "A refined, sensory-driven psychological thriller from Academy Award-winning director Daniel Roher, offering a prestige narrative experience.",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
+    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:50",
+          "20:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1340206,
+    "tmdb_title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "release_date": "2026-05-11",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
+    "genres": "Crime, Thriller",
+    "director": "Daniel Roher"
+  },
+  {
+    "title": "IL SILENZIO DEGLI ALTRI",
+    "ai_reason": "A poignant and intimate piece of contemporary European arthouse cinema that explores the complexities of motherhood through a unique sensory lens.",
+    "cast": "Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario",
+    "details": "Un film che immerge nelle percezioni della protagonista trovando una completa identificazione tra il suo sguardo e quello della cineasta. Drammatico, Spagna 2025. Durata 99 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:30",
+          "21:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1303613,
+    "tmdb_title": "Il silenzio degli altri",
+    "original_title": "Sorda",
+    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
+    "release_date": "2025-04-04",
+    "vote_average": 7.217,
+    "poster_url": "https://image.tmdb.org/t/p/w500/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
+    "genres": "Dramma",
+    "director": "Eva Libertad"
+  }
+]
