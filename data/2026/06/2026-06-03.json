@@ -1,7 +1,7 @@
 [
   {
     "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
-    "ai_reason": "A rare theatrical presentation of Tarantino's unified vision, standing as the definitive cult event for the high-brow cinephile.",
+    "ai_reason": "A definitive cult classic re-release; Tarantino's long-sought 'Whole Bloody Affair' edit is a cornerstone of modern cinephile culture.",
     "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
     "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
     "cinemas": [
@@ -32,7 +32,7 @@
   },
   {
     "title": "AMARGA NAVIDAD",
-    "ai_reason": "The legendary Pedro Almodóvar returns with a meta-narrative character study, essential viewing for devotees of European auteur cinema.",
+    "ai_reason": "A sophisticated work from legendary auteur Pedro Almodóvar, exploring the high-brow themes of autofiction and the blurring of reality and art.",
     "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
     "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -64,7 +64,7 @@
   },
   {
     "title": "BACKROOMS",
-    "ai_reason": "A sophisticated expansion of liminal horror featuring arthouse favorite Renate Reinsve; a prime example of the 'elevated genre' movement.",
+    "ai_reason": "An elevated genre piece from A24 featuring a prestigious cast (Ejiofor, Reinsve), turning internet surrealism into a high-concept psychological horror.",
     "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
     "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -93,14 +93,14 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.68,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons"
   },
   {
     "title": "TUNER - L'ACCORDATORE",
-    "ai_reason": "An intellectually stimulating thriller from Oscar-winner Daniel Roher that prioritizes psychological tension and sensory exploration over generic tropes.",
+    "ai_reason": "A sensory-driven arthouse thriller from Oscar-winner Daniel Roher, prioritizing psychological depth and auditory experimentation over generic tropes.",
     "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
     "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
     "cinemas": [
@@ -127,5 +127,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
     "genres": "Crime, Thriller",
     "director": "Daniel Roher"
+  },
+  {
+    "title": "IL SILENZIO DEGLI ALTRI",
+    "ai_reason": "A poignant and aesthetically deliberate arthouse drama that challenges standard cinematic perspectives through its focus on sensory experience.",
+    "cast": "Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario",
+    "details": "Un film che immerge nelle percezioni della protagonista trovando una completa identificazione tra il suo sguardo e quello della cineasta. Drammatico, Spagna 2025. Durata 99 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:30",
+          "21:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1303613,
+    "tmdb_title": "Il silenzio degli altri",
+    "original_title": "Sorda",
+    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
+    "release_date": "2025-04-04",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
+    "genres": "Dramma",
+    "director": "Eva Libertad"
   }
 ]
