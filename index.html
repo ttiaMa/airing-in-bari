@@ -37,6 +37,16 @@
           </div>
         </div>
       </div>
+
+      <div class="filter-group mathyas-pick-group">
+        <label style="visibility: hidden">Filtro AI</label>
+        <div class="tooltip-wrapper">
+          <button id="mathyas-pick-btn" class="mathyas-pick-btn">
+            Mathya's Picks
+          </button>
+          <div class="css-tooltip">Filtra qui per le pick di Mathya (AI)</div>
+        </div>
+      </div>
     </div>
 
     <!-- Movies Container dove iniettiamo i risultati -->
@@ -56,6 +66,9 @@
       <p style="margin: 0; font-family: monospace; color: #7f8c8d;">v2.1</p>
     </div>
   </div>
+
+  <!-- Toast Notification -->
+  <div id="toast-notification" class="toast"></div>
 
   <script>
     // --- 1. CONFIGURAZIONE E VARIABILI GLOBALI ---
@@ -152,6 +165,26 @@
     }
 
     // --- 4. LOGICA DEI FILTRI ---
+
+    // Gestione bottone Mathya's Picks
+    let mathyasPickActive = false;
+    document.getElementById('mathyas-pick-btn').addEventListener('click', (e) => {
+      mathyasPickActive = !mathyasPickActive;
+      e.target.classList.toggle('active', mathyasPickActive);
+
+      // Toast notification
+      const toast = document.getElementById('toast-notification');
+      toast.innerHTML = mathyasPickActive ? 'Filtro AI <strong>Attivato</strong>' : 'Filtro AI <strong>Disattivato</strong>';
+      toast.className = 'toast show';
+
+      // Clear previous timeout if user clicks multiple times quickly
+      if (toast.hideTimeout) clearTimeout(toast.hideTimeout);
+      toast.hideTimeout = setTimeout(() => {
+        toast.classList.remove('show');
+      }, 3000);
+
+      renderMovies();
+    });
 
     // Gestione apertura/chiusura dropdown (generico per tutti)
     document.querySelectorAll('.dropdown-header').forEach(header => {
@@ -306,6 +339,11 @@
       let moviesRendered = 0;
 
       globalMoviesData.forEach(movie => {
+        // Filtro Mathya's Picks
+        if (mathyasPickActive && movie['mathyas-pick'] !== true) {
+          return;
+        }
+
         // Prepariamo l'array dei cinema che rispetti I FILTRI per questo preciso film
         let validCinemas = [];
 
@@ -353,6 +391,12 @@
         // Risolviamo i vari dati del film per visualizzarli in UI
         const title = movie.tmdb_title || movie.original_title || "Titolo Sconosciuto";
         const searchTitle = movie.original_title || title;
+        const isMathyasPick = movie['mathyas-pick'] === true;
+        const mathyasIconHtml = isMathyasPick ? `
+          <span class="wax-seal-wrapper" style="cursor: pointer;">
+            <span class="mathyas-pick-icon">🔥</span>
+            <span class="css-tooltip" style="font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 500; letter-spacing: normal; text-transform: none; line-height: normal;">Consigliato da Mattia!</span>
+          </span>` : '';
         const letterboxdUrl = `https://letterboxd.com/search/films/${encodeURIComponent(searchTitle)}/`;
         const imdbUrl = `https://www.imdb.com/find/?q=${encodeURIComponent(searchTitle)}`;
         const genresText = Array.isArray(movie.genres) ? movie.genres.join(", ") : (movie.genres || 'N/D');
@@ -380,13 +424,16 @@
             
             <div class="movie-info">
               <h3 class="movie-title">
-                ${title.toUpperCase()}
-                <a href="${letterboxdUrl}" target="_blank" title="Cerca su Letterboxd">
-                  <img src="https://letterboxd.com/apple-touch-icon.png" class="movie-icon" alt="Letterboxd">
-                </a>
-                <a href="${imdbUrl}" target="_blank" title="Cerca su IMDb">
-                  <img src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" class="movie-icon" alt="IMDb">
-                </a>
+                <span>${title.toUpperCase()}</span>
+                <div class="title-icons" style="display: inline-flex; align-items: center; gap: 8px; flex-wrap: nowrap; height: 18px;">
+                  ${mathyasIconHtml}
+                  <a href="${letterboxdUrl}" target="_blank" title="Cerca su Letterboxd" style="display: flex; align-items: center; justify-content: center; height: 18px;">
+                    <img src="https://letterboxd.com/apple-touch-icon.png" class="movie-icon" alt="Letterboxd">
+                  </a>
+                  <a href="${imdbUrl}" target="_blank" title="Cerca su IMDb" style="display: flex; align-items: center; justify-content: center; height: 18px;">
+                    <img src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" class="movie-icon" alt="IMDb">
+                  </a>
+                </div>
               </h3>
               
               <p class="movie-desc">"${descText}"</p>
