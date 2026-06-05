@@ -1,39 +1,5 @@
 [
   {
-    "title": "BACKROOMS",
-    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
-    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:05",
-          "17:45",
-          "20:30",
-          "22:25"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "19:20",
-          "21:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1083381,
-    "tmdb_title": "Backrooms",
-    "original_title": "Backrooms",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "release_date": "2026-05-27",
-    "vote_average": 6.769,
-    "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "genres": "Horror, Mistero, Fantascienza",
-    "director": "Kane Parsons",
-    "ai_reason": "Kane Parsons’ viral surrealism transcends its digital roots, offering a high-concept psychological descent into liminal horror with a prestige cast.",
-    "mathyas-pick": true
-  },
-  {
     "title": "PRINCIPESSA MONONOKE",
     "cast": "Billy Crudup, Billy Bob Thornton, Minnie Driver, John Di Maggio",
     "details": "Un film avventuroso che spiazza lo spettatore senza perdere coerenza. Il più canonico di Miyazaki. Animazione, Giappone 1997. Durata 133 Minuti. Consigli per la visione: Ragazzi +13",
@@ -61,6 +27,30 @@
     "genres": "Avventura, Fantasy, Animazione",
     "director": "Hayao Miyazaki",
     "ai_reason": "A seminal masterpiece of Studio Ghibli’s hand-drawn legacy, blending mythic grandeur with ecological philosophy. Essential prestige animation.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
+    "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
+    "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 414419,
+    "tmdb_title": "Kill Bill: The Whole Bloody Affair",
+    "original_title": "Kill Bill: The Whole Bloody Affair",
+    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
+    "release_date": "2011-03-27",
+    "vote_average": 8.089,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+    "genres": "Azione, Crime",
+    "director": "Quentin Tarantino",
+    "ai_reason": "The definitive, long-awaited unified cut of Tarantino’s stylized homage to grindhouse and samurai cinema. A cornerstone of cult history.",
     "mathyas-pick": true
   },
   {
@@ -98,6 +88,108 @@
     "mathyas-pick": true
   },
   {
+    "title": "FINCHÈ MORTE NON CI SEPARI 2",
+    "cast": "Samara Weaving, Kathryn Newton, Elijah Wood, Sarah Michelle Gellar",
+    "details": "Un sequel vivace e potenziato nei modi, nelle forme e nella quantità. Horror, USA 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "23:40"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "16:00",
+          "18:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:20",
+          "19:00",
+          "20:45",
+          "21:20",
+          "16:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1266127,
+    "tmdb_title": "Finché morte non ci separi 2",
+    "original_title": "Ready or Not: Here I Come",
+    "overview": "Poco dopo essere sopravvissuta ad un attacco senza esclusione di colpi da parte della famiglia Le Domas, Grace (Samara Weaving) scopre di aver raggiunto il livello successivo di questo gioco da incubo, questa volta con al suo fianco la sorella Faith (Kathryn Newton) con cui non aveva più rapporti. Grace ha una sola possibilità per sopravvivere, per salvare la vita della sorella e rivendicare il Posto D’Onore del Consiglio che controlla il mondo. Quattro famiglie rivali le stanno dando la caccia per il trono, e chi vincerà governerà su tutto.",
+    "release_date": "2026-03-19",
+    "vote_average": 7.703,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6dHm3A0MVGHMJH73ae5SlJSHrBr.jpg",
+    "genres": "Thriller, Horror, Commedia",
+    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MASTERS OF THE UNIVERSE",
+    "cast": "Nicholas Galitzine, Jared Leto, Camila Mendes, Alison Brie",
+    "details": "Un adattamento che lavora sull'effetto nostalgia e sulle fragilità del maschio contemporaneo. Azione, Avventura, Drammatico - USA 2026. Durata 140 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10",
+          "19:10",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20",
+          "22:30"
+        ]
+      }
+    ],
+    "tmdb_id": 454639,
+    "tmdb_title": "Masters of the Universe",
+    "original_title": "Masters of the Universe",
+    "overview": "Dopo essere stati separati per 15 anni, la Spada del Potere conduce il Principe Adam (Nicholas Galitzine) di nuovo su Eternia, dove scopre la sua casa devastata dal diabolico dominio di Skeletor (Jared Leto). Per salvare la sua famiglia e il suo mondo, Adam deve unire le forze con i suoi alleati più fidati, Teela (Camila Mendes) e Duncan/Man-At-Arms (Idris Elba), e abbracciare il suo vero destino come He-Man — l’uomo più potente dell’universo.",
+    "release_date": "2026-06-03",
+    "vote_average": 7.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
+    "genres": "Azione, Fantasy, Fantascienza",
+    "director": "Travis Knight",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MICHAEL",
+    "cast": "Jaafar Jackson, Nia Long, Laura Harrier, Juliano Valdi",
+    "details": "Un film-evento musicale, dal ritmo travolgente. Da brividi la performance di Jaafar Jackson. Biografico, USA 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:50",
+          "21:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 936075,
+    "tmdb_title": "Michael",
+    "original_title": "Michael",
+    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
+    "release_date": "2026-04-22",
+    "vote_average": 7.585,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "genres": "Musica, Dramma",
+    "director": "Antoine Fuqua",
+    "mathyas-pick": false
+  },
+  {
     "title": "TUNER - L'ACCORDATORE",
     "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
     "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
@@ -120,6 +212,63 @@
     "genres": "Crime, Thriller",
     "director": "Daniel Roher",
     "ai_reason": "A prestige psychological thriller from Oscar-winner Daniel Roher, exploring sensory hyper-sensitivity and the weight of genius.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "STAR WARS - THE MANDALORIAN AND GROGU",
+    "cast": "Pedro Pascal, Sigourney Weaver, Steve Blum, Hemky Madera",
+    "details": "Chicche per i fan, un adorabile Grogu e un trionfo di marionette animatronic. Un'opera che funziona. Azione, Avventura, Fantasy - USA 2026. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1228710,
+    "tmdb_title": "The Mandalorian and Grogu",
+    "original_title": "The Mandalorian and Grogu",
+    "overview": "L’Impero è caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre lanascente Nuova Repubblica cerca di proteggere tuRo ciò per cui l’Alleanza Ribelle ha combaRuto, haarruolato l’aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin (Pedro Pascal) e delsuo giovane apprendista Grogu. DireRo da Jon Favreau, Star Wars: The Mandalorian and Grogu vedeanche la partecipazione di Sigourney Weaver ed è prodoRo da Jon Favreau, Kathleen Kennedy, DaveFiloni e Ian Bryce, con musiche composte da Ludwig Göransson",
+    "release_date": "2026-05-20",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Jon Favreau",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BACKROOMS",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:05",
+          "17:45",
+          "20:30",
+          "22:25"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.769,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons",
+    "ai_reason": "Kane Parsons’ viral surrealism transcends its digital roots, offering a high-concept psychological descent into liminal horror with a prestige cast.",
     "mathyas-pick": true
   },
   {
@@ -180,28 +329,27 @@
     "mathyas-pick": true
   },
   {
-    "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
-    "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
-    "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
+    "title": "RUFUS - IL DRAGHETTO MARINO CHE NON SAPEVA NUOTARE",
+    "cast": "Gisken Armand, Kåre Conradi, Janne Formoe, Stig Henrik Hoff",
+    "details": "Dalla Norvegia una favola ecologista dal tradizionale impianto narrativo. Animazione, Family - Norvegia, Belgio, Germania 2026. Durata 80 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
         "times": [
-          "19:30"
+          "16:15"
         ]
       }
     ],
-    "tmdb_id": 414419,
-    "tmdb_title": "Kill Bill: The Whole Bloody Affair",
-    "original_title": "Kill Bill: The Whole Bloody Affair",
-    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
-    "release_date": "2011-03-27",
-    "vote_average": 8.089,
-    "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
-    "genres": "Azione, Crime",
-    "director": "Quentin Tarantino",
-    "ai_reason": "The definitive, long-awaited unified cut of Tarantino’s stylized homage to grindhouse and samurai cinema. A cornerstone of cult history.",
-    "mathyas-pick": true
+    "tmdb_id": 1512207,
+    "tmdb_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "original_title": "Ruffen: Sjøormen som ikke kunne svømme",
+    "overview": "Nel cuore dell’oceano, su un’isola segreta, vive una simpatica comunità di draghi marini. Tra loro c’è Rufus, un piccolo draghetto diverso dagli altri, con tanto cuore… ma zero talento per il nuoto. Quando però lo zio Ludvig, che tiene l'isola nascosta agli umani con il suo fumo magico, perde i poteri, sarà proprio Rufus a partire per un viaggio straordinario fino in Scozia, alla ricerca della prozia Nessie e della mitica sciarpa magica.",
+    "release_date": "2025-10-10",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8thnn6W9p3oayv6cf1M3RezNah8.jpg",
+    "genres": "Animazione, Famiglia",
+    "director": "Endre Skandfer",
+    "mathyas-pick": false
   },
   {
     "title": "SCARY MOVIE",
@@ -242,6 +390,29 @@
     "mathyas-pick": false
   },
   {
+    "title": "INNAMORARSI E ALTRE PESSIME IDEE",
+    "cast": "Lino Guanciale, Ilenia Pastorelli, Andrea Delogu, Claudio Colica",
+    "details": "Prevedibile commedia romantica, accompagnata da una regia che asseconda con grazia le evoluzioni romantiche dei protagonisti. Commedia, Italia 2026. Durata 97 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1511358,
+    "tmdb_title": "Innamorarsi e altre pessime idee",
+    "original_title": "Innamorarsi e altre pessime idee",
+    "overview": "Lino (Lino Guanciale), avvocato di successo, vede la sua vita crollare quando la moglie Grazia (Grazia Schiavo) decide di lasciarlo per un affascinante chef, Paolo (Davide Devenuto). Mosso da un desiderio di rivalsa, Lino escogita un piano: dimostrare a Grazia che Paolo è un seduttore pronto a tradirla e ad abbandonarla. Per riuscire nel suo scopo coinvolge Sofia (Andrea Delogu), una donna bellissima sommersa in guai legali con l’ex fidanzato. Lino le offrirà assistenza legale, lei dovrà sedurre Paolo. Saranno aiutati dagli eccentrici amici di Lino (Tommy, Claudio Colica) e di Sofia (Matilde, Ilenia Pastorelli). Ma l’imprevisto è dietro l’angolo: da questa insolita collaborazione nasce qualcosa che nessuno aveva previsto.",
+    "release_date": "2026-05-28",
+    "vote_average": 5.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg",
+    "genres": "Commedia, Romance",
+    "director": "Simone Aleandri",
+    "mathyas-pick": false
+  },
+  {
     "title": "SMART WORKING",
     "cast": "Marcello Macchia, Sara Lazzaro, Alessandro Tiberi, Maurizio Nichetti",
     "details": "Un racconto dai temi attuali. Con un lavoro accurato in scrittura e regia. Commedia, Italia 2026. Durata 96 Minuti.",
@@ -269,177 +440,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg",
     "genres": "Commedia",
     "director": "Svevo Moltrasio",
-    "mathyas-pick": false
-  },
-  {
-    "title": "MASTERS OF THE UNIVERSE",
-    "cast": "Nicholas Galitzine, Jared Leto, Camila Mendes, Alison Brie",
-    "details": "Un adattamento che lavora sull'effetto nostalgia e sulle fragilità del maschio contemporaneo. Azione, Avventura, Drammatico - USA 2026. Durata 140 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:10",
-          "19:10",
-          "21:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "19:20",
-          "22:30"
-        ]
-      }
-    ],
-    "tmdb_id": 454639,
-    "tmdb_title": "Masters of the Universe",
-    "original_title": "Masters of the Universe",
-    "overview": "Dopo essere stati separati per 15 anni, la Spada del Potere conduce il Principe Adam (Nicholas Galitzine) di nuovo su Eternia, dove scopre la sua casa devastata dal diabolico dominio di Skeletor (Jared Leto). Per salvare la sua famiglia e il suo mondo, Adam deve unire le forze con i suoi alleati più fidati, Teela (Camila Mendes) e Duncan/Man-At-Arms (Idris Elba), e abbracciare il suo vero destino come He-Man — l’uomo più potente dell’universo.",
-    "release_date": "2026-06-03",
-    "vote_average": 7.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
-    "genres": "Azione, Fantasy, Fantascienza",
-    "director": "Travis Knight",
-    "mathyas-pick": false
-  },
-  {
-    "title": "RUFUS - IL DRAGHETTO MARINO CHE NON SAPEVA NUOTARE",
-    "cast": "Gisken Armand, Kåre Conradi, Janne Formoe, Stig Henrik Hoff",
-    "details": "Dalla Norvegia una favola ecologista dal tradizionale impianto narrativo. Animazione, Family - Norvegia, Belgio, Germania 2026. Durata 80 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:15"
-        ]
-      }
-    ],
-    "tmdb_id": 1512207,
-    "tmdb_title": "Rufus - Il draghetto marino che non sapeva nuotare",
-    "original_title": "Ruffen: Sjøormen som ikke kunne svømme",
-    "overview": "Nel cuore dell’oceano, su un’isola segreta, vive una simpatica comunità di draghi marini. Tra loro c’è Rufus, un piccolo draghetto diverso dagli altri, con tanto cuore… ma zero talento per il nuoto. Quando però lo zio Ludvig, che tiene l'isola nascosta agli umani con il suo fumo magico, perde i poteri, sarà proprio Rufus a partire per un viaggio straordinario fino in Scozia, alla ricerca della prozia Nessie e della mitica sciarpa magica.",
-    "release_date": "2025-10-10",
-    "vote_average": 6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8thnn6W9p3oayv6cf1M3RezNah8.jpg",
-    "genres": "Animazione, Famiglia",
-    "director": "Endre Skandfer",
-    "mathyas-pick": false
-  },
-  {
-    "title": "STAR WARS - THE MANDALORIAN AND GROGU",
-    "cast": "Pedro Pascal, Sigourney Weaver, Steve Blum, Hemky Madera",
-    "details": "Chicche per i fan, un adorabile Grogu e un trionfo di marionette animatronic. Un'opera che funziona. Azione, Avventura, Fantasy - USA 2026. Durata 132 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:25"
-        ]
-      }
-    ],
-    "tmdb_id": 1228710,
-    "tmdb_title": "The Mandalorian and Grogu",
-    "original_title": "The Mandalorian and Grogu",
-    "overview": "L’Impero è caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre lanascente Nuova Repubblica cerca di proteggere tuRo ciò per cui l’Alleanza Ribelle ha combaRuto, haarruolato l’aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin (Pedro Pascal) e delsuo giovane apprendista Grogu. DireRo da Jon Favreau, Star Wars: The Mandalorian and Grogu vedeanche la partecipazione di Sigourney Weaver ed è prodoRo da Jon Favreau, Kathleen Kennedy, DaveFiloni e Ian Bryce, con musiche composte da Ludwig Göransson",
-    "release_date": "2026-05-20",
-    "vote_average": 6.8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg",
-    "genres": "Azione, Avventura, Fantascienza",
-    "director": "Jon Favreau",
-    "mathyas-pick": false
-  },
-  {
-    "title": "MICHAEL",
-    "cast": "Jaafar Jackson, Nia Long, Laura Harrier, Juliano Valdi",
-    "details": "Un film-evento musicale, dal ritmo travolgente. Da brividi la performance di Jaafar Jackson. Biografico, USA 2026. Durata 127 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "18:50",
-          "21:50"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "17:00"
-        ]
-      }
-    ],
-    "tmdb_id": 936075,
-    "tmdb_title": "Michael",
-    "original_title": "Michael",
-    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
-    "release_date": "2026-04-22",
-    "vote_average": 7.585,
-    "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-    "genres": "Musica, Dramma",
-    "director": "Antoine Fuqua",
-    "mathyas-pick": false
-  },
-  {
-    "title": "INNAMORARSI E ALTRE PESSIME IDEE",
-    "cast": "Lino Guanciale, Ilenia Pastorelli, Andrea Delogu, Claudio Colica",
-    "details": "Prevedibile commedia romantica, accompagnata da una regia che asseconda con grazia le evoluzioni romantiche dei protagonisti. Commedia, Italia 2026. Durata 97 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "18:25"
-        ]
-      }
-    ],
-    "tmdb_id": 1511358,
-    "tmdb_title": "Innamorarsi e altre pessime idee",
-    "original_title": "Innamorarsi e altre pessime idee",
-    "overview": "Lino (Lino Guanciale), avvocato di successo, vede la sua vita crollare quando la moglie Grazia (Grazia Schiavo) decide di lasciarlo per un affascinante chef, Paolo (Davide Devenuto). Mosso da un desiderio di rivalsa, Lino escogita un piano: dimostrare a Grazia che Paolo è un seduttore pronto a tradirla e ad abbandonarla. Per riuscire nel suo scopo coinvolge Sofia (Andrea Delogu), una donna bellissima sommersa in guai legali con l’ex fidanzato. Lino le offrirà assistenza legale, lei dovrà sedurre Paolo. Saranno aiutati dagli eccentrici amici di Lino (Tommy, Claudio Colica) e di Sofia (Matilde, Ilenia Pastorelli). Ma l’imprevisto è dietro l’angolo: da questa insolita collaborazione nasce qualcosa che nessuno aveva previsto.",
-    "release_date": "2026-05-28",
-    "vote_average": 5.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg",
-    "genres": "Commedia, Romance",
-    "director": "Simone Aleandri",
-    "mathyas-pick": false
-  },
-  {
-    "title": "FINCHÈ MORTE NON CI SEPARI 2",
-    "cast": "Samara Weaving, Kathryn Newton, Elijah Wood, Sarah Michelle Gellar",
-    "details": "Un sequel vivace e potenziato nei modi, nelle forme e nella quantità. Horror, USA 2026. Durata 108 Minuti.",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "23:40"
-        ]
-      },
-      {
-        "name": "Galleria",
-        "times": [
-          "16:00",
-          "18:15"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "18:20",
-          "19:00",
-          "20:45",
-          "21:20",
-          "16:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1266127,
-    "tmdb_title": "Finché morte non ci separi 2",
-    "original_title": "Ready or Not: Here I Come",
-    "overview": "Poco dopo essere sopravvissuta ad un attacco senza esclusione di colpi da parte della famiglia Le Domas, Grace (Samara Weaving) scopre di aver raggiunto il livello successivo di questo gioco da incubo, questa volta con al suo fianco la sorella Faith (Kathryn Newton) con cui non aveva più rapporti. Grace ha una sola possibilità per sopravvivere, per salvare la vita della sorella e rivendicare il Posto D’Onore del Consiglio che controlla il mondo. Quattro famiglie rivali le stanno dando la caccia per il trono, e chi vincerà governerà su tutto.",
-    "release_date": "2026-03-19",
-    "vote_average": 7.703,
-    "poster_url": "https://image.tmdb.org/t/p/w500/6dHm3A0MVGHMJH73ae5SlJSHrBr.jpg",
-    "genres": "Thriller, Horror, Commedia",
-    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
     "mathyas-pick": false
   }
 ]
