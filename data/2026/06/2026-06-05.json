@@ -1,7 +1,30 @@
 [
   {
+    "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
+    "ai_reason": "A monumental event in cinema history, this version restores the director's complete vision, cementing Tarantino's status as a master of the cult genre.",
+    "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
+    "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 414419,
+    "tmdb_title": "Kill Bill: The Whole Bloody Affair",
+    "original_title": "Kill Bill: The Whole Bloody Affair",
+    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
+    "release_date": "2011-03-27",
+    "vote_average": 8.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+    "genres": "Azione, Crime",
+    "director": "Quentin Tarantino"
+  },
+  {
     "title": "PRINCIPESSA MONONOKE",
-    "ai_reason": "A cornerstone of prestige animation; Miyazaki’s environmental masterpiece is essential cinema history.",
+    "ai_reason": "A masterpiece of prestige animation from Studio Ghibli, Hayao Miyazaki’s epic is a cornerstone of arthouse cinema and environmental philosophy.",
     "cast": "Billy Crudup, Billy Bob Thornton, Minnie Driver, John Di Maggio",
     "details": "Un film avventuroso che spiazza lo spettatore senza perdere coerenza. Il più canonico di Miyazaki. Animazione, Giappone 1997. Durata 133 Minuti. Consigli per la visione: Ragazzi +13",
     "cinemas": [
@@ -29,31 +52,8 @@
     "director": "Hayao Miyazaki"
   },
   {
-    "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
-    "ai_reason": "The definitive, uncut vision of Tarantino's revenge epic; an essential cult event for the dedicated cinephile.",
-    "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
-    "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "19:30"
-        ]
-      }
-    ],
-    "tmdb_id": 414419,
-    "tmdb_title": "Kill Bill: The Whole Bloody Affair",
-    "original_title": "Kill Bill: The Whole Bloody Affair",
-    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
-    "release_date": "2011-03-27",
-    "vote_average": 8.087,
-    "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
-    "genres": "Azione, Crime",
-    "director": "Quentin Tarantino"
-  },
-  {
     "title": "AMARGA NAVIDAD",
-    "ai_reason": "A new exploration of meta-cinematic autofiction from the legendary Spanish auteur Pedro Almodóvar.",
+    "ai_reason": "A major cinematic event from Spanish auteur Pedro Almodóvar, exploring the sophisticated boundaries of autofiction and meta-narrative.",
     "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
     "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -83,7 +83,7 @@
   },
   {
     "title": "L'AMORE CHE RIMANE",
-    "ai_reason": "A stark and masterfully composed work of arthouse minimalism from celebrated Icelandic director Hlynur Pálmason.",
+    "ai_reason": "Hlynur Pálmason is a rising darling of Nordic arthouse cinema; this film promises the same atmospheric, visually arresting depth seen in his previous acclaimed works.",
     "cast": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Grímur Hlynsson",
     "details": "Un'opera che sembra aver trovato la soluzione perfetta per equilibrare la commedia con un tocco di surreale e il dramma famigliare. Drammatico, Islanda, Danimarca, Svezia, Francia 2025. Durata 109 Minuti.",
     "cinemas": [
@@ -108,7 +108,7 @@
   },
   {
     "title": "TUNER - L'ACCORDATORE",
-    "ai_reason": "An elevated psychological thriller from Oscar-winner Daniel Roher, anchored by a high-prestige cast.",
+    "ai_reason": "A high-concept psychological thriller from Oscar-winning director Daniel Roher, blending sensory exploration with the tension of prestige crime cinema.",
     "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
     "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
     "cinemas": [
@@ -132,7 +132,7 @@
   },
   {
     "title": "BACKROOMS",
-    "ai_reason": "A surrealist descent into liminal spaces, elevated by the presence of arthouse icon Renate Reinsve.",
+    "ai_reason": "Representing the new wave of 'elevated genre' horror, this surrealist exploration of liminal spaces fits the aesthetic of modern psychological arthouse.",
     "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
     "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
     "cinemas": [
@@ -158,7 +158,7 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.736,
+    "vote_average": 6.754,
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons"
