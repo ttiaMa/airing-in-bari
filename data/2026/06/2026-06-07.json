@@ -1,0 +1,587 @@
+[
+  {
+    "title": "PRINCIPESSA MONONOKE",
+    "cast": "Billy Crudup, Billy Bob Thornton, Minnie Driver, John Di Maggio",
+    "details": "Un film avventuroso che spiazza lo spettatore senza perdere coerenza. Il più canonico di Miyazaki. Animazione, Giappone 1997. Durata 133 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "13:00",
+          "16:10"
+        ]
+      }
+    ],
+    "tmdb_id": 128,
+    "tmdb_title": "Princess Mononoke",
+    "original_title": "もののけ姫",
+    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+    "release_date": "1997-07-12",
+    "vote_average": 8.321,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
+    "genres": "Avventura, Fantasy, Animazione",
+    "director": "Hayao Miyazaki",
+    "ai_reason": "A seminal masterpiece from Studio Ghibli and Hayao Miyazaki; this re-release represents the pinnacle of prestige animation and mythological storytelling.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
+    "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",
+    "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:15"
+        ]
+      }
+    ],
+    "tmdb_id": 414419,
+    "tmdb_title": "Kill Bill: The Whole Bloody Affair",
+    "original_title": "Kill Bill: The Whole Bloody Affair",
+    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
+    "release_date": "2011-03-27",
+    "vote_average": 8.092,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+    "genres": "Azione, Crime",
+    "director": "Quentin Tarantino",
+    "ai_reason": "Tarantino's definitive, unified vision of his martial arts epic. A quintessential cult re-release for any devotee of high-stylized genre cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "OBSESSION",
+    "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
+    "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:35",
+          "20:20",
+          "22:35",
+          "00:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1339713,
+    "tmdb_title": "Obsession",
+    "original_title": "Obsession",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "release_date": "2026-05-13",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cUnADM9fsYV69Fk0TkMp7xVLnKj.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Curry Barker",
+    "ai_reason": "Directed by Curry Barker, one of the leading voices in the modern indie horror movement, this film explores deep psychological themes with a surreal, auteurist touch.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "PECORE SOTTO COPERTURA",
+    "cast": "Ciro Priello, Arianna Craviotto, Emma Thompson, Hugh Jackman",
+    "details": "Il divertimento non manca, il gioco del 'chi è stato' è presente, il messaggio è positivo. Un piacevole film per famiglie. Azione, Commedia - Irlanda, Gran Bretagna, Germania, USA 2026. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:05",
+          "13:55"
+        ]
+      }
+    ],
+    "tmdb_id": 1301421,
+    "tmdb_title": "Pecore sotto copertura",
+    "original_title": "The Sheep Detectives",
+    "overview": "George (Hugh Jackman) è un pastore che ogni sera legge romanzi gialli alle sue amate pecore, convinto che non possano comprenderlo. Quando però un misterioso incidente sconvolge la tranquillità della fattoria, le pecore decidono di dover diventare loro stesse delle detective. Seguendo gli indizi e indagando sui sospetti umani, dimostrano che anche le pecore possono essere brillanti investigatrici.",
+    "release_date": "2026-04-30",
+    "vote_average": 7.623,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cg8ZdeZBsh2EMZrulGiEyVGxuBo.jpg",
+    "genres": "Commedia, Famiglia, Mistero",
+    "director": "Kyle Balda",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MICHAEL",
+    "cast": "Jaafar Jackson, Nia Long, Laura Harrier, Juliano Valdi",
+    "details": "Un film-evento musicale, dal ritmo travolgente. Da brividi la performance di Jaafar Jackson. Biografico, USA 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20",
+          "14:40",
+          "21:55"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:50",
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 936075,
+    "tmdb_title": "Michael",
+    "original_title": "Michael",
+    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
+    "release_date": "2026-04-22",
+    "vote_average": 7.601,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "genres": "Musica, Dramma",
+    "director": "Antoine Fuqua",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL FIGLIO DEL DESERTO",
+    "cast": "Nahel Tran, Nahil Bouazzaoui, Zayn Sekkat, Kev Adams",
+    "details": "Gilles de Maistre conferma il suo format di cinema spettacolare per famiglie. Dove tutto è un po' troppo prevedibile. Family, Francia 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:50",
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1266800,
+    "tmdb_title": "Il figlio del deserto",
+    "original_title": "L’Enfant du Désert",
+    "overview": "La quattordicenne Sun ha pubblicato un libro ispirato a una storia che suo nonno le raccontava sempre: l'incredibile storia di Hadara, una bambina nomade persa dalla sua famiglia all'età di due anni in una tempesta di sabbia nel deserto, che fu poi salvata e cresciuta da una coppia di struzzi. Ma quando Sun viene invitata a visitare il Sahara, si rende conto che Hadara potrebbe essere molto più di una semplice favola della buonanotte.",
+    "release_date": "2026-04-08",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mnbJSXLJGegbwl05TASP7WorxB4.jpg",
+    "genres": "Famiglia, Avventura",
+    "director": "Gilles de Maistre",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MASTERS OF THE UNIVERSE",
+    "cast": "Nicholas Galitzine, Jared Leto, Camila Mendes, Alison Brie",
+    "details": "Un adattamento che lavora sull'effetto nostalgia e sulle fragilità del maschio contemporaneo. Azione, Avventura, Drammatico - USA 2026. Durata 140 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "13:05",
+          "16:05",
+          "19:20",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:00",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 454639,
+    "tmdb_title": "Masters of the Universe",
+    "original_title": "Masters of the Universe",
+    "overview": "Dopo essere stati separati per 15 anni, la Spada del Potere conduce il Principe Adam (Nicholas Galitzine) di nuovo su Eternia, dove scopre la sua casa devastata dal diabolico dominio di Skeletor (Jared Leto). Per salvare la sua famiglia e il suo mondo, Adam deve unire le forze con i suoi alleati più fidati, Teela (Camila Mendes) e Duncan/Man-At-Arms (Idris Elba), e abbracciare il suo vero destino come He-Man — l’uomo più potente dell’universo.",
+    "release_date": "2026-06-03",
+    "vote_average": 7.443,
+    "poster_url": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
+    "genres": "Azione, Fantasy, Fantascienza",
+    "director": "Travis Knight",
+    "mathyas-pick": false
+  },
+  {
+    "title": "HOPPER - IL SEGRETO DELLA MARMOTTA",
+    "cast": "Joe Ochman, Bernardo de Paula, Jordan Tartakow, Mimi Maynard",
+    "details": "Un'animazione europea che guarda ai capolavori Disney per celebrare inclusione e diversità. Animazione, Belgio, USA, Francia 2025. Durata 88 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:40"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "16:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:10",
+          "16:30",
+          "18:20",
+          "19:10",
+          "20:45",
+          "11:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1215532,
+    "tmdb_title": "Hopper - Il segreto della marmotta",
+    "original_title": "Chickenhare and the Secret of the Groundhog",
+    "overview": "Continuano le avventure dell'esploratore Hopper, sempre alla scoperta di mondi nuovi e affascinanti insieme agli inseparabili compagni Meg e Abe.  Tuttavia, il suo destino rischia di cambiare radicalmente quando incontra Gina, una misteriosa sconosciuta che si rivela essere sua sorella. Per la prima volta, Hopper scopre di non essere l’unico della sua specie. Diviso tra la lealtà verso il padre adottivo e il desiderio di aiutare i suoi simili, Hopper si ritrova a dover seguire il suo cuore e partire per una nuova avventura. Decide cosi di accompagnare Gina in una missione pericolosa: trovare l’unico potere capace di salvarli da una grave minaccia. La ricerca conduce i protagonisti sulle tracce della leggendaria marmotta in grado di manipolare il tempo. Tra superstizioni, enigmi e rivelazioni sul passato e futuro, Hopper, Abe e Meg affrontano un viaggio epico ricco di insidie, scoperte e colpi di scena.",
+    "release_date": "2025-09-19",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bl96nTxJhqadBkUXKkgcSU5AxRG.jpg",
+    "genres": "Animazione, Avventura, Commedia, Famiglia",
+    "director": "Benjamin Mousquet",
+    "mathyas-pick": false
+  },
+  {
+    "title": "KUNG FU PANDA 4",
+    "cast": "Fabio Volo, Jack Black, Awkwafina, Viola Davis",
+    "details": "Un buon esempio di innovazione, dalla regia movimentata e dall'animazione ispirata. E con una serie di nuovi personaggi esilaranti. Animazione, USA 2024. Durata 94 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1011985,
+    "tmdb_title": "Kung Fu Panda 4",
+    "original_title": "Kung Fu Panda 4",
+    "overview": "Po è destinato a diventare il nuovo leader spirituale della Valle della Pace, ma prima di poterlo fare, deve trovare un successore per diventare il nuovo Guerriero Drago. Sembra trovarne uno in Zhen, una volpe con molte abilità promettenti ma a cui non piace l'idea che Po lo alleni.",
+    "release_date": "2024-03-02",
+    "vote_average": 7.003,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hXx9YEJzRhronB6jtfpzVh19WhY.jpg",
+    "genres": "Azione, Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Mike Mitchell",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TUNER - L'ACCORDATORE",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
+    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:25",
+          "00:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1340206,
+    "tmdb_title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "release_date": "2026-05-21",
+    "vote_average": 6.919,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
+    "genres": "Crime, Thriller",
+    "director": "Daniel Roher",
+    "ai_reason": "A high-concept, sensory thriller from Oscar-winner Daniel Roher that favors psychological complexity and tonal precision over generic crime tropes.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "STAR WARS - THE MANDALORIAN AND GROGU",
+    "cast": "Pedro Pascal, Sigourney Weaver, Steve Blum, Hemky Madera",
+    "details": "Chicche per i fan, un adorabile Grogu e un trionfo di marionette animatronic. Un'opera che funziona. Azione, Avventura, Fantasy - USA 2026. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:15",
+          "18:50",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1228710,
+    "tmdb_title": "The Mandalorian and Grogu",
+    "original_title": "The Mandalorian and Grogu",
+    "overview": "L’Impero è caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre lanascente Nuova Repubblica cerca di proteggere tuRo ciò per cui l’Alleanza Ribelle ha combaRuto, haarruolato l’aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin (Pedro Pascal) e delsuo giovane apprendista Grogu. DireRo da Jon Favreau, Star Wars: The Mandalorian and Grogu vedeanche la partecipazione di Sigourney Weaver ed è prodoRo da Jon Favreau, Kathleen Kennedy, DaveFiloni e Ian Bryce, con musiche composte da Ludwig Göransson",
+    "release_date": "2026-05-20",
+    "vote_average": 6.818,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Jon Favreau",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BACKROOMS",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:00",
+          "14:45",
+          "16:35",
+          "19:40",
+          "21:30",
+          "00:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:50",
+          "19:20",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.796,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons",
+    "ai_reason": "Emerging auteur Kane Parsons translates a viral psychological phenomenon into a high-concept feature, embodying the new wave of elevated, atmosphere-driven horror.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IL DIAVOLO VESTE PRADA 2",
+    "cast": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci",
+    "details": "Un sequel che ci dà quello che aspettavamo. C'è meno ferocia ma il cast si conferma di primo piano. Commedia, Drammatico - USA 2026. Durata 119 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1314481,
+    "tmdb_title": "Il diavolo veste Prada 2",
+    "original_title": "The Devil Wears Prada 2",
+    "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
+    "release_date": "2026-04-29",
+    "vote_average": 6.6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "David Frankel",
+    "mathyas-pick": false
+  },
+  {
+    "title": "AMARGA NAVIDAD",
+    "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
+    "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05",
+          "20:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:10",
+          "14:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1088548,
+    "tmdb_title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "release_date": "2026-03-20",
+    "vote_average": 6.472,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Pedro Almodóvar",
+    "ai_reason": "A cinematic event from Pedro Almodóvar, exploring the sophisticated meta-fictional boundaries between life and creative inspiration.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "L'AMORE CHE RIMANE",
+    "cast": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Grímur Hlynsson",
+    "details": "Un'opera che sembra aver trovato la soluzione perfetta per equilibrare la commedia con un tocco di surreale e il dramma famigliare. Drammatico, Islanda, Danimarca, Svezia, Francia 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1258509,
+    "tmdb_title": "L'amore che rimane",
+    "original_title": "Ástin sem eftir er",
+    "overview": "Anna e Magnus, detto Maggi, si stanno separando: è un processo graduale, che la coppia porta avanti trascorrendo ancora del tempo insieme ai tre figli, in escursioni o in cene a casa. Mentre l'unità coniugale si va sfaldando, Anna si concentra sul suo lavoro di artista, anche se i riconoscimenti tardano ad arrivare; Maggi, invece, lavora su un peschereccio ed è quasi sempre in mare aperto. Quando i genitori non ci sono, i figli si dedicano a passatempi curiosi: in particolare i due gemelli, che tendono a creare giochi bizzarri e talora pericolosi per la loro incolumità.",
+    "release_date": "2025-08-14",
+    "vote_average": 6.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7HUkyrptprlTludHPFST1vQhOwT.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Hlynur Pálmason",
+    "ai_reason": "Hlynur Pálmason, a darling of contemporary arthouse cinema, delivers a gripping and visually striking exploration of domestic and artistic disintegration.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "RUFUS - IL DRAGHETTO MARINO CHE NON SAPEVA NUOTARE",
+    "cast": "Gisken Armand, Kåre Conradi, Janne Formoe, Stig Henrik Hoff",
+    "details": "Dalla Norvegia una favola ecologista dal tradizionale impianto narrativo. Animazione, Family - Norvegia, Belgio, Germania 2026. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "14:15",
+          "16:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1512207,
+    "tmdb_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "original_title": "Ruffen: Sjøormen som ikke kunne svømme",
+    "overview": "Nel cuore dell’oceano, su un’isola segreta, vive una simpatica comunità di draghi marini. Tra loro c’è Rufus, un piccolo draghetto diverso dagli altri, con tanto cuore… ma zero talento per il nuoto. Quando però lo zio Ludvig, che tiene l'isola nascosta agli umani con il suo fumo magico, perde i poteri, sarà proprio Rufus a partire per un viaggio straordinario fino in Scozia, alla ricerca della prozia Nessie e della mitica sciarpa magica.",
+    "release_date": "2025-10-10",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8thnn6W9p3oayv6cf1M3RezNah8.jpg",
+    "genres": "Animazione, Famiglia",
+    "director": "Endre Skandfer",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SCARY MOVIE",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Horror, USA 2026. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:35",
+          "14:25",
+          "16:50",
+          "17:45",
+          "18:30",
+          "19:15",
+          "20:00",
+          "21:40",
+          "22:25"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:40",
+          "16:00",
+          "19:50",
+          "21:40",
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1273221,
+    "tmdb_title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
+    "release_date": "2026-06-03",
+    "vote_average": 5.825,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genres": "Commedia",
+    "director": "Michael Tiddes",
+    "mathyas-pick": false
+  },
+  {
+    "title": "INNAMORARSI E ALTRE PESSIME IDEE",
+    "cast": "Lino Guanciale, Ilenia Pastorelli, Andrea Delogu, Claudio Colica",
+    "details": "Prevedibile commedia romantica, accompagnata da una regia che asseconda con grazia le evoluzioni romantiche dei protagonisti. Commedia, Italia 2026. Durata 97 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:50",
+          "18:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1511358,
+    "tmdb_title": "Innamorarsi e altre pessime idee",
+    "original_title": "Innamorarsi e altre pessime idee",
+    "overview": "Lino (Lino Guanciale), avvocato di successo, vede la sua vita crollare quando la moglie Grazia (Grazia Schiavo) decide di lasciarlo per un affascinante chef, Paolo (Davide Devenuto). Mosso da un desiderio di rivalsa, Lino escogita un piano: dimostrare a Grazia che Paolo è un seduttore pronto a tradirla e ad abbandonarla. Per riuscire nel suo scopo coinvolge Sofia (Andrea Delogu), una donna bellissima sommersa in guai legali con l’ex fidanzato. Lino le offrirà assistenza legale, lei dovrà sedurre Paolo. Saranno aiutati dagli eccentrici amici di Lino (Tommy, Claudio Colica) e di Sofia (Matilde, Ilenia Pastorelli). Ma l’imprevisto è dietro l’angolo: da questa insolita collaborazione nasce qualcosa che nessuno aveva previsto.",
+    "release_date": "2026-05-28",
+    "vote_average": 5.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg",
+    "genres": "Commedia, Romance",
+    "director": "Simone Aleandri",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BIANCA",
+    "cast": "Laura Morante, Nanni Moretti, Remo Remotti, Nicola Di Pinto",
+    "details": "Satira di costume, umorismo e sarcasmo nel riuscito film di Nanni Moretti. Drammatico, Italia 1984. Durata 95 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20"
+        ]
+      },
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:30",
+          "17:30",
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 398613,
+    "tmdb_title": "Sol Bianca",
+    "original_title": "Sol Bianca",
+    "overview": "",
+    "release_date": "1990-03-20",
+    "vote_average": 5.333,
+    "poster_url": "https://image.tmdb.org/t/p/w500/geGjCI43eSQZRMQNPbdsQV4BA6N.jpg",
+    "genres": "Avventura, Animazione, Fantascienza",
+    "director": "秋山勝仁",
+    "ai_reason": "A cornerstone of Italian auteur cinema by Nanni Moretti; this classic re-release is essential for its sharp social satire and unique directorial voice.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SMART WORKING",
+    "cast": "Marcello Macchia, Sara Lazzaro, Alessandro Tiberi, Maurizio Nichetti",
+    "details": "Un racconto dai temi attuali. Con un lavoro accurato in scrittura e regia. Commedia, Italia 2026. Durata 96 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:20",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1224440,
+    "tmdb_title": "Smart Working",
+    "original_title": "Smart Working",
+    "overview": "Da quando l’azienda per cui lavora ha adottato lo smart working, Giuliano ha scoperto il paradiso: meno lavoro ma più redditività, più famiglia e tempo per le sue passioni. Sua moglie Laura, aspirante scrittrice, è incinta del secondo figlio e i due sono in cerca di una casa più grande. Intanto però l’azienda minaccia di riportare tutti in ufficio perché i suoi colleghi, invece, lavorano ma rendono pochissimo! Deciso a motivare e spronare i colleghi per non perdere il lavoro da casa, Giuliano riallaccia così i rapporti con alcuni di questi tra cui lo sbadato Stefano, romano fuori sede, e Gianni, un office manager ultrasettantenne in pensione da anni. Uno dopo l’altro, tutti i colleghi si trasferiscono in smart working a casa di Giuliano, tanto da coinvolgerlo, insieme a Laura e al piccolo Luca, in una serie di assurde disavventure, progetti strampalati e disastri continui. Giuliano dovrà capire se riuscirà a salvare lavoro, famiglia… e sanità mentale.",
+    "release_date": "2026-06-04",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg",
+    "genres": "Commedia",
+    "director": "Svevo Moltrasio",
+    "mathyas-pick": false
+  }
+]
