@@ -27,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
     "genres": "Avventura, Fantasy, Animazione",
     "director": "Hayao Miyazaki",
-    "ai_reason": "A definitive masterpiece of prestige animation from Studio Ghibli, essential for any serious collection.",
+    "ai_reason": "A pinnacle of prestige Japanese animation and an essential Miyazaki masterpiece, representing the height of artistic storytelling in the medium.",
     "mathyas-pick": true
   },
   {
@@ -51,7 +51,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
     "genres": "Azione, Crime",
     "director": "Quentin Tarantino",
-    "ai_reason": "The long-awaited, unified director's cut of Tarantino's cult action-opera, presented as a single cinematic event.",
+    "ai_reason": "Tarantino’s definitive, long-awaited vision remains a fundamental piece of cult cinema history and a major cinematic event.",
     "mathyas-pick": true
   },
   {
@@ -111,11 +111,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 7.926,
-    "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/d1AMBt6gxy7Yoz8rHqyCQgvoAXw.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A prime example of modern elevated horror from emerging genre auteur Curry Barker, blending psychological depth with tension.",
+    "ai_reason": "Emerging auteur Curry Barker delivers a gripping psychological thriller that explores the sinister price of autonomy and desire.",
     "mathyas-pick": true
   },
   {
@@ -146,7 +146,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/pZPtkuGJPGnDT0C1ARDoO3xo13x.jpg",
     "genres": "Crime, Dramma",
     "director": "Rob Reiner",
-    "ai_reason": "A seminal coming-of-age classic of the 1980s that remains a cornerstone of American narrative cinema.",
+    "ai_reason": "The quintessential coming-of-age narrative, this re-release is a timeless pillar of 1980s cinema and literary adaptation.",
     "mathyas-pick": true
   },
   {
@@ -208,7 +208,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kgFRSwrOUJkVz6CP0QJnJ07j32G.jpg",
     "genres": "Western, Dramma, Romance",
     "director": "John Huston",
-    "ai_reason": "A monumental classic of cinema history featuring the final performances of legends Marilyn Monroe and Clark Gable.",
+    "ai_reason": "A melancholic masterpiece by John Huston, serving as a haunting and sophisticated swan song for its legendary Hollywood icons.",
     "mathyas-pick": true
   },
   {
@@ -229,11 +229,12 @@
     "original_title": "Tuner",
     "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
     "release_date": "2026-05-21",
-    "vote_average": 6.897,
+    "vote_average": 6.875,
     "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
     "genres": "Crime, Thriller",
     "director": "Daniel Roher",
-    "mathyas-pick": false
+    "ai_reason": "A sensory-driven psychological thriller directed by prestige filmmaker Daniel Roher, focusing on the weight of rare talent.",
+    "mathyas-pick": true
   },
   {
     "title": "BACKROOMS",
@@ -264,11 +265,11 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.845,
+    "vote_average": 6.848,
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "A high-prestige adaptation of the viral psychological horror phenomenon, led by an exceptional arthouse cast.",
+    "ai_reason": "Viral auteur Kane Parsons brings surrealist, psychological depth to modern horror, elevated by a stellar indie-darling cast.",
     "mathyas-pick": true
   },
   {
@@ -288,7 +289,7 @@
     "original_title": "The Mandalorian and Grogu",
     "overview": "L’Impero è caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre lanascente Nuova Repubblica cerca di proteggere tuRo ciò per cui l’Alleanza Ribelle ha combaRuto, haarruolato l’aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin (Pedro Pascal) e delsuo giovane apprendista Grogu. DireRo da Jon Favreau, Star Wars: The Mandalorian and Grogu vedeanche la partecipazione di Sigourney Weaver ed è prodoRo da Jon Favreau, Kathleen Kennedy, DaveFiloni e Ian Bryce, con musiche composte da Ludwig Göransson",
     "release_date": "2026-05-20",
-    "vote_average": 6.792,
+    "vote_average": 6.8,
     "poster_url": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Jon Favreau",
@@ -311,7 +312,7 @@
     "original_title": "The Devil Wears Prada 2",
     "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
     "release_date": "2026-04-29",
-    "vote_average": 6.584,
+    "vote_average": 6.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
     "genres": "Commedia, Dramma",
     "director": "David Frankel",
@@ -338,7 +339,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
     "genres": "Dramma",
     "director": "Carla Simón",
-    "ai_reason": "Golden Bear winner Carla Simón delivers a deeply personal and intimate piece of high-brow international cinema.",
+    "ai_reason": "Golden Bear winner Carla Simón crafts an intimate and profound study of memory, solidifying her status as a major European auteur.",
     "mathyas-pick": true
   },
   {
@@ -362,7 +363,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar",
-    "ai_reason": "A new work from Spanish auteur Pedro Almodóvar, continuing his high-brow exploration of autofiction and memory.",
+    "ai_reason": "The maestro Pedro Almodóvar returns with a meta-textual, auteur-driven exploration of the blurred lines between art and life.",
     "mathyas-pick": true
   },
   {
@@ -386,7 +387,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7HUkyrptprlTludHPFST1vQhOwT.jpg",
     "genres": "Dramma, Commedia",
     "director": "Hlynur Pálmason",
-    "ai_reason": "A surreal and tonally unique family drama from acclaimed Nordic auteur Hlynur Pálmason.",
+    "ai_reason": "Hlynur Pálmason continues to define modern Nordic cinema with this formally rigorous and emotionally complex arthouse drama.",
     "mathyas-pick": true
   },
   {
@@ -442,7 +443,7 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.747,
+    "vote_average": 5.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia, Horror",
     "director": "Michael Tiddes",
