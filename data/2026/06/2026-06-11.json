@@ -34,7 +34,7 @@
     "original_title": "Michael",
     "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
     "release_date": "2026-04-22",
-    "vote_average": 8.405,
+    "vote_average": 8.452,
     "poster_url": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
     "genres": "Musica, Dramma",
     "director": "Antoine Fuqua",
@@ -68,12 +68,12 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Emerging auteur Curry Barker delivers a gripping psychological horror that explores the dark, thematic depths of obsession and cost.",
+    "ai_reason": "Curry Barker is at the forefront of the elevated horror movement; this sinister exploration of desire fits the new auteur-driven genre mold perfectly.",
     "mathyas-pick": true
   },
   {
     "title": "DISCLOSURE DAY",
-    "cast": "Emily Blunt, Colman Domingo, Eve Hewson, Colin Firth",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
     "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
     "cinemas": [
       {
@@ -111,8 +111,32 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Mistero, Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from a legendary auteur, promising a high-concept and sophisticated exploration of the sci-fi genre.",
+    "ai_reason": "A massive cinematic event directed by the legendary Steven Spielberg; essential viewing for any serious student of the medium.",
     "mathyas-pick": true
+  },
+  {
+    "title": "TRA AMORE E INGANNI",
+    "cast": "Regé-Jean Page, Halle Bailey, Stefania Casini, Aziza Scott",
+    "details": "Commedia, USA 2026. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:10",
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1455079,
+    "tmdb_title": "Tra amore e inganni",
+    "original_title": "You, Me & Tuscany",
+    "overview": "Anna è una giovane donna che ha rinunciato al sogno di diventare chef e ora vaga nei suoi vent’anni tra una serie di scelte sbagliate. Quando Anna perde in un colpo solo il lavoro di house-sitter e l’alloggio, un incontro casuale con Matteo, un affascinante italiano che ha una villa vuota in Toscana, la spinge a partire per l’Italia, contro il parere della sua migliore amica sempre sincera, Claire. Ma il piano di Anna di intrufolarsi nella villa di Matteo, senza permesso e solo per una notte, va in pezzi quando la madre di Matteo, Gabriella, si presenta inaspettatamente. Presa dal panico, Anna lascia che Gabriella creda che lei sia la fidanzata di Matteo. Quella piccola bugia diventa però un grande problema quando arriva Michael, il cugino di Matteo, e Anna scopre che il fuoco che si sta accendendo tra di loro potrebbe trasformarsi in un incendio capace di cambiarle la vita.",
+    "release_date": "2026-04-09",
+    "vote_average": 7.405,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ymyrJJ4mRBYLcBXXOkm7qe3fnee.jpg",
+    "genres": "Romance, Commedia",
+    "director": "Kat Coiro",
+    "mathyas-pick": false
   },
   {
     "title": "MASTERS OF THE UNIVERSE",
@@ -195,31 +219,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4MCuatxIkzRJJPnebkZJzMPR1ep.jpg",
     "genres": "Dramma, televisione film",
     "director": "Aldo Lado",
-    "ai_reason": "A significant Italian-Spanish co-production directed by cult legend Aldo Lado, focusing on the power of literature and freedom.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "TUNER - L'ACCORDATORE",
-    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
-    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
-    "cinemas": [
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "18:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1340206,
-    "tmdb_title": "Tuner - L’accordatore",
-    "original_title": "Tuner",
-    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
-    "release_date": "2026-05-21",
-    "vote_average": 6.841,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
-    "genres": "Crime, Thriller",
-    "director": "Daniel Roher",
-    "ai_reason": "A high-concept psychological thriller from an Oscar-winning director, centered on the burden of sensory hyper-sensitivity.",
+    "ai_reason": "A bold bio-fiction involving cult Italian director Aldo Lado and powerhouse actor Alessandro Borghi; a significant moment for contemporary Italian-led prestige drama.",
     "mathyas-pick": true
   },
   {
@@ -248,11 +248,35 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.798,
+    "vote_average": 6.802,
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "An essential example of modern surrealist horror, where viral auteur Kane Parsons translates liminal spaces into high-brow genre art.",
+    "ai_reason": "Kane Parsons brings his viral, surrealist horror vision to the big screen, representing the cutting edge of the genre's new wave.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TUNER - L'ACCORDATORE",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
+    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1340206,
+    "tmdb_title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "release_date": "2026-05-21",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
+    "genres": "Crime, Thriller",
+    "director": "Daniel Roher",
+    "ai_reason": "A sophisticated psychological thriller from Oscar-winner Daniel Roher, exploring the intersection of sensory genius and obsession.",
     "mathyas-pick": true
   },
   {
@@ -299,7 +323,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
     "genres": "Dramma",
     "director": "Kristen Stewart",
-    "ai_reason": "A raw, arthouse drama adapted from a cult memoir, focusing on the loss of autonomy and the search for a voice through literature.",
+    "ai_reason": "An highly anticipated directorial debut from Kristen Stewart, adapting Lidia Yuknavitch’s visceral memoir—pure prestige indie cinema.",
     "mathyas-pick": true
   },
   {
@@ -325,7 +349,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
     "genres": "Dramma",
     "director": "Carla Simón",
-    "ai_reason": "A prestige auteur piece from Golden Bear winner Carla Simón, offering a poetic and intimate study of ancestral roots.",
+    "ai_reason": "A delicate and profound work from Golden Bear winner Carla Simón, exploring the textures of memory and family roots.",
     "mathyas-pick": true
   },
   {
@@ -349,7 +373,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar",
-    "ai_reason": "A masterclass in auto-fiction from Pedro Almodóvar, exploring the delicate boundaries between artistic inspiration and life.",
+    "ai_reason": "The master of Spanish cinema, Pedro Almodóvar, returns with a characteristically rich exploration of autofiction and the boundaries of art.",
     "mathyas-pick": true
   },
   {
@@ -406,7 +430,7 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.685,
+    "vote_average": 5.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia, Horror",
     "director": "Michael Tiddes",
