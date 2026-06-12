@@ -69,7 +69,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "An essential entry in the elevated horror genre by emerging auteur Curry Barker, blending surrealism with a psychological exploration of dangerous desires.",
+    "ai_reason": "A prime example of the 'elevated horror' wave, directed by emerging genre auteur Curry Barker.",
     "mathyas-pick": true
   },
   {
@@ -107,11 +107,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 7.483,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller, Azione",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Steven Spielberg, whose return to high-concept science fiction represents a significant moment in contemporary film.",
+    "ai_reason": "A monumental cinematic event from Steven Spielberg, blending high-concept sci-fi with his peerless directorial mastery.",
     "mathyas-pick": true
   },
   {
@@ -146,8 +146,8 @@
   },
   {
     "title": "TRA AMORE E INGANNI",
-    "cast": "Regé-Jean Page, Halle Bailey, Stefania Casini, Aziza Scott",
-    "details": "Commedia, USA 2026. Durata 105 Minuti.",
+    "cast": "Halle Bailey, Regé-Jean Page, Lorenzo de Moor, Isabella Ferrari",
+    "details": "Un film dalla vocazione turistico sentimentale, professionalmente ineccepibile. Commedia, USA 2026. Durata 105 Minuti.",
     "cinemas": [
       {
         "name": "Galleria",
@@ -219,7 +219,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4MCuatxIkzRJJPnebkZJzMPR1ep.jpg",
     "genres": "Dramma, televisione film",
     "director": "Aldo Lado",
-    "ai_reason": "A bold Italian production directed by cult filmmaker Aldo Lado and starring Alessandro Borghi, focusing on the power of storytelling over submission.",
+    "ai_reason": "A bold return for cult Italian director Aldo Lado, featuring a prestigious performance by Alessandro Borghi in a narrative about the power of storytelling.",
     "mathyas-pick": true
   },
   {
@@ -243,7 +243,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
     "genres": "Crime, Thriller",
     "director": "Daniel Roher",
-    "ai_reason": "Oscar-winning director Daniel Roher moves into fiction with this precise psychological thriller that promises a sophisticated study of sensory burden.",
+    "ai_reason": "A precision-engineered prestige thriller from Oscar-winner Daniel Roher, anchored by the legendary presence of Dustin Hoffman.",
     "mathyas-pick": true
   },
   {
@@ -277,7 +277,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "The viral horror sensation evolved into a prestige thriller by emerging auteur Kane Parsons, featuring high-brow talent like Renate Reinsve.",
+    "ai_reason": "A sophisticated psychological thriller that transforms viral lore into high-concept horror, featuring a top-tier international cast.",
     "mathyas-pick": true
   },
   {
@@ -301,7 +301,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
     "genres": "Dramma, Commedia",
     "director": "Peter Glanz",
-    "mathyas-pick": false
+    "ai_reason": "A sophisticated British production led by prestige talent Claire Foy and Richard E. Grant, offering a refined blend of drama and wit.",
+    "mathyas-pick": true
   },
   {
     "title": "LA CRONOLOGIA DELL'ACQUA",
@@ -324,7 +325,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
     "genres": "Dramma",
     "director": "Kristen Stewart",
-    "ai_reason": "Kristen Stewart’s directorial debut is a visceral piece of elevated indie cinema, tackling complex themes of toxic romance and the loss of autonomy.",
+    "ai_reason": "A raw, uncompromising arthouse drama marking a significant directorial debut, focused on the visceral process of healing through literature.",
     "mathyas-pick": true
   },
   {
@@ -350,7 +351,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
     "genres": "Dramma",
     "director": "Carla Simón",
-    "ai_reason": "Directed by Golden Bear winner Carla Simón, this film is a high-brow festival darling exploring memory and roots with intimate, auteur precision.",
+    "ai_reason": "From Golden Bear winner Carla Simón, an intimate and visually evocative study of roots and memory that defines contemporary arthouse.",
     "mathyas-pick": true
   },
   {
@@ -374,7 +375,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar",
-    "ai_reason": "A mandatory selection for any cinephile; master auteur Pedro Almodóvar returns to explore the delicate, meta-textual boundaries between autofiction and reality.",
+    "ai_reason": "A meta-textual exploration of art and life from legendary auteur Pedro Almodóvar, a cornerstone of European high-brow cinema.",
     "mathyas-pick": true
   },
   {
