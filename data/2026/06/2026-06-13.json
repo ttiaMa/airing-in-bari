@@ -58,7 +58,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A key release from Curry Barker, a leading voice in the new wave of elevated, psychological indie horror.",
+    "ai_reason": "A prime example of the 'elevated horror' wave, directed by the specifically acclaimed auteur Curry Barker.",
     "mathyas-pick": true
   },
   {
@@ -120,9 +120,17 @@
         ]
       },
       {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:45",
+          "15:30"
+        ]
+      },
+      {
         "name": "Uci Cinemas Showville",
         "times": [
-          "14:50"
+          "11:45",
+          "15:30"
         ]
       }
     ],
@@ -214,11 +222,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 7.126,
+    "vote_average": 7.2,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Azione, Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event: Spielberg's return to high-concept science fiction is an unmissable spectacle with high critical expectations.",
+    "ai_reason": "A major cinematic event from a master of the medium, returning to the sci-fi genre with an A-list cast.",
     "mathyas-pick": true
   },
   {
@@ -243,7 +251,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4MCuatxIkzRJJPnebkZJzMPR1ep.jpg",
     "genres": "Dramma, televisione film",
     "director": "Aldo Lado",
-    "ai_reason": "A bold, auteur-driven Italian biofiction from cult director Aldo Lado, far removed from commercial comedy.",
+    "ai_reason": "A prestige bio-fiction by veteran Italian cult auteur Aldo Lado, focusing on the power of narrative and historical weight.",
     "mathyas-pick": true
   },
   {
@@ -280,31 +288,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "A viral genre hit by emerging auteur Kane Parsons, starring cinephile favorite Renate Reinsve. Arthouse horror at its most liminal.",
+    "ai_reason": "An emerging auteur's transition from viral surrealism to the big screen, defining the new landscape of modern indie horror.",
     "mathyas-pick": true
-  },
-  {
-    "title": "STAR WARS - THE MANDALORIAN AND GROGU",
-    "cast": "Pedro Pascal, Sigourney Weaver, Steve Blum, Hemky Madera",
-    "details": "Chicche per i fan, un adorabile Grogu e un trionfo di marionette animatronic. Un'opera che funziona. Azione, Avventura, Fantasy - USA 2026. Durata 132 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "12:15"
-        ]
-      }
-    ],
-    "tmdb_id": 1228710,
-    "tmdb_title": "The Mandalorian and Grogu",
-    "original_title": "The Mandalorian and Grogu",
-    "overview": "L’Impero è caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre lanascente Nuova Repubblica cerca di proteggere tuRo ciò per cui l’Alleanza Ribelle ha combaRuto, haarruolato l’aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin (Pedro Pascal) e delsuo giovane apprendista Grogu. DireRo da Jon Favreau, Star Wars: The Mandalorian and Grogu vedeanche la partecipazione di Sigourney Weaver ed è prodoRo da Jon Favreau, Kathleen Kennedy, DaveFiloni e Ian Bryce, con musiche composte da Ludwig Göransson",
-    "release_date": "2026-05-20",
-    "vote_average": 6.806,
-    "poster_url": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg",
-    "genres": "Azione, Avventura, Fantascienza",
-    "director": "Jon Favreau",
-    "mathyas-pick": false
   },
   {
     "title": "TUNER - L'ACCORDATORE",
@@ -327,8 +312,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
     "genres": "Crime, Thriller",
     "director": "Daniel Roher",
-    "ai_reason": "An elevated psychological thriller with a sensory focus, directed by Academy Award winner Daniel Roher.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "STAR WARS - THE MANDALORIAN AND GROGU",
+    "cast": "Pedro Pascal, Sigourney Weaver, Steve Blum, Hemky Madera",
+    "details": "Chicche per i fan, un adorabile Grogu e un trionfo di marionette animatronic. Un'opera che funziona. Azione, Avventura, Fantasy - USA 2026. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1228710,
+    "tmdb_title": "The Mandalorian and Grogu",
+    "original_title": "The Mandalorian and Grogu",
+    "overview": "L’Impero è caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre lanascente Nuova Repubblica cerca di proteggere tuRo ciò per cui l’Alleanza Ribelle ha combaRuto, haarruolato l’aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin (Pedro Pascal) e delsuo giovane apprendista Grogu. DireRo da Jon Favreau, Star Wars: The Mandalorian and Grogu vedeanche la partecipazione di Sigourney Weaver ed è prodoRo da Jon Favreau, Kathleen Kennedy, DaveFiloni e Ian Bryce, con musiche composte da Ludwig Göransson",
+    "release_date": "2026-05-20",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Jon Favreau",
+    "mathyas-pick": false
   },
   {
     "title": "LA CRONOLOGIA DELL'ACQUA",
@@ -351,7 +358,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
     "genres": "Dramma",
     "director": "Kristen Stewart",
-    "ai_reason": "The directorial debut of Kristen Stewart; a raw, arthouse adaptation exploring toxic cycles and the power of the written word.",
+    "ai_reason": "The highly anticipated directorial debut of Kristen Stewart, promising a visceral, arthouse exploration of trauma and autonomy.",
     "mathyas-pick": true
   },
   {
@@ -377,7 +384,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
     "genres": "Dramma",
     "director": "Carla Simón",
-    "ai_reason": "From Golden Bear winner Carla Simón, this is a sophisticated, intimate exploration of memory and roots by a major contemporary auteur.",
+    "ai_reason": "Directed by Golden Bear winner Carla Simón, this is a quintessential auteur-driven exploration of memory and roots.",
     "mathyas-pick": true
   },
   {
@@ -401,7 +408,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar",
-    "ai_reason": "A new masterwork by Almodóvar, exploring the boundaries of metafiction and autobiography. Essential high-brow cinema.",
+    "ai_reason": "A mandatory selection for any cinephile, as Pedro Almodóvar explores the meta-textual boundaries between reality and art.",
     "mathyas-pick": true
   },
   {
@@ -484,7 +491,7 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.705,
+    "vote_average": 5.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia, Horror",
     "director": "Michael Tiddes",
