@@ -226,10 +226,6 @@ h2 {
   align-items: center;
 }
 
-/* --- MATHYA'S PICK BUTTON --- */
-.mathyas-pick-group {
-}
-
 .tooltip-wrapper {
   position: relative;
   width: 100%;
@@ -499,7 +495,7 @@ hr {
     gap: 15px;
     text-align: center;
   }
-  
+
   .movie-poster-container {
     width: 180px;
   }
@@ -510,5 +506,9 @@ hr {
 
   .cinemas-box {
     text-align: left;
+  }
+
+  .mathyas-pick-group {
+    display: none;
   }
 }
