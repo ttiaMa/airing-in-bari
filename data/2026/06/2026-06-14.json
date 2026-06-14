@@ -1,0 +1,533 @@
+[
+  {
+    "title": "A QUALCUNO PIACE CALDO",
+    "cast": "Jack Lemmon, Billy Gray, Joan Shawlee, Marilyn Monroe",
+    "details": "Una pietra miliare della commedia americana, forse la migliore interpretazione di Marilyn Monroe. Commedia, USA 1959. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20"
+        ]
+      }
+    ],
+    "tmdb_id": 239,
+    "tmdb_title": "A qualcuno piace caldo",
+    "original_title": "Some Like It Hot",
+    "overview": "Joe e Jerry, due musicisti assistono per errore al massacro del giorno di San Valentino, a Chicago, nel 1929 e sono costretti a scappare. Per nascondersi si inseriscono un una piccola orchestra tutta femminile, fingendosi donne. Ma per per \"Josephine\" e \"Daphne\" sarà l'inizio di una lunga serie di equivoci...",
+    "release_date": "1959-03-19",
+    "vote_average": 8.08,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lQJjgZFUg086TmHQXDHOhAnAK4f.jpg",
+    "genres": "Commedia, Romance, Crime",
+    "director": "Billy Wilder",
+    "ai_reason": "An essential pillar of cinema history by the master Billy Wilder; a mandatory theatrical re-release for any true cinephile.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SMART WORKING",
+    "cast": "Marcello Macchia, Sara Lazzaro, Alessandro Tiberi, Maurizio Nichetti",
+    "details": "Un racconto dai temi attuali. Con un lavoro accurato in scrittura e regia. Commedia, Italia 2026. Durata 96 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "00:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1224440,
+    "tmdb_title": "Smart Working",
+    "original_title": "Smart Working",
+    "overview": "Da quando l’azienda per cui lavora ha adottato lo smart working, Giuliano ha scoperto il paradiso: meno lavoro ma più redditività, più famiglia e tempo per le sue passioni. Sua moglie Laura, aspirante scrittrice, è incinta del secondo figlio e i due sono in cerca di una casa più grande. Intanto però l’azienda minaccia di riportare tutti in ufficio perché i suoi colleghi, invece, lavorano ma rendono pochissimo! Deciso a motivare e spronare i colleghi per non perdere il lavoro da casa, Giuliano riallaccia così i rapporti con alcuni di questi tra cui lo sbadato Stefano, romano fuori sede, e Gianni, un office manager ultrasettantenne in pensione da anni. Uno dopo l’altro, tutti i colleghi si trasferiscono in smart working a casa di Giuliano, tanto da coinvolgerlo, insieme a Laura e al piccolo Luca, in una serie di assurde disavventure, progetti strampalati e disastri continui. Giuliano dovrà capire se riuscirà a salvare lavoro, famiglia… e sanità mentale.",
+    "release_date": "2026-06-04",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg",
+    "genres": "Commedia",
+    "director": "Svevo Moltrasio",
+    "mathyas-pick": false
+  },
+  {
+    "title": "OBSESSION",
+    "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
+    "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:35",
+          "13:35",
+          "16:10",
+          "18:35",
+          "21:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1339713,
+    "tmdb_title": "Obsession",
+    "original_title": "Obsession",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "release_date": "2026-05-13",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Curry Barker",
+    "ai_reason": "Emerging auteur Curry Barker delivers a chilling psychological exploration of desire that fits the new wave of elevated indie horror.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "PECORE SOTTO COPERTURA",
+    "cast": "Ciro Priello, Arianna Craviotto, Emma Thompson, Hugh Jackman",
+    "details": "Il divertimento non manca, il gioco del 'chi è stato' è presente, il messaggio è positivo. Un piacevole film per famiglie. Azione, Commedia - Irlanda, Gran Bretagna, Germania, USA 2026. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1301421,
+    "tmdb_title": "Pecore sotto copertura",
+    "original_title": "The Sheep Detectives",
+    "overview": "George (Hugh Jackman) è un pastore che ogni sera legge romanzi gialli alle sue amate pecore, convinto che non possano comprenderlo. Quando però un misterioso incidente sconvolge la tranquillità della fattoria, le pecore decidono di dover diventare loro stesse delle detective. Seguendo gli indizi e indagando sui sospetti umani, dimostrano che anche le pecore possono essere brillanti investigatrici.",
+    "release_date": "2026-04-30",
+    "vote_average": 7.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cg8ZdeZBsh2EMZrulGiEyVGxuBo.jpg",
+    "genres": "Commedia, Famiglia, Mistero",
+    "director": "Kyle Balda",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TRA AMORE E INGANNI",
+    "cast": "Halle Bailey, Regé-Jean Page, Lorenzo de Moor, Isabella Ferrari",
+    "details": "Un film dalla vocazione turistico sentimentale, professionalmente ineccepibile. Commedia, USA 2026. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:10",
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1455079,
+    "tmdb_title": "Tra amore e inganni",
+    "original_title": "You, Me & Tuscany",
+    "overview": "Anna è una giovane donna che ha rinunciato al sogno di diventare chef e ora vaga nei suoi vent’anni tra una serie di scelte sbagliate. Quando Anna perde in un colpo solo il lavoro di house-sitter e l’alloggio, un incontro casuale con Matteo, un affascinante italiano che ha una villa vuota in Toscana, la spinge a partire per l’Italia, contro il parere della sua migliore amica sempre sincera, Claire. Ma il piano di Anna di intrufolarsi nella villa di Matteo, senza permesso e solo per una notte, va in pezzi quando la madre di Matteo, Gabriella, si presenta inaspettatamente. Presa dal panico, Anna lascia che Gabriella creda che lei sia la fidanzata di Matteo. Quella piccola bugia diventa però un grande problema quando arriva Michael, il cugino di Matteo, e Anna scopre che il fuoco che si sta accendendo tra di loro potrebbe trasformarsi in un incendio capace di cambiarle la vita.",
+    "release_date": "2026-04-09",
+    "vote_average": 7.413,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ymyrJJ4mRBYLcBXXOkm7qe3fnee.jpg",
+    "genres": "Romance, Commedia",
+    "director": "Kat Coiro",
+    "mathyas-pick": false
+  },
+  {
+    "title": "HOPPER - IL SEGRETO DELLA MARMOTTA",
+    "cast": "Joe Ochman, Bernardo de Paula, Jordan Tartakow, Mimi Maynard",
+    "details": "Un'animazione europea che guarda ai capolavori Disney per celebrare inclusione e diversità. Animazione, Belgio, USA, Francia 2025. Durata 88 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:15",
+          "13:25"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1215532,
+    "tmdb_title": "Hopper - Il segreto della marmotta",
+    "original_title": "Chickenhare and the Secret of the Groundhog",
+    "overview": "Continuano le avventure dell'esploratore Hopper, sempre alla scoperta di mondi nuovi e affascinanti insieme agli inseparabili compagni Meg e Abe.  Tuttavia, il suo destino rischia di cambiare radicalmente quando incontra Gina, una misteriosa sconosciuta che si rivela essere sua sorella. Per la prima volta, Hopper scopre di non essere l’unico della sua specie. Diviso tra la lealtà verso il padre adottivo e il desiderio di aiutare i suoi simili, Hopper si ritrova a dover seguire il suo cuore e partire per una nuova avventura. Decide cosi di accompagnare Gina in una missione pericolosa: trovare l’unico potere capace di salvarli da una grave minaccia. La ricerca conduce i protagonisti sulle tracce della leggendaria marmotta in grado di manipolare il tempo. Tra superstizioni, enigmi e rivelazioni sul passato e futuro, Hopper, Abe e Meg affrontano un viaggio epico ricco di insidie, scoperte e colpi di scena.",
+    "release_date": "2025-09-19",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bl96nTxJhqadBkUXKkgcSU5AxRG.jpg",
+    "genres": "Animazione, Avventura, Commedia, Famiglia",
+    "director": "Benjamin Mousquet",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MASTERS OF THE UNIVERSE",
+    "cast": "Nicholas Galitzine, Jared Leto, Camila Mendes, Alison Brie",
+    "details": "Un adattamento che lavora sull'effetto nostalgia e sulle fragilità del maschio contemporaneo. Azione, Avventura, Drammatico - USA 2026. Durata 140 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "18:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "12:00",
+          "15:50",
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 454639,
+    "tmdb_title": "Masters of the Universe",
+    "original_title": "Masters of the Universe",
+    "overview": "Dopo essere stati separati per 15 anni, la Spada del Potere conduce il Principe Adam di ritorno su Eternia, dove scopre la sua casa devastata dal diabolico dominio di Skeletor. Per salvare la sua famiglia e il suo mondo, Adam deve unire le forze con i suoi alleati più fidati, Teela e Duncan/Man-At-Arms, e abbracciare il suo vero destino come He-Man, l’uomo più potente dell’universo.",
+    "release_date": "2026-06-03",
+    "vote_average": 7.384,
+    "poster_url": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
+    "genres": "Azione, Fantasy, Fantascienza",
+    "director": "Travis Knight",
+    "mathyas-pick": false
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
+    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10",
+          "11:50",
+          "14:10",
+          "15:15",
+          "16:15",
+          "17:00",
+          "17:40",
+          "18:30",
+          "19:30",
+          "20:15",
+          "21:00",
+          "21:35",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:40",
+          "11:30",
+          "12:50",
+          "15:00",
+          "16:00",
+          "18:10",
+          "19:10",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1275779,
+    "tmdb_title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "release_date": "2026-06-10",
+    "vote_average": 7.037,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genres": "Azione, Fantascienza, Thriller",
+    "director": "Steven Spielberg",
+    "ai_reason": "A significant cinematic event marking Steven Spielberg's return to high-concept sci-fi, featuring an exceptional prestige cast.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "KUNG FU PANDA 4",
+    "cast": "Fabio Volo, Jack Black, Awkwafina, Viola Davis",
+    "details": "Un buon esempio di innovazione, dalla regia movimentata e dall'animazione ispirata. E con una serie di nuovi personaggi esilaranti. Animazione, USA 2024. Durata 94 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1011985,
+    "tmdb_title": "Kung Fu Panda 4",
+    "original_title": "Kung Fu Panda 4",
+    "overview": "Po è destinato a diventare il nuovo leader spirituale della Valle della Pace, ma prima di poterlo fare, deve trovare un successore per diventare il nuovo Guerriero Drago. Sembra trovarne uno in Zhen, una volpe con molte abilità promettenti ma a cui non piace l'idea che Po lo alleni.",
+    "release_date": "2024-03-02",
+    "vote_average": 7.002,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hXx9YEJzRhronB6jtfpzVh19WhY.jpg",
+    "genres": "Azione, Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Mike Mitchell",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL PRIGIONIERO",
+    "cast": "Julio Peña (III), Alessandro Borghi, Miguel Rellán, Fernando Tejero",
+    "details": "Una biofiction libera e coraggiosa dedicata a Miguel de Cervantes. E al potere delle storie di sottrarci alla sottomissione. Drammatico, Spagna, Italia 2024. Durata 134 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 345514,
+    "tmdb_title": "Il prigioniero",
+    "original_title": "Il prigioniero",
+    "overview": "",
+    "release_date": "1978-01-01",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4MCuatxIkzRJJPnebkZJzMPR1ep.jpg",
+    "genres": "Dramma, televisione film",
+    "director": "Aldo Lado",
+    "ai_reason": "A sophisticated Italian bio-fiction from auteur Aldo Lado, exploring the transformative power of literature and historical narrative.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TUNER - L'ACCORDATORE",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
+    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1340206,
+    "tmdb_title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "release_date": "2026-05-21",
+    "vote_average": 6.891,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
+    "genres": "Crime, Thriller",
+    "director": "Daniel Roher",
+    "ai_reason": "A high-tension prestige thriller from Oscar-winner Daniel Roher, anchored by the legendary Dustin Hoffman.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "BACKROOMS",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:05",
+          "13:25",
+          "15:50",
+          "19:00",
+          "21:15",
+          "00:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:20",
+          "16:10",
+          "18:50",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.885,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons",
+    "ai_reason": "A viral psychological phenomenon elevated by a prestige cast, representing the vanguard of modern surrealist genre filmmaking.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SPACE JAM",
+    "cast": "Theresa Randle, Michael Jordan, Wayne Knight, Manner Washington",
+    "details": "Perfetto nella fusione tra live-action e animazione 2D, resta a distanza di 30 anni divertentissimo, moderno e sperimentale. Commedia, USA 1996. Durata 87 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 2300,
+    "tmdb_title": "Space Jam",
+    "original_title": "Space Jam",
+    "overview": "Sul Pianeta dei Nerdlucks, il lunapark elettronico sta per fallire per mancanza di nuovi divertimenti. Alla ricerca di soluzioni per rimettere in sesto la situazione, Swackhammer, padrone del lunapark e capo dei Nerdlucks, invia un gruppo sulla Terra con il compito di rapire i Loony Tunes e carpire i segreti dei loro divertimenti. I Nerdlucks stanno per avere la meglio, quando Bugs Bunny ha un'idea: sfida gli avversari ad una partita di basket, se i Tunes vinceranno, potranno rimanere sulla Terra; se perderanno dovranno seguire i nemici sul loro Pianeta.",
+    "release_date": "1996-11-15",
+    "vote_average": 6.81,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kvqJkSi2apGZlepZHJ3A0Ap93FR.jpg",
+    "genres": "Famiglia, Animazione, Fantascienza, Fantasy, Commedia",
+    "director": "Joe Pytka",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA CRONOLOGIA DELL'ACQUA",
+    "cast": "Imogen Poots, Thora Birch, Jim Belushi, Charlie Carrick",
+    "details": "Un flusso di immagini ed emozioni che non teme l'indicibile e il conturbante. Alla sua opera prima Stewart mostra di saper osare. Biografico, Drammatico - Francia, Lettonia, USA 2025. Durata 128 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 524635,
+    "tmdb_title": "La cronologia dell’acqua",
+    "original_title": "The Chronology of Water",
+    "overview": "Cresciuta in un ambiente distrutto da violenza e alcol, dopo un’infanzia segnata da abusi, l’irrequieta Lidia (Imogen Poots) trova rifugio nel nuoto agonistico, nella sperimentazione sessuale, in relazioni tossiche e nella dipendenza, prima di trovare la propria voce attraverso la scrittura. La strada verso l’autodistruzione svolta verso una inattesa nuova destinazione attraverso la letteratura.",
+    "release_date": "2025-10-15",
+    "vote_average": 6.664,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
+    "genres": "Dramma",
+    "director": "Kristen Stewart",
+    "ai_reason": "A visceral, arthouse exploration of trauma and self-discovery marking Kristen Stewart's transition into serious directorial work.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ROMERÍA - IL MARE DEI RICORDI",
+    "cast": "Llúcia Garcia, Mitch Martín, Tristán Ulloa, Alberto Gracia",
+    "details": "Un poema di sole e iodio che riflette con grande dolcezza sulla verità della memoria. Drammatico, Spagna, Germania 2025. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1182861,
+    "tmdb_title": "Romería - Il mare dei ricordi",
+    "original_title": "Romería",
+    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
+    "release_date": "2025-09-05",
+    "vote_average": 6.522,
+    "poster_url": "https://image.tmdb.org/t/p/w500/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
+    "genres": "Dramma",
+    "director": "Carla Simón",
+    "ai_reason": "The latest work from Orso d'Oro winner Carla Simón; an intimate and deeply textured piece of European arthouse drama.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "AMARGA NAVIDAD",
+    "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
+    "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1088548,
+    "tmdb_title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "release_date": "2026-03-20",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Pedro Almodóvar",
+    "ai_reason": "A new meta-fictional exploration by Pedro Almodóvar, a definitive master of contemporary European auteur cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SAVAGE HOUSE",
+    "cast": "Richard E. Grant, Claire Foy, Jack Farthing, Bel Powley",
+    "details": "Audace e malinconico, un film capace di scorgere il dramma dietro la comicità. Commedia, Drammatico - Regno Unito 2026. Durata 113 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1245859,
+    "tmdb_title": "Savage House",
+    "original_title": "Savage House",
+    "overview": "",
+    "release_date": "2026-06-05",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Peter Glanz",
+    "mathyas-pick": false
+  },
+  {
+    "title": "RUFUS - IL DRAGHETTO MARINO CHE NON SAPEVA NUOTARE",
+    "cast": "Gisken Armand, Kåre Conradi, Janne Formoe, Stig Henrik Hoff",
+    "details": "Dalla Norvegia una favola ecologista dal tradizionale impianto narrativo. Animazione, Family - Norvegia, Belgio, Germania 2026. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "13:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1512207,
+    "tmdb_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "original_title": "Ruffen: Sjøormen som ikke kunne svømme",
+    "overview": "Nel cuore dell’oceano, su un’isola segreta, vive una simpatica comunità di draghi marini. Tra loro c’è Rufus, un piccolo draghetto diverso dagli altri, con tanto cuore… ma zero talento per il nuoto. Quando però lo zio Ludvig, che tiene l'isola nascosta agli umani con il suo fumo magico, perde i poteri, sarà proprio Rufus a partire per un viaggio straordinario fino in Scozia, alla ricerca della prozia Nessie e della mitica sciarpa magica.",
+    "release_date": "2025-10-10",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8thnn6W9p3oayv6cf1M3RezNah8.jpg",
+    "genres": "Animazione, Famiglia",
+    "director": "Endre Skandfer",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SCARY MOVIE",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:00",
+          "15:10",
+          "17:30",
+          "19:10",
+          "20:00",
+          "21:50",
+          "22:50",
+          "00:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30",
+          "19:20",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1273221,
+    "tmdb_title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
+    "release_date": "2026-06-03",
+    "vote_average": 5.627,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genres": "Commedia, Horror",
+    "director": "Michael Tiddes",
+    "mathyas-pick": false
+  }
+]

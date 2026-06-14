@@ -7,7 +7,8 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "19:20"
+          "19:20",
+          "21:00"
         ]
       },
       {
@@ -26,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
     "genres": "Avventura, Fantasy, Animazione",
     "director": "Hayao Miyazaki",
-    "ai_reason": "A seminal masterpiece of Studio Ghibli’s hand-drawn legacy, blending mythic grandeur with ecological philosophy. Essential prestige animation.",
+    "ai_reason": "A pinnacle of prestige animation from Studio Ghibli, Miyazaki’s ecological epic remains a vital and artistically supreme masterpiece of Japanese cinema.",
     "mathyas-pick": true
   },
   {
@@ -35,9 +36,9 @@
     "details": "Un viaggio straordinario e mastodontico che restituisce l'opera alla visione originaria dell'autore. Azione, 2004. Durata 281 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Uci Cinemas Showville",
         "times": [
-          "19:30"
+          "16:40"
         ]
       }
     ],
@@ -46,11 +47,11 @@
     "original_title": "Kill Bill: The Whole Bloody Affair",
     "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
     "release_date": "2011-03-27",
-    "vote_average": 8.089,
+    "vote_average": 8.092,
     "poster_url": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
     "genres": "Azione, Crime",
     "director": "Quentin Tarantino",
-    "ai_reason": "The definitive, long-awaited unified cut of Tarantino’s stylized homage to grindhouse and samurai cinema. A cornerstone of cult history.",
+    "ai_reason": "Quentin Tarantino's unified vision of his revenge magnum opus; an essential cult experience for the serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -61,17 +62,16 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "22:20",
-          "21:15"
+          "16:10",
+          "20:40",
+          "22:25"
         ]
       },
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:30",
-          "17:30",
-          "19:00",
-          "21:30"
+          "16:55",
+          "19:20"
         ]
       }
     ],
@@ -80,39 +80,53 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 7.923,
-    "poster_url": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
-    "genres": "Horror",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A haunting exploration of toxic desire from emerging genre auteur Curry Barker, following the new wave of elevated indie horror.",
+    "ai_reason": "From emerging genre auteur Curry Barker, this psychological thriller fits the mold of modern indie horror hits that explore the dark price of desire.",
     "mathyas-pick": true
   },
   {
-    "title": "FINCHÈ MORTE NON CI SEPARI 2",
-    "cast": "Samara Weaving, Kathryn Newton, Elijah Wood, Sarah Michelle Gellar",
-    "details": "Un sequel vivace e potenziato nei modi, nelle forme e nella quantità. Horror, USA 2026. Durata 108 Minuti.",
+    "title": "STAND BY ME - RICORDO DI UN'ESTATE",
+    "cast": "River Phoenix, Wil Wheaton, Corey Feldman, Kiefer Sutherland",
+    "details": "Un'opera memorabile. Sul tema della ricerca di se stessi e sull'importanza dell'amicizia. Avventura, USA 1986. Durata 89 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:00",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 235,
+    "tmdb_title": "Stand by Me - Ricordo di un'estate",
+    "original_title": "Stand by Me",
+    "overview": "Oregon, estate del 1959. Quattro ragazzini partono per un'escursione di 50 chilometri lungo la ferrovia, affrontando varie avventure per cercare il cadavere di un ragazzo scomparso giorni prima. Da un racconto (The Body, 1982) di Stephen King, uno dei film più belli sull'adolescenza degli anni '80, nel miracoloso equilibrio della memoria tra sentimento e avventura.",
+    "release_date": "1986-08-08",
+    "vote_average": 7.838,
+    "poster_url": "https://image.tmdb.org/t/p/w500/pZPtkuGJPGnDT0C1ARDoO3xo13x.jpg",
+    "genres": "Crime, Dramma",
+    "director": "Rob Reiner",
+    "ai_reason": "Rob Reiner’s quintessential coming-of-age classic; a miraculous balance of memory and sentiment that stands as a pillar of 80s cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "FINCHÉ MORTE NON CI SEPARI",
+    "cast": "Samara Weaving, Adam Brody, Mark O'Brien, Henry Czerny",
+    "details": "Colpi di scena e un'ambiziosa chiave horror per una sferzante e grottesca satira sociale. Commedia, Horror - USA 2019. Durata 95 Minuti. Consigli per la visione: Ragazzi +16",
     "cinemas": [
       {
         "name": "Uci Cinemas Showville",
         "times": [
-          "23:40"
-        ]
-      },
-      {
-        "name": "Galleria",
-        "times": [
-          "16:00",
-          "18:15"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "18:20",
-          "19:00",
-          "20:45",
-          "21:20",
-          "16:30"
+          "22:10"
         ]
       }
     ],
@@ -121,42 +135,10 @@
     "original_title": "Ready or Not: Here I Come",
     "overview": "Poco dopo essere sopravvissuta ad un attacco senza esclusione di colpi da parte della famiglia Le Domas, Grace (Samara Weaving) scopre di aver raggiunto il livello successivo di questo gioco da incubo, questa volta con al suo fianco la sorella Faith (Kathryn Newton) con cui non aveva più rapporti. Grace ha una sola possibilità per sopravvivere, per salvare la vita della sorella e rivendicare il Posto D’Onore del Consiglio che controlla il mondo. Quattro famiglie rivali le stanno dando la caccia per il trono, e chi vincerà governerà su tutto.",
     "release_date": "2026-03-19",
-    "vote_average": 7.703,
-    "poster_url": "https://image.tmdb.org/t/p/w500/6dHm3A0MVGHMJH73ae5SlJSHrBr.jpg",
+    "vote_average": 7.71,
+    "poster_url": "https://image.tmdb.org/t/p/w500/fro6xA6STLdHJRyoleRGIerwKC.jpg",
     "genres": "Thriller, Horror, Commedia",
     "director": "Matt Bettinelli-Olpin, Tyler Gillett",
-    "mathyas-pick": false
-  },
-  {
-    "title": "MASTERS OF THE UNIVERSE",
-    "cast": "Nicholas Galitzine, Jared Leto, Camila Mendes, Alison Brie",
-    "details": "Un adattamento che lavora sull'effetto nostalgia e sulle fragilità del maschio contemporaneo. Azione, Avventura, Drammatico - USA 2026. Durata 140 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:10",
-          "19:10",
-          "21:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "19:20",
-          "22:30"
-        ]
-      }
-    ],
-    "tmdb_id": 454639,
-    "tmdb_title": "Masters of the Universe",
-    "original_title": "Masters of the Universe",
-    "overview": "Dopo essere stati separati per 15 anni, la Spada del Potere conduce il Principe Adam (Nicholas Galitzine) di nuovo su Eternia, dove scopre la sua casa devastata dal diabolico dominio di Skeletor (Jared Leto). Per salvare la sua famiglia e il suo mondo, Adam deve unire le forze con i suoi alleati più fidati, Teela (Camila Mendes) e Duncan/Man-At-Arms (Idris Elba), e abbracciare il suo vero destino come He-Man — l’uomo più potente dell’universo.",
-    "release_date": "2026-06-03",
-    "vote_average": 7.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
-    "genres": "Azione, Fantasy, Fantascienza",
-    "director": "Travis Knight",
     "mathyas-pick": false
   },
   {
@@ -167,14 +149,15 @@
       {
         "name": "The Space Casamassima",
         "times": [
+          "17:35",
           "18:50",
-          "21:50"
+          "21:20"
         ]
       },
       {
         "name": "Uci Cinemas Showville",
         "times": [
-          "17:00"
+          "21:40"
         ]
       }
     ],
@@ -183,11 +166,92 @@
     "original_title": "Michael",
     "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
     "release_date": "2026-04-22",
-    "vote_average": 7.585,
+    "vote_average": 7.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
     "genres": "Musica, Dramma",
     "director": "Antoine Fuqua",
     "mathyas-pick": false
+  },
+  {
+    "title": "YELLOW LETTERS",
+    "cast": "Özgü Namal, Tansu Biçer, Leyla Smyrna Cabas, Ipek Bilgin",
+    "details": "Catak si insinua nella coscienza dei suoi personaggi, rivelandone ambiguità morali e passi falsi comportamentali. Drammatico, Germania, Turchia, Francia 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1315657,
+    "tmdb_title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "release_date": "2026-03-05",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "genres": "Dramma",
+    "director": "İlker Çatak",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MASTERS OF THE UNIVERSE",
+    "cast": "Nicholas Galitzine, Jared Leto, Camila Mendes, Alison Brie",
+    "details": "Un adattamento che lavora sull'effetto nostalgia e sulle fragilità del maschio contemporaneo. Azione, Avventura, Drammatico - USA 2026. Durata 140 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:55",
+          "21:00",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 454639,
+    "tmdb_title": "Masters of the Universe",
+    "original_title": "Masters of the Universe",
+    "overview": "Dopo essere stati separati per 15 anni, la Spada del Potere conduce il Principe Adam (Nicholas Galitzine) di nuovo su Eternia, dove scopre la sua casa devastata dal diabolico dominio di Skeletor (Jared Leto). Per salvare la sua famiglia e il suo mondo, Adam deve unire le forze con i suoi alleati più fidati, Teela (Camila Mendes) e Duncan/Man-At-Arms (Idris Elba), e abbracciare il suo vero destino come He-Man — l’uomo più potente dell’universo.",
+    "release_date": "2026-06-03",
+    "vote_average": 7.384,
+    "poster_url": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
+    "genres": "Azione, Fantasy, Fantascienza",
+    "director": "Travis Knight",
+    "mathyas-pick": false
+  },
+  {
+    "title": "GLI SPOSTATI",
+    "cast": "Clark Gable, Marilyn Monroe, Montgomery Clift, Thelma Ritter",
+    "details": "L'ultimo film della star americana Marilyn Monroe, un western crepuscolare e paradossalmente proiettato nel futuro. Drammatico, USA 1961. Durata 124 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 11536,
+    "tmdb_title": "Gli spostati",
+    "original_title": "The Misfits",
+    "overview": "Roslyn è a Reno per divorziare. Perce, Guido e Gay invece a Reno ci vivono, catturando cavalli selvaggi e partecipando a rodei. Tutti e tre sono attratti dalla bella Roslyn. Durante una caccia ai mustang, Perce si fa male e Roslyn ne è sconvolta: quel mondo duro e violento le fa vedere sotto un diverso aspetto Gay. Così quando Guido e Gay partecipano ad una nuova caccia a un branco di cavalli selvaggi, aiutata da Perce, la donna libera l'animale che i due hanno con tanta fatica catturato. Gay allora lo ricattura, per liberarlo però a sua volta, in omaggio a Roslyn...",
+    "release_date": "1961-02-01",
+    "vote_average": 6.973,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kgFRSwrOUJkVz6CP0QJnJ07j32G.jpg",
+    "genres": "Western, Dramma, Romance",
+    "director": "John Huston",
+    "ai_reason": "A melancholic classic of cinema history, featuring the final, haunting performances of icons Marilyn Monroe and Clark Gable under John Huston’s masterful direction.",
+    "mathyas-pick": true
   },
   {
     "title": "TUNER - L'ACCORDATORE",
@@ -195,10 +259,9 @@
     "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
     "cinemas": [
       {
-        "name": "Il Piccolo",
+        "name": "The Space Casamassima",
         "times": [
-          "18:30",
-          "20:45"
+          "21:50"
         ]
       }
     ],
@@ -207,11 +270,46 @@
     "original_title": "Tuner",
     "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
     "release_date": "2026-05-21",
-    "vote_average": 6.853,
+    "vote_average": 6.897,
     "poster_url": "https://image.tmdb.org/t/p/w500/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
     "genres": "Crime, Thriller",
     "director": "Daniel Roher",
-    "ai_reason": "A prestige psychological thriller from Oscar-winner Daniel Roher, exploring sensory hyper-sensitivity and the weight of genius.",
+    "ai_reason": "A prestige crime-thriller from Oscar-winner Daniel Roher, delving into the sensory psychological depths and isolation of a musical prodigy.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "BACKROOMS",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "18:15",
+          "20:30",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30",
+          "19:00",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.842,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons",
+    "ai_reason": "An elevated horror event from Kane Parsons, the emerging auteur redefining the genre through surrealism, liminal spaces, and psychological dread.",
     "mathyas-pick": true
   },
   {
@@ -222,7 +320,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:25"
+          "18:35"
         ]
       }
     ],
@@ -238,40 +336,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "BACKROOMS",
-    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
-    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:05",
-          "17:45",
-          "20:30",
-          "22:25"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "19:20",
-          "21:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1083381,
-    "tmdb_title": "Backrooms",
-    "original_title": "Backrooms",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "release_date": "2026-05-27",
-    "vote_average": 6.769,
-    "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "genres": "Horror, Mistero, Fantascienza",
-    "director": "Kane Parsons",
-    "ai_reason": "Kane Parsons’ viral surrealism transcends its digital roots, offering a high-concept psychological descent into liminal horror with a prestige cast.",
-    "mathyas-pick": true
-  },
-  {
     "title": "AMARGA NAVIDAD",
     "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
     "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
@@ -279,14 +343,7 @@
       {
         "name": "Galleria",
         "times": [
-          "18:05",
-          "20:50"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:50"
+          "18:05"
         ]
       }
     ],
@@ -295,37 +352,11 @@
     "original_title": "Amarga Navidad",
     "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
     "release_date": "2026-03-20",
-    "vote_average": 6.507,
+    "vote_average": 6.479,
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar",
-    "ai_reason": "A new work from Spanish auteur Pedro Almodóvar, masterfully dissecting the interplay between reality and creative autofiction.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "L'AMORE CHE RIMANE",
-    "cast": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Grímur Hlynsson",
-    "details": "Un'opera che sembra aver trovato la soluzione perfetta per equilibrare la commedia con un tocco di surreale e il dramma famigliare. Drammatico, Islanda, Danimarca, Svezia, Francia 2025. Durata 109 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "17:00",
-          "19:00",
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1258509,
-    "tmdb_title": "L'amore che rimane",
-    "original_title": "Ástin sem eftir er",
-    "overview": "Anna e Magnus, detto Maggi, si stanno separando: è un processo graduale, che la coppia porta avanti trascorrendo ancora del tempo insieme ai tre figli, in escursioni o in cene a casa. Mentre l'unità coniugale si va sfaldando, Anna si concentra sul suo lavoro di artista, anche se i riconoscimenti tardano ad arrivare; Maggi, invece, lavora su un peschereccio ed è quasi sempre in mare aperto. Quando i genitori non ci sono, i figli si dedicano a passatempi curiosi: in particolare i due gemelli, che tendono a creare giochi bizzarri e talora pericolosi per la loro incolumità.",
-    "release_date": "2025-08-14",
-    "vote_average": 6.4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/7HUkyrptprlTludHPFST1vQhOwT.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Hlynur Pálmason",
-    "ai_reason": "Acclaimed director Hlynur Pálmason delivers a meticulously crafted arthouse drama on the fragility of family bonds and artistic isolation.",
+    "ai_reason": "A new exploration of meta-fiction from Pedro Almodóvar, the Spanish master continues his career-long reflection on the boundaries between life and art.",
     "mathyas-pick": true
   },
   {
@@ -336,7 +367,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:15"
+          "16:00"
         ]
       }
     ],
@@ -354,15 +385,15 @@
   {
     "title": "SCARY MOVIE",
     "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
-    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Horror, USA 2026. Durata 95 Minuti.",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:50",
-          "18:30",
-          "19:15",
-          "20:00",
+          "16:40",
+          "18:05",
+          "19:05",
+          "20:05",
           "21:40",
           "22:30"
         ]
@@ -371,10 +402,8 @@
         "name": "Uci Cinemas Showville",
         "times": [
           "16:00",
-          "19:50",
-          "21:40",
-          "22:10",
-          "22:45"
+          "18:50",
+          "22:00"
         ]
       }
     ],
@@ -383,9 +412,9 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.7,
+    "vote_average": 5.849,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
-    "genres": "Commedia, Horror",
+    "genres": "Commedia",
     "director": "Michael Tiddes",
     "mathyas-pick": false
   },
@@ -397,6 +426,7 @@
       {
         "name": "Galleria",
         "times": [
+          "15:50",
           "18:25"
         ]
       }
@@ -413,6 +443,35 @@
     "mathyas-pick": false
   },
   {
+    "title": "SANTA SUBITO",
+    "cast": "Piero Scorese, Angela Dachille, Rosa Maria Scorese, Mario Defilippis",
+    "details": "Una lezione di documentario su una storia simbolica forte e commovente. Documentario, Italia 2019. Durata 60 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "20:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:20"
+        ]
+      }
+    ],
+    "tmdb_id": 642644,
+    "tmdb_title": "Santa subito",
+    "original_title": "Santa subito",
+    "overview": "Film documentario che racconta la storia di Santa Scorese, giovane attivista cattolica della provincia di Bari che per anni subisce le morbose attenzioni di uno sconosciuto molestatore, fino all'epilogo più tragico: la morte a soli 23 anni.",
+    "release_date": "2019-10-25",
+    "vote_average": 4.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kYVOc1VwA029Df6bAfbTNZQ8Fnr.jpg",
+    "genres": "Documentario, Dramma",
+    "director": "Alessandro Piva",
+    "mathyas-pick": false
+  },
+  {
     "title": "SMART WORKING",
     "cast": "Marcello Macchia, Sara Lazzaro, Alessandro Tiberi, Maurizio Nichetti",
     "details": "Un racconto dai temi attuali. Con un lavoro accurato in scrittura e regia. Commedia, Italia 2026. Durata 96 Minuti.",
@@ -420,14 +479,13 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:40",
-          "21:00"
+          "16:05"
         ]
       },
       {
         "name": "Uci Cinemas Showville",
         "times": [
-          "19:40"
+          "17:10"
         ]
       }
     ],
