@@ -27,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A prime example of the 'elevated horror' movement by Curry Barker, focusing on psychological consequences rather than simple scares.",
+    "ai_reason": "A highly anticipated elevated horror entry from Curry Barker, an emerging auteur specifically recognized for redefining the genre.",
     "mathyas-pick": true
   },
   {
@@ -89,34 +89,16 @@
     "mathyas-pick": false
   },
   {
-    "title": "UN SEMPLICE INCIDENTE",
-    "cast": "Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi, Hadis Pakbaten",
-    "details": "Un film in cui la denuncia si fa durissima anche quando sceglie la strada dell'ironia. Drammatico, Iran, Francia, Lussemburgo 2025. Durata 101 Minuti.",
+    "title": "TRE CIOTOLE",
+    "cast": "Alba Rohrwacher, Elio Germano, Silvia D'Amico, Galatéa Bellugi",
+    "details": "Nel film di Isabel Coixet l'onestà cruda di Michela Murgia incontra la delicatezza di una fiaba. Drammatico, Spagna, Italia 2025. Durata 120 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
         "times": [
           "21:00"
         ]
-      }
-    ],
-    "tmdb_id": 1456349,
-    "tmdb_title": "Un semplice incidente",
-    "original_title": "Un simple accident",
-    "overview": "Padre, madre e figlioletta percorrono di notte una strada in auto quando un cane finisce sotto le ruote. Ciò provoca un danneggiamento al veicolo che costringe ad una sosta per la riparazione temporanea. Un uomo che si trova sul posto cerca di non farsi vedere perché gli è parso di riconoscere nel conducente dell'auto un agente dei servizi segreti che lo ha sottoposto a violenza in carcere. Riesce successivamente a sequestrarlo ed è pronto a seppellirlo vivo quando gli viene il dubbio che si tratti di uno scambio di persona. Cercherà conferme in altri che, come lui seppure in misure diverse, hanno subito la ferocia dell'uomo.",
-    "release_date": "2025-10-01",
-    "vote_average": 7.1,
-    "poster_url": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg",
-    "genres": "Dramma, Thriller, Crime, Mistero",
-    "director": "Jafar Panahi",
-    "ai_reason": "A major cinematic event from a master of the medium, Jafar Panahi, offering a tense, psychological exploration of authority and identity.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "TRE CIOTOLE",
-    "cast": "Alba Rohrwacher, Elio Germano, Silvia D'Amico, Galatéa Bellugi",
-    "details": "Nel film di Isabel Coixet l'onestà cruda di Michela Murgia incontra la delicatezza di una fiaba. Drammatico, Spagna, Italia 2025. Durata 120 Minuti.",
-    "cinemas": [
+      },
       {
         "name": "Galleria",
         "times": [
@@ -133,7 +115,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fyIdHPdzB2fBJqbUdglqx1sUSKM.jpg",
     "genres": "Dramma, Romance",
     "director": "Isabel Coixet",
-    "ai_reason": "A sophisticated collaboration between director Isabel Coixet and two of Italy's most revered actors, Alba Rohrwacher and Elio Germano.",
+    "ai_reason": "A sophisticated European drama anchored by the elite Italian talent of Alba Rohrwacher and Elio Germano.",
     "mathyas-pick": true
   },
   {
@@ -161,7 +143,7 @@
     "original_title": "How to Make a Killing",
     "overview": "Becket Redfellow (Glen Powell) è un outsider cresciuto lontano dalla sua famiglia d'origine: una dinastia ricchissima che lo ha rinnegato alla nascita. Determinato a reclamare ciò che ritiene suo di diritto, Becket mette in atto un piano tanto ambizioso quanto spietato: eliminare, uno dopo l'altro, tutti i parenti che lo separano dall'eredità miliardaria. Ma l'incontro e lo scontro con Julia Steinway (Margaret Qualley) rimetterà in discussione tutto, fino al confronto finale con il temuto capo famiglia, Whitelaw Redfellow (Ed Harris).",
     "release_date": "2026-02-16",
-    "vote_average": 7.049,
+    "vote_average": 7.048,
     "poster_url": "https://image.tmdb.org/t/p/w500/y8cYRikwfPbsSSa0Iv0aJaAXuVm.jpg",
     "genres": "Commedia, Thriller",
     "director": "John Patton Ford",
@@ -188,7 +170,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4MCuatxIkzRJJPnebkZJzMPR1ep.jpg",
     "genres": "Dramma, televisione film",
     "director": "Aldo Lado",
-    "ai_reason": "A notable Italian-Spanish co-production by cult director Aldo Lado, featuring the always-compelling Alessandro Borghi.",
+    "ai_reason": "A bold Italian-Spanish co-production by cult veteran Aldo Lado, examining the metaphysical power of narrative and artistic liberation.",
     "mathyas-pick": true
   },
   {
@@ -219,7 +201,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "An essential pick for the modern horror fan, transforming a viral surrealist concept into a feature-length arthouse mystery.",
+    "ai_reason": "A surrealist horror phenomenon by emerging auteur Kane Parsons, blurring the lines between internet culture and psychological thriller.",
     "mathyas-pick": true
   },
   {
@@ -243,7 +225,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
     "genres": "Dramma",
     "director": "Kristen Stewart",
-    "ai_reason": "The directorial debut of Kristen Stewart; an avant-garde, literary adaptation that fits the profile of prestige indie drama.",
+    "ai_reason": "Kristen Stewart’s visceral directorial debut, offering a raw, arthouse exploration of trauma, literature, and the female psyche.",
     "mathyas-pick": true
   },
   {
@@ -275,11 +257,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.738,
+    "vote_average": 6.747,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A significant cinematic event from Steven Spielberg, promising high-concept science fiction with a prestigious cast.",
+    "ai_reason": "A major cinematic event from a legendary master of the medium, promising high-concept science fiction with a prestigious ensemble.",
     "mathyas-pick": true
   },
   {
@@ -303,7 +285,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
     "genres": "Dramma",
     "director": "Carla Simón",
-    "ai_reason": "From Golden Bear winner Carla Simón, this is a quintessential piece of contemporary Spanish arthouse cinema focusing on memory and roots.",
+    "ai_reason": "Directed by Orso d'Oro winner Carla Simón, this film represents the pinnacle of contemporary intimate, arthouse cinema.",
     "mathyas-pick": true
   },
   {
