@@ -16,11 +16,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 7.895,
+    "vote_average": 7.9,
     "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Emerging auteur Curry Barker delivers a psychological horror that fits the new 'viral' genre hit mold with deep, unsettling themes.",
+    "ai_reason": "A psychological horror hit from emerging genre auteur Curry Barker, fitting the modern elevated horror movement.",
     "mathyas-pick": true
   },
   {
@@ -63,7 +63,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.417,
+    "vote_average": 7.5,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -74,6 +74,12 @@
     "cast": "Marco Messeri, Nanni Moretti, Ferruccio De Ceresa, Margarita Lozano",
     "details": "Un meritato Orso d'argento per il film di Moretti che presenta uno dei personaggi più intensi della sua filmografia. Drammatico, Italia 1985. Durata 94 Minuti. Consigli per la visione: Ragazzi +16",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -105,7 +111,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/eCdfHMyFRc5uDG2cdIOlc5rBGUd.jpg",
     "genres": "Dramma",
     "director": "Nanni Moretti",
-    "ai_reason": "A vital re-release or classic inclusion of Nanni Moretti's filmography, a cornerstone of high-brow Italian auteur cinema.",
+    "ai_reason": "An essential re-release of Nanni Moretti's masterpiece, a cornerstone of Italian auteur cinema that explores faith and family.",
     "mathyas-pick": true
   },
   {
@@ -129,31 +135,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
     "genres": "Dramma",
     "director": "Laura Samani",
-    "ai_reason": "Laura Samani is one of the most important emerging Italian auteurs; this drama promises the same poetic rigor as her acclaimed debut.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "TRE CIOTOLE",
-    "cast": "Alba Rohrwacher, Elio Germano, Silvia D'Amico, Galatéa Bellugi",
-    "details": "Nel film di Isabel Coixet l'onestà cruda di Michela Murgia incontra la delicatezza di una fiaba. Drammatico, Spagna, Italia 2025. Durata 120 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1433339,
-    "tmdb_title": "Tre ciotole",
-    "original_title": "Tre ciotole",
-    "overview": "Dopo quello che sembrava un banale litigio, Marta e Antonio si lasciano. Marta reagisce alla rottura chiudendosi in sé stessa. L’unico sintomo che non può ignorare è la sua improvvisa mancanza di appetito. Antonio, chef in rampa di lancio, si butta sul lavoro. Ma sebbene sia stato lui a lasciare Marta, non riesce a dimenticarla. Quando Marta scopre che la mancanza di appetito ha più a che fare con la propria salute che con il dolore della separazione, tutto cambia: il sapore del cibo, la musica, il desiderio, la certezza delle scelte fatte.",
-    "release_date": "2025-10-09",
-    "vote_average": 7.086,
-    "poster_url": "https://image.tmdb.org/t/p/w500/fyIdHPdzB2fBJqbUdglqx1sUSKM.jpg",
-    "genres": "Dramma, Romance",
-    "director": "Isabel Coixet",
-    "ai_reason": "An arthouse collaboration between director Isabel Coixet and the elite of Italian acting, Alba Rohrwacher and Elio Germano.",
+    "ai_reason": "A poignant work by Laura Samani, one of the most acclaimed voices in contemporary Italian auteur cinema.",
     "mathyas-pick": true
   },
   {
@@ -207,7 +189,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4MCuatxIkzRJJPnebkZJzMPR1ep.jpg",
     "genres": "Dramma, televisione film",
     "director": "Aldo Lado",
-    "ai_reason": "A sophisticated Italian bio-fiction featuring Alessandro Borghi, focusing on the power of literature and history.",
+    "ai_reason": "A sophisticated Italian production by cult director Aldo Lado, exploring historical biography through a rigorous artistic lens.",
     "mathyas-pick": true
   },
   {
@@ -227,11 +209,11 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.879,
+    "vote_average": 6.878,
     "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "The A24-produced transition of Kane Parsons from viral visionary to feature auteur; a landmark for the new wave of elevated horror.",
+    "ai_reason": "The highly anticipated transition of Kane Parsons' surreal viral horror vision into the realm of modern indie cinema.",
     "mathyas-pick": true
   },
   {
@@ -255,7 +237,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
     "genres": "Dramma",
     "director": "Kristen Stewart",
-    "ai_reason": "A raw, surrealist, and highly anticipated directorial debut from Kristen Stewart, exploring deep psychological trauma through an arthouse lens.",
+    "ai_reason": "An elevated arthouse debut from Kristen Stewart, providing a visceral and psychological exploration of trauma and autonomy.",
     "mathyas-pick": true
   },
   {
@@ -289,7 +271,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Steven Spielberg, exploring high-concept science fiction with a prestigious cast.",
+    "ai_reason": "A major cinematic event from legendary auteur Steven Spielberg, returning to high-concept science fiction with a prestigious cast.",
     "mathyas-pick": true
   },
   {
@@ -349,11 +331,35 @@
     "original_title": "Scary Movie",
     "overview": "Tutto ha inizio con l'assassinio della bellissima studentessa liceale Drew Decker. I suoi compagni di classe scoprono che c'è un serial killer intorno a loro, anche se non sembra troppo originale... i suoi 'modi operandi' sono infatti ispirati ai classici horror degli ultimi anni. Cindy e i suoi amici devono proteggersi dal pericolo in ogni modo.",
     "release_date": "2000-07-07",
-    "vote_average": 6.414,
+    "vote_average": 6.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/uApRAE1qFYLdaSeGbrCjJa2aDlx.jpg",
     "genres": "Commedia",
     "director": "Keenen Ivory Wayans",
     "mathyas-pick": false
+  },
+  {
+    "title": "ARION",
+    "cast": "Daisuke Gôri, Masako Katsuki, Kiyoshi Kobayashi, Kazue Komiya",
+    "details": "Animazione, Avventura, Azione - Giappone 1986. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 22679,
+    "tmdb_title": "Arion",
+    "original_title": "アリオン",
+    "overview": "Nell'antica Tracia Arion, figlio di Poseidone, è allevato dalla madre cieca Demetra fino al giorno in cui Hades si presenta per portarlo via con sé. Condotto con l'inganno nell'Ade, Arion viene addestrato per diventare un guerriero con lo scopo di vendicare la madre: Hades ha infatti convinto il giovane semidio che la cecità di Demetra è stata causata da Zeus, e che solo la morte di questi le ridarà la vista. Finito l'addestramento Arion torna nel mondo dei vivi insieme al gigante Gidon per uccidere Zeus. Durante l'inseguimento della piccola ladra Seneca, che gli ha sottratto la spada, Arion viene però catturato dai soldati di Atena, figlia di Zeus e comandante del suo esercito. Ridotto in catene viene liberato da Resfina, una giovane serva muta di Atena. Mentre Arion ritrova Seneca e Gidon, creduto morto dopo l'attacco dei soldati di Atena, le forze di Poseidone e Zeus intanto si preparano alla battaglia per la conquista del potere supremo. Ma alle loro spalle tramano Hades ed Apollo.",
+    "release_date": "1986-03-15",
+    "vote_average": 6.304,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uTrabkXCh8nuMwRbu4UwGYSLEXp.jpg",
+    "genres": "Avventura, Azione, Animazione, Fantasy",
+    "director": "安彦良和",
+    "ai_reason": "A significant theatrical re-release of a Japanese animation classic, representing the prestige and artistry of 1980s fantasy cinema.",
+    "mathyas-pick": true
   },
   {
     "title": "PASSENGER",
