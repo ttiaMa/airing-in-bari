@@ -20,7 +20,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9DUQNctXzcIWuOJDiYlVJdeCZyS.jpg",
     "genres": "Animazione, Fantasy, Romance",
     "director": "青木康浩",
-    "mathyas-pick": false
+    "ai_reason": "A poignant example of prestige Japanese animation, offering a sophisticated blend of fantasy and emotional depth far beyond commercial tropes.",
+    "mathyas-pick": true
   },
   {
     "title": "OBSESSION",
@@ -40,34 +41,12 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 7.91,
+    "vote_average": 7.9,
     "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "mathyas-pick": false
-  },
-  {
-    "title": "LE CITTÀ DI PIANURA",
-    "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
-    "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1462322,
-    "tmdb_title": "Le città di pianura",
-    "original_title": "Le città di pianura",
-    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
-    "release_date": "2025-09-25",
-    "vote_average": 7.52,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-    "genres": "Commedia",
-    "director": "Francesco Sossai",
-    "mathyas-pick": false
+    "ai_reason": "From the emerging auteur Curry Barker, this elevated psychological horror eschews jump-scares for a chilling exploration of consequence and desire.",
+    "mathyas-pick": true
   },
   {
     "title": "TOY STORY 5",
@@ -108,7 +87,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.4,
+    "vote_average": 7.443,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -189,11 +168,12 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.703,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "mathyas-pick": false
+    "ai_reason": "A monumental cinematic event from a master of the medium, marking a significant return to high-concept sci-fi.",
+    "mathyas-pick": true
   },
   {
     "title": "KONTINENTAL '25",
@@ -217,7 +197,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
     "genres": "Commedia, Dramma",
     "director": "Radu Jude",
-    "mathyas-pick": false
+    "ai_reason": "A provocative work from Radu Jude, one of contemporary cinema's most vital voices, blending social critique with surrealist drama.",
+    "mathyas-pick": true
   },
   {
     "title": "SUPERGIRL",
@@ -249,7 +230,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-23",
-    "vote_average": 6.2,
+    "vote_average": 6.222,
     "poster_url": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
@@ -397,6 +378,12 @@
     "cast": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric",
     "details": "Un giallo psicologico che combina in modo intelligente intrattenimento e ossessioni personali. Drammatico, Thriller - Francia 2025. Durata 105 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
