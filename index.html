@@ -63,7 +63,7 @@
             alt="GitHub Stars">
         </a>
       </p>
-      <p style="margin: 0; font-family: monospace; color: #7f8c8d;">v2.1</p>
+      <p style="margin: 0; font-family: monospace; color: #7f8c8d;">v2.4</p>
     </div>
   </div>
 
@@ -389,8 +389,8 @@
         moviesRendered++;
 
         // Risolviamo i vari dati del film per visualizzarli in UI
-        const title = movie.tmdb_title || movie.original_title || "Titolo Sconosciuto";
-        const searchTitle = movie.original_title || title;
+        const title = movie.tmdb_title || movie.original_title || movie.title || "Titolo Sconosciuto";
+        const searchTitle = movie.original_title || movie.tmdb_title || movie.title || "Titolo Sconosciuto";
         const isMathyasPick = movie['mathyas-pick'] === true;
         const mathyasIconHtml = isMathyasPick ? `
           <span class="wax-seal-wrapper" style="cursor: pointer;">
@@ -415,11 +415,15 @@
           cinemasHtml += `<span class="cinema-item">• ${cinemaDisplayName}: ${timesString}</span>`;
         });
 
+        const posterHtml = movie.poster_url
+          ? `<img src="${movie.poster_url}" alt="${title}" class="movie-poster">`
+          : `<div class="movie-poster-placeholder"><span>${title}</span></div>`;
+
         // HTML del singolo movie-card (struttura a Flexbox div invece che table)
         htmlContent += `
           <div class="movie-card">
             <div class="movie-poster-container">
-              <img src="${movie.poster_url || ''}" alt="${title}" class="movie-poster">
+              ${posterHtml}
             </div>
             
             <div class="movie-info">
