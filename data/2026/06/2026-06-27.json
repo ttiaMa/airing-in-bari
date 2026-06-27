@@ -1,0 +1,436 @@
+[
+  {
+    "title": "TOY STORY 5",
+    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
+    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:50",
+          "15:40",
+          "16:25",
+          "16:55",
+          "17:45",
+          "18:20",
+          "18:45",
+          "19:00",
+          "19:30",
+          "20:25",
+          "21:00",
+          "21:20",
+          "22:05",
+          "23:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:00",
+          "15:00",
+          "16:30",
+          "17:00",
+          "17:30",
+          "18:30",
+          "19:00",
+          "19:30",
+          "20:00",
+          "21:00",
+          "21:40",
+          "23:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1084244,
+    "tmdb_title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "release_date": "2026-06-17",
+    "vote_average": 7.45,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genres": "Animazione, Famiglia, Commedia, Avventura",
+    "director": "Andrew Stanton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "GOOD LUCK, HAVE FUN, DON'T DIE",
+    "cast": "Sam Rockwell, Juno Temple, Haley Lu Richardson, Michael Peña",
+    "details": "Un disaster movie apocalittico e delirante sull'AI. Con un istrionico Sam Rockwell. Animazione, Avventura, Azione - Germania, USA 2025. Durata 134 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:00",
+          "20:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1119449,
+    "tmdb_title": "Good Luck, Have Fun, Don't Die",
+    "original_title": "Good Luck, Have Fun, Don't Die",
+    "overview": "Un uomo sposato che passa troppo tempo con un gioco di ruolo fantasy online incontra un uomo proveniente dal futuro con uno strano piano.",
+    "release_date": "2026-02-13",
+    "vote_average": 7.038,
+    "poster_url": "https://image.tmdb.org/t/p/w500/92wepAGh8ojxz1O4sJ1zHmGzh2p.jpg",
+    "genres": "Fantascienza, Azione, Commedia",
+    "director": "Gore Verbinski",
+    "mathyas-pick": false
+  },
+  {
+    "title": "RICCHI... DA MORIRE - DELITTI IN FAMIGLIA",
+    "cast": "Glen Powell, Margaret Qualley, Jessica Henwick, Bill Camp",
+    "details": "Un'opera gradevole con un protagonista di bell'aspetto. Ma manca il mordente. Commedia, Drammatico, Thriller - USA 2025. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "15:30",
+          "23:05"
+        ]
+      }
+    ],
+    "tmdb_id": 467905,
+    "tmdb_title": "Ricchi... da morire - Delitti in famiglia",
+    "original_title": "How to Make a Killing",
+    "overview": "Becket Redfellow (Glen Powell) è un outsider cresciuto lontano dalla sua famiglia d'origine: una dinastia ricchissima che lo ha rinnegato alla nascita. Determinato a reclamare ciò che ritiene suo di diritto, Becket mette in atto un piano tanto ambizioso quanto spietato: eliminare, uno dopo l'altro, tutti i parenti che lo separano dall'eredità miliardaria. Ma l'incontro e lo scontro con Julia Steinway (Margaret Qualley) rimetterà in discussione tutto, fino al confronto finale con il temuto capo famiglia, Whitelaw Redfellow (Ed Harris).",
+    "release_date": "2026-02-16",
+    "vote_average": 7.002,
+    "poster_url": "https://image.tmdb.org/t/p/w500/y8cYRikwfPbsSSa0Iv0aJaAXuVm.jpg",
+    "genres": "Commedia, Thriller",
+    "director": "John Patton Ford",
+    "mathyas-pick": false
+  },
+  {
+    "title": "CINQUE SECONDI",
+    "cast": "Valerio Mastandrea, Galatéa Bellugi, Valeria Bruni Tedeschi, Ilaria Spada",
+    "details": "Virzì abbandona ogni distacco ironico per immergersi (e immergerci) nel viaggio di redenzione del quale abbiamo disperatamente bisogno oggi. Commedia, Italia 2025. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1368519,
+    "tmdb_title": "Cinque secondi",
+    "original_title": "Cinque secondi",
+    "overview": "Chi è quel tipo dall’aria trascurata che vive da solo nelle stalle ristrutturate di Villa Guelfi? Passa le giornate a non far nulla ed evitando il contatto con tutti. E quando si accorge che nella villa si è stabilita abusivamente una comunità di ragazzi che si dedicano a curare quella campagna e i vigneti abbandonati, si innervosisce e vorrebbe cacciarli. Sono studenti, neolaureati, agronomi, e tra loro c’è Matilde, che è nata in quel posto e da bambina lavorava la vigna con il nonno Conte Guelfo Guelfi. Anche loro sono incuriositi da quel signore misantropo dal passato misterioso: perché sta lì da solo e non vuole avere contatti con nessuno? Mentre avanzano le stagioni, il conflitto con quella comunità di ragazze e ragazzi si trasforma in convivenza, fino a diventare un’alleanza. E Adriano si troverà ad accudire nel suo modo brusco la contessina Matilde, che è incinta di uno di quei ragazzi…",
+    "release_date": "2025-10-30",
+    "vote_average": 6.736,
+    "poster_url": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg",
+    "genres": "Dramma",
+    "director": "Paolo Virzì",
+    "ai_reason": "A poignant character study by Paolo Virzì, representing the peak of modern Italian auteur-driven storytelling.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "KONTINENTAL '25",
+    "cast": "Eszter Tompa, Gabriel Spahiu, Adonis Tanta, Serban Pavlu",
+    "details": "Un film che porta tutti i segni del genio di Jude, con un'elegante struttura e il consueto gusto per l'assurdo. Commedia, Romania 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1410189,
+    "tmdb_title": "Kontinental '25",
+    "original_title": "Kontinental '25",
+    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
+    "release_date": "2025-09-24",
+    "vote_average": 6.435,
+    "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Radu Jude",
+    "ai_reason": "Radu Jude, a titan of contemporary arthouse satire, delivers another provocative examination of societal morality.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SUPERGIRL",
+    "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz",
+    "details": "A tratti leggero, a momenti ricco di pathos. Il film di Gillespie intrattiene senza essere dirompente. Azione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:15",
+          "16:00",
+          "17:25",
+          "18:40",
+          "20:05",
+          "21:30",
+          "22:45",
+          "23:35"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:20",
+          "16:40",
+          "19:20",
+          "21:30",
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1081003,
+    "tmdb_title": "Supergirl",
+    "original_title": "Supergirl",
+    "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
+    "release_date": "2026-06-23",
+    "vote_average": 6.262,
+    "poster_url": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Craig Gillespie",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SCARY MOVIE",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:00",
+          "16:10",
+          "20:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1273221,
+    "tmdb_title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
+    "release_date": "2026-06-03",
+    "vote_average": 5.514,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genres": "Commedia, Horror",
+    "director": "Michael Tiddes",
+    "mathyas-pick": false
+  },
+  {
+    "title": "JACKASS: BEST AND LAST",
+    "cast": "Jason 'Wee Man' Acuña, Lance Bangs, Tory Belleci, Sean Cliver",
+    "details": "Un film in cui la formula è ormai logora, pensato solo per i fan più irriducibili. Documentario, Commedia - USA 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1612018,
+    "tmdb_title": "Jackass: Best and Last",
+    "original_title": "Jackass: Best and Last",
+    "overview": "",
+    "release_date": "2026-06-25",
+    "vote_average": 5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+    "genres": "Azione, Commedia, Documentario",
+    "director": "Jeff Tremaine",
+    "mathyas-pick": false
+  },
+  {
+    "title": "AVEMMARIA",
+    "cast": "Salvatore Esposito, Marianna Fontana, Mario Di Leva, Carmine Borrino",
+    "details": "Cerlino debutta alla regia con un'opera molto sentita e ambiziosa. L'altra faccia di Gomorra. Drammatico, Italia 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1570931,
+    "tmdb_title": "Avemmaria",
+    "original_title": "Avemmaria",
+    "overview": "La storia di un ragazzino, il cui nome è proprio Fortunato, cresciuto in mezzo alle strade di Pianura, quartiere della periferia di Napoli, nei primi anni '80. Gli inseguimenti sul Califfone, le sparatorie in pieno giorno, le condizioni economiche in cui naviga la sua famiglia, non riescono a spegnere la vitalità del protagonista che, grazie alla sua immaginazione e ai suoi sogni, non si arrende e va avanti.",
+    "release_date": "2026-06-25",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dVFHYhDSG5WwIyLzYiCHYrXTbk0.jpg",
+    "genres": "Dramma, Crime",
+    "director": "Fortunato Cerlino",
+    "mathyas-pick": false
+  },
+  {
+    "title": "CHA0",
+    "cast": "Kenta Miyake, Oji Suzuka, Anna Yamada",
+    "details": "L'animazione incontra il romanticismo. Con una freschezza e una sincerità difficili da ignorare. Animazione, Giappone 2025. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:10"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "ai_reason": "A testament to the artistic depth of Japanese animation, offering a sincere and visionary alternative to commercial cartoons.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "OBSESSION",
+    "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
+    "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:30",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1339713,
+    "tmdb_title": "Obsession",
+    "original_title": "Obsession",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "release_date": "2026-05-13",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Curry Barker",
+    "ai_reason": "Directed by the emerging genre auteur Curry Barker, this film exemplifies the new wave of psychological, elevated horror.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
+    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:35",
+          "21:35",
+          "23:55"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "15:30",
+          "18:40",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1275779,
+    "tmdb_title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "release_date": "2026-06-10",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genres": "Fantascienza, Thriller",
+    "director": "Steven Spielberg",
+    "ai_reason": "A premier cinematic event from Steven Spielberg, uniting a high-prestige cast in a grand-scale genre exploration.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "PICCOLO MIRACOLO",
+    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
+    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "15:05",
+          "18:05",
+          "22:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:10",
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1560020,
+    "tmdb_title": "Piccolo Miracolo",
+    "original_title": "Piccolo Miracolo",
+    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
+    "release_date": "2026-06-25",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
+    "genres": "Dramma",
+    "director": "Guido Chiesa",
+    "mathyas-pick": false
+  },
+  {
+    "title": "COS'È L'AMORE?",
+    "cast": "Laure Calamy, Vincent Macaigne, Lyes Salem, Mélanie Thierry",
+    "details": "Commedia francese girata con brio fatta di equivoci, romanticismo e incroci familiari. Commedia, Francia 2025. Durata 98 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:15"
+        ]
+      }
+    ],
+    "tmdb_id": 598615,
+    "tmdb_title": "Che cos'è l'amore",
+    "original_title": "Che cos'è l'amore",
+    "overview": "Milano, giorni nostri. Danilo Reschigna è un uomo di 50 anni affetto da disabilità motoria. Di professione fa il drammaturgo e l'attore teatrale. Ha vissuto con i suoi genitori fino alla loro scomparsa e non ha mai avuto una relazione d'amore vera. Vanna Botta ha 93 anni e, a dispetto della sua età, è una donna vitale: fa la pittrice, figlia d'arte di un grande e noto scultore. Si è sposata una sola volta nella sua vita e dopo la morte del marito, non ha più avuto altri uomini. Danilo e Vanna sono due artisti, due persone singolari; ciò che li rende unici è qualcosa che hanno in comune: il loro amore.",
+    "release_date": "2016-12-05",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xsgsAz3N19kUY6xCLOkGWx5Jmji.jpg",
+    "genres": null,
+    "director": "Fabio Martina",
+    "mathyas-pick": false
+  },
+  {
+    "title": "VITA PRIVATA",
+    "cast": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric",
+    "details": "Un giallo psicologico che combina in modo intelligente intrattenimento e ossessioni personali. Drammatico, Thriller - Francia 2025. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1227939,
+    "tmdb_title": "Vita privata",
+    "original_title": "Vita privata",
+    "overview": "Memoria di un testimone dell'epoca fascista: Orazia Belsito Prini, moglie dello scultore ripercorre la storia della sua vita dal periodo della guerra in Libia (1911). Nel suo salotto nacque il futurismo, molti artisti del gruppo erano amici. Due suoi figli, volontari, sono morti in guerra.",
+    "release_date": "1965-01-01",
+    "vote_average": 0,
+    "poster_url": null,
+    "genres": "Documentario",
+    "director": "Alessandra Mann",
+    "mathyas-pick": false
+  }
+]
