@@ -14,8 +14,7 @@
     "tmdb_id": null,
     "director": null,
     "genres": null,
-    "ai_reason": "A refined example of Japanese independent animation, offering an artistic and sincere alternative to mainstream commercial features.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "OBSESSION",
@@ -26,8 +25,7 @@
         "name": "The Space Casamassima",
         "times": [
           "11:45",
-          "22:10",
-          "00:10"
+          "22:10"
         ]
       }
     ],
@@ -40,8 +38,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "An essential entry in the new wave of elevated horror by Curry Barker, focusing on psychological dread and surreal consequences rather than cheap thrills.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "TOY STORY 5",
@@ -91,12 +88,11 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.468,
+    "vote_average": 7.467,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
-    "ai_reason": "Under the direction of Andrew Stanton, this remains a cornerstone of prestige animation, balancing technical mastery with high-brow narrative sophistication.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "HOPPER - IL SEGRETO DELLA MARMOTTA",
@@ -146,7 +142,7 @@
     "original_title": "Good Luck, Have Fun, Don't Die",
     "overview": "Un uomo sposato che passa troppo tempo con un gioco di ruolo fantasy online incontra un uomo proveniente dal futuro con uno strano piano.",
     "release_date": "2026-02-13",
-    "vote_average": 7.04,
+    "vote_average": 7.051,
     "poster_url": "https://image.tmdb.org/t/p/w500/92wepAGh8ojxz1O4sJ1zHmGzh2p.jpg",
     "genres": "Fantascienza, Azione, Commedia",
     "director": "Gore Verbinski",
@@ -170,7 +166,7 @@
     "original_title": "How to Make a Killing",
     "overview": "Becket Redfellow (Glen Powell) è un outsider cresciuto lontano dalla sua famiglia d'origine: una dinastia ricchissima che lo ha rinnegato alla nascita. Determinato a reclamare ciò che ritiene suo di diritto, Becket mette in atto un piano tanto ambizioso quanto spietato: eliminare, uno dopo l'altro, tutti i parenti che lo separano dall'eredità miliardaria. Ma l'incontro e lo scontro con Julia Steinway (Margaret Qualley) rimetterà in discussione tutto, fino al confronto finale con il temuto capo famiglia, Whitelaw Redfellow (Ed Harris).",
     "release_date": "2026-02-16",
-    "vote_average": 6.986,
+    "vote_average": 7,
     "poster_url": "https://image.tmdb.org/t/p/w500/y8cYRikwfPbsSSa0Iv0aJaAXuVm.jpg",
     "genres": "Commedia, Thriller",
     "director": "John Patton Ford",
@@ -197,8 +193,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kgFRSwrOUJkVz6CP0QJnJ07j32G.jpg",
     "genres": "Western, Dramma, Romance",
     "director": "John Huston",
-    "ai_reason": "A seminal work of cinema history by John Huston; this classic re-release is a mandatory viewing for its legendary cast and melancholic script by Arthur Miller.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "CINQUE SECONDI",
@@ -227,8 +222,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg",
     "genres": "Dramma",
     "director": "Paolo Virzì",
-    "ai_reason": "Paolo Virzì remains a cornerstone of modern Italian auteur cinema, here delivering a character-driven drama that bypasses commercial tropes.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "DISCLOSURE DAY",
@@ -258,12 +252,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.696,
+    "vote_average": 6.694,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Steven Spielberg, promising the kind of high-concept, auteur-driven science fiction that defines prestige filmmaking.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "KONTINENTAL '25",
@@ -287,8 +280,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
     "genres": "Commedia, Dramma",
     "director": "Radu Jude",
-    "ai_reason": "Radu Jude is a titan of contemporary world cinema; this film represents the challenging, intellectual, and absurdist European auteurism that cinephiles crave.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "OZI - LA VOCE DELLA FORESTA",
@@ -347,43 +339,10 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.161,
+    "vote_average": 6.14,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
-    "mathyas-pick": false
-  },
-  {
-    "title": "PICCOLO MIRACOLO",
-    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
-    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "13:20",
-          "15:10",
-          "19:45"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "10:30",
-          "14:10",
-          "19:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1560020,
-    "tmdb_title": "Piccolo Miracolo",
-    "original_title": "Piccolo Miracolo",
-    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
-    "release_date": "2026-06-25",
-    "vote_average": 6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
-    "genres": "Dramma",
-    "director": "Guido Chiesa",
     "mathyas-pick": false
   },
   {
@@ -425,8 +384,7 @@
         "name": "The Space Casamassima",
         "times": [
           "14:40",
-          "22:35",
-          "00:40"
+          "22:35"
         ]
       },
       {
@@ -441,10 +399,43 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.5,
+    "vote_average": 5.544,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia, Horror",
     "director": "Michael Tiddes",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PICCOLO MIRACOLO",
+    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
+    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:20",
+          "15:10",
+          "19:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "14:10",
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1560020,
+    "tmdb_title": "Piccolo Miracolo",
+    "original_title": "Piccolo Miracolo",
+    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
+    "release_date": "2026-06-25",
+    "vote_average": 4.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
+    "genres": "Dramma",
+    "director": "Guido Chiesa",
     "mathyas-pick": false
   },
   {
@@ -468,8 +459,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xsgsAz3N19kUY6xCLOkGWx5Jmji.jpg",
     "genres": null,
     "director": "Fabio Martina",
-    "ai_reason": "An intimate, arthouse exploration of love and disability that represents the more intellectual and sensitive side of Italian independent production.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "AVEMMARIA",
@@ -492,7 +482,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/dVFHYhDSG5WwIyLzYiCHYrXTbk0.jpg",
     "genres": "Dramma, Crime",
     "director": "Fortunato Cerlino",
-    "ai_reason": "A gritty, imaginative Neapolitan drama that fits the profile of elevated Italian social-realist cinema.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   }
 ]
