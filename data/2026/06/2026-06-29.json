@@ -22,31 +22,37 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yfxd7XVMPpTDtvU3lU8RXUqnvmt.jpg",
     "genres": "Fantasy, Dramma",
     "director": "是枝裕和",
-    "ai_reason": "Hirokazu Kore-eda’s transcendental masterpiece is a cornerstone of contemporary arthouse cinema, offering a poetic meditation on memory.",
+    "ai_reason": "A cornerstone of Hirokazu Kore-eda’s filmography, this transcendental work of Japanese arthouse cinema remains one of the most profound meditations on memory and existence.",
     "mathyas-pick": true
   },
   {
-    "title": "CINQUE SECONDI",
-    "cast": "Valerio Mastandrea, Galatéa Bellugi, Valeria Bruni Tedeschi, Ilaria Spada",
-    "details": "Virzì abbandona ogni distacco ironico per immergersi (e immergerci) nel viaggio di redenzione del quale abbiamo disperatamente bisogno oggi. Commedia, Italia 2025. Durata 105 Minuti.",
+    "title": "SPRINGSTEEN - LIBERAMI DAL NULLA",
+    "cast": "Jeremy Allen White, Jeremy Strong, Paul Walter Hauser, Stephen Graham",
+    "details": "Una ballata folk che racconta il Boss - magistralmente interpretato da Jeremy Allen White - come paladino delle imperfezioni. Biografico, Drammatico - USA 2025. Durata 120 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
         "times": [
           "21:00"
         ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
       }
     ],
-    "tmdb_id": 1368519,
-    "tmdb_title": "Cinque secondi",
-    "original_title": "Cinque secondi",
-    "overview": "Chi è quel tipo dall’aria trascurata che vive da solo nelle stalle ristrutturate di Villa Guelfi? Passa le giornate a non far nulla ed evitando il contatto con tutti. E quando si accorge che nella villa si è stabilita abusivamente una comunità di ragazzi che si dedicano a curare quella campagna e i vigneti abbandonati, si innervosisce e vorrebbe cacciarli. Sono studenti, neolaureati, agronomi, e tra loro c’è Matilde, che è nata in quel posto e da bambina lavorava la vigna con il nonno Conte Guelfo Guelfi. Anche loro sono incuriositi da quel signore misantropo dal passato misterioso: perché sta lì da solo e non vuole avere contatti con nessuno? Mentre avanzano le stagioni, il conflitto con quella comunità di ragazze e ragazzi si trasforma in convivenza, fino a diventare un’alleanza. E Adriano si troverà ad accudire nel suo modo brusco la contessina Matilde, che è incinta di uno di quei ragazzi…",
-    "release_date": "2025-10-30",
-    "vote_average": 6.736,
-    "poster_url": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg",
-    "genres": "Dramma",
-    "director": "Paolo Virzì",
-    "ai_reason": "Paolo Virzì stands as a major contemporary Italian auteur, delivering a sophisticated character study featuring Italy's finest performers.",
+    "tmdb_id": 1230368,
+    "tmdb_title": "Springsteen - Liberami dal nulla",
+    "original_title": "Springsteen: Deliver Me from Nowhere",
+    "overview": "Il film segue la realizzazione dell’album “Nebraska” di Bruce Springsteen del 1982, anno in cui era un giovane musicista sul punto di diventare una superstar mondiale, alle prese con il difficile equilibrio tra la pressione del successo e i fantasmi del suo passato. Inciso con un registratore a quattro piste nella sua camera da letto in New Jersey, l’album segnò un momento di svolta nella sua vita ed è considerato una delle sue opere più durature: un album acustico puro e tormentato, popolato da anime perse in cerca di una ragione per credere.",
+    "release_date": "2025-10-22",
+    "vote_average": 6.689,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cZP90XTGXv3FisAiSdp8O8Tradt.jpg",
+    "genres": "Dramma, Musica",
+    "director": "Scott Cooper",
+    "ai_reason": "A prestige musical drama from Scott Cooper focusing on the raw, introspective 'Nebraska' era. The casting of Jeremy Allen White and Jeremy Strong signals a serious awards-contender.",
     "mathyas-pick": true
   },
   {
@@ -64,7 +70,7 @@
     "tmdb_id": null,
     "director": null,
     "genres": null,
-    "ai_reason": "A piece of prestige Japanese animation that transcends commercial tropes to offer a sincere and artistic narrative experience.",
+    "ai_reason": "A promising example of Japanese prestige animation that prioritizes artistic sincerity and fresh visual storytelling over commercial tropes.",
     "mathyas-pick": true
   },
   {
@@ -84,11 +90,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 7.897,
+    "vote_average": 7.9,
     "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Following his viral genre success, Curry Barker delivers a psychological horror that aligns with the surrealist, elevated style of A24.",
+    "ai_reason": "Representing the new wave of elevated indie horror, Curry Barker's work follows the psychological and surrealist path of modern auteurs like Eggers and Aster.",
     "mathyas-pick": true
   },
   {
@@ -155,7 +161,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9Xpa1M6d7yZFiYPHLXhyxHCM9N7.jpg",
     "genres": "Dramma, Thriller, Crime",
     "director": "Wim Wenders",
-    "ai_reason": "A masterclass of New German Cinema by Wim Wenders, this classic re-release is an essential noir exploration of existential dread.",
+    "ai_reason": "A seminal masterpiece of New German Cinema by Wim Wenders, featuring the iconic pairing of Bruno Ganz and Dennis Hopper. Essential viewing for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -175,7 +181,7 @@
     "original_title": "Good Luck, Have Fun, Don't Die",
     "overview": "Un uomo sposato che passa troppo tempo con un gioco di ruolo fantasy online incontra un uomo proveniente dal futuro con uno strano piano.",
     "release_date": "2026-02-13",
-    "vote_average": 7.047,
+    "vote_average": 7.046,
     "poster_url": "https://image.tmdb.org/t/p/w500/92wepAGh8ojxz1O4sJ1zHmGzh2p.jpg",
     "genres": "Fantascienza, Azione, Commedia",
     "director": "Gore Verbinski",
@@ -212,31 +218,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Steven Spielberg that promises high-concept science fiction with a prestigious ensemble cast.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "SPRINGSTEEN - LIBERAMI DAL NULLA",
-    "cast": "Jeremy Allen White, Jeremy Strong, Paul Walter Hauser, Stephen Graham",
-    "details": "Una ballata folk che racconta il Boss - magistralmente interpretato da Jeremy Allen White - come paladino delle imperfezioni. Biografico, Drammatico - USA 2025. Durata 120 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1230368,
-    "tmdb_title": "Springsteen - Liberami dal nulla",
-    "original_title": "Springsteen: Deliver Me from Nowhere",
-    "overview": "Il film segue la realizzazione dell’album “Nebraska” di Bruce Springsteen del 1982, anno in cui era un giovane musicista sul punto di diventare una superstar mondiale, alle prese con il difficile equilibrio tra la pressione del successo e i fantasmi del suo passato. Inciso con un registratore a quattro piste nella sua camera da letto in New Jersey, l’album segnò un momento di svolta nella sua vita ed è considerato una delle sue opere più durature: un album acustico puro e tormentato, popolato da anime perse in cerca di una ragione per credere.",
-    "release_date": "2025-10-22",
-    "vote_average": 6.689,
-    "poster_url": "https://image.tmdb.org/t/p/w500/cZP90XTGXv3FisAiSdp8O8Tradt.jpg",
-    "genres": "Dramma, Musica",
-    "director": "Scott Cooper",
-    "ai_reason": "A gritty prestige drama from Scott Cooper exploring the raw, acoustic soul of a musical icon; a must-watch for its artistic pedigree.",
+    "ai_reason": "A major cinematic event marking Steven Spielberg's return to the sci-fi thriller genre, featuring a high-prestige cast that elevates it to 'must-watch' status.",
     "mathyas-pick": true
   },
   {
@@ -297,7 +279,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.19,
+    "vote_average": 6.2,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
@@ -349,7 +331,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
     "genres": "Dramma",
     "director": "Lucia Calamaro",
-    "mathyas-pick": false
+    "ai_reason": "A sophisticated example of contemporary Italian auteur cinema, starring the incomparable Silvio Orlando in a high-concept, intellectual drama.",
+    "mathyas-pick": true
   },
   {
     "title": "PICCOLO MIRACOLO",
