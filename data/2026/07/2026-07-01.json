@@ -5,6 +5,12 @@
     "details": "Ipertrofico e ipercostruito, il cinema di Park Chan-wook è ancora una volta un modo per conoscere il mondo. E cambiarlo. Commedia nera, Drammatico - Corea del sud 2025. Durata 139 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00",
@@ -21,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nt2WCkLXv1VSlcwiNIEpnspWM5x.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Park Chan-wook",
-    "ai_reason": "A mandatory event for any cinephile, directed by the visionary South Korean master Park Chan-wook. A blend of crime and dark comedy from the author of 'Oldboy' and 'The Handmaiden'.",
+    "ai_reason": "A significant cinematic event from Park Chan-wook, a master auteur whose meticulous style and genre-bending narratives are essential for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -30,13 +36,13 @@
     "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
+          "15:50",
           "17:00",
-          "18:30",
-          "19:35",
-          "21:10",
-          "22:10",
+          "18:05",
+          "19:05",
+          "20:15",
           "21:15"
         ]
       },
@@ -60,7 +66,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.458,
+    "vote_average": 7.442,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -102,21 +108,14 @@
     "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "16:05",
-          "16:20",
-          "17:00",
-          "17:40",
-          "18:20",
-          "18:40",
-          "19:00",
-          "19:20",
-          "20:00",
+          "16:00",
+          "17:10",
+          "18:15",
+          "19:15",
           "20:30",
-          "21:00",
-          "21:40",
-          "22:20"
+          "21:15"
         ]
       },
       {
@@ -194,118 +193,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
     "genres": "Commedia, Dramma",
     "director": "Radu Jude",
-    "ai_reason": "Radu Jude is a powerhouse of contemporary European auteur cinema. This surreal, guilt-ridden narrative is perfect for fans of biting, high-brow social satire.",
+    "ai_reason": "Radu Jude is a titan of contemporary world cinema; his sharp, satirical lens and festival-winning pedigree make this a must-watch for the arthouse crowd.",
     "mathyas-pick": true
-  },
-  {
-    "title": "SUPERGIRL",
-    "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz",
-    "details": "A tratti leggero, a momenti ricco di pathos. Il film di Gillespie intrattiene senza essere dirompente. Azione, USA 2026. Durata 107 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:30",
-          "19:10",
-          "20:45",
-          "21:50"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:10",
-          "21:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1081003,
-    "tmdb_title": "Supergirl",
-    "original_title": "Supergirl",
-    "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
-    "release_date": "2026-06-24",
-    "vote_average": 6.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
-    "genres": "Azione, Avventura, Fantascienza",
-    "director": "Craig Gillespie",
-    "mathyas-pick": false
-  },
-  {
-    "title": "LOVE ME TENDER",
-    "cast": "Vicky Krieps, Monia Chokri, Antoine Reinartz, Viggo Ferreira-Redier",
-    "details": "Uno sfaccettato dramma che riesce a restituire il ritratto di una donna a tutto tondo. Drammatico, Francia 2025. Durata 134 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 39833,
-    "tmdb_title": "Fratelli rivali",
-    "original_title": "Love Me Tender",
-    "overview": "I fratelli sudisti Reno, non sapendo che la guerra di Secessione è finita, assaltano un convoglio nordista. Venuti a conoscenza della situazione e non sapendo a chi consegnare il bottino, decidono di spartirselo. Si cacceranno in un mare di guai.",
-    "release_date": "1956-11-15",
-    "vote_average": 6.181,
-    "poster_url": "https://image.tmdb.org/t/p/w500/mva8iLos1Ugl9JonPp8xSfsV80r.jpg",
-    "genres": "Dramma, Western, Musica, Romance",
-    "director": "Robert D. Webb",
-    "ai_reason": "Whether viewed as a classic re-evaluation or a prestige Western featuring the incomparable Vicky Krieps, this fits the criteria for cinema history and high-art drama.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "SCARY MOVIE",
-    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
-    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "22:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1273221,
-    "tmdb_title": "Scary Movie",
-    "original_title": "Scary Movie",
-    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
-    "release_date": "2026-06-03",
-    "vote_average": 5.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
-    "genres": "Commedia, Horror",
-    "director": "Michael Tiddes",
-    "mathyas-pick": false
-  },
-  {
-    "title": "PICCOLO MIRACOLO",
-    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
-    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:20",
-          "18:20"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1560020,
-    "tmdb_title": "Piccolo Miracolo",
-    "original_title": "Piccolo Miracolo",
-    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
-    "release_date": "2026-06-25",
-    "vote_average": 4.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
-    "genres": "Dramma",
-    "director": "Guido Chiesa",
-    "mathyas-pick": false
   },
   {
     "title": "AVEMMARIA",
@@ -336,9 +225,9 @@
     "details": "L'animazione incontra il romanticismo. Con una freschezza e una sincerità difficili da ignorare. Animazione, Giappone 2025. Durata 90 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Uci Cinemas Showville",
         "times": [
-          "16:00",
+          "10:00",
           "12:00"
         ]
       }
@@ -346,7 +235,7 @@
     "tmdb_id": null,
     "director": null,
     "genres": null,
-    "ai_reason": "An example of prestige Japanese animation that transcends commercial boundaries, offering the sincerity and aesthetic depth sought by serious animation enthusiasts.",
+    "ai_reason": "A selection for the prestige animation enthusiast, offering the aesthetic sincerity and narrative depth typical of high-end Japanese independent productions.",
     "mathyas-pick": true
   },
   {
@@ -355,10 +244,10 @@
     "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "17:10",
-          "21:20",
+          "15:40",
+          "18:00",
           "21:00"
         ]
       },
@@ -380,7 +269,85 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event directed by Steven Spielberg, featuring an elite cast. Spielberg's return to sci-fi thriller territory is an essential theatrical experience.",
+    "ai_reason": "A major directorial event from Steven Spielberg, featuring a high-caliber ensemble cast in what promises to be a sophisticated, prestige sci-fi thriller.",
     "mathyas-pick": true
+  },
+  {
+    "title": "SUPERGIRL",
+    "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz",
+    "details": "A tratti leggero, a momenti ricco di pathos. Il film di Gillespie intrattiene senza essere dirompente. Azione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:00",
+          "18:25",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1081003,
+    "tmdb_title": "Supergirl",
+    "original_title": "Supergirl",
+    "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Craig Gillespie",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SCARY MOVIE",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
+    "cinemas": [],
+    "tmdb_id": 1273221,
+    "tmdb_title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
+    "release_date": "2026-06-03",
+    "vote_average": 5.496,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genres": "Commedia, Horror",
+    "director": "Michael Tiddes",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PICCOLO MIRACOLO",
+    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
+    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:05",
+          "18:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1560020,
+    "tmdb_title": "Piccolo Miracolo",
+    "original_title": "Piccolo Miracolo",
+    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
+    "release_date": "2026-06-25",
+    "vote_average": 4.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
+    "genres": "Dramma",
+    "director": "Guido Chiesa",
+    "mathyas-pick": false
   }
 ]
