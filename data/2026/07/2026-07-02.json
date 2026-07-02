@@ -20,54 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Elevated psychological horror from emerging auteur Curry Barker, focusing on the dark subversion of desire and the loss of autonomy.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "LOVE LETTERS",
-    "cast": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl",
-    "details": "Una storia apparentemente piccola che diventa il frattale delle dinamiche alla base del nucleo sociale. Drammatico, Francia 2025. Durata 96 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "19:15"
-        ]
-      }
-    ],
-    "tmdb_id": 1119537,
-    "tmdb_title": "Love Letters",
-    "original_title": "Des preuves d'amour",
-    "overview": "Una giovane donna, Céline, aspetta il suo primo figlio. Ma non è lei quella incinta. Fra pochi mesi, sua moglie Nadia darà alla luce la loro bambina. Tra amici, famiglia e leggi, Céline cerca il proprio ruolo e la legittimità nel nuovo contesto familiare. Il film, tutto al femminile con Ella Rumpf e Monia Chokri, esplora le prospettive e le difficoltà delle famiglie moderne.",
-    "release_date": "2025-11-19",
-    "vote_average": 7.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/lDsWm55KptwEIa0eQXfDcdDCsUn.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Alice Douard",
-    "mathyas-pick": false
-  },
-  {
-    "title": "NO OTHER CHOICE - NON C'È ALTRA SCELTA",
-    "cast": "Byung-Hun Lee, Ye-Jin Son, Hee-soon Park, Sung-min Lee",
-    "details": "Ipertrofico e ipercostruito, il cinema di Park Chan-wook è ancora una volta un modo per conoscere il mondo. E cambiarlo. Commedia nera, Drammatico - Corea del sud 2025. Durata 139 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 639988,
-    "tmdb_title": "No Other Choice - Non c'è altra scelta",
-    "original_title": "어쩔수가없다",
-    "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
-    "release_date": "2025-09-24",
-    "vote_average": 7.505,
-    "poster_url": "https://image.tmdb.org/t/p/w500/nt2WCkLXv1VSlcwiNIEpnspWM5x.jpg",
-    "genres": "Commedia, Crime, Thriller",
-    "director": "Park Chan-wook",
-    "ai_reason": "A monumental cinematic event from visionary auteur Park Chan-wook, blending high-brow genre tropes with sophisticated narrative precision.",
+    "ai_reason": "A quintessential example of modern elevated horror, Curry Barker delivers a high-concept psychological thrill that aligns perfectly with the new wave of genre auteurs.",
     "mathyas-pick": true
   },
   {
@@ -102,7 +55,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.433,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -113,6 +66,12 @@
     "cast": "Shi-Yuan Ma, Janel TSAI, Nina Ye, Brando Huang",
     "details": "Un debutto che conquista per sincerità e interpretazioni. Un film con un cuore da bambino. Commedia, Taiwan, Francia, USA, Gran Bretagna 2025. Durata 108 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -154,43 +113,11 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.842,
+    "vote_average": 6.838,
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "A surrealist, atmosphere-heavy indie horror from Kane Parsons, representing the cutting edge of modern, liminal-space genre cinema.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
-    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "17:10",
-          "21:10"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:10",
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1275779,
-    "tmdb_title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "release_date": "2026-06-10",
-    "vote_average": 6.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "genres": "Fantascienza, Thriller",
-    "director": "Steven Spielberg",
-    "ai_reason": "A major theatrical event from Steven Spielberg, exploring existential science fiction themes with high-level technical mastery and critical weight.",
+    "ai_reason": "Emerging auteur Kane Parsons translates a viral liminal-space phenomenon into a sophisticated work of modern psychological and surrealist horror.",
     "mathyas-pick": true
   },
   {
@@ -240,11 +167,43 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.7,
+    "vote_average": 6.75,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
     "mathyas-pick": false
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
+    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:10",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1275779,
+    "tmdb_title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "release_date": "2026-06-10",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genres": "Fantascienza, Thriller",
+    "director": "Steven Spielberg",
+    "ai_reason": "A monumental cinematic event from Steven Spielberg, promising a sophisticated and visceral exploration of first contact with his signature visual mastery.",
+    "mathyas-pick": true
   },
   {
     "title": "KONTINENTAL '25",
@@ -263,11 +222,12 @@
     "original_title": "Kontinental '25",
     "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
     "release_date": "2025-09-24",
-    "vote_average": 6.455,
+    "vote_average": 6.529,
     "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
     "genres": "Commedia, Dramma",
     "director": "Radu Jude",
-    "mathyas-pick": false
+    "ai_reason": "A masterclass in contemporary arthouse and surrealism from auteur Radu Jude, exploring themes of guilt and societal absurdity.",
+    "mathyas-pick": true
   },
   {
     "title": "JACKASS: BEST AND LAST",
@@ -318,10 +278,33 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.216,
+    "vote_average": 6.2,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LOVE LETTERS",
+    "cast": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl",
+    "details": "Una storia apparentemente piccola che diventa il frattale delle dinamiche alla base del nucleo sociale. Drammatico, Francia 2025. Durata 96 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:15"
+        ]
+      }
+    ],
+    "tmdb_id": 75986,
+    "tmdb_title": "Passione fatale",
+    "original_title": "Love Letters",
+    "overview": "Cercando di emulare la madre, Anna Winter (Jamie Lee Curtis), una sfascia-famiglie, intraprende relazioni con uomini sposati, salvo poi pentirsene. Incontrerà anche un ex fidanzato della madre, complicando così ancor di più la sua situazione.",
+    "release_date": "1983-04-01",
+    "vote_average": 5.63,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3XzwvsPzteqn1Fr7sN22QiES0P.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Amy Holden Jones",
     "mathyas-pick": false
   },
   {
