@@ -1,0 +1,386 @@
+[
+  {
+    "title": "OBSESSION",
+    "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
+    "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1339713,
+    "tmdb_title": "Obsession",
+    "original_title": "Obsession",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "release_date": "2026-05-13",
+    "vote_average": 8.152,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rFz5RCSx8SILVDs0Q2OYdMYVtRC.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Curry Barker",
+    "ai_reason": "Curry Barker emerges as a significant new voice in psychological horror, following the acclaimed path of A24-style genre deconstructions.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TOY STORY 5",
+    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
+    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:30",
+          "18:10",
+          "19:05",
+          "20:50",
+          "20:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:00",
+          "15:10",
+          "16:20",
+          "18:00",
+          "19:30",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1084244,
+    "tmdb_title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "release_date": "2026-06-17",
+    "vote_average": 7.443,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genres": "Animazione, Famiglia, Commedia, Avventura",
+    "director": "Andrew Stanton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BACKROOMS",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:25",
+          "21:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.854,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons",
+    "ai_reason": "A prime example of elevated viral horror; Kane Parsons makes the jump to feature filmmaking with a prestige cast and surrealist sensibilities.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LO STRANIERO",
+    "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
+    "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 31332,
+    "tmdb_title": "Lo straniero",
+    "original_title": "Lo straniero",
+    "overview": "Dal romanzo (1942) di Albert Camus: nel 1935 ad Algeri l'impiegato Mersault uccide un arabo, accanendosi a revolverate sul cadavere. Condannato a morte, non si difende durante il processo, estraneo al proprio caso.",
+    "release_date": "1967-10-14",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg",
+    "genres": "Dramma",
+    "director": "Luchino Visconti",
+    "ai_reason": "A fundamental work by Italian maestro Luchino Visconti, this adaptation of Camus' existential masterpiece is a definitive piece of cinema history.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "16:20",
+          "17:00",
+          "17:40",
+          "18:40",
+          "19:20",
+          "20:00",
+          "20:30",
+          "21:00",
+          "21:40",
+          "22:20",
+          "22:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:10",
+          "14:50",
+          "15:30",
+          "16:30",
+          "17:10",
+          "17:40",
+          "18:40",
+          "19:30",
+          "20:10",
+          "21:00",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.721,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
+    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:50",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1275779,
+    "tmdb_title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "release_date": "2026-06-10",
+    "vote_average": 6.666,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genres": "Fantascienza, Thriller",
+    "director": "Steven Spielberg",
+    "ai_reason": "A major cinematic event from Steven Spielberg, promising the master's signature blend of high-concept sci-fi and technical brilliance.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "KONTINENTAL '25",
+    "cast": "Eszter Tompa, Gabriel Spahiu, Adonis Tanta, Serban Pavlu",
+    "details": "Un film che porta tutti i segni del genio di Jude, con un'elegante struttura e il consueto gusto per l'assurdo. Commedia, Romania 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1410189,
+    "tmdb_title": "Kontinental '25",
+    "original_title": "Kontinental '25",
+    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
+    "release_date": "2025-09-24",
+    "vote_average": 6.556,
+    "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Radu Jude",
+    "ai_reason": "Acclaimed Romanian auteur Radu Jude continues his streak of biting, absurdist social commentary that defines modern world cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "JACKASS: BEST AND LAST",
+    "cast": "Jason 'Wee Man' Acuña, Lance Bangs, Tory Belleci, Sean Cliver",
+    "details": "Un film in cui la formula è ormai logora, pensato solo per i fan più irriducibili. Documentario, Commedia - USA 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:00",
+          "23:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1612018,
+    "tmdb_title": "Jackass: Best and Last",
+    "original_title": "Jackass: Best and Last",
+    "overview": "",
+    "release_date": "2026-06-25",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+    "genres": "Azione, Commedia, Documentario",
+    "director": "Jeff Tremaine",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SUPERGIRL",
+    "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz",
+    "details": "A tratti leggero, a momenti ricco di pathos. Il film di Gillespie intrattiene senza essere dirompente. Azione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:50",
+          "18:30",
+          "21:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:50",
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1081003,
+    "tmdb_title": "Supergirl",
+    "original_title": "Supergirl",
+    "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.256,
+    "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Craig Gillespie",
+    "mathyas-pick": false
+  },
+  {
+    "title": "L'ESORCISTA - IL CREDENTE",
+    "cast": "Leslie Odom Jr., Ann Dowd, Jennifer Nettles, Norbert Leo Butz",
+    "details": "Un sequel deludente che scricchiola sotto i colpi di un pervasivo politically correct. Horror, USA 2023. Durata 121 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "23:30"
+        ]
+      },
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30"
+        ]
+      }
+    ],
+    "tmdb_id": 807172,
+    "tmdb_title": "L'esorcista - Il credente",
+    "original_title": "The Exorcist: Believer",
+    "overview": "Una ragazza di 12 anni viene posseduta da una misteriosa entità demoniaca, costringendo la madre a chiedere l'aiuto di due sacerdoti nel disperato tentativo di salvarla.",
+    "release_date": "2023-10-04",
+    "vote_average": 5.808,
+    "poster_url": "https://image.tmdb.org/t/p/w500/pUViDhfdsEKElPNl5NlafX9ez62.jpg",
+    "genres": "Horror",
+    "director": "David Gordon Green",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LOVE LETTERS",
+    "cast": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl",
+    "details": "Una storia apparentemente piccola che diventa il frattale delle dinamiche alla base del nucleo sociale. Drammatico, Francia 2025. Durata 96 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:15"
+        ]
+      }
+    ],
+    "tmdb_id": 75986,
+    "tmdb_title": "Passione fatale",
+    "original_title": "Love Letters",
+    "overview": "Cercando di emulare la madre, Anna Winter (Jamie Lee Curtis), una sfascia-famiglie, intraprende relazioni con uomini sposati, salvo poi pentirsene. Incontrerà anche un ex fidanzato della madre, complicando così ancor di più la sua situazione.",
+    "release_date": "1983-04-01",
+    "vote_average": 5.63,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3XzwvsPzteqn1Fr7sN22QiES0P.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Amy Holden Jones",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SCARY MOVIE",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1273221,
+    "tmdb_title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
+    "release_date": "2026-06-03",
+    "vote_average": 5.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genres": "Commedia",
+    "director": "Michael Tiddes",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PICCOLO MIRACOLO",
+    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
+    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:45",
+          "18:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1560020,
+    "tmdb_title": "Piccolo Miracolo",
+    "original_title": "Piccolo Miracolo",
+    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
+    "release_date": "2026-06-25",
+    "vote_average": 4.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
+    "genres": "Dramma",
+    "director": "Guido Chiesa",
+    "mathyas-pick": false
+  }
+]
