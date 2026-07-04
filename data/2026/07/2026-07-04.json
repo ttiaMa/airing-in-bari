@@ -21,7 +21,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
     "genres": "Musica, Dramma",
     "director": "Antoine Fuqua",
-    "ai_reason": "A major cinematic event documenting the trajectory of a cultural titan, captured with the sweep and ambition of a definitive biopic. It represents the pinnacle of big-budget prestige production.",
+    "ai_reason": "A grand-scale prestige biopic that serves as a major cultural event, capturing the complexity of a global icon through ambitious filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -46,7 +46,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Curry Barker follows up his underground success with a dark, elevated horror piece that examines the sinister price of human longing through a modern indie lens.",
+    "ai_reason": "Directed by Curry Barker, this film exemplifies the new wave of elevated psychological horror, focusing on the dark, surreal consequences of human desire.",
     "mathyas-pick": true
   },
   {
@@ -54,6 +54,12 @@
     "cast": "Russell Crowe, Rami Malek, Leo Woodall, John Slattery",
     "details": "Un film, con un 'mostruoso' Russell Crowe, che ha il merito di porre lo spettatore di fronte all'orrore, provando a dialogare con l'oggi. Drammatico, Storico, Thriller - USA 2025. Durata 148 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -70,7 +76,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/AjLUuldTfWl5t0JBbrOs9LBzmi0.jpg",
     "genres": "Storia, Dramma",
     "director": "James Vanderbilt",
-    "ai_reason": "A prestige historical exploration of the Nuremberg trials that promises a rigorous psychological duel and significant dramatic weight, elevated by an impressive ensemble cast.",
+    "ai_reason": "A high-stakes historical drama that tackles profound moral and psychological themes, representing the pinnacle of prestige theatrical storytelling.",
     "mathyas-pick": true
   },
   {
@@ -142,31 +148,39 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "Emerging auteur Kane Parsons transitions his viral analog-horror phenomenon to the big screen, pioneering a new era of surreal, liminal-space psychological dread.",
+    "ai_reason": "The transition of a viral sensation to the big screen under the direction of emerging auteur Kane Parsons represents the cutting edge of modern indie horror.",
     "mathyas-pick": true
   },
   {
-    "title": "LO STRANIERO",
-    "cast": "Benjamin Voisin, Rebecca Marder, Pierre Lottin, Denis Lavant",
-    "details": "Ozon indovina il giusto equilibrio tra la fedeltà al testo di Camus e la necessità di personalizzarlo. Drammatico, Francia 2025. Durata 120 Minuti.",
+    "title": "DISCLOSURE DAY",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
+    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
     "cinemas": [
       {
-        "name": "Arena Quattro Palme",
+        "name": "The Space Casamassima",
         "times": [
+          "21:10",
           "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "20:30"
         ]
       }
     ],
-    "tmdb_id": 31332,
-    "tmdb_title": "Lo straniero",
-    "original_title": "Lo straniero",
-    "overview": "Dal romanzo (1942) di Albert Camus: nel 1935 ad Algeri l'impiegato Mersault uccide un arabo, accanendosi a revolverate sul cadavere. Condannato a morte, non si difende durante il processo, estraneo al proprio caso.",
-    "release_date": "1967-10-14",
-    "vote_average": 6.8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg",
-    "genres": "Dramma",
-    "director": "Luchino Visconti",
-    "ai_reason": "A towering classic of Italian cinema by Luchino Visconti, adapting Albert Camus’s existentialist masterpiece with bleak, haunting precision. This is essential viewing for any serious student of the medium.",
+    "tmdb_id": 1275779,
+    "tmdb_title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "release_date": "2026-06-10",
+    "vote_average": 6.668,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genres": "Fantascienza, Thriller",
+    "director": "Steven Spielberg",
+    "ai_reason": "A massive cinematic event helmed by the legendary Steven Spielberg, promising high-concept science fiction with an elite ensemble cast.",
     "mathyas-pick": true
   },
   {
@@ -217,43 +231,11 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.696,
+    "vote_average": 6.653,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
     "mathyas-pick": false
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
-    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "21:10",
-          "21:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:10",
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1275779,
-    "tmdb_title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "release_date": "2026-06-10",
-    "vote_average": 6.666,
-    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "genres": "Fantascienza, Thriller",
-    "director": "Steven Spielberg",
-    "ai_reason": "A grand-scale event movie from Steven Spielberg that marries high-concept sci-fi with the prestige of a master filmmaker at work. A definitive cinematic event.",
-    "mathyas-pick": true
   },
   {
     "title": "KONTINENTAL '25",
@@ -276,7 +258,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
     "genres": "Commedia, Dramma",
     "director": "Radu Jude",
-    "ai_reason": "Radu Jude, a provocateur of the highest order and Golden Bear winner, delivers another sharp-witted dissection of modern morality that demands intellectual engagement.",
+    "ai_reason": "Radu Jude is a titan of contemporary European auteur cinema; this exploration of social absurdity is essential for the discerning cinephile.",
     "mathyas-pick": true
   },
   {
@@ -297,7 +279,7 @@
     "original_title": "Jackass: Best and Last",
     "overview": "",
     "release_date": "2026-06-25",
-    "vote_average": 6.5,
+    "vote_average": 6.553,
     "poster_url": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
     "genres": "Azione, Commedia, Documentario",
     "director": "Jeff Tremaine",
