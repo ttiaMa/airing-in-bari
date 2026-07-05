@@ -16,11 +16,11 @@
     "original_title": "Michael",
     "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
     "release_date": "2026-04-22",
-    "vote_average": 8.703,
+    "vote_average": 8.707,
     "poster_url": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
     "genres": "Musica, Dramma",
     "director": "Antoine Fuqua",
-    "ai_reason": "A sprawling, high-prestige biographical event that promises the visual and emotional scale of a major cinematic milestone.",
+    "ai_reason": "A grand-scale biographical event movie of significant cultural weight, offering a prestige look at a global icon.",
     "mathyas-pick": true
   },
   {
@@ -33,8 +33,7 @@
         "times": [
           "11:20",
           "15:25",
-          "22:35",
-          "00:40"
+          "22:35"
         ]
       }
     ],
@@ -47,7 +46,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Emerging auteur Curry Barker delivers an elevated psychological thriller that deconstructs the horror of desire and autonomy.",
+    "ai_reason": "From emerging auteur Curry Barker, this elevated horror piece is a gripping exploration of psychological autonomy and dark desire.",
     "mathyas-pick": true
   },
   {
@@ -71,7 +70,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/vRLicecIah55HKQkmXpkpD5KuPq.jpg",
     "genres": "Dramma",
     "director": "Wim Wenders",
-    "ai_reason": "A transcendental masterpiece by Wim Wenders, capturing the sublime beauty of the mundane through a pure cinephile lens.",
+    "ai_reason": "A meditative masterwork from Wim Wenders; essential viewing for any lover of sublime, high-brow auteur cinema.",
     "mathyas-pick": true
   },
   {
@@ -107,7 +106,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/AjLUuldTfWl5t0JBbrOs9LBzmi0.jpg",
     "genres": "Storia, Dramma",
     "director": "James Vanderbilt",
-    "ai_reason": "A rigorous historical drama that transcends the genre, functioning as a psychological duel and a significant event in prestige cinema.",
+    "ai_reason": "A prestige historical drama featuring a dense, psychological interrogation of the nature of evil and accountability.",
     "mathyas-pick": true
   },
   {
@@ -146,7 +145,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.413,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -199,29 +198,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "RICCHI... DA MORIRE - DELITTI IN FAMIGLIA",
-    "cast": "Glen Powell, Margaret Qualley, Jessica Henwick, Bill Camp",
-    "details": "Un'opera gradevole con un protagonista di bell'aspetto. Ma manca il mordente. Commedia, Drammatico, Thriller - USA 2025. Durata 105 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "00:40"
-        ]
-      }
-    ],
-    "tmdb_id": 467905,
-    "tmdb_title": "Ricchi... da morire - Delitti in famiglia",
-    "original_title": "How to Make a Killing",
-    "overview": "Becket Redfellow (Glen Powell) è un outsider cresciuto lontano dalla sua famiglia d'origine: una dinastia ricchissima che lo ha rinnegato alla nascita. Determinato a reclamare ciò che ritiene suo di diritto, Becket mette in atto un piano tanto ambizioso quanto spietato: eliminare, uno dopo l'altro, tutti i parenti che lo separano dall'eredità miliardaria. Ma l'incontro e lo scontro con Julia Steinway (Margaret Qualley) rimetterà in discussione tutto, fino al confronto finale con il temuto capo famiglia, Whitelaw Redfellow (Ed Harris).",
-    "release_date": "2026-02-16",
-    "vote_average": 6.954,
-    "poster_url": "https://image.tmdb.org/t/p/w500/y8cYRikwfPbsSSa0Iv0aJaAXuVm.jpg",
-    "genres": "Commedia, Thriller",
-    "director": "John Patton Ford",
-    "mathyas-pick": false
-  },
-  {
     "title": "BACKROOMS",
     "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
     "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
@@ -232,8 +208,7 @@
           "11:50",
           "14:15",
           "18:10",
-          "21:15",
-          "00:05"
+          "21:15"
         ]
       },
       {
@@ -248,11 +223,11 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.846,
+    "vote_average": 6.8,
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "An unsettling foray into liminal spaces and psychological horror, elevated by the presence of indie sensation Renate Reinsve.",
+    "ai_reason": "A chilling manifestation of liminal surrealism; Kane Parsons represents the vanguard of modern, A24-style psychological horror.",
     "mathyas-pick": true
   },
   {
@@ -278,8 +253,7 @@
           "20:00",
           "21:00",
           "21:40",
-          "22:20",
-          "00:05"
+          "22:20"
         ]
       },
       {
@@ -308,7 +282,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.682,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -343,7 +317,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A monumental cinematic event from Spielberg, blending high-concept sci-fi with the precision of a master auteur.",
+    "ai_reason": "A major cinematic event from master filmmaker Steven Spielberg, blending high-concept science fiction with profound directorial craft.",
     "mathyas-pick": true
   },
   {
@@ -367,7 +341,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
     "genres": "Commedia, Dramma",
     "director": "Radu Jude",
-    "ai_reason": "A sharp, surrealist work from Radu Jude, one of the most vital and provocative voices in contemporary world cinema.",
+    "ai_reason": "Radu Jude, a titan of the Romanian New Wave, delivers a sharp, absurdist drama that is a darling of the international festival circuit.",
     "mathyas-pick": true
   },
   {
@@ -458,8 +432,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "21:20",
-          "00:25"
+          "21:20"
         ]
       }
     ],
@@ -468,7 +441,7 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.416,
+    "vote_average": 5.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia, Horror",
     "director": "Michael Tiddes",
@@ -480,9 +453,9 @@
     "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "00:40",
+          "15:45",
           "18:25"
         ]
       }
