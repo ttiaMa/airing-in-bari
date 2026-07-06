@@ -18,35 +18,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 8.2,
+    "vote_average": 8.248,
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A highly acclaimed psychological horror from emerging auteur Curry Barker, delivering the exact blend of surrealism and thematic depth favored by modern genre enthusiasts.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "NORIMBERGA",
-    "cast": "Russell Crowe, Rami Malek, Leo Woodall, John Slattery",
-    "details": "Un film, con un 'mostruoso' Russell Crowe, che ha il merito di porre lo spettatore di fronte all'orrore, provando a dialogare con l'oggi. Drammatico, Storico, Thriller - USA 2025. Durata 148 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1214931,
-    "tmdb_title": "Norimberga",
-    "original_title": "Nuremberg",
-    "overview": "All’indomani della Seconda guerra mondiale, mentre il mondo è ancora sconvolto dagli orrori dell’Olocausto, al tenente colonnello Douglas Kelley, psichiatra dell’esercito americano, viene affidato un incarico senza precedenti: valutare la sanità mentale di Hermann Göring, il famigerato ex braccio destro di Hitler, e di altri alti gerarchi nazisti. Allo stesso tempo, gli Alleati — guidati dal giudice Robert H. Jackson — affrontano l’impresa titanica di istituire un tribunale internazionale, per far sì che il regime nazista risponda dei propri crimini di fronte alla storia. Nel silenzio delle celle, Kelley ingaggia un intenso duello psicologico con Göring, uomo carismatico e manipolatore. Da quello scontro emerge una domanda che ancora oggi tormenta la coscienza del mondo:stavano eseguendo ordini, erano pazzi… o semplicemente malvagi? Sul palcoscenico della storia si apre così il processo di Norimberga, un evento che ha cambiato per sempre la storia e l’umanità.",
-    "release_date": "2025-11-06",
-    "vote_average": 7.589,
-    "poster_url": "https://image.tmdb.org/t/p/w500/AjLUuldTfWl5t0JBbrOs9LBzmi0.jpg",
-    "genres": "Storia, Dramma",
-    "director": "James Vanderbilt",
-    "ai_reason": "A prestigious historical drama with a powerhouse cast, offering a high-brow psychological evaluation of the architects of history.",
+    "ai_reason": "Representing the pinnacle of modern indie horror, Barker's work exemplifies the psychological and surrealist depth requested by today's genre enthusiasts.",
     "mathyas-pick": true
   },
   {
@@ -78,7 +54,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.41,
+    "vote_average": 7.42,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -89,6 +65,12 @@
     "cast": "Wagner Moura, Maria Fernanda Cândido, Gabriel Leone, Carlos Francisco",
     "details": "Un'opera che risponde alla necessità di non seppellire nell'oblio quanto accaduto in Brasile negli anni della dittatura. Thriller, Brasile, Francia, Paesi Bassi, Germania 2025. Durata 158 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -101,11 +83,11 @@
     "original_title": "O Agente Secreto",
     "overview": "Brasile, 1977. Marcelo è in fuga. Raggiunge Recife durante la settimana del Carnevale per riabbracciare il figlio, ma scopre presto che la città non è l’ameno rifugio che aveva immaginato: sotto la superficie festosa pulsa una realtà soffocante, carica di tensione, violenza e pericolo.",
     "release_date": "2025-07-23",
-    "vote_average": 7.235,
+    "vote_average": 7.233,
     "poster_url": "https://image.tmdb.org/t/p/w500/hQWzqAQ798fBOzQZ7cuLjTOLqCI.jpg",
     "genres": "Thriller, Dramma, Crime",
     "director": "Kleber Mendonça Filho",
-    "ai_reason": "Directed by the acclaimed Kleber Mendonça Filho, this tense Brazilian thriller represents the pinnacle of contemporary international arthouse cinema.",
+    "ai_reason": "A sophisticated thriller from Brazilian auteur Kleber Mendonça Filho, delivering the sharp social commentary and atmosphere typical of high-brow world cinema.",
     "mathyas-pick": true
   },
   {
@@ -132,11 +114,11 @@
     "original_title": "Backrooms",
     "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
     "release_date": "2026-05-27",
-    "vote_average": 6.835,
+    "vote_average": 6.841,
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "The feature transition for Kane Parsons’ viral surrealist vision, marking a significant moment in the evolution of elevated indie horror and digital-age auteurs.",
+    "ai_reason": "A landmark in the 'analog horror' movement, this viral hit marks the transition of a significant new digital auteur to the feature-film medium.",
     "mathyas-pick": true
   },
   {
@@ -167,7 +149,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event directed by Steven Spielberg; a high-concept sci-fi exploration that combines technical mastery with existential curiosity.",
+    "ai_reason": "A major cinematic event from master Steven Spielberg, uniting a prestige cast for a high-concept exploration of the unknown.",
     "mathyas-pick": true
   },
   {
@@ -241,7 +223,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.274,
+    "vote_average": 6.3,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
@@ -270,7 +252,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fLziEgc6viePMk9swenNZUbMsA7.jpg",
     "genres": "Commedia",
     "director": "Ettore Scola",
-    "ai_reason": "A late-period mosaic from the legendary Ettore Scola, capturing the soul of Rome through the lens of one of Italian cinema’s most significant masters.",
+    "ai_reason": "Despite its mixed reception, this is a late-career work by the legendary Ettore Scola, a mandatory inclusion for any survey of Italian auteur cinema.",
     "mathyas-pick": true
   },
   {
@@ -295,7 +277,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/74tRmoeAK7NFFSaKW3cwgE0Nk1E.jpg",
     "genres": "Musica, Thriller",
     "director": "Paul L. Stein",
-    "ai_reason": "An essential piece of cinema history; Wim Wenders’ meta-cinematic meditation on the power of the image and the city of Lisbon is a must for any serious cinephile.",
+    "ai_reason": "A essential piece of cinema history by Wim Wenders, this meta-cinematic journey through Lisbon is a must for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -338,7 +320,7 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.4,
+    "vote_average": 5.42,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia",
     "director": "Michael Tiddes",
