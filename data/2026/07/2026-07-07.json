@@ -18,11 +18,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 8.249,
+    "vote_average": 8.255,
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A visceral entry in the elevated horror wave, Curry Barker masterfully navigates themes of toxic desire and loss of autonomy.",
+    "ai_reason": "Elevated psychological horror from emerging auteur Curry Barker, delving into the surreal and dangerous consequences of romantic obsession.",
     "mathyas-pick": true
   },
   {
@@ -30,6 +30,12 @@
     "cast": "Nicole Kidman, Tom Cruise, Madison Eginton, Jackie Sawiris",
     "details": "Beatificato a priori, questo film ha chiuso tre parabole: ricerca, carriera e vita. Drammatico, Gran Bretagna, USA 1999. Durata 160 Minuti. Consigli per la visione: Ragazzi +16",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -46,7 +52,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yTCzjCDtdZDNE1lHiJ2gGylyMcX.jpg",
     "genres": "Dramma, Thriller, Mistero",
     "director": "Stanley Kubrick",
-    "ai_reason": "A monumental re-release of Kubrick’s final masterpiece, serving as an essential, dreamlike exploration of the psyche.",
+    "ai_reason": "A seminal re-release of Stanley Kubrick’s final masterpiece, exploring the psychological depths of desire and domesticity.",
     "mathyas-pick": true
   },
   {
@@ -85,30 +91,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "L'AGENTE SEGRETO",
-    "cast": "Wagner Moura, Maria Fernanda Cândido, Gabriel Leone, Carlos Francisco",
-    "details": "Un'opera che risponde alla necessità di non seppellire nell'oblio quanto accaduto in Brasile negli anni della dittatura. Thriller, Brasile, Francia, Paesi Bassi, Germania 2025. Durata 158 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1220564,
-    "tmdb_title": "L'agente segreto",
-    "original_title": "O Agente Secreto",
-    "overview": "Brasile, 1977. Marcelo è in fuga. Raggiunge Recife durante la settimana del Carnevale per riabbracciare il figlio, ma scopre presto che la città non è l’ameno rifugio che aveva immaginato: sotto la superficie festosa pulsa una realtà soffocante, carica di tensione, violenza e pericolo.",
-    "release_date": "2025-07-23",
-    "vote_average": 7.236,
-    "poster_url": "https://image.tmdb.org/t/p/w500/hQWzqAQ798fBOzQZ7cuLjTOLqCI.jpg",
-    "genres": "Thriller, Dramma, Crime",
-    "director": "Kleber Mendonça Filho",
-    "ai_reason": "Arthouse auteur Kleber Mendonça Filho delivers a masterclass in atmospheric, sociopolitical suspense.",
-    "mathyas-pick": true
-  },
-  {
     "title": "MASTERS OF THE UNIVERSE",
     "cast": "Nicholas Galitzine, Jared Leto, Camila Mendes, Alison Brie",
     "details": "Un adattamento che lavora sull'effetto nostalgia e sulle fragilità del maschio contemporaneo. Azione, Avventura, Drammatico - USA 2026. Durata 140 Minuti.",
@@ -125,7 +107,7 @@
     "original_title": "Masters of the Universe",
     "overview": "Dopo essere stati separati per 15 anni, la Spada del Potere conduce il Principe Adam di ritorno su Eternia, dove scopre la sua casa devastata dal diabolico dominio di Skeletor. Per salvare la sua famiglia e il suo mondo, Adam deve unire le forze con i suoi alleati più fidati, Teela e Duncan/Man-At-Arms, e abbracciare il suo vero destino come He-Man, l’uomo più potente dell’universo.",
     "release_date": "2026-06-03",
-    "vote_average": 7,
+    "vote_average": 6.954,
     "poster_url": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
     "genres": "Azione, Fantasy, Fantascienza",
     "director": "Travis Knight",
@@ -160,7 +142,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "Surrealism meets viral genre-defiance in Kane Parsons’ transition to feature-length, high-concept psychological horror.",
+    "ai_reason": "A sophisticated viral-to-screen genre hit featuring indie icon Renate Reinsve, pushing the boundaries of modern psychological mystery.",
     "mathyas-pick": true
   },
   {
@@ -188,11 +170,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.669,
+    "vote_average": 6.68,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Spielberg, blending high-concept sci-fi with his signature prestige direction.",
+    "ai_reason": "A major cinematic event from Steven Spielberg, representing a prestige sci-fi thriller with a high-caliber ensemble cast.",
     "mathyas-pick": true
   },
   {
@@ -232,7 +214,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.4,
+    "vote_average": 6.435,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -265,7 +247,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fLziEgc6viePMk9swenNZUbMsA7.jpg",
     "genres": "Commedia",
     "director": "Ettore Scola",
-    "mathyas-pick": false
+    "ai_reason": "An essential urban tapestry from Ettore Scola, one of the true titans of Italian auteur cinema.",
+    "mathyas-pick": true
   },
   {
     "title": "SUPERGIRL",
@@ -340,7 +323,7 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.4,
+    "vote_average": 5.41,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia, Horror",
     "director": "Michael Tiddes",
