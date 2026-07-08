@@ -17,17 +17,17 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 8.3,
+    "vote_average": 8.261,
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A significant work from emerging auteur Curry Barker, this film epitomizes the modern 'elevated horror' movement by blending psychological dread with surrealism.",
+    "ai_reason": "A prime example of modern elevated horror by Curry Barker, an emerging auteur specifically noted for psychological depth and surrealist tension.",
     "mathyas-pick": true
   },
   {
     "title": "LA CASA - IL ROGO DEL MALE",
-    "cast": "Luciane Buchanan, Hunter Doohan, Souheila Yacoub, Tandi Wright",
-    "details": "Horror, USA 2026.",
+    "cast": "Souheila Yacoub, Hunter Doohan, Luciane Buchanan, Tandi Wright",
+    "details": "Horror, USA 2026. Durata 112 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -36,6 +36,13 @@
           "18:45",
           "22:00"
         ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "20:10",
+          "21:30"
+        ]
       }
     ],
     "tmdb_id": 1212763,
@@ -43,16 +50,17 @@
     "original_title": "Evil Dead Burn",
     "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
     "release_date": "2026-07-07",
-    "vote_average": 7.7,
+    "vote_average": 7.75,
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror, Thriller",
     "director": "Sébastien Vaniček",
-    "mathyas-pick": false
+    "ai_reason": "A visceral and high-tension reimagining of a genre classic by rising horror auteur Sébastien Vaniček.",
+    "mathyas-pick": true
   },
   {
-    "title": "EYES WIDE SHUT",
-    "cast": "Nicole Kidman, Tom Cruise, Madison Eginton, Jackie Sawiris",
-    "details": "Beatificato a priori, questo film ha chiuso tre parabole: ricerca, carriera e vita. Drammatico, Gran Bretagna, USA 1999. Durata 160 Minuti. Consigli per la visione: Ragazzi +16",
+    "title": "RENTAL FAMILY - NELLE VITE DEGLI ALTRI",
+    "cast": "Brendan Fraser, Paolo Andrea Di Pietro, Takehiro Hira, Shinji Ozeki (II)",
+    "details": "Una commedia universale che riesce nell'impresa di aprire i cuori e contagiare speranza in chi guarda. Commedia drammatica, Giappone, USA 2025. Durata 103 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
@@ -67,16 +75,16 @@
         ]
       }
     ],
-    "tmdb_id": 345,
-    "tmdb_title": "Eyes Wide Shut",
-    "original_title": "Eyes Wide Shut",
-    "overview": "Belli, ricchi e apparentemente felici, William e Alice Hartford sono ad un veglione a casa di amici; lei balla con un uomo che le fa una corte discreta ma serrata, lui flirta con alcune ragazze. Ancora sotto l'effetto della festa, alcuni giorni dopo Alice e William cominciano un pericoloso gioco della verità. Scioccato dalle rivelazioni di Alice, William esce ed inizia una peregrinazione per la città che lo porterà a scoprire nuovi mondi, persone insolite e soprattutto qualcosa di sé... e di Alice.",
-    "release_date": "1999-07-16",
-    "vote_average": 7.487,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yTCzjCDtdZDNE1lHiJ2gGylyMcX.jpg",
-    "genres": "Dramma, Thriller, Mistero",
-    "director": "Stanley Kubrick",
-    "ai_reason": "A quintessential theatrical re-release of Stanley Kubrick’s final masterpiece; a dreamlike and complex exploration of the subconscious that is a pillar of cinema history.",
+    "tmdb_id": 1208348,
+    "tmdb_title": "Rental Family - Nelle vite degli altri",
+    "original_title": "Rental Family",
+    "overview": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
+    "release_date": "2025-11-20",
+    "vote_average": 7.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Hikari",
+    "ai_reason": "An acclaimed high-concept indie drama from director Hikari, offering a sophisticated exploration of identity and performance.",
     "mathyas-pick": true
   },
   {
@@ -143,7 +151,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "Kane Parsons represents the cutting edge of indie genre hits; his transition from viral success to feature-length liminal horror is a noteworthy event for the modern cinephile.",
+    "ai_reason": "A highly anticipated transition from viral surrealism to cinema by Kane Parsons, featuring indie darling Renate Reinsve.",
     "mathyas-pick": true
   },
   {
@@ -175,7 +183,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Steven Spielberg, whose return to high-concept science fiction is an essential moment for both critics and audiences alike.",
+    "ai_reason": "A major cinematic event directed by Steven Spielberg; a high-concept sci-fi thriller featuring a prestigious ensemble cast.",
     "mathyas-pick": true
   },
   {
@@ -199,7 +207,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
     "genres": "Commedia, Dramma",
     "director": "Radu Jude",
-    "ai_reason": "Directed by Radu Jude, a titan of contemporary arthouse cinema, this film offers a surreal and intellectually rigorous critique of society, far removed from generic comedy.",
+    "ai_reason": "A new work by Radu Jude, a prominent figure in contemporary European auteur cinema and a festival circuit staple.",
     "mathyas-pick": true
   },
   {
@@ -271,7 +279,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.239,
+    "vote_average": 6.222,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
@@ -331,7 +339,6 @@
       {
         "name": "Galleria",
         "times": [
-          "15:45",
           "18:25"
         ]
       }
