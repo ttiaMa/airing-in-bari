@@ -20,37 +20,43 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A sharp, gripping psychological descent into the dark side of autonomy, directed by the buzz-worthy emerging auteur Curry Barker.",
+    "ai_reason": "Directed by Curry Barker, this film represents the new wave of modern indie horror that blends psychological thrills with surrealist elements.",
     "mathyas-pick": true
   },
   {
-    "title": "RENTAL FAMILY - NELLE VITE DEGLI ALTRI",
-    "cast": "Brendan Fraser, Paolo Andrea Di Pietro, Takehiro Hira, Shinji Ozeki (II)",
-    "details": "Una commedia universale che riesce nell'impresa di aprire i cuori e contagiare speranza in chi guarda. Commedia drammatica, Giappone, USA 2025. Durata 103 Minuti.",
+    "title": "RYUICHI SAKAMOTO | OPUS",
+    "cast": "",
+    "details": "L'ultimo toccante concerto di Ryuichi Sakamoto. Documentario, Giappone 2023. Durata 103 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
         "times": [
           "21:00"
         ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
       }
     ],
-    "tmdb_id": 1208348,
-    "tmdb_title": "Rental Family - Nelle vite degli altri",
-    "original_title": "Rental Family",
-    "overview": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
-    "release_date": "2025-11-20",
-    "vote_average": 7.732,
-    "poster_url": "https://image.tmdb.org/t/p/w500/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Hikari",
-    "ai_reason": "A poignant, high-brow exploration of loneliness and identity in Japan, anchored by an ensemble of international prestige actors.",
+    "tmdb_id": 1156189,
+    "tmdb_title": "Ryuichi Sakamoto | Opus",
+    "original_title": "Ryuichi Sakamoto | Opus",
+    "overview": "Negli ultimi anni, Sakamoto non era più in grado di esibirsi dal vivo. I concerti e i tour erano troppo faticosi. Ciononostante, alla fine del 2022, Sakamoto ha raccolto le forze per lasciare al mondo un’ultima performance: un film concerto i cui protagonisti erano solo lui e il pianoforte. Curati da Sakamoto stesso e presentati nell’ordine da lui deciso, i venti pezzi eseguiti nel film narrano la sua vita in musica senza ricorrere alle parole. La scelta copre tutta la sua carriera, dal periodo da popstar con la Yellow Magic Orchestra alle magnifiche colonne sonore dei film di Bertolucci (L’ultimo imperatore, Il tè nel deserto, Piccolo Buddha), alla musica del suo ultimo album contemplativo 12. Girato in uno spazio intimo che conosceva bene, circondato dai suoi più fidati collaboratori, Sakamoto ha messo a nudo la propria anima attraverso la musica, sapendo che sarebbe stata forse l’ultima occasione di presentare la propria arte.",
+    "release_date": "2023-12-27",
+    "vote_average": 7.738,
+    "poster_url": "https://image.tmdb.org/t/p/w500/fw0NchjBAQKz90klk4xNlw0xxuy.jpg",
+    "genres": "Musica, Documentario",
+    "director": "空音央",
+    "ai_reason": "A minimalist, high-art swan song documenting the final performance of the legendary composer; a essential cinematic event for any serious cinephile.",
     "mathyas-pick": true
   },
   {
     "title": "LA CASA - IL ROGO DEL MALE",
     "cast": "Souheila Yacoub, Hunter Doohan, Luciane Buchanan, Tandi Wright",
-    "details": "Horror, USA 2026. Durata 112 Minuti.",
+    "details": "Ferocia e follia demoniaca. Horror, USA 2026. Durata 112 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -79,6 +85,32 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror, Thriller",
     "director": "Sébastien Vaniček",
+    "ai_reason": "A visceral, psychologically-driven genre exercise from rising auteur Sébastien Vaniček, exploring deep themes of grief and loss of autonomy.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "L'HANGAR ROSSO",
+    "cast": "Nicolás Zárate, Boris Quercia, Marcial Tagle, Catalina Stuardo",
+    "details": "Un ottimo thriller dall'eleganza concisa. Il racconto degli Anni Settanta in Cile, intriso delle preoccupazioni del presente. Drammatico, Italia, Cile 2026. Durata 83 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30",
+          "19:15",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1563588,
+    "tmdb_title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "release_date": "2026-05-08",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "genres": "Dramma, Storia, Thriller",
+    "director": "Juan Pablo Sallato",
     "mathyas-pick": false
   },
   {
@@ -126,7 +158,8 @@
         "name": "The Space Casamassima",
         "times": [
           "16:00",
-          "22:15"
+          "22:15",
+          "21:15"
         ]
       }
     ],
@@ -139,7 +172,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "A masterful transition from viral surrealism to elevated cinema, featuring a stellar arthouse cast under the direction of visionary Kane Parsons.",
+    "ai_reason": "An elevated surrealist horror from viral auteur Kane Parsons, bolstered by high-brow talent like Chiwetel Ejiofor and Renate Reinsve.",
     "mathyas-pick": true
   },
   {
@@ -166,11 +199,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.684,
+    "vote_average": 6.686,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A massive cinematic event from Steven Spielberg, exploring the existential implications of extraterrestrial contact with his signature visual mastery.",
+    "ai_reason": "A major cinematic event from a master auteur, featuring a prestige cast including Emily Blunt and arthouse favorite Josh O'Connor.",
     "mathyas-pick": true
   },
   {
@@ -207,7 +240,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.395,
+    "vote_average": 6.385,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -262,45 +295,29 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.394,
+    "vote_average": 5.402,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
-    "genres": "Commedia, Horror",
+    "genres": "Commedia",
     "director": "Michael Tiddes",
-    "mathyas-pick": false
-  },
-  {
-    "title": "PICCOLO MIRACOLO",
-    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
-    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "18:25"
-        ]
-      }
-    ],
-    "tmdb_id": 1560020,
-    "tmdb_title": "Piccolo Miracolo",
-    "original_title": "Piccolo Miracolo",
-    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
-    "release_date": "2026-06-25",
-    "vote_average": 4.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
-    "genres": "Dramma",
-    "director": "Guido Chiesa",
     "mathyas-pick": false
   },
   {
     "title": "ELECTION DAY",
     "cast": "Angela Finocchiaro, Giorgio Tirabassi, Antonio Gerardi, Crisula Stafida",
-    "details": "Commedia, Italia 2026. Durata 100 Minuti.",
+    "details": "Sull'orlo del baratro. Commedia, Italia 2026. Durata 100 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
         "times": [
           "17:50",
-          "21:20"
+          "21:20",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:00"
         ]
       }
     ],
