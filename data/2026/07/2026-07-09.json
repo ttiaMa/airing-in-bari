@@ -1,0 +1,318 @@
+[
+  {
+    "title": "OBSESSION",
+    "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
+    "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1339713,
+    "tmdb_title": "Obsession",
+    "original_title": "Obsession",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "release_date": "2026-05-13",
+    "vote_average": 8.268,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Curry Barker",
+    "ai_reason": "A sharp, gripping psychological descent into the dark side of autonomy, directed by the buzz-worthy emerging auteur Curry Barker.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "RENTAL FAMILY - NELLE VITE DEGLI ALTRI",
+    "cast": "Brendan Fraser, Paolo Andrea Di Pietro, Takehiro Hira, Shinji Ozeki (II)",
+    "details": "Una commedia universale che riesce nell'impresa di aprire i cuori e contagiare speranza in chi guarda. Commedia drammatica, Giappone, USA 2025. Durata 103 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1208348,
+    "tmdb_title": "Rental Family - Nelle vite degli altri",
+    "original_title": "Rental Family",
+    "overview": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
+    "release_date": "2025-11-20",
+    "vote_average": 7.732,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Hikari",
+    "ai_reason": "A poignant, high-brow exploration of loneliness and identity in Japan, anchored by an ensemble of international prestige actors.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA CASA - IL ROGO DEL MALE",
+    "cast": "Souheila Yacoub, Hunter Doohan, Luciane Buchanan, Tandi Wright",
+    "details": "Horror, USA 2026. Durata 112 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "19:20",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "20:30",
+          "21:50",
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1212763,
+    "tmdb_title": "La casa - Il rogo del Male",
+    "original_title": "Evil Dead Burn",
+    "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
+    "release_date": "2026-07-07",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Sébastien Vaniček",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TOY STORY 5",
+    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
+    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "17:00",
+          "18:00",
+          "19:40",
+          "21:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "17:00",
+          "19:30",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1084244,
+    "tmdb_title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "release_date": "2026-06-17",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genres": "Animazione, Famiglia, Commedia, Avventura",
+    "director": "Andrew Stanton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BACKROOMS",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "22:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons",
+    "ai_reason": "A masterful transition from viral surrealism to elevated cinema, featuring a stellar arthouse cast under the direction of visionary Kane Parsons.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
+    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:40",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1275779,
+    "tmdb_title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "release_date": "2026-06-10",
+    "vote_average": 6.684,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genres": "Fantascienza, Thriller",
+    "director": "Steven Spielberg",
+    "ai_reason": "A massive cinematic event from Steven Spielberg, exploring the existential implications of extraterrestrial contact with his signature visual mastery.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:20",
+          "17:40",
+          "18:40",
+          "19:00",
+          "19:05",
+          "20:15",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30",
+          "17:10",
+          "18:40",
+          "19:20",
+          "21:00",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.395,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SUPERGIRL",
+    "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz",
+    "details": "A tratti leggero, a momenti ricco di pathos. Il film di Gillespie intrattiene senza essere dirompente. Azione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:25",
+          "19:00",
+          "21:25"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1081003,
+    "tmdb_title": "Supergirl",
+    "original_title": "Supergirl",
+    "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.219,
+    "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Craig Gillespie",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SCARY MOVIE",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:00",
+          "22:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1273221,
+    "tmdb_title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
+    "release_date": "2026-06-03",
+    "vote_average": 5.394,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genres": "Commedia, Horror",
+    "director": "Michael Tiddes",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PICCOLO MIRACOLO",
+    "cast": "Marco D'Amore, Greta Scarano, Giorgio Colangeli, Mariangela D'Abbraccio",
+    "details": "Una commedia dove la finzione domina troppo sulla realtà. Ma Greta Scarano è magnifica. Drammatico, Italia 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1560020,
+    "tmdb_title": "Piccolo Miracolo",
+    "original_title": "Piccolo Miracolo",
+    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
+    "release_date": "2026-06-25",
+    "vote_average": 4.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
+    "genres": "Dramma",
+    "director": "Guido Chiesa",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ELECTION DAY",
+    "cast": "Angela Finocchiaro, Giorgio Tirabassi, Antonio Gerardi, Crisula Stafida",
+    "details": "Commedia, Italia 2026. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:50",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1708043,
+    "tmdb_title": "Election Day",
+    "original_title": "Election Day",
+    "overview": "Mentre si avvicina il verdetto delle elezioni politiche, la notte dello scrutinio la deputata progressista Renata Innocenti – candidata di punta al ruolo di Ministro della Pubblica Istruzione in caso di vittoria della sua coalizione – segue l’andamento dei risultati dalla propria abitazione insieme al suo staff. I primi exit poll delineano uno scenario di perfetta parità, destinato a risolversi per pochissimi voti. Tuttavia, proprio quella stessa sera, Renata ignora che il suo compagno, il giornalista sportivo Carlo De Santis, è coinvolto in un caso mediatico: durante un collegamento dal campo, ha rivolto a un calciatore nero un’offesa di stampo razzista.",
+    "release_date": "2026-07-09",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lYndI3wlV6QD1HGuEVUihAUkBsi.jpg",
+    "genres": "Commedia",
+    "director": "Giorgio Amato",
+    "mathyas-pick": false
+  }
+]
