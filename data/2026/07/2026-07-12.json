@@ -20,7 +20,32 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
     "genres": "Musica, Dramma",
     "director": "Antoine Fuqua",
-    "ai_reason": "A high-caliber cinematic event capturing the artistic evolution of a global icon, backed by significant acclaim and scale.",
+    "mathyas-pick": false
+  },
+  {
+    "title": "OBSESSION",
+    "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
+    "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:15",
+          "16:05",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1339713,
+    "tmdb_title": "Obsession",
+    "original_title": "Obsession",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "release_date": "2026-05-13",
+    "vote_average": 8.273,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Curry Barker",
+    "ai_reason": "A high-stakes psychological descent from emerging genre auteur Curry Barker, delivering the exact brand of visceral indie horror currently redefining the landscape.",
     "mathyas-pick": true
   },
   {
@@ -104,11 +129,12 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.416,
+    "vote_average": 7.408,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
-    "mathyas-pick": false
+    "ai_reason": "Prestige animation from Pixar veteran Andrew Stanton, exploring complex themes of digital obsession and autonomy with the studio's signature artistic depth.",
+    "mathyas-pick": true
   },
   {
     "title": "HOPPER - IL SEGRETO DELLA MARMOTTA",
@@ -154,7 +180,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/l9Gwwr7nMQzCsOZ9B0b6FlOWTU6.jpg",
     "genres": "Commedia, Dramma",
     "director": "Ferzan Özpetek",
-    "ai_reason": "A sophisticated meta-cinematic exploration of the female gaze and the art of costume design by major Italian auteur Ferzan Özpetek.",
+    "ai_reason": "Ferzan Özpetek offers a rich, meta-textual tapestry that explores the symbiotic relationship between a director and his muses, a cornerstone of contemporary Italian auteur cinema.",
     "mathyas-pick": true
   },
   {
@@ -170,8 +196,7 @@
           "16:35",
           "19:00",
           "20:05",
-          "22:00",
-          "00:15"
+          "22:00"
         ]
       },
       {
@@ -221,7 +246,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
     "genres": "Musica, Dramma, Storia",
     "director": "Damiano Michieletto",
-    "ai_reason": "An elegant period piece by Damiano Michieletto that bridges the gap between high-brow opera culture and prestige Italian cinema.",
+    "ai_reason": "A masterfully staged period drama from Damiano Michieletto that bridges the gap between grand opera and cinematic storytelling, celebrating high Italian culture.",
     "mathyas-pick": true
   },
   {
@@ -247,7 +272,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "An A24-backed psychological horror that represents the pinnacle of modern surrealism, transitioning a viral phenomenon into a prestige arthouse experience.",
+    "ai_reason": "Kane Parsons’ surrealist vision captures the zeitgeist of liminal space horror, marking a significant evolution for digital-native auteurs within the psychological genre.",
     "mathyas-pick": true
   },
   {
@@ -274,11 +299,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.689,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Steven Spielberg, marking a return to the high-concept, existential science fiction that defines his mastery.",
+    "ai_reason": "A major cinematic event from Steven Spielberg, promising a high-concept exploration of humanity’s most profound existential questions through the lens of a master.",
     "mathyas-pick": true
   },
   {
@@ -304,8 +329,7 @@
           "19:40",
           "21:00",
           "21:40",
-          "22:45",
-          "00:40"
+          "22:45"
         ]
       },
       {
@@ -332,7 +356,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.409,
+    "vote_average": 6.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -379,8 +403,7 @@
         "times": [
           "13:30",
           "19:25",
-          "22:50",
-          "00:40"
+          "22:50"
         ]
       }
     ],
