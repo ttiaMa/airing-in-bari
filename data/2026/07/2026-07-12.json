@@ -1,0 +1,430 @@
+[
+  {
+    "title": "MICHAEL",
+    "cast": "Jaafar Jackson, Nia Long, Laura Harrier, Juliano Valdi",
+    "details": "Un film-evento musicale, dal ritmo travolgente. Da brividi la performance di Jaafar Jackson. Biografico, USA 2026. Durata 127 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:00"
+        ]
+      }
+    ],
+    "tmdb_id": 936075,
+    "tmdb_title": "Michael",
+    "original_title": "Michael",
+    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
+    "release_date": "2026-04-22",
+    "vote_average": 8.705,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
+    "genres": "Musica, Dramma",
+    "director": "Antoine Fuqua",
+    "ai_reason": "A high-caliber cinematic event capturing the artistic evolution of a global icon, backed by significant acclaim and scale.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TROPPO CATTIVI 2",
+    "cast": "Sam Rockwell, Marc Maron, Craig Robinson, Anthony Ramos",
+    "details": "Il sequel di Troppo cattivi arriva finalmente al superamento delle inutili barriere degli stereotipi di genere. Animazione, USA 2025. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1175942,
+    "tmdb_title": "Troppo cattivi 2",
+    "original_title": "The Bad Guys 2",
+    "overview": "Nel nuovo capitolo, i Troppo Cattivi, una banda di animali criminali, cercano di guadagnarsi fiducia e accettazione nella loro nuova vita da \"\"bravi ragazzi\"\". Tuttavia, vengono richiamati in azione per affrontare un'ultima missione, guidati da una squadra criminale tutta al femminile.",
+    "release_date": "2025-07-24",
+    "vote_average": 7.643,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gYuaju3hqkcxRjlCPgXlW2zthXT.jpg",
+    "genres": "Famiglia, Commedia, Crime, Avventura, Animazione",
+    "director": "Pierre Perifel",
+    "mathyas-pick": false
+  },
+  {
+    "title": "L'HANGAR ROSSO",
+    "cast": "Nicolás Zárate, Boris Quercia, Marcial Tagle, Catalina Stuardo",
+    "details": "Un ottimo thriller dall'eleganza concisa. Il racconto degli Anni Settanta in Cile, intriso delle preoccupazioni del presente. Drammatico, Italia, Cile 2026. Durata 83 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30",
+          "19:15",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1563588,
+    "tmdb_title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "release_date": "2026-05-08",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "genres": "Dramma, Storia, Thriller",
+    "director": "Juan Pablo Sallato",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TOY STORY 5",
+    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
+    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:40",
+          "14:00",
+          "15:10",
+          "17:00",
+          "19:40",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:40",
+          "14:00",
+          "15:00",
+          "17:00",
+          "19:20",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1084244,
+    "tmdb_title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "release_date": "2026-06-17",
+    "vote_average": 7.416,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genres": "Animazione, Famiglia, Commedia, Avventura",
+    "director": "Andrew Stanton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "HOPPER - IL SEGRETO DELLA MARMOTTA",
+    "cast": "Joe Ochman, Bernardo de Paula, Jordan Tartakow, Mimi Maynard",
+    "details": "Un'animazione europea che guarda ai capolavori Disney per celebrare inclusione e diversità. Animazione, Belgio, USA, Francia 2025. Durata 88 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1215532,
+    "tmdb_title": "Hopper - Il segreto della marmotta",
+    "original_title": "Hopper et le secret de la marmotte",
+    "overview": "Continuano le avventure dell'esploratore Hopper, sempre alla scoperta di mondi nuovi e affascinanti insieme agli inseparabili compagni Meg e Abe.  Tuttavia, il suo destino rischia di cambiare radicalmente quando incontra Gina, una misteriosa sconosciuta che si rivela essere sua sorella. Per la prima volta, Hopper scopre di non essere l’unico della sua specie. Diviso tra la lealtà verso il padre adottivo e il desiderio di aiutare i suoi simili, Hopper si ritrova a dover seguire il suo cuore e partire per una nuova avventura. Decide cosi di accompagnare Gina in una missione pericolosa: trovare l’unico potere capace di salvarli da una grave minaccia. La ricerca conduce i protagonisti sulle tracce della leggendaria marmotta in grado di manipolare il tempo. Tra superstizioni, enigmi e rivelazioni sul passato e futuro, Hopper, Abe e Meg affrontano un viaggio epico ricco di insidie, scoperte e colpi di scena.",
+    "release_date": "2025-09-19",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bl96nTxJhqadBkUXKkgcSU5AxRG.jpg",
+    "genres": "Animazione, Avventura, Commedia, Famiglia",
+    "director": "Benjamin Mousquet",
+    "mathyas-pick": false
+  },
+  {
+    "title": "DIAMANTI",
+    "cast": "Luisa Ranieri, Jasmine Trinca, Stefano Accorsi, Luca Barbarossa (II)",
+    "details": "Quello che ci aspettiamo dal miglior Ozpetek, quello che ama le donne e che rappresenta l'umanità. Commedia, Drammatico - Italia 2024. Durata 135 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1299046,
+    "tmdb_title": "Diamanti",
+    "original_title": "Diamanti",
+    "overview": "Un regista convoca le sue attrici preferite, quelle con cui ha lavorato e quelle che ha amato. Vuole fare un film sulle donne ma non svela molto: le osserva, prende spunto, si fa ispirare, finché il suo immaginario non le catapulta in un’altra epoca, in un passato dove il rumore delle macchine da cucire riempie un luogo di lavoro gestito e popolato da donne, dove gli uomini hanno piccoli ruoli marginali e il cinema può essere raccontato da un altro punto di vista: quello del costume. Tra solitudini, passioni, ansie, mancanze strazianti e legami indissolubili, realtà e finzione si compenetrano, così come la vita delle attrici con quella dei personaggi, la competizione con la sorellanza, il visibile con l’invisibile.",
+    "release_date": "2024-12-19",
+    "vote_average": 7.111,
+    "poster_url": "https://image.tmdb.org/t/p/w500/l9Gwwr7nMQzCsOZ9B0b6FlOWTU6.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Ferzan Özpetek",
+    "ai_reason": "A sophisticated meta-cinematic exploration of the female gaze and the art of costume design by major Italian auteur Ferzan Özpetek.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA CASA - IL ROGO DEL MALE",
+    "cast": "Souheila Yacoub, Hunter Doohan, Luciane Buchanan, Tandi Wright",
+    "details": "Il sesto capitolo del franchise mostra il suo debito al cinema di Raimi. Horror, USA 2026. Durata 112 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:25",
+          "14:20",
+          "16:35",
+          "19:00",
+          "20:05",
+          "22:00",
+          "00:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "20:30",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1212763,
+    "tmdb_title": "La casa - Il rogo del Male",
+    "original_title": "Evil Dead Burn",
+    "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
+    "release_date": "2026-07-07",
+    "vote_average": 7.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Sébastien Vaniček",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PRIMAVERA",
+    "cast": "Tecla Insolia, Michele Riondino, Andrea Pennacchi, Fabrizia Sacchi",
+    "details": "Un film solido - classico ma contemporaneo - che parla dell'ingiustizia della condizione femminile. E dove la musica può fare tutto. Drammatico, Storico - Italia, Francia 2025. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1365683,
+    "tmdb_title": "Primavera",
+    "original_title": "Primavera",
+    "overview": "Primi del Settecento. L'Ospedale della Pietà è il più grande orfanotrofio di Venezia, ma è anche un'istituzione che avvia le orfane più brillanti allo studio della musica. La sua orchestra è una delle più apprezzate al mondo. Cecilia ha vent'anni, vive da sempre alla Pietà ed è una straordinaria violinista. L'arte ha dischiuso la sua mente ma non le porte dell'orfanotrofio; può esibirsi solo lì dentro, dietro una grata, per ricchi mecenati. Questo fino a che un vento di primavera scuote improvvisamente la sua vita. Tutto cambia con l'arrivo del nuovo insegnante di violino. Il suo nome è Antonio Vivaldi.",
+    "release_date": "2025-12-05",
+    "vote_average": 6.995,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
+    "genres": "Musica, Dramma, Storia",
+    "director": "Damiano Michieletto",
+    "ai_reason": "An elegant period piece by Damiano Michieletto that bridges the gap between high-brow opera culture and prestige Italian cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "BACKROOMS",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett",
+    "details": "Un'opera d'arte contemporanea sulla terrificante presenza dell'assenza. Horror, USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:40",
+          "22:15",
+          "21:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1083381,
+    "tmdb_title": "Backrooms",
+    "original_title": "Backrooms",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "release_date": "2026-05-27",
+    "vote_average": 6.813,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
+    "genres": "Horror, Mistero, Fantascienza",
+    "director": "Kane Parsons",
+    "ai_reason": "An A24-backed psychological horror that represents the pinnacle of modern surrealism, transitioning a viral phenomenon into a prestige arthouse experience.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson",
+    "details": "Spielberg torna al cinema di fantascienza e si conferma maestro della tensione. Fantascienza, Drammatico - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:55",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1275779,
+    "tmdb_title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "release_date": "2026-06-10",
+    "vote_average": 6.689,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genres": "Fantascienza, Thriller",
+    "director": "Steven Spielberg",
+    "ai_reason": "A major cinematic event from Steven Spielberg, marking a return to the high-concept, existential science fiction that defines his mastery.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10",
+          "11:40",
+          "14:00",
+          "15:00",
+          "15:50",
+          "16:20",
+          "16:45",
+          "17:20",
+          "17:45",
+          "18:10",
+          "18:40",
+          "19:10",
+          "19:40",
+          "21:00",
+          "21:40",
+          "22:45",
+          "00:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:20",
+          "11:10",
+          "12:30",
+          "14:10",
+          "14:50",
+          "16:30",
+          "17:10",
+          "17:40",
+          "18:40",
+          "19:30",
+          "19:50",
+          "21:00",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.409,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SUPERGIRL",
+    "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz",
+    "details": "A tratti leggero, a momenti ricco di pathos. Il film di Gillespie intrattiene senza essere dirompente. Azione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "14:25",
+          "19:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "15:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1081003,
+    "tmdb_title": "Supergirl",
+    "original_title": "Supergirl",
+    "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.223,
+    "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
+    "genres": "Azione, Avventura, Fantascienza",
+    "director": "Craig Gillespie",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SCARY MOVIE",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "details": "Il tentativo di revival del franchise più scurrile di sempre è di una pochezza desolante. Commedia, Horror - USA 2026. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:30",
+          "19:25",
+          "22:50",
+          "00:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1273221,
+    "tmdb_title": "Scary Movie",
+    "original_title": "Scary Movie",
+    "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
+    "release_date": "2026-06-03",
+    "vote_average": 5.402,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genres": "Commedia, Horror",
+    "director": "Michael Tiddes",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ELECTION DAY",
+    "cast": "Angela Finocchiaro, Giorgio Tirabassi, Antonio Gerardi, Crisula Stafida",
+    "details": "La commedia politica di Amato si perde in una traiettoria narrativa prevedibile e in un finale banalizzante. Commedia, Italia 2026. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:05",
+          "20:30",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "13:30",
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1708043,
+    "tmdb_title": "Election Day",
+    "original_title": "Election Day",
+    "overview": "Mentre si avvicina il verdetto delle elezioni politiche, la notte dello scrutinio la deputata progressista Renata Innocenti – candidata di punta al ruolo di Ministro della Pubblica Istruzione in caso di vittoria della sua coalizione – segue l’andamento dei risultati dalla propria abitazione insieme al suo staff. I primi exit poll delineano uno scenario di perfetta parità, destinato a risolversi per pochissimi voti. Tuttavia, proprio quella stessa sera, Renata ignora che il suo compagno, il giornalista sportivo Carlo De Santis, è coinvolto in un caso mediatico: durante un collegamento dal campo, ha rivolto a un calciatore nero un’offesa di stampo razzista.",
+    "release_date": "2026-07-09",
+    "vote_average": 5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lYndI3wlV6QD1HGuEVUihAUkBsi.jpg",
+    "genres": "Commedia",
+    "director": "Giorgio Amato",
+    "mathyas-pick": false
+  }
+]
