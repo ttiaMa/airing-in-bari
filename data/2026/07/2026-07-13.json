@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A new work from Curry Barker, an emerging auteur specifically recognized for elevating viral horror into psychological art.",
+    "ai_reason": "A surreal psychological genre hit from emerging auteur Curry Barker, perfect for fans of modern, thematic arthouse horror.",
     "mathyas-pick": true
   },
   {
@@ -51,7 +51,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/i6b9YY0TfZM4Ws64oFn933NN2s8.jpg",
     "genres": "Animazione, Avventura, Commedia, Crime",
     "director": "Hayao Miyazaki",
-    "ai_reason": "The definitive theatrical re-release of Hayao Miyazaki's feature debut, a cornerstone of Japanese prestige animation.",
+    "ai_reason": "The debut feature of Hayao Miyazaki, this is a foundational masterpiece of Japanese animation and a high-brow cinematic essential.",
     "mathyas-pick": true
   },
   {
@@ -108,7 +108,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.4,
+    "vote_average": 7.422,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -135,18 +135,24 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9FMmosKgAulpi4qe8O7iGBqFZ6v.jpg",
     "genres": "Horror, Thriller",
     "director": "James Watkins",
-    "ai_reason": "A gripping psychological thriller that explores the dark side of social norms and the terrifying loss of personal autonomy.",
+    "ai_reason": "A gripping psychological thriller that explores the loss of autonomy and toxic social dynamics, transcending the horror genre with its deep themes.",
     "mathyas-pick": true
   },
   {
     "title": "THE DOORS",
     "cast": "Val Kilmer, Michael Wincott, Michael Madsen, Dennis Burkley",
-    "details": "Musicale, USA 1991. Durata 140 Minuti. Consigli per la visione: Ragazzi +16",
+    "details": "Una lezione in regia, una festa per gli estimatori della band e non solo. Musicale, USA 1991. Durata 140 Minuti. Consigli per la visione: Ragazzi +16",
     "cinemas": [
       {
         "name": "The Space Casamassima",
         "times": [
           "20:30",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
           "21:00"
         ]
       }
@@ -160,7 +166,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/vY1nGYsBQKoF8HWPWsl8oFhldf6.jpg",
     "genres": "Musica, Dramma",
     "director": "Oliver Stone",
-    "ai_reason": "Oliver Stone’s psychedelic cult classic; a visceral, high-style biopic that serves as a landmark of 90s cinema history.",
+    "ai_reason": "Oliver Stone’s hallucinatory biopic of Jim Morrison is a landmark of 90s cinema and a visceral study of the rock-and-roll mythos.",
     "mathyas-pick": true
   },
   {
@@ -191,36 +197,11 @@
     "original_title": "Evil Dead Burn",
     "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
     "release_date": "2026-07-07",
-    "vote_average": 7.043,
+    "vote_average": 6.99,
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror, Thriller",
     "director": "Sébastien Vaniček",
-    "ai_reason": "Sébastien Vaniček, a rising auteur of the 'new French extremity' school, delivers a visceral exploration of domestic horror.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "PRIMAVERA",
-    "cast": "Tecla Insolia, Michele Riondino, Andrea Pennacchi, Fabrizia Sacchi",
-    "details": "Un film solido - classico ma contemporaneo - che parla dell'ingiustizia della condizione femminile. E dove la musica può fare tutto. Drammatico, Storico - Italia, Francia 2025. Durata 110 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1365683,
-    "tmdb_title": "Primavera",
-    "original_title": "Primavera",
-    "overview": "Primi del Settecento. L'Ospedale della Pietà è il più grande orfanotrofio di Venezia, ma è anche un'istituzione che avvia le orfane più brillanti allo studio della musica. La sua orchestra è una delle più apprezzate al mondo. Cecilia ha vent'anni, vive da sempre alla Pietà ed è una straordinaria violinista. L'arte ha dischiuso la sua mente ma non le porte dell'orfanotrofio; può esibirsi solo lì dentro, dietro una grata, per ricchi mecenati. Questo fino a che un vento di primavera scuote improvvisamente la sua vita. Tutto cambia con l'arrivo del nuovo insegnante di violino. Il suo nome è Antonio Vivaldi.",
-    "release_date": "2025-12-05",
-    "vote_average": 6.995,
-    "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
-    "genres": "Musica, Dramma, Storia",
-    "director": "Damiano Michieletto",
-    "ai_reason": "Damiano Michieletto, a master of operatic staging, brings an auteur’s eye to this lush, historically significant Italian production.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "BACKROOMS",
@@ -243,7 +224,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "Emerging auteur Kane Parsons brings his viral, surrealist 'liminal space' horror to the big screen, defining the new wave of genre cinema.",
+    "ai_reason": "An A24-style elevated horror event from viral visionary Kane Parsons, starring indie darling Renate Reinsve in a surrealist nightmare.",
     "mathyas-pick": true
   },
   {
@@ -263,11 +244,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.685,
+    "vote_average": 6.687,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A major cinematic event from Steven Spielberg, promising high-concept science fiction with significant artistic merit.",
+    "ai_reason": "A major cinematic event from Steven Spielberg, representing a high-concept sci-fi return for one of cinema's greatest living auteurs.",
     "mathyas-pick": true
   },
   {
@@ -275,6 +256,12 @@
     "cast": "Cate Blanchett, Adam Driver, Charlotte Rampling, Mayim Bialik",
     "details": "Un Jarmusch puro, in quello spleen esistenziale che non è mai pessimismo cosmico e sempre poetico struggimento. Commedia, Drammatico - USA, Irlanda, Francia 2025. Durata 110 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -291,7 +278,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/elPU6bjZvsDhpzpwctjHykNozg1.jpg",
     "genres": "Commedia, Dramma",
     "director": "Jim Jarmusch",
-    "ai_reason": "A quintessential work by Jim Jarmusch, the patron saint of indie cinema, featuring an elite cast in a nuanced character study.",
+    "ai_reason": "Quintessential indie auteur Jim Jarmusch delivers a prestige drama featuring an elite cast of cinephile favorites like Adam Driver and Cate Blanchett.",
     "mathyas-pick": true
   },
   {
@@ -356,7 +343,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.23,
+    "vote_average": 6.25,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
@@ -384,7 +371,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yqCCyeP1r0fUYG9CmGbGb8mXI5D.jpg",
     "genres": "Dramma, Thriller",
     "director": "Wim Wenders",
-    "ai_reason": "A dreamlike, auteur-driven collaboration between Wim Wenders and Bono, representing the height of 90s arthouse sensibilities.",
+    "ai_reason": "A poetic, cult-classic exploration of urban melancholy from legendary European director Wim Wenders, featuring a story by Bono.",
     "mathyas-pick": true
   },
   {
@@ -404,7 +391,7 @@
     "original_title": "Scary Movie",
     "overview": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
     "release_date": "2026-06-03",
-    "vote_average": 5.398,
+    "vote_average": 5.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
     "genres": "Commedia, Horror",
     "director": "Michael Tiddes",
