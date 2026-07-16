@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Un horror psicologico d'avanguardia diretto da Curry Barker, autore emergente capace di trasformare il perturbante in una critica feroce ai desideri umani, perfettamente in linea con il nuovo filone 'elevated horror'.",
+    "ai_reason": "A chilling psychological exploration from emerging auteur Curry Barker, perfectly aligning with the new wave of elevated, viral indie horror.",
     "mathyas-pick": true
   },
   {
@@ -50,7 +50,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.4,
+    "vote_average": 7.403,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -83,7 +83,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/g8x2zmPvlmYobahJRb7enPDa1ZU.jpg",
     "genres": "Dramma",
     "director": "Paolo Sorrentino",
-    "ai_reason": "Il ritorno di Paolo Sorrentino, massimo esponente del cinema d'autore italiano, con una riflessione estetica e metafisica sul potere, la morale e la condizione umana.",
+    "ai_reason": "A mandatory cinematic event from Academy Award winner Paolo Sorrentino, exploring the weight of power and morality through the lens of a major Italian auteur.",
     "mathyas-pick": true
   },
   {
@@ -137,11 +137,11 @@
     "original_title": "Evil Dead Burn",
     "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
     "release_date": "2026-07-07",
-    "vote_average": 6.8,
+    "vote_average": 6.803,
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror, Thriller",
     "director": "Sébastien Vaniček",
-    "ai_reason": "Sébastien Vaniček, voce nuova e potente del cinema di genere europeo, firma un capitolo brutale e psicologicamente denso che eleva il franchise attraverso una regia visionaria e disturbante.",
+    "ai_reason": "A modern, visceral reimagining of the iconic 'Evil Dead' cult lineage, directed by a rising talent in the elevated horror space.",
     "mathyas-pick": true
   },
   {
@@ -194,7 +194,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.2,
+    "vote_average": 6.214,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
@@ -245,7 +245,8 @@
           "21:30",
           "22:00",
           "22:15",
-          "23:00"
+          "23:00",
+          "19:30"
         ]
       }
     ],
@@ -258,7 +259,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Un'epopea monumentale firmata da Christopher Nolan; un evento cinematografico totale che reinterpreta il mito classico attraverso la lente del grande cinema d'autore contemporaneo.",
+    "ai_reason": "A high-profile cinematic event where Christopher Nolan applies his signature grand-scale vision and technical mastery to the foundational epic of Western literature.",
     "mathyas-pick": true
   },
   {
