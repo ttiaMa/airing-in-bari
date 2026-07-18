@@ -5,6 +5,12 @@
     "details": "Un film di fantasmi, di morti e rinascite. L'energia potentemente femminile della regista sa affrontare un dolore lancinante con coraggio ed empatia. Drammatico, USA 2025. Durata 125 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -20,7 +26,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
     "genres": "Dramma, Romance",
     "director": "Chloé Zhao",
-    "ai_reason": "Oscar-winner Chloé Zhao helms this lyrical, ethereal prestige drama featuring cinephile favorites Paul Mescal and Jessie Buckley.",
+    "ai_reason": "A prestige literary adaptation by Oscar-winner Chloé Zhao, featuring elite performances and a poetic exploration of grief and creativity.",
     "mathyas-pick": true
   },
   {
@@ -82,31 +88,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, reimagining the Homeric epic with the director's signature grand scale and intellectual ambition.",
+    "ai_reason": "A major cinematic event from visionary director Christopher Nolan, redefining epic storytelling with high-concept intellectual ambition.",
     "mathyas-pick": true
-  },
-  {
-    "title": "LA TORTA DEL PRESIDENTE",
-    "cast": "Baneen Ahmad Nayyef, Waheed Thabet Khreibat, Sajad Mohamad Qasem, Muthanna Malaghi",
-    "details": "In perfetto equilibrio tra fiaba e realtà, un esordio che dimostra che il particolare può avere una risonanza universale. Drammatico, Iraq, USA, Qatar 2025. Durata 102 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1464883,
-    "tmdb_title": "La torta del presidente",
-    "original_title": "The President's Cake",
-    "overview": "Mentre la popolazione dell'Iraq degli anni '90 lotta per sopravvivere alla guerra e alla carestia, in tutte le scuole del Paese è obbligatorio preparare una torta per festeggiare il compleanno del Presidente Saddam Hussein. Nonostante le sue preghiere di non essere scelta, la piccola Lamia di 9 anni viene sorteggiata per questo ‘prestigioso’ compito. Giunta in città con la nonna, sfuggirà al suo controllo per cercare gli ingredienti necessari per la torta. Insieme al suo amico Saeed e al suo gallo andrà incontro a una serie di peripezie a volte avventurose a volte pericolose, ma anche buffe riuscendo alla fine – forse - nel suo intento.",
-    "release_date": "2026-01-22",
-    "vote_average": 7.46,
-    "poster_url": "https://image.tmdb.org/t/p/w500/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
-    "genres": "Dramma",
-    "director": "Hasan Hadi",
-    "mathyas-pick": false
   },
   {
     "title": "TOY STORY 5",
@@ -134,7 +117,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.421,
+    "vote_average": 7.413,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -175,7 +158,7 @@
         "times": [
           "21:15",
           "23:45",
-          "00:20"
+          "21:15"
         ]
       },
       {
@@ -194,7 +177,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror, Thriller",
     "director": "Sébastien Vaniček",
-    "mathyas-pick": false
+    "ai_reason": "A gripping psychological horror from emerging auteur Sébastien Vaniček that transcends genre tropes to explore deep themes of autonomy and loss.",
+    "mathyas-pick": true
   },
   {
     "title": "NOSFERATU",
@@ -217,7 +201,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/1SftujfE9iqZpGJfnREO4IBeeqV.jpg",
     "genres": "Horror, Fantasy",
     "director": "Robert Eggers",
-    "ai_reason": "The definitive auteur of modern elevated horror, Robert Eggers, delivers a gothic, atmospheric reimagining of the classic vampire mythos.",
+    "ai_reason": "Robert Eggers, the definitive modern master of the macabre, reimagines a cornerstone of German Expressionism with his signature elevated gothic aesthetic.",
     "mathyas-pick": true
   },
   {
@@ -293,7 +277,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.2,
+    "vote_average": 6.196,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
