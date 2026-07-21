@@ -16,11 +16,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 8.249,
+    "vote_average": 8.25,
     "poster_url": "https://image.tmdb.org/t/p/w500/KUzJSsW6pFy1Dbw7rp1PKrzvfL.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A prime example of elevated modern horror from viral emerging auteur Curry Barker, emphasizing psychological dread over generic tropes.",
+    "ai_reason": "A highly-rated psychological thriller from emerging genre auteur Curry Barker, representing the new wave of viral, high-concept indie horror.",
     "mathyas-pick": true
   },
   {
@@ -78,7 +78,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A massive cinematic event directed by Christopher Nolan, bringing his signature grand scale and high-concept vision to a mythological epic.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, reimagining the Homeric epic through his signature lens of high-concept spectacle and intellectual rigor.",
     "mathyas-pick": true
   },
   {
@@ -106,7 +106,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.421,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -143,6 +143,12 @@
     "details": "Una commedia surreale che rompe le convenzioni sociali e parla a ognuno di noi. Con un cast di superstar. Commedia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -154,11 +160,11 @@
     "original_title": "The Drama",
     "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
     "release_date": "2026-04-01",
-    "vote_average": 6.915,
+    "vote_average": 6.916,
     "poster_url": "https://image.tmdb.org/t/p/w500/3zdr031LjTG71QyeC7mWdyU19bE.jpg",
     "genres": "Romance, Commedia, Dramma",
     "director": "Kristoffer Borgli",
-    "ai_reason": "Kristoffer Borgli is a quintessential modern auteur, and this psychological exploration of relationship dynamics fits the elevated indie aesthetic perfectly.",
+    "ai_reason": "Directed by Kristoffer Borgli, this fits the 'elevated indie' mold perfectly, offering a surreal and psychological exploration of modern relationships typical of emerging A24-style auteurs.",
     "mathyas-pick": true
   },
   {
@@ -202,11 +208,11 @@
     "original_title": "Disclosure Day",
     "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
     "release_date": "2026-06-10",
-    "vote_average": 6.686,
+    "vote_average": 6.694,
     "poster_url": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Steven Spielberg",
-    "ai_reason": "A significant science-fiction theatrical event from legendary auteur Steven Spielberg, marking a must-see moment for the medium.",
+    "ai_reason": "A significant event movie from Steven Spielberg, exploring existential themes through a high-prestige sci-fi framework.",
     "mathyas-pick": true
   },
   {
@@ -258,7 +264,7 @@
     "original_title": "Supergirl",
     "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
     "release_date": "2026-06-24",
-    "vote_average": 6.153,
+    "vote_average": 6.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
     "genres": "Azione, Avventura, Fantascienza",
     "director": "Craig Gillespie",
@@ -286,30 +292,6 @@
     "genres": "Documentario",
     "director": "Toni D'Angelo",
     "mathyas-pick": false
-  },
-  {
-    "title": "FINO ALL'ULTIMO RESPIRO",
-    "cast": "Jean-Paul Belmondo, Jean Seberg, Daniel Boulanger, Jean-Pierre Melville",
-    "details": "Il manifesto della Nouvelle Vague, un film immortale che ha segnato una svolta nella storia del cinema. Drammatico, Francia 1960. Durata 89 Minuti. Consigli per la visione: Ragazzi +13",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 85414,
-    "tmdb_title": "Brake - Fino all'ultimo respiro",
-    "original_title": "Brake",
-    "overview": "L’agente dei servizi segreti Jeremy Reins si risveglia, dopo essere stato rapito, in una località sconosciuta con davanti un timer che segna un conto alla rovescia ormai prossimo allo zero.  Incalzato dai suoi rapitori, che vogliono conoscere l’esatta posizione del bunker sotterraneo segreto del Presidente, Reins si troverà a scegliere tra la famiglia e il dovere.",
-    "release_date": "2012-03-22",
-    "vote_average": 5.83,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yR6tXdo83i1fFoO16xPxAp6aHaL.jpg",
-    "genres": "Crime, Azione, Thriller, Mistero",
-    "director": "Gabe Torres",
-    "ai_reason": "A quintessential masterpiece of cinema history and French New Wave; an essential re-release for any serious cinephile.",
-    "mathyas-pick": true
   },
   {
     "title": "ELECTION DAY",
