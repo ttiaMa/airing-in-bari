@@ -1,0 +1,55 @@
+[
+  {
+    "title": "L'HANGAR ROSSO",
+    "cast": "Nicolás Zárate, Boris Quercia, Marcial Tagle, Catalina Stuardo",
+    "details": "Un ottimo thriller dall'eleganza concisa. Il racconto degli Anni Settanta in Cile, intriso delle preoccupazioni del presente. Drammatico, Italia, Cile 2026. Durata 83 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30",
+          "19:15",
+          "21:00",
+          "17:30",
+          "19:15",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1563588,
+    "tmdb_title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "release_date": "2026-05-08",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "genres": "Dramma, Storia, Thriller",
+    "director": "Juan Pablo Sallato",
+    "ai_reason": "An elevated psychological thriller and arthouse historical drama that explores the visceral loss of autonomy and moral fragmentation.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "NINO - 18 GIORNI",
+    "cast": "Nino D'Angelo, Toni D'Angelo",
+    "details": "Un emozionante ritratto di Nino D'Angelo, l'artista e l'uomo, e il confronto con le proprie origini e i legami familiari. Documentario, Italia 2025. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1517145,
+    "tmdb_title": "Nino - 18 giorni",
+    "original_title": "Nino - 18 giorni",
+    "overview": "Nino D’Angelo, negli anni ’80 è stato il caschetto biondo più famoso d’Italia dopo Raffaella Carrà. Oggi non ha più il caschetto e non fa più quelle canzoni che lo resero famoso allora.  Vive a Roma, circondato dalla sua numerosa famiglia, e la sua musica ha il suono del Mediterraneo. L’ultimo concerto allo Stadio Maradona di Napoli è un saluto definitivo agli anni ‘80, al caschetto, a quel tipo di musica. A vivere con lui questo momento, nascosto dietro un telefonino, suo figlio, Toni, regista. Lo incalza con le domande, registra tutto, anche e soprattutto i momenti più intimi. Chi era suo padre negli anni’ 80? Com’è arrivato al successo e al benessere dalla povertà più assoluta? E perché, una volta raggiunto il successo, nel bel mezzo degli anni ’80, quando Toni era piccolo, hanno dovuto abbandonare la città che aveva reso celebre suo padre?",
+    "release_date": "2025-11-20",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bmbiW6g4t4d72WwWH5IuecUAmn6.jpg",
+    "genres": "Documentario",
+    "director": "Toni D'Angelo",
+    "mathyas-pick": false
+  }
+]
