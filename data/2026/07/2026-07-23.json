@@ -1,0 +1,280 @@
+[
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "17:00",
+          "17:40",
+          "18:00",
+          "18:40",
+          "19:00",
+          "19:25",
+          "20:00",
+          "20:30",
+          "21:00",
+          "21:30",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "17:00",
+          "18:00",
+          "18:30",
+          "19:00",
+          "20:00",
+          "21:00",
+          "21:30",
+          "22:00",
+          "22:15",
+          "23:00",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "release_date": "2026-07-15",
+    "vote_average": 7.934,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A massive cinematic event from Christopher Nolan, redefining the epic through his signature precision and structural ambition.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TOY STORY 5",
+    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
+    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:35"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1084244,
+    "tmdb_title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "release_date": "2026-06-17",
+    "vote_average": 7.417,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genres": "Animazione, Famiglia, Commedia, Avventura",
+    "director": "Andrew Stanton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "L'HANGAR ROSSO",
+    "cast": "Nicolás Zárate, Boris Quercia, Marcial Tagle, Catalina Stuardo",
+    "details": "Un ottimo thriller dall'eleganza concisa. Il racconto degli Anni Settanta in Cile, intriso delle preoccupazioni del presente. Drammatico, Italia, Cile 2026. Durata 83 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30",
+          "19:15",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1563588,
+    "tmdb_title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "release_date": "2026-05-08",
+    "vote_average": 7.333,
+    "poster_url": "https://image.tmdb.org/t/p/w500/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "genres": "Dramma, Storia, Thriller",
+    "director": "Juan Pablo Sallato",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA CASA - IL ROGO DEL MALE",
+    "cast": "Souheila Yacoub, Hunter Doohan, Luciane Buchanan, Tandi Wright",
+    "details": "Il sesto capitolo del franchise mostra il suo debito al cinema di Raimi. Horror, USA 2026. Durata 112 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "23:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1212763,
+    "tmdb_title": "La casa - Il rogo del Male",
+    "original_title": "Evil Dead Burn",
+    "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
+    "release_date": "2026-07-07",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Sébastien Vaniček",
+    "ai_reason": "A visceral and atmospheric expansion of the iconic cult franchise, helmed by emerging genre auteur Sébastien Vaniček.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "18:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PER UN PO'",
+    "cast": "Alessandro Tedeschi, Isnaba Na Montche, Sara Laura Raimondi, Ilir Jacellari",
+    "details": "Onesto come solo una storia vera sa essere, un film originale e autentico. Capace di andare oltre, ancora \"per un po'\". Drammatico, Italia 2026. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1560852,
+    "tmdb_title": "Per un po'",
+    "original_title": "Per un po'",
+    "overview": "Niccolò, quarantenne con una carriera di successo e la voglia di restituire un po’ di quello che ha ricevuto nella sua vita, diventa padre affidatario di Federico, diciottenne dal passato difficile cresciuto in comunità. Tra loro comincia a instaurarsi un rapporto profondo e complesso, un’altalena emotiva che non riesce mai a trovare un vero equilibrio. Fede e Nicc vivono insieme per un po’ e, seppur i fantasmi dell’uno e i limiti dell’altro si metteranno di mezzo, i due si daranno a vicenda gli strumenti per confrontarsi con sé stessi e maturare.",
+    "release_date": "2026-02-12",
+    "vote_average": 5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aIXgZKQfkoKHLfcRWUgMBvAvC9d.jpg",
+    "genres": "Dramma",
+    "director": "Simone Valentini",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TERAPIA DI FAMIGLIA",
+    "cast": "Christian Clavier, Baptiste Lecaplain, Claire Chust, Cristiana Reali",
+    "details": "Una commedia sugli equivoci che fa leva soprattutto sulla popolarità di Christian Clavier. Commedia, Francia, Belgio 2025. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:30",
+          "21:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1130402,
+    "tmdb_title": "Terapia di famiglia",
+    "original_title": "Jamais sans mon psy",
+    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
+    "release_date": "2024-12-11",
+    "vote_average": 4.796,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
+    "genres": "Commedia, Famiglia",
+    "director": "Arnaud Lemort",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SENTIMENTAL VALUE",
+    "cast": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning",
+    "details": "Con una cifra stilistica inconfondibile, Trier delinea con morbidezza e fluidità la complessità dei rapporti familiari. Commedia, Drammatico - Norvegia, Germania, Danimarca, Francia, Svezia 2025. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "15:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1697369,
+    "tmdb_title": "Sentimental Value",
+    "original_title": "Sentimental Value",
+    "overview": "",
+    "release_date": "2026-05-08",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
+    "genres": "Crime, Dramma, Fantascienza",
+    "director": "Axel Sosa",
+    "ai_reason": "A masterclass in contemporary European auteur cinema, Joachim Trier continues his exploration of human intimacy with a stellar international cast.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IO NON TI LASCIO SOLO",
+    "cast": "Giorgio Pasotti, Mimmo Borrelli, Andrea Matrone, Michael D'Arma",
+    "details": "Un film che va oltre il genere codificato family aprendosi a considerazioni più ampie. Commedia, Italia 2026. Durata 98 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1510413,
+    "tmdb_title": "Io non ti lascio solo",
+    "original_title": "Io non ti lascio solo",
+    "overview": "",
+    "release_date": "2025-08-09",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lwNB5CNOhZwq93KUgUJs9aBYUoN.jpg",
+    "genres": "Dramma, Famiglia",
+    "director": "Fabrizio Cattani",
+    "mathyas-pick": false
+  }
+]
