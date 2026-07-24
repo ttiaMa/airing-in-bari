@@ -73,7 +73,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, blending epic scale with auteur-driven ambition and a powerhouse cast.",
+    "ai_reason": "A definitive cinematic event from visionary auteur Christopher Nolan, reimagining Homeric myth through a high-prestige, large-scale lens.",
     "mathyas-pick": true
   },
   {
@@ -129,8 +129,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
-    "ai_reason": "A prestige animation event directed by Pixar veteran Andrew Stanton, maintaining the studio's high standard for narrative artistry.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "LA CASA - IL ROGO DEL MALE",
@@ -155,11 +154,11 @@
     "original_title": "Evil Dead Burn",
     "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
     "release_date": "2026-07-07",
-    "vote_average": 6.823,
+    "vote_average": 6.8,
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror, Thriller",
     "director": "Sébastien Vaniček",
-    "ai_reason": "A gritty, elevated take on the genre by emerging auteur Sébastien Vaniček, delivering psychological dread rather than cheap scares.",
+    "ai_reason": "Directed by emerging horror auteur Sébastien Vaniček, this entry elevates the cult franchise with a visceral focus on grief and psychological disintegration.",
     "mathyas-pick": true
   },
   {
@@ -183,7 +182,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
     "genres": "Animazione, Dramma",
     "director": "四宮義俊",
-    "ai_reason": "A visually distinctive work of Japanese prestige animation by Yoshitoshi Shinomiya, focusing on artistic expression and memory.",
+    "ai_reason": "A work of prestige Japanese animation by Yoshitoshi Shinomiya, favoring artisanal craftsmanship and contemplative drama over commercial tropes.",
     "mathyas-pick": true
   },
   {
@@ -275,6 +274,12 @@
     "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -290,31 +295,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
     "genres": "Dramma",
     "director": "Lucia Calamaro",
-    "ai_reason": "A high-brow Italian production by acclaimed playwright Lucia Calamaro, featuring prestige performances from Silvio Orlando and Barbara Ronchi.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "SENTIMENTAL VALUE",
-    "cast": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning",
-    "details": "Con una cifra stilistica inconfondibile, Trier delinea con morbidezza e fluidità la complessità dei rapporti familiari. Commedia, Drammatico - Norvegia, Germania, Danimarca, Francia, Svezia 2025. Durata 132 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1697369,
-    "tmdb_title": "Sentimental Value",
-    "original_title": "Sentimental Value",
-    "overview": "",
-    "release_date": "2026-05-08",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
-    "genres": "Crime, Dramma, Fantascienza",
-    "director": "Axel Sosa",
-    "ai_reason": "A new feature by Joachim Trier, a premier voice in modern European arthouse cinema, exploring complex family dynamics with psychological depth.",
+    "ai_reason": "An intellectual and atmospheric piece of Italian auteur cinema from renowned playwright Lucia Calamaro, starring prestige actors Silvio Orlando and Barbara Ronchi.",
     "mathyas-pick": true
   }
 ]
