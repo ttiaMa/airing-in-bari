@@ -31,6 +31,12 @@
     "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -52,7 +58,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
     "genres": "Dramma",
     "director": "Massimiliano Gallo",
-    "ai_reason": "A high-brow Italian production celebrating the intersection of theater and social recovery, centering on the legacy of the legendary Eduardo De Filippo.",
+    "ai_reason": "An elevated Italian production that transcends genre, honoring the theatrical legacy of Eduardo De Filippo through a sophisticated narrative of social redemption.",
     "mathyas-pick": true
   },
   {
@@ -108,7 +114,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event directed by Christopher Nolan, reimagining a foundational pillar of Western literature through a high-concept lens.",
+    "ai_reason": "A monumental cinematic event from Christopher Nolan, redefining the mythic epic with his signature intellectual depth and technical mastery.",
     "mathyas-pick": true
   },
   {
@@ -160,7 +166,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.425,
+    "vote_average": 7.423,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -187,7 +193,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg",
     "genres": "Dramma, Thriller, Crime, Mistero",
     "director": "Jafar Panahi",
-    "mathyas-pick": false
+    "ai_reason": "A profound work by world-renowned auteur Jafar Panahi, delivering a tense, psychological exploration of moral ambiguity and justice.",
+    "mathyas-pick": true
   },
   {
     "title": "LA CASA - IL ROGO DEL MALE",
@@ -216,7 +223,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror, Thriller",
     "director": "Sébastien Vaniček",
-    "ai_reason": "An elevated genre entry by emerging auteur Sébastien Vaniček, utilizing the 'Deadite' mythos to explore deep-seated psychological themes of grief and family trauma.",
+    "ai_reason": "Directed by emerging genre auteur Sébastien Vaniček, this elevated horror explores the terrifying loss of autonomy through a stylish, psychological lens.",
     "mathyas-pick": true
   },
   {
@@ -240,7 +247,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
     "genres": "Animazione, Dramma",
     "director": "四宮義俊",
-    "ai_reason": "A visually arresting work of prestige Japanese animation from the aesthetic lineage of Makoto Shinkai, emphasizing artistic expression over commercial tropes.",
+    "ai_reason": "A work of prestige Japanese animation that favors artistic craftsmanship and atmospheric storytelling over commercial convention.",
     "mathyas-pick": true
   },
   {
@@ -303,29 +310,5 @@
     "genres": "Commedia, Famiglia",
     "director": "Arnaud Lemort",
     "mathyas-pick": false
-  },
-  {
-    "title": "ANTARTICA - QUASI UNA FIABA",
-    "cast": "Silvio Orlando, Barbara Ronchi, Valentina Bellè, Simone Liberati",
-    "details": "Un film più unico che raro in Italia sulla ricerca scientifica, con un ottimo cast. Commedia, Italia 2026. Durata 93 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1438958,
-    "tmdb_title": "Antartica - Quasi una fiaba",
-    "original_title": "Antartica - Quasi una fiaba",
-    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
-    "release_date": "2026-05-14",
-    "vote_average": 4.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
-    "genres": "Dramma",
-    "director": "Lucia Calamaro",
-    "ai_reason": "An intellectual exploration of human conflict and scientific isolation, led by the peerless Silvio Orlando in a classic auteur-driven Italian drama.",
-    "mathyas-pick": true
   }
 ]
