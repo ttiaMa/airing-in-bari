@@ -1,30 +1,5 @@
 [
   {
-    "title": "DEEP WATER - INCUBO DAGLI ABISSI",
-    "cast": "Ben Kingsley, Aaron Eckhart, Angus Sampson, Kelly Gale",
-    "details": "Una scialba operazione nostalgia con personaggi troppo piatti. Azione, Drammatico, Horror - Spagna, Nuova Zelanda, USA 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "14:35",
-          "21:25",
-          "00:20"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "22:30"
-        ]
-      }
-    ],
-    "tmdb_id": null,
-    "director": null,
-    "genres": null,
-    "mathyas-pick": false
-  },
-  {
     "title": "LA SALITA",
     "cast": "Roberta Caronia, Francesco Cossu, Antonio Milo, Shalana Santana",
     "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
@@ -51,8 +26,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
     "genres": "Dramma",
     "director": "Massimiliano Gallo",
-    "ai_reason": "An elevated piece of Italian cinema that explores the intersection of social issues and the cultural legacy of the great Eduardo De Filippo.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "JUMPERS - UN SALTO TRA GLI ANIMALI",
@@ -71,10 +45,35 @@
     "original_title": "Hoppers",
     "overview": "Gli scienziati hanno scoperto come far “saltare” la coscienza umana in animali robotici realistici, permettendo alle persone di comunicare con gli animali, come animali! L'amante degli animali Mabel coglie l'opportunità per usare la tecnologia, svelando misteri nel mondo animale oltre qualsiasi cosa potesse immaginare.",
     "release_date": "2026-03-04",
-    "vote_average": 8.188,
+    "vote_average": 8.192,
     "poster_url": "https://image.tmdb.org/t/p/w500/k6gJLmAVZlEkFTv40YcPIaSBGkn.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantascienza",
     "director": "Daniel Chong",
+    "mathyas-pick": false
+  },
+  {
+    "title": "DEEP WATER - INCUBO DAGLI ABISSI",
+    "cast": "Ben Kingsley, Aaron Eckhart, Angus Sampson, Kelly Gale",
+    "details": "Una scialba operazione nostalgia con personaggi troppo piatti. Azione, Drammatico, Horror - Spagna, Nuova Zelanda, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:35",
+          "21:25",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:30"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
     "mathyas-pick": false
   },
   {
@@ -131,11 +130,11 @@
     "original_title": "The Odyssey",
     "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
     "release_date": "2026-07-15",
-    "vote_average": 7.9,
+    "vote_average": 7.954,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event directed by Christopher Nolan, reimagining a foundational myth through his signature high-concept lens.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, reimagining classical mythology through his signature ambitious lens.",
     "mathyas-pick": true
   },
   {
@@ -210,7 +209,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.428,
+    "vote_average": 7.427,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -239,7 +238,7 @@
     "original_title": "Trolls Band Together",
     "overview": "Dopo due film all'insegna della vera amicizia e del continuo flirt, Poppy e Branch sono ora ufficialmente, finalmente, una coppia (#broppy)! Man mano che si legano sempre di più, Poppy scopre che Branch ha un passato segreto. Faceva parte della sua boyband preferita, la BroZone, insieme ai suoi quattro fratelli: Floyd, John Dory, Spruce e Clay. I BroZone si sono sciolti quando Branch era ancora un bambino, così come la sua famiglia, e da allora Branch non ha più visto i suoi fratelli.  Ma quando Floyd, il fratello di Branch, viene rapito a causa del suo talento musicale da una coppia di malvagie popstar - Velvet e Veneer - Branch e Poppy intraprendono un viaggio straordinario ed emozionante per riunire gli altri fratelli e salvare Floyd da un destino ancora peggiore dell'oscurità della cultura pop.",
     "release_date": "2023-10-12",
-    "vote_average": 7.244,
+    "vote_average": 7.247,
     "poster_url": "https://image.tmdb.org/t/p/w500/gx6sv1g1Z3wLkWLVqN0RbjAfyzO.jpg",
     "genres": "Animazione, Famiglia, Musica, Fantasy, Commedia, Avventura",
     "director": "Walt Dohrn",
@@ -266,7 +265,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg",
     "genres": "Dramma, Thriller, Crime, Mistero",
     "director": "Jafar Panahi",
-    "ai_reason": "An essential work from Iranian master Jafar Panahi, offering a rigorous and psychologically complex exploration of morality and surveillance.",
+    "ai_reason": "A profound exercise in tension and morality from world-renowned Iranian auteur Jafar Panahi.",
     "mathyas-pick": true
   },
   {
@@ -293,11 +292,11 @@
     "original_title": "Evil Dead Burn",
     "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
     "release_date": "2026-07-07",
-    "vote_average": 6.819,
+    "vote_average": 6.825,
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror",
     "director": "Sébastien Vaniček",
-    "ai_reason": "Directed by emerging auteur Sébastien Vaniček, this entry elevates genre tropes into a visceral, psychological study of grief and autonomy.",
+    "ai_reason": "A visceral, elevated horror experience from emerging auteur Sébastien Vaniček, blending psychological depth with genre subversion.",
     "mathyas-pick": true
   },
   {
@@ -321,7 +320,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
     "genres": "Animazione, Dramma",
     "director": "四宮義俊",
-    "ai_reason": "A visually stunning example of prestige Japanese animation, favoring poetic narrative and artistic craftsmanship over commercial formula.",
+    "ai_reason": "A work of prestige animation featuring the sophisticated visual artistry of Yoshitoshi Shinomiya.",
     "mathyas-pick": true
   },
   {
@@ -351,7 +350,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.403,
+    "vote_average": 6.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
