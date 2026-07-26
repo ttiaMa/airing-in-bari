@@ -1,0 +1,391 @@
+[
+  {
+    "title": "DEEP WATER - INCUBO DAGLI ABISSI",
+    "cast": "Ben Kingsley, Aaron Eckhart, Angus Sampson, Kelly Gale",
+    "details": "Una scialba operazione nostalgia con personaggi troppo piatti. Azione, Drammatico, Horror - Spagna, Nuova Zelanda, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:35",
+          "21:25",
+          "00:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:30"
+        ]
+      }
+    ],
+    "tmdb_id": null,
+    "director": null,
+    "genres": null,
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA SALITA",
+    "cast": "Roberta Caronia, Francesco Cossu, Antonio Milo, Shalana Santana",
+    "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1523111,
+    "tmdb_title": "La salita",
+    "original_title": "La salita",
+    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
+    "release_date": "2026-04-09",
+    "vote_average": 9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
+    "genres": "Dramma",
+    "director": "Massimiliano Gallo",
+    "ai_reason": "An elevated piece of Italian cinema that explores the intersection of social issues and the cultural legacy of the great Eduardo De Filippo.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "JUMPERS - UN SALTO TRA GLI ANIMALI",
+    "cast": "Tecla Insolia, Giorgio Panariello, Francesco Prando, Rossella Izzo",
+    "details": "Un cartone animato che continua la tradizione Disney Pixar di affrontare argomenti delicati con un piglio coraggioso. Animazione, Avventura, Commedia - USA 2026. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1327819,
+    "tmdb_title": "Jumpers - Un salto tra gli animali",
+    "original_title": "Hoppers",
+    "overview": "Gli scienziati hanno scoperto come far “saltare” la coscienza umana in animali robotici realistici, permettendo alle persone di comunicare con gli animali, come animali! L'amante degli animali Mabel coglie l'opportunità per usare la tecnologia, svelando misteri nel mondo animale oltre qualsiasi cosa potesse immaginare.",
+    "release_date": "2026-03-04",
+    "vote_average": 8.188,
+    "poster_url": "https://image.tmdb.org/t/p/w500/k6gJLmAVZlEkFTv40YcPIaSBGkn.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantascienza",
+    "director": "Daniel Chong",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "12:00",
+          "14:00",
+          "14:20",
+          "14:50",
+          "15:25",
+          "16:00",
+          "16:35",
+          "17:00",
+          "17:30",
+          "18:00",
+          "18:45",
+          "19:45",
+          "20:00",
+          "20:30",
+          "20:45",
+          "21:00",
+          "21:30",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "12:00",
+          "13:00",
+          "14:00",
+          "15:15",
+          "16:00",
+          "17:00",
+          "18:00",
+          "19:00",
+          "20:00",
+          "21:00",
+          "22:00",
+          "23:00",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "release_date": "2026-07-15",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A major cinematic event directed by Christopher Nolan, reimagining a foundational myth through his signature high-concept lens.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "F1 - IL FILM",
+    "cast": "Brad Pitt, Damson Idris, Kerry Condon, Tobias Menzies",
+    "details": "Tra cinema e marketing, un film dall'intrattenimento garantito. Sportivo, USA 2025. Durata 155 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20"
+        ]
+      }
+    ],
+    "tmdb_id": 911430,
+    "tmdb_title": "F1: Il film",
+    "original_title": "F1",
+    "overview": "La leggenda delle corse automobilistiche Sonny Hayes viene convinto a uscire dal ritiro per guidare un team di Formula 1 in difficoltà e fare da mentore a un giovane pilota promettente, mentre insegue un'altra possibilità di gloria.",
+    "release_date": "2025-06-25",
+    "vote_average": 7.815,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg",
+    "genres": "Azione, Dramma",
+    "director": "Joseph Kosinski",
+    "mathyas-pick": false
+  },
+  {
+    "title": "L'HANGAR ROSSO",
+    "cast": "Nicolás Zárate, Boris Quercia, Marcial Tagle, Catalina Stuardo",
+    "details": "Un ottimo thriller dall'eleganza concisa. Il racconto degli Anni Settanta in Cile, intriso delle preoccupazioni del presente. Drammatico, Italia, Cile 2026. Durata 83 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30",
+          "19:15",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1563588,
+    "tmdb_title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "release_date": "2026-05-08",
+    "vote_average": 7.6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "genres": "Dramma, Storia, Thriller",
+    "director": "Juan Pablo Sallato",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TOY STORY 5",
+    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
+    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20",
+          "14:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1084244,
+    "tmdb_title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "release_date": "2026-06-17",
+    "vote_average": 7.428,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genres": "Animazione, Famiglia, Commedia, Avventura",
+    "director": "Andrew Stanton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TROLLS 3 - TUTTI INSIEME",
+    "cast": "Anna Kendrick, Justin Timberlake, Camila Cabello, Eric André",
+    "details": "Una saga che si è spinta troppo oltre. Gioca sul sicure ma le cartucce erano già esaurite. Animazione, Commedia, Family - USA 2023. Durata 92 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 901362,
+    "tmdb_title": "Trolls 3 - Tutti insieme",
+    "original_title": "Trolls Band Together",
+    "overview": "Dopo due film all'insegna della vera amicizia e del continuo flirt, Poppy e Branch sono ora ufficialmente, finalmente, una coppia (#broppy)! Man mano che si legano sempre di più, Poppy scopre che Branch ha un passato segreto. Faceva parte della sua boyband preferita, la BroZone, insieme ai suoi quattro fratelli: Floyd, John Dory, Spruce e Clay. I BroZone si sono sciolti quando Branch era ancora un bambino, così come la sua famiglia, e da allora Branch non ha più visto i suoi fratelli.  Ma quando Floyd, il fratello di Branch, viene rapito a causa del suo talento musicale da una coppia di malvagie popstar - Velvet e Veneer - Branch e Poppy intraprendono un viaggio straordinario ed emozionante per riunire gli altri fratelli e salvare Floyd da un destino ancora peggiore dell'oscurità della cultura pop.",
+    "release_date": "2023-10-12",
+    "vote_average": 7.244,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gx6sv1g1Z3wLkWLVqN0RbjAfyzO.jpg",
+    "genres": "Animazione, Famiglia, Musica, Fantasy, Commedia, Avventura",
+    "director": "Walt Dohrn",
+    "mathyas-pick": false
+  },
+  {
+    "title": "UN SEMPLICE INCIDENTE",
+    "cast": "Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi, Hadis Pakbaten",
+    "details": "Un film in cui la denuncia si fa durissima anche quando sceglie la strada dell'ironia. Drammatico, Iran, Francia, Lussemburgo 2025. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1456349,
+    "tmdb_title": "Un semplice incidente",
+    "original_title": "Un simple accident",
+    "overview": "Padre, madre e figlioletta percorrono di notte una strada in auto quando un cane finisce sotto le ruote. Ciò provoca un danneggiamento al veicolo che costringe ad una sosta per la riparazione temporanea. Un uomo che si trova sul posto cerca di non farsi vedere perché gli è parso di riconoscere nel conducente dell'auto un agente dei servizi segreti che lo ha sottoposto a violenza in carcere. Riesce successivamente a sequestrarlo ed è pronto a seppellirlo vivo quando gli viene il dubbio che si tratti di uno scambio di persona. Cercherà conferme in altri che, come lui seppure in misure diverse, hanno subito la ferocia dell'uomo.",
+    "release_date": "2025-10-01",
+    "vote_average": 7.134,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg",
+    "genres": "Dramma, Thriller, Crime, Mistero",
+    "director": "Jafar Panahi",
+    "ai_reason": "An essential work from Iranian master Jafar Panahi, offering a rigorous and psychologically complex exploration of morality and surveillance.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA CASA - IL ROGO DEL MALE",
+    "cast": "Souheila Yacoub, Hunter Doohan, Luciane Buchanan, Tandi Wright",
+    "details": "Il sesto capitolo del franchise mostra il suo debito al cinema di Raimi. Horror, USA 2026. Durata 112 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:15",
+          "22:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "23:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1212763,
+    "tmdb_title": "La casa - Il rogo del Male",
+    "original_title": "Evil Dead Burn",
+    "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
+    "release_date": "2026-07-07",
+    "vote_average": 6.819,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
+    "genres": "Horror",
+    "director": "Sébastien Vaniček",
+    "ai_reason": "Directed by emerging auteur Sébastien Vaniček, this entry elevates genre tropes into a visceral, psychological study of grief and autonomy.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "A NEW DAWN",
+    "cast": "Riku Hagiwara, Kotone Furukawa, Miyu Irino, Takashi Okabe",
+    "details": "Un'opera prima di emozionante bellezza visiva che trasforma la nostalgia in colore. Animazione, Giappone, Francia 2026. Durata 76 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1279865,
+    "tmdb_title": "A New Dawn",
+    "original_title": "花緑青が明ける日に",
+    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale\".",
+    "release_date": "2026-03-06",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
+    "genres": "Animazione, Dramma",
+    "director": "四宮義俊",
+    "ai_reason": "A visually stunning example of prestige Japanese animation, favoring poetic narrative and artistic craftsmanship over commercial formula.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:20",
+          "14:40",
+          "15:00",
+          "18:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:50",
+          "17:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.403,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TERAPIA DI FAMIGLIA",
+    "cast": "Christian Clavier, Baptiste Lecaplain, Claire Chust, Cristiana Reali",
+    "details": "Una commedia sugli equivoci che fa leva soprattutto sulla popolarità di Christian Clavier. Commedia, Francia, Belgio 2025. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:45",
+          "17:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:20",
+          "15:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1130402,
+    "tmdb_title": "Terapia di famiglia",
+    "original_title": "Jamais sans mon psy",
+    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
+    "release_date": "2024-12-11",
+    "vote_average": 4.796,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
+    "genres": "Commedia, Famiglia",
+    "director": "Arnaud Lemort",
+    "mathyas-pick": false
+  }
+]
