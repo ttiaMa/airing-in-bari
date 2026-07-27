@@ -1,28 +1,5 @@
 [
   {
-    "title": "LA SALITA",
-    "cast": "Roberta Caronia, Francesco Cossu, Antonio Milo, Shalana Santana",
-    "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1523111,
-    "tmdb_title": "La salita",
-    "original_title": "La salita",
-    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
-    "release_date": "2026-04-09",
-    "vote_average": 9,
-    "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
-    "genres": "Dramma",
-    "director": "Massimiliano Gallo",
-    "mathyas-pick": false
-  },
-  {
     "title": "DEEP WATER - INCUBO DAGLI ABISSI",
     "cast": "Ben Kingsley, Aaron Eckhart, Angus Sampson, Kelly Gale",
     "details": "Una scialba operazione nostalgia con personaggi troppo piatti. Azione, Drammatico, Horror - Spagna, Nuova Zelanda, USA 2026. Durata 106 Minuti.",
@@ -61,7 +38,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
     "genres": "Animazione, Thriller",
     "director": "Satoshi Kon",
-    "ai_reason": "A seminal work of psychological surrealism by the legendary Satoshi Kon; an absolute pillar of prestige animation and cinema history.",
+    "ai_reason": "A seminal work of psychological surrealism by the legendary Satoshi Kon, this is the pinnacle of prestige animation and an essential cult masterpiece.",
     "mathyas-pick": true
   },
   {
@@ -111,7 +88,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "An essential cinematic event directed by Christopher Nolan, bringing a visionary scale and high-brow ambition to the Homeric epic.",
+    "ai_reason": "Christopher Nolan's grand-scale adaptation of Homeric myth is the definitive cinematic event of the season, blending epic scope with auteur precision.",
     "mathyas-pick": true
   },
   {
@@ -185,7 +162,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
     "genres": "Mistero, Thriller, Horror",
     "director": "Pupi Avati",
-    "ai_reason": "A masterpiece of the Italian Gothic; Pupi Avati's cult classic remains a chilling, high-art study of rural dread and mystery.",
+    "ai_reason": "An essential cornerstone of Italian Gothic horror, Pupi Avati’s cult masterpiece is a chilling, atmospheric study of rural paranoia and art.",
     "mathyas-pick": true
   },
   {
@@ -193,6 +170,12 @@
     "cast": "Guillaume Marbeck, Zoey Deutch, Aubry Dullin, Alix Bénézech",
     "details": "Il racconto appassionato e appassionante della realizzazione di Fino all'ultimo respiro, film-simbolo della nouvelle vague. Commedia, Biografico, Drammatico - Francia 2025. Durata 106 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -209,31 +192,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
     "genres": "Commedia, Dramma, Storia",
     "director": "Richard Linklater",
-    "ai_reason": "Richard Linklater explores the genesis of the French New Wave; a sophisticated meta-cinematic event for true students of film history.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "UN SEMPLICE INCIDENTE",
-    "cast": "Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi, Hadis Pakbaten",
-    "details": "Un film in cui la denuncia si fa durissima anche quando sceglie la strada dell'ironia. Drammatico, Iran, Francia, Lussemburgo 2025. Durata 101 Minuti.",
-    "cinemas": [
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1456349,
-    "tmdb_title": "Un semplice incidente",
-    "original_title": "Un simple accident",
-    "overview": "Padre, madre e figlioletta percorrono di notte una strada in auto quando un cane finisce sotto le ruote. Ciò provoca un danneggiamento al veicolo che costringe ad una sosta per la riparazione temporanea. Un uomo che si trova sul posto cerca di non farsi vedere perché gli è parso di riconoscere nel conducente dell'auto un agente dei servizi segreti che lo ha sottoposto a violenza in carcere. Riesce successivamente a sequestrarlo ed è pronto a seppellirlo vivo quando gli viene il dubbio che si tratti di uno scambio di persona. Cercherà conferme in altri che, come lui seppure in misure diverse, hanno subito la ferocia dell'uomo.",
-    "release_date": "2025-10-01",
-    "vote_average": 7.134,
-    "poster_url": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg",
-    "genres": "Dramma, Thriller, Crime, Mistero",
-    "director": "Jafar Panahi",
-    "ai_reason": "A masterclass in tension and moral ambiguity from Jafar Panahi, one of the most significant and acclaimed voices in world cinema.",
+    "ai_reason": "Richard Linklater’s meta-exploration of Jean-Luc Godard and the birth of the French New Wave is a sophisticated love letter to cinema history.",
     "mathyas-pick": true
   },
   {
@@ -257,7 +216,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
     "genres": "Horror, Mistero, Fantascienza",
     "director": "Kane Parsons",
-    "ai_reason": "A groundbreaking entry in the 'liminal space' subgenre, representing the new wave of A24-backed elevated horror by a viral emerging auteur.",
+    "ai_reason": "Backed by A24, this expansion of Kane Parsons' viral universe represents the cutting edge of elevated, atmospheric horror and the arrival of a new auteur.",
     "mathyas-pick": true
   },
   {
@@ -277,12 +236,11 @@
     "original_title": "Evil Dead Burn",
     "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
     "release_date": "2026-07-07",
-    "vote_average": 6.829,
+    "vote_average": 6.825,
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror",
     "director": "Sébastien Vaniček",
-    "ai_reason": "Emerging auteur Sébastien Vaniček revitalizes the franchise with a visceral and psychologically charged approach to elevated horror.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "A NEW DAWN",
@@ -305,7 +263,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
     "genres": "Animazione, Dramma",
     "director": "四宮義俊",
-    "ai_reason": "A stunning example of contemporary prestige animation, blending lyrical storytelling with the high artistic merit expected of indie Japanese cinema.",
+    "ai_reason": "A visually poetic and emotionally resonant work of prestige animation from a significant rising voice in Japanese indie cinema.",
     "mathyas-pick": true
   },
   {
