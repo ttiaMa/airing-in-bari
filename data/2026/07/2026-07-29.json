@@ -55,12 +55,89 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.97,
+    "vote_average": 7.968,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
-    "director": "Christopher Nolan, Fadhil Habibur",
-    "ai_reason": "A major cinematic event from Christopher Nolan, a director whose work bridges the gap between massive scale and high-brow auteurism.",
+    "director": "Christopher Nolan",
+    "ai_reason": "Christopher Nolan’s visionary take on the Homeric epic is the definition of a cinematic event, promising a grand-scale formalist spectacle that demands the largest screen possible.",
     "mathyas-pick": true
+  },
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "11:55",
+          "13:50",
+          "14:15",
+          "14:50",
+          "15:25",
+          "16:10",
+          "16:40",
+          "17:10",
+          "17:30",
+          "18:10",
+          "18:30",
+          "19:00",
+          "19:30",
+          "20:00",
+          "20:30",
+          "21:00",
+          "21:20",
+          "21:30",
+          "22:00",
+          "22:30",
+          "23:20",
+          "23:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "11:15",
+          "11:30",
+          "12:20",
+          "13:00",
+          "14:00",
+          "14:15",
+          "14:30",
+          "15:00",
+          "15:30",
+          "15:50",
+          "16:10",
+          "17:00",
+          "17:40",
+          "18:10",
+          "19:00",
+          "19:20",
+          "20:20",
+          "20:45",
+          "21:20",
+          "21:30",
+          "21:50",
+          "22:10",
+          "22:30",
+          "23:30",
+          "11:00",
+          "18:40"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-28",
+    "vote_average": 7.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
   },
   {
     "title": "TOY STORY 5",
@@ -79,12 +156,11 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.424,
+    "vote_average": 7.423,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
-    "ai_reason": "A major release from the prestige animation house Pixar, helmed by Andrew Stanton, maintaining the high artistic standard of the studio's legacy.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "A NEW DAWN",
@@ -107,7 +183,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
     "genres": "Animazione, Dramma",
     "director": "四宮義俊",
-    "ai_reason": "A visually arresting piece of prestige Japanese animation by Yoshitoshi Shinomiya, prioritizing artistic depth and atmospheric storytelling.",
+    "ai_reason": "A sophisticated example of prestige Japanese animation from Yoshitoshi Shinomiya, offering a melancholic and visually arresting exploration of memory, urban decay, and craftsmanship.",
     "mathyas-pick": true
   },
   {
@@ -131,31 +207,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror",
     "director": "Sébastien Vaniček",
-    "ai_reason": "A prestige entry in a legendary cult franchise, reimagined by rising French horror auteur Sébastien Vaniček for the modern elevated genre landscape.",
+    "ai_reason": "Directed by emerging genre auteur Sébastien Vaniček, this visceral reimagining explores themes of loss and autonomy through a lens of claustrophobic, elevated horror.",
     "mathyas-pick": true
-  },
-  {
-    "title": "NINO",
-    "cast": "Théodore Pellerin, Jeanne Balibar, William Lebghil, Salomé Dewaels",
-    "details": "Un esordio ricco di sfumature e di sottili trovate narrative. Una piccola opera che contiene moltitudini. Drammatico, Francia 2025. Durata 96 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 247182,
-    "tmdb_title": "El Niño",
-    "original_title": "El Niño",
-    "overview": "Due giovani, Niño e Compi, entrano nel mondo del traffico di droga nello Stretto di Gibilterra, mentre due agenti di polizia, Jesús ed Eva, cercano di sradicare il contrabbando.",
-    "release_date": "2014-08-29",
-    "vote_average": 6.445,
-    "poster_url": "https://image.tmdb.org/t/p/w500/cOSAcaVdqQoyX7VDigjAy94mMaO.jpg",
-    "genres": "Dramma, Thriller",
-    "director": "Daniel Monzón",
-    "mathyas-pick": false
   },
   {
     "title": "MINIONS & MONSTERS",
@@ -175,7 +228,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.416,
+    "vote_average": 6.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -209,6 +262,12 @@
     "cast": "Urs Althaus, Daniele Pace, Tinì Cansino, Alfredo Cerruti",
     "details": "Uno scult movie che ha finito per diventare un cult. Comico, Italia 1984. Durata 98 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
