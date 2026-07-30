@@ -100,11 +100,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.943,
+    "vote_average": 7.939,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from visionary director Christopher Nolan, reimagining Homeric myth with his signature high-concept scale and technical precision.",
+    "ai_reason": "A monumental cinematic event from visionary director Christopher Nolan, redefining the epic for the modern age with intellectual depth.",
     "mathyas-pick": true
   },
   {
@@ -128,7 +128,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/in0kk41QEtO8ITaEzkpjX2LQBuJ.jpg",
     "genres": "Animazione, Dramma, Famiglia",
     "director": "Maïlys Vallade, Liane-cho Han",
-    "ai_reason": "An exquisite example of prestige animation, offering a profound and emotionally complex narrative that transcends traditional children's entertainment.",
+    "ai_reason": "A poignant work of prestige animation that rejects commercial tropes in favor of an artistic and emotionally resonant narrative.",
     "mathyas-pick": true
   },
   {
@@ -152,7 +152,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mVCCZiyDK1jlUxUz3EAzwdpdZx8.jpg",
     "genres": "Romance, Fantasy, Dramma",
     "director": "Jean Cocteau",
-    "ai_reason": "A essential pillar of poetic surrealism; Jean Cocteau's masterpiece is a mandatory inclusion for any serious student of cinema history.",
+    "ai_reason": "An essential pillar of surrealist cinema by legendary auteur Jean Cocteau, representing the pinnacle of avant-garde classicism.",
     "mathyas-pick": true
   },
   {
@@ -173,35 +173,11 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.426,
+    "vote_average": 7.427,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
     "mathyas-pick": false
-  },
-  {
-    "title": "LA CASA - IL ROGO DEL MALE",
-    "cast": "Souheila Yacoub, Hunter Doohan, Luciane Buchanan, Tandi Wright",
-    "details": "Il sesto capitolo del franchise mostra il suo debito al cinema di Raimi. Horror, USA 2026. Durata 112 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "00:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1212763,
-    "tmdb_title": "La casa - Il rogo del Male",
-    "original_title": "Evil Dead Burn",
-    "overview": "Dopo la perdita del marito, una donna cerca conforto presso i suoceri nella loro isolata casa di famiglia. Mentre uno dopo l'altro vengono trasformati in \"Deadites\" - rendendo l'incontro un infernale riunione di famiglia - lei scoprirà che i voti pronunciati in vita... continuano a vivere anche oltre la morte.",
-    "release_date": "2026-07-07",
-    "vote_average": 6.8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
-    "genres": "Horror",
-    "director": "Sébastien Vaniček",
-    "ai_reason": "Elevated genre filmmaking from rising horror auteur Sébastien Vaniček, delivering a psychologically charged and visceral expansion of a classic horror mythos.",
-    "mathyas-pick": true
   },
   {
     "title": "MINIONS & MONSTERS",
@@ -228,7 +204,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.423,
+    "vote_average": 6.413,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -239,6 +215,12 @@
     "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
     "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -255,30 +237,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar",
-    "ai_reason": "International auteur Pedro Almodóvar returns with a sophisticated, meta-fictional exploration of the creative process and the blurring of life and art.",
+    "ai_reason": "Major auteur Pedro Almodóvar delivers a sophisticated meta-narrative on the fluid boundaries between life, inspiration, and art.",
     "mathyas-pick": true
-  },
-  {
-    "title": "ARRAPAHO",
-    "cast": "Urs Althaus, Daniele Pace, Tinì Cansino, Alfredo Cerruti",
-    "details": "Uno scult movie che ha finito per diventare un cult. Comico, Italia 1984. Durata 98 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 42416,
-    "tmdb_title": "Arrapaho",
-    "original_title": "Arrapaho",
-    "overview": "Due tribù indiane, i Frocehiennes e i Cefalones, si contendono lo stesso territorio, ed in questo scenario si svolge la storia d'amore tra Scella Pezzata ed Arrapaho, ma il padre della ragazza, Palla Pesante, l'ha già promessa in sposa a Cavallo Pazzo. Alla fine Scella Pezzata fugge con il suo amore, ed a Cavallo Pazzo non resta che rifugiarsi tra le braccia di uno dei Frocehiennes...",
-    "release_date": "1984-08-14",
-    "vote_average": 5.045,
-    "poster_url": "https://image.tmdb.org/t/p/w500/wSlNEu3zAilJCK1TS2rLjiwtzwO.jpg",
-    "genres": "Commedia",
-    "director": "Ciro Ippolito",
-    "mathyas-pick": false
   }
 ]
