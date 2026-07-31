@@ -25,26 +25,25 @@
         "name": "The Space Casamassima",
         "times": [
           "11:30",
-          "12:00",
+          "12:20",
           "13:15",
           "13:50",
           "14:15",
           "14:50",
           "15:20",
           "15:50",
+          "16:15",
           "17:10",
           "17:40",
           "18:10",
           "18:40",
-          "19:00",
           "19:10",
           "20:30",
           "21:00",
           "21:30",
           "22:00",
           "22:30",
-          "22:45",
-          "23:45"
+          "23:15"
         ]
       },
       {
@@ -91,15 +90,15 @@
         "name": "The Space Casamassima",
         "times": [
           "11:00",
-          "12:05",
-          "14:35",
-          "15:15",
+          "12:30",
+          "14:45",
           "16:30",
           "17:30",
-          "18:25",
+          "18:30",
+          "19:30",
           "20:15",
           "21:15",
-          "22:10"
+          "22:15"
         ]
       },
       {
@@ -121,11 +120,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.943,
+    "vote_average": 7.944,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, reimagining Homeric myth through his signature lens of prestige blockbuster filmmaking.",
+    "ai_reason": "A definitive cinematic event from Christopher Nolan, promising a cerebral and visually grand interpretation of mythic storytelling.",
     "mathyas-pick": true
   },
   {
@@ -149,7 +148,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mVCCZiyDK1jlUxUz3EAzwdpdZx8.jpg",
     "genres": "Romance, Fantasy, Dramma",
     "director": "Jean Cocteau",
-    "ai_reason": "A cornerstone of French avant-garde and poetic surrealism; Cocteau's masterpiece remains a vital piece of cinema history.",
+    "ai_reason": "A foundational masterpiece of avant-garde cinema; Cocteau’s poetic surrealism remains an essential pillar of film history.",
     "mathyas-pick": true
   },
   {
@@ -160,8 +159,8 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "11:20",
-          "12:45"
+          "11:15",
+          "12:05"
         ]
       }
     ],
@@ -185,7 +184,7 @@
         "name": "The Space Casamassima",
         "times": [
           "11:00",
-          "12:05",
+          "13:00",
           "15:10"
         ]
       },
@@ -201,7 +200,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.428,
+    "vote_average": 6.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -234,7 +233,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
     "genres": "Dramma, Commedia",
     "director": "Pedro Almodóvar",
-    "ai_reason": "The legendary Almodóvar returns with a meta-narrative exploration of autofiction, a must-watch for devotees of contemporary European auteur cinema.",
+    "ai_reason": "Pedro Almodóvar returns with a sophisticated meta-narrative, further cementing his status as a premier auteur of contemporary arthouse drama.",
     "mathyas-pick": true
   },
   {
