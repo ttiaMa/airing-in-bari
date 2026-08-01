@@ -25,25 +25,25 @@
         "name": "The Space Casamassima",
         "times": [
           "11:30",
-          "12:20",
+          "12:30",
           "13:15",
           "13:50",
-          "14:15",
+          "14:10",
           "14:50",
-          "15:20",
           "15:50",
-          "16:15",
+          "16:20",
           "17:10",
           "17:40",
           "18:10",
-          "18:40",
           "19:10",
+          "19:40",
           "20:30",
           "21:00",
           "21:30",
-          "22:00",
           "22:30",
-          "23:15"
+          "23:15",
+          "23:50",
+          "00:00"
         ]
       },
       {
@@ -89,15 +89,15 @@
         "name": "The Space Casamassima",
         "times": [
           "11:00",
-          "12:30",
-          "14:45",
+          "12:35",
+          "13:55",
+          "15:40",
           "16:30",
           "17:30",
-          "18:30",
           "19:30",
           "20:15",
           "21:15",
-          "22:15"
+          "23:00"
         ]
       },
       {
@@ -122,7 +122,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from Christopher Nolan, reimagining the Homeric epic through his signature lens of grand scale and intellectual rigor.",
+    "ai_reason": "A major cinematic event from Christopher Nolan; a cerebral, auteurist reimagining of the Homeric epic that promises both visual grandeur and intellectual depth.",
     "mathyas-pick": true
   },
   {
@@ -133,8 +133,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "11:15",
-          "12:05"
+          "11:15"
         ]
       }
     ],
@@ -178,6 +177,12 @@
     "details": "La quarta regia di Pif è un lavoro piacevole ma discontinuo, con un ottimo cast. Commedia, Italia 2026. Durata 113 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -203,9 +208,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "11:00",
-          "13:00",
-          "15:10"
+          "11:50"
         ]
       },
       {
@@ -225,30 +228,6 @@
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
     "mathyas-pick": false
-  },
-  {
-    "title": "AMARGA NAVIDAD",
-    "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Vicky Luengo",
-    "details": "Almodóvar è ancora magnifico nel contrapporre spazi, musiche e tinte. Ma la messinscena risulta asfittica. Drammatico, Spagna 2026. Durata 111 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1088548,
-    "tmdb_title": "Amarga Navidad",
-    "original_title": "Amarga Navidad",
-    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
-    "release_date": "2026-03-20",
-    "vote_average": 6.403,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Pedro Almodóvar",
-    "ai_reason": "A meta-narrative masterclass from legendary auteur Pedro Almodóvar, exploring the blurred boundaries between autofiction, memory, and the creative soul.",
-    "mathyas-pick": true
   },
   {
     "title": "TERAPIA DI FAMIGLIA",
