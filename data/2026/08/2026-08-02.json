@@ -51,8 +51,7 @@
           "21:30",
           "21:45",
           "22:10",
-          "22:30",
-          "00:00"
+          "22:30"
         ]
       },
       {
@@ -132,7 +131,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event directed by Christopher Nolan, whose intellectual approach to the epic genre represents the pinnacle of contemporary prestige filmmaking.",
+    "ai_reason": "A definitive cinematic event from Christopher Nolan; this grand-scale epic reimagines the Odyssey with the intellectual rigor, mythic scope, and visual grandeur that defines the pinnacle of modern auteur-led blockbusters.",
     "mathyas-pick": true
   },
   {
@@ -159,7 +158,7 @@
     "original_title": "Toy Story 5",
     "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
     "release_date": "2026-06-17",
-    "vote_average": 7.427,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
@@ -209,8 +208,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
     "genres": "Dramma",
     "director": "Eva Libertad",
-    "ai_reason": "A rigorous and intimate piece of arthouse cinema that delves into the psychological complexities of autonomy and motherhood, fitting the profile of elevated indie drama.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "... CHE DIO PERDONA A TUTTI",
@@ -246,6 +244,12 @@
           "11:15",
           "14:05",
           "15:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:40"
         ]
       }
     ],
