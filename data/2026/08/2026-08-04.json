@@ -104,7 +104,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan elevates the epic tradition into a significant cinematic event, blending grand-scale ambition with his distinct intellectual rigor.",
+    "ai_reason": "A definitive cinematic event from Christopher Nolan, merging the grand scale of the mythological epic with his signature auteurist precision and a powerhouse ensemble cast.",
     "mathyas-pick": true
   },
   {
@@ -134,30 +134,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
-    "mathyas-pick": false
-  },
-  {
-    "title": "UNA BATTAGLIA DOPO L'ALTRA",
-    "cast": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro, Regina Hall",
-    "details": "Anderson fa il suo 'grande romanzo americano'. Un film corrosivo sulle rivoluzioni familiari, politiche, sociali. Drammatico, Thriller - USA 2025. Durata 161 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1054867,
-    "tmdb_title": "Una battaglia dopo l’altra",
-    "original_title": "One Battle After Another",
-    "overview": "Un gruppo di ex rivoluzionari si riunisce quando un loro perfido nemico riemerge dal loro passato, dopo sedici anni di silenzio. Il gruppo avrà il duro compito di salvare la figlia di uno di loro, prima che accada l'inevitabile.",
-    "release_date": "2025-09-23",
-    "vote_average": 7.348,
-    "poster_url": "https://image.tmdb.org/t/p/w500/3TjxuSfBSkhB8OvBov7Dk4L0Bcd.jpg",
-    "genres": "Thriller, Crime, Commedia",
-    "director": "Paul Thomas Anderson",
-    "ai_reason": "A vital new work from Paul Thomas Anderson, a premier auteur whose mastery of the craft represents the pinnacle of contemporary prestige cinema.",
+    "ai_reason": "While part of a franchise, the involvement of Pixar visionary Andrew Stanton elevates this to the category of prestige animation with significant artistic and narrative merit.",
     "mathyas-pick": true
   },
   {
@@ -181,13 +158,20 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/y8cYRikwfPbsSSa0Iv0aJaAXuVm.jpg",
     "genres": "Commedia, Thriller",
     "director": "John Patton Ford",
-    "mathyas-pick": false
+    "ai_reason": "A biting modern indie thriller from emerging auteur John Patton Ford, utilizing a sharp cast to explore themes of class and inheritance through a sophisticated satirical lens.",
+    "mathyas-pick": true
   },
   {
     "title": "GIOIA MIA",
     "cast": "Marco Fiore, Aurora Quattrocchi, Martina Ziami, Camille Dugay Comencini",
     "details": "Un film semplice e nostalgico che guarda alla proverbiale estate italiana che forse non esiste più. Drammatico, Italia 2025. Durata 90 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -279,7 +263,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/igxu059sGN6fhVevObwE1mRCwHS.jpg",
     "genres": "Dramma",
     "director": "Fabio Segatori",
-    "ai_reason": "An ambitious Italian exploration of the Cervantean myth that prioritizes poetic realism and literary depth, anchored by the presence of Marcello Fonte.",
+    "ai_reason": "A sophisticated Italian auteurist reimagining of Cervantes, anchored by the presence of Marcello Fonte and exploring the intersection of madness and poetic truth.",
     "mathyas-pick": true
   }
 ]
