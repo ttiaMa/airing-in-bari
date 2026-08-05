@@ -26,10 +26,10 @@
         "times": [
           "16:30",
           "17:30",
-          "18:20",
+          "18:00",
           "20:15",
           "21:15",
-          "22:05"
+          "21:50"
         ]
       },
       {
@@ -54,7 +54,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, a director who epitomizes the intersection of grand-scale spectacle and intellectual depth.",
+    "ai_reason": "A definitive cinematic event; Christopher Nolan applies his signature grand-scale precision to the foundational epic of Western literature.",
     "mathyas-pick": true
   },
   {
@@ -66,17 +66,15 @@
         "name": "The Space Casamassima",
         "times": [
           "16:00",
-          "16:45",
           "17:10",
           "17:40",
           "18:10",
-          "18:35",
+          "18:50",
           "19:15",
-          "20:00",
           "20:30",
           "21:00",
           "21:30",
-          "21:50",
+          "22:00",
           "22:30"
         ]
       },
@@ -113,6 +111,12 @@
     "details": "Ipertrofico e ipercostruito, il cinema di Park Chan-wook è ancora una volta un modo per conoscere il mondo. E cambiarlo. Commedia nera, Drammatico - Corea del sud 2025. Durata 139 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -128,31 +132,41 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nt2WCkLXv1VSlcwiNIEpnspWM5x.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Park Chan-wook",
-    "ai_reason": "The return of Park Chan-wook, a titan of contemporary world cinema, ensuring a meticulously crafted and narratively complex psychological thriller.",
+    "ai_reason": "A new masterwork from legendary auteur Park Chan-wook, blending his clinical visual style with a biting, dark social satire.",
     "mathyas-pick": true
   },
   {
-    "title": "GIOIA MIA",
-    "cast": "Marco Fiore, Aurora Quattrocchi, Martina Ziami, Camille Dugay Comencini",
-    "details": "Un film semplice e nostalgico che guarda alla proverbiale estate italiana che forse non esiste più. Drammatico, Italia 2025. Durata 90 Minuti.",
+    "title": "HOKUM",
+    "cast": "Adam Scott, Peter Coonan, David Wilmot, Florence Ordesh",
+    "details": "Damian McCarthy conferma il suo talento, firmando un folk horror che intreccia soprannaturale, trauma e redenzione. Horror, Thriller - Irlanda, Emirati Arabi Uniti 2026. Durata 107 Minuti.",
     "cinemas": [
       {
-        "name": "Arena Quattro Palme",
+        "name": "The Space Casamassima",
         "times": [
-          "21:00"
+          "19:20",
+          "18:15",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "22:26"
         ]
       }
     ],
-    "tmdb_id": 1510325,
-    "tmdb_title": "Gioia mia",
-    "original_title": "Gioia mia",
-    "overview": "Nico è un bambino di oggi, dipendente dal telefono e con lo smalto sulle unghie. All'improvviso viene strappato al suo mondo \"del nord\" per passare un mese d'estate in Sicilia, in compagnia di un'anziana zia, Gela. A casa della donna non c'è il wifi né l'aria condizionata, e si mangiano prelibatezze a cui il suo palato non è ancora pronto. Ci sono solo i giochi di carte, l'adorabile cagnolino Frank, e un condominio intero popolato di nonne e nipoti, più forse qualche spirito che abita gli appartamenti all'ultimo piano ed è causa di strani rumori. Nico e Gela, ognuno radicato nelle proprie certezze ma con dolori simili nel cuore, dovranno pian piano cercare un linguaggio comune.",
-    "release_date": "2025-12-11",
-    "vote_average": 6.674,
-    "poster_url": "https://image.tmdb.org/t/p/w500/kYw62IF023miZMKyiAqX4mYat3a.jpg",
-    "genres": "Dramma",
-    "director": "Margherita Spampinato",
-    "mathyas-pick": false
+    "tmdb_id": 1430077,
+    "tmdb_title": "Hokum",
+    "original_title": "Hokum",
+    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+    "release_date": "2026-04-29",
+    "vote_average": 6.939,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+    "genres": "Horror",
+    "director": "Damian McCarthy",
+    "ai_reason": "Following the success of 'Oddity', Damian McCarthy delivers another claustrophobic, elevated horror experience for the discerning genre enthusiast.",
+    "mathyas-pick": true
   },
   {
     "title": "MINIONS & MONSTERS",
@@ -162,7 +176,8 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:00"
+          "16:10",
+          "17:00"
         ]
       },
       {
@@ -177,7 +192,7 @@
     "original_title": "Minions & Monsters",
     "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
     "release_date": "2026-06-24",
-    "vote_average": 6.358,
+    "vote_average": 6.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
@@ -227,7 +242,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/igxu059sGN6fhVevObwE1mRCwHS.jpg",
     "genres": "Dramma",
     "director": "Fabio Segatori",
-    "ai_reason": "An ambitious Italian auteurist adaptation featuring high-caliber talent like Marcello Fonte, elevating Cervantes' myth into a meta-cinematic meditation on idealism.",
+    "ai_reason": "A high-brow Italian drama that avoids commercial tropes, offering a meta-textual exploration of Cervantes' psyche starring the acclaimed Marcello Fonte.",
     "mathyas-pick": true
   }
 ]
