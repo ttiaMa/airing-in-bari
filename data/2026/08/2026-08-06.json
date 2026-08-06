@@ -32,11 +32,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 8,
+    "vote_average": 7.958,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event directed by Christopher Nolan, one of the few contemporary directors blending massive scale with complex, high-brow storytelling.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, reimagining Homeric myth with his signature intellectual scale and technical mastery.",
     "mathyas-pick": true
   },
   {
@@ -87,34 +87,16 @@
     "mathyas-pick": false
   },
   {
-    "title": "NO OTHER CHOICE - NON C'È ALTRA SCELTA",
-    "cast": "Byung-Hun Lee, Ye-Jin Son, Hee-soon Park, Sung-min Lee",
-    "details": "Ipertrofico e ipercostruito, il cinema di Park Chan-wook è ancora una volta un modo per conoscere il mondo. E cambiarlo. Commedia nera, Drammatico - Corea del sud 2025. Durata 139 Minuti.",
+    "title": "L'ATTACHEMENT - LA TENEREZZA",
+    "cast": "Pio Marmaï, Valeria Bruni Tedeschi, Vimala Pons, Raphael Quenard",
+    "details": "Un film di cui ci si innamora. La storia di esseri umani fragili raccontati con uno sguardo empatico che commuove. Drammatico, Francia, Belgio 2024. Durata 106 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
         "times": [
           "21:00"
         ]
-      }
-    ],
-    "tmdb_id": 639988,
-    "tmdb_title": "No Other Choice - Non c'è altra scelta",
-    "original_title": "어쩔수가없다",
-    "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
-    "release_date": "2025-09-24",
-    "vote_average": 7.512,
-    "poster_url": "https://image.tmdb.org/t/p/w500/nt2WCkLXv1VSlcwiNIEpnspWM5x.jpg",
-    "genres": "Commedia, Crime, Thriller",
-    "director": "Park Chan-wook",
-    "ai_reason": "A must-watch work from South Korean master Park Chan-wook. His return to the genre-bending thriller guarantees a sophisticated, visually arresting, and subversive experience.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "L'ATTACHEMENT - LA TENEREZZA",
-    "cast": "Pio Marmaï, Valeria Bruni Tedeschi, Vimala Pons, Raphael Quenard",
-    "details": "Un film di cui ci si innamora. La storia di esseri umani fragili raccontati con uno sguardo empatico che commuove. Drammatico, Francia, Belgio 2024. Durata 106 Minuti.",
-    "cinemas": [
+      },
       {
         "name": "Galleria",
         "times": [
@@ -131,7 +113,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/x5yrKvkEK5lU5Kn7HpU3sxPwqiB.jpg",
     "genres": "Dramma",
     "director": "Carine Tardieu",
-    "mathyas-pick": false
+    "ai_reason": "A sophisticated European character study featuring the peerless Valeria Bruni Tedeschi; an intellectual drama that balances feminist discourse with emotional intimacy.",
+    "mathyas-pick": true
   },
   {
     "title": "HOKUM",
@@ -162,7 +145,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "Damian McCarthy is a rising auteur in the 'elevated horror' scene; this psychological thriller fits the criteria for atmospheric, indie-driven genre hits that explore dark trauma.",
+    "ai_reason": "Emerging horror auteur Damian McCarthy delivers a chilling, psychological exploration of folklore and trauma, fitting the modern elevated genre wave.",
     "mathyas-pick": true
   },
   {
@@ -210,6 +193,35 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sjSSRN3ZpkyFOdyQsKssoGoOF2G.jpg",
     "genres": "Dramma, Commedia",
     "director": "Saverio Smeriglio",
+    "mathyas-pick": false
+  },
+  {
+    "title": "GRETA E LE FAVOLE VERE",
+    "cast": "Sara Ciocca, Raoul Bova, Donatella Finocchiaro, Sabrina Impacciatore",
+    "details": "Una favola ecologista coraggiosa,con un'anima autentica e molto naïf. Commedia, Italia 2026. Durata 93 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30"
+        ]
+      }
+    ],
+    "tmdb_id": 870092,
+    "tmdb_title": "Greta e le favole vere",
+    "original_title": "Greta e le favole vere",
+    "overview": "Greta ha nove anni ed è bravissima a realizzare gli addobbi natalizi con la sua babysitter, Katy. La bambina crede così tanto in Babbo Natale, da decidere di portare una letterina a Nicola, il suo vicino di casa, che le fa credere di essere l’assistente personale di Babbo Natale. Ovviamente Nicola le ha mentito e, quando viene smascherato da Greta, le confessa di non avere nessun rapporto con Babbo Natale. Nicola - che è un bravissimo illustratore - per farsi perdonare, le disegna una fiaba animata che le cambierà la vita: la protagonista della fiaba è Greta Thunberg, una ragazzina che si chiama come lei e che è riuscita a cambiare il mondo, portando al centro dell’attenzione i problemi ambientali e trascinando con la sua determinazione milioni di ragazzi.",
+    "release_date": "2026-08-06",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cbviggp1WTZeijGuFKOoF6XYpsg.jpg",
+    "genres": "Commedia, Famiglia",
+    "director": "Berardo Carboni",
     "mathyas-pick": false
   }
 ]
