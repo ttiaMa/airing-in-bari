@@ -7,11 +7,12 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:55",
+          "16:05",
+          "16:50",
           "17:30",
           "18:25",
-          "19:50",
-          "20:45",
+          "19:40",
+          "20:40",
           "21:15"
         ]
       },
@@ -36,7 +37,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "mathyas-pick": false
+    "ai_reason": "A significant cinematic event directed by Christopher Nolan, a master of the large-scale intellectual spectacle, offering a prestigious and atmospheric reimagining of the epic myth.",
+    "mathyas-pick": true
   },
   {
     "title": "SPIDER-MAN - BRAND NEW DAY",
@@ -46,16 +48,16 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:05",
-          "16:35",
+          "16:20",
           "17:10",
+          "17:45",
           "18:10",
-          "19:00",
-          "19:40",
+          "18:45",
+          "19:50",
           "20:30",
-          "21:10",
+          "21:00",
           "21:30",
-          "22:15"
+          "22:00"
         ]
       },
       {
@@ -86,29 +88,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "L'ATTACHEMENT - LA TENEREZZA",
-    "cast": "Pio Marmaï, Valeria Bruni Tedeschi, Vimala Pons, Raphael Quenard",
-    "details": "Un film di cui ci si innamora. La storia di esseri umani fragili raccontati con uno sguardo empatico che commuove. Drammatico, Francia, Belgio 2024. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1096642,
-    "tmdb_title": "L'attachement - La tenerezza",
-    "original_title": "L'Attachement",
-    "overview": "Sandra vive sola - anzi, non sola, con i suoi libri - e gestisce una libreria \"intellettual-femminista\" (secondo una definizione maschile); fuma molto, regge bene il vino, non cucina, ha compagni occasionali, non ha figli e \"non sa niente di bambini\" (altra definizione maschile). Quando la sua vicina di casa molto incinta esce di corsa per andare a partorire, affidandole temporaneamente il figlio Elliott di cinque anni, Sandra lo accoglie a metà fra il disagio e la tenerezza.",
-    "release_date": "2025-02-19",
-    "vote_average": 7.147,
-    "poster_url": "https://image.tmdb.org/t/p/w500/x5yrKvkEK5lU5Kn7HpU3sxPwqiB.jpg",
-    "genres": "Dramma",
-    "director": "Carine Tardieu",
-    "mathyas-pick": false
-  },
-  {
     "title": "HOKUM",
     "cast": "Adam Scott, Peter Coonan, David Wilmot, Florence Ordesh",
     "details": "Damian McCarthy conferma il suo talento, firmando un folk horror che intreccia soprannaturale, trauma e redenzione. Horror, Thriller - Irlanda, Emirati Arabi Uniti 2026. Durata 107 Minuti.",
@@ -116,8 +95,8 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:30",
-          "22:10",
+          "16:05",
+          "22:11",
           "21:00"
         ]
       },
@@ -137,13 +116,20 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "mathyas-pick": false
+    "ai_reason": "An elevated psychological horror from emerging auteur Damian McCarthy, whose atmospheric and surreal approach to the genre aligns with the high-art sensibilities of modern indie horror hits.",
+    "mathyas-pick": true
   },
   {
     "title": "CINQUE SECONDI",
     "cast": "Valerio Mastandrea, Galatéa Bellugi, Valeria Bruni Tedeschi, Ilaria Spada",
     "details": "Virzì abbandona ogni distacco ironico per immergersi (e immergerci) nel viaggio di redenzione del quale abbiamo disperatamente bisogno oggi. Commedia, Italia 2025. Durata 105 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -160,7 +146,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg",
     "genres": "Dramma",
     "director": "Paolo Virzì",
-    "mathyas-pick": false
+    "ai_reason": "A sophisticated character study from Paolo Virzì, one of the few contemporary Italian directors with major auteur status, focusing on complex human dynamics rather than populist comedy.",
+    "mathyas-pick": true
   },
   {
     "title": "MINIONS & MONSTERS",
@@ -170,8 +157,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:00",
-          "16:40"
+          "16:05"
         ]
       }
     ],
