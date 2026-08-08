@@ -38,11 +38,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.972,
+    "vote_average": 8,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, whose name alone guarantees a high-concept, prestigious adaptation of classical myth, fitting the 'Event Movie' criteria perfectly.",
+    "ai_reason": "A monumental cinematic event from auteur Christopher Nolan, blending epic myth with the high-concept intellectualism and technical mastery characteristic of his prestigious filmography.",
     "mathyas-pick": true
   },
   {
@@ -104,6 +104,12 @@
     "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -155,31 +161,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "Directed by Damian McCarthy, a rising auteur in the elevated horror scene, this promises the psychological depth and atmosphere characteristic of modern indie horror hits.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "CINQUE SECONDI",
-    "cast": "Valerio Mastandrea, Galatéa Bellugi, Valeria Bruni Tedeschi, Ilaria Spada",
-    "details": "Virzì abbandona ogni distacco ironico per immergersi (e immergerci) nel viaggio di redenzione del quale abbiamo disperatamente bisogno oggi. Commedia, Italia 2025. Durata 105 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1368519,
-    "tmdb_title": "Cinque secondi",
-    "original_title": "Cinque secondi",
-    "overview": "Chi è quel tipo dall’aria trascurata che vive da solo nelle stalle ristrutturate di Villa Guelfi? Passa le giornate a non far nulla ed evitando il contatto con tutti. E quando si accorge che nella villa si è stabilita abusivamente una comunità di ragazzi che si dedicano a curare quella campagna e i vigneti abbandonati, si innervosisce e vorrebbe cacciarli. Sono studenti, neolaureati, agronomi, e tra loro c’è Matilde, che è nata in quel posto e da bambina lavorava la vigna con il nonno Conte Guelfo Guelfi. Anche loro sono incuriositi da quel signore misantropo dal passato misterioso: perché sta lì da solo e non vuole avere contatti con nessuno? Mentre avanzano le stagioni, il conflitto con quella comunità di ragazze e ragazzi si trasforma in convivenza, fino a diventare un’alleanza. E Adriano si troverà ad accudire nel suo modo brusco la contessina Matilde, che è incinta di uno di quei ragazzi…",
-    "release_date": "2025-10-30",
-    "vote_average": 6.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/liNU26iShBERaLAgTqVlWizlPaU.jpg",
-    "genres": "Dramma",
-    "director": "Paolo Virzì",
-    "ai_reason": "Paolo Virzì is a cornerstone of modern Italian prestige cinema; this character-driven drama avoids standard tropes to explore complex misanthropy and social shifts.",
+    "ai_reason": "An elevated psychological horror from emerging auteur Damian McCarthy, fitting the atmospheric, arthouse mold of modern indie genre hits.",
     "mathyas-pick": true
   },
   {
