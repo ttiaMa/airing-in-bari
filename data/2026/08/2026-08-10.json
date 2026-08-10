@@ -7,15 +7,12 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "11:00",
-          "13:20",
-          "14:00",
-          "15:05",
-          "15:40",
+          "16:15",
+          "17:00",
           "17:30",
           "18:25",
-          "19:30",
           "20:00",
+          "20:45",
           "21:15"
         ]
       },
@@ -40,7 +37,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from Christopher Nolan. This Homeric reimagining is the definition of prestige filmmaking, combining a legendary director with an elite ensemble cast to create an intellectual epic.",
+    "ai_reason": "A quintessential cinematic event directed by Christopher Nolan, whose name alone guarantees a high-concept, intellectually rigorous exploration of epic mythology.",
     "mathyas-pick": true
   },
   {
@@ -51,23 +48,16 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "11:00",
-          "11:10",
-          "11:30",
-          "13:40",
-          "14:15",
-          "14:50",
-          "15:10",
-          "16:40",
+          "16:30",
           "17:10",
           "17:45",
           "18:10",
-          "18:50",
-          "19:45",
+          "18:45",
+          "19:50",
           "20:30",
           "21:00",
           "21:30",
-          "22:05"
+          "22:00"
         ]
       },
       {
@@ -97,9 +87,9 @@
     "mathyas-pick": false
   },
   {
-    "title": "LE CITTÀ DI PIANURA",
-    "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
-    "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
+    "title": "TUNER - L'ACCORDATORE",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
+    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
@@ -107,52 +97,6 @@
           "21:00"
         ]
       },
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1462322,
-    "tmdb_title": "Le città di pianura",
-    "original_title": "Le città di pianura",
-    "overview": "La storia di Carlobianchi e Doriano, due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio, un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.",
-    "release_date": "2025-09-25",
-    "vote_average": 7.484,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-    "genres": "Commedia",
-    "director": "Francesco Sossai",
-    "mathyas-pick": false
-  },
-  {
-    "title": "TOY STORY 5",
-    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
-    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1084244,
-    "tmdb_title": "Toy Story 5",
-    "original_title": "Toy Story 5",
-    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
-    "release_date": "2026-06-17",
-    "vote_average": 7.42,
-    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
-    "genres": "Animazione, Famiglia, Commedia, Avventura",
-    "director": "Andrew Stanton",
-    "mathyas-pick": false
-  },
-  {
-    "title": "TUNER - L'ACCORDATORE",
-    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
-    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
-    "cinemas": [
       {
         "name": "Galleria",
         "times": [
@@ -169,30 +113,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg",
     "genres": "Crime, Dramma, Thriller",
     "director": "Daniel Roher",
-    "mathyas-pick": false
-  },
-  {
-    "title": "RUFUS - IL DRAGHETTO MARINO CHE NON SAPEVA NUOTARE",
-    "cast": "Gisken Armand, Kåre Conradi, Janne Formoe, Stig Henrik Hoff",
-    "details": "Dalla Norvegia una favola ecologista dal tradizionale impianto narrativo. Animazione, Family - Norvegia, Belgio, Germania 2026. Durata 80 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1512207,
-    "tmdb_title": "Rufus - Il draghetto marino che non sapeva nuotare",
-    "original_title": "Ruffen: Sjøormen som ikke kunne svømme",
-    "overview": "Nel cuore dell’oceano, su un’isola segreta, vive una simpatica comunità di draghi marini. Tra loro c’è Rufus, un piccolo draghetto diverso dagli altri, con tanto cuore… ma zero talento per il nuoto. Quando però lo zio Ludvig, che tiene l'isola nascosta agli umani con il suo fumo magico, perde i poteri, sarà proprio Rufus a partire per un viaggio straordinario fino in Scozia, alla ricerca della prozia Nessie e della mitica sciarpa magica.",
-    "release_date": "2025-10-10",
-    "vote_average": 7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/8thnn6W9p3oayv6cf1M3RezNah8.jpg",
-    "genres": "Animazione, Famiglia",
-    "director": "Endre Skandfer",
-    "mathyas-pick": false
+    "ai_reason": "A prestige psychological thriller from Oscar-winning director Daniel Roher, offering a sophisticated, sensory exploration of isolation and hidden talent.",
+    "mathyas-pick": true
   },
   {
     "title": "HOKUM",
@@ -202,7 +124,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "17:00",
+          "16:05",
           "22:10"
         ]
       },
@@ -222,7 +144,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "Damian McCarthy is a rising star in the elevated horror circuit. Following the success of 'Oddity', this film promises the psychological depth, surrealism, and atmospheric tension characteristic of the modern indie horror renaissance.",
+    "ai_reason": "Damian McCarthy is a rising auteur in the elevated horror scene; this promises the same surreal, atmosphere-driven dread that defined his previous acclaimed indie hits like 'Oddity'.",
     "mathyas-pick": true
   },
   {
@@ -233,8 +155,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "11:55",
-          "14:20"
+          "16:05"
         ]
       }
     ],
@@ -247,29 +168,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
     "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
     "director": "Pierre Coffin",
-    "mathyas-pick": false
-  },
-  {
-    "title": "JURASSIC WORLD - LA RINASCITA",
-    "cast": "Scarlett Johansson, Mahershala Ali, Jonathan Bailey, Rupert Friend",
-    "details": "Un film che si adagia nella comfort zone dell'immaginario dei prolungati e stiracchiati anni '80. Azione, Avventura, Fantascienza - USA 2025. Durata 134 Minuti. Consigli per la visione: Ragazzi +13",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1234821,
-    "tmdb_title": "Jurassic World - La rinascita",
-    "original_title": "Jurassic World Rebirth",
-    "overview": "Cinque anni dopo gli eventi di \"Jurassic World - Il Dominio\", l'ecologia del pianeta si è dimostrata in gran parte inospitale per i dinosauri. Quelli rimasti vivono in ambienti equatoriali isolati con climi simili a quelli in cui prosperavano un tempo. Le tre creature più gigantesche di quella biosfera tropicale possiedono la chiave per un farmaco che porterà miracolosi benefici salvavita all'umanità.",
-    "release_date": "2025-06-23",
-    "vote_average": 6.269,
-    "poster_url": "https://image.tmdb.org/t/p/w500/pGPKXLGatnHuNiDwMlRfOsVfCSp.jpg",
-    "genres": "Fantascienza, Avventura, Azione",
-    "director": "Gareth Edwards",
     "mathyas-pick": false
   },
   {
