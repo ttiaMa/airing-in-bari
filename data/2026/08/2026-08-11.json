@@ -1,0 +1,286 @@
+[
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:30",
+          "17:30",
+          "18:25",
+          "20:15",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:50",
+          "18:00",
+          "19:15",
+          "20:30",
+          "21:35",
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "release_date": "2026-07-15",
+    "vote_average": 7.982,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A definitive cinematic event directed by Christopher Nolan, promising a grand, intellectual reimagining of the epic myth through a high-concept lens.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:20",
+          "17:10",
+          "17:45",
+          "18:10",
+          "18:45",
+          "19:40",
+          "20:30",
+          "21:00",
+          "21:30",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "17:15",
+          "18:10",
+          "19:20",
+          "20:20",
+          "21:20",
+          "21:50",
+          "22:25",
+          "18:40"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-29",
+    "vote_average": 7.878,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TOY STORY 5",
+    "cast": "Angelo Maggi, Massimo Dapporto, Ilaria Stagni, Katia Follesa",
+    "details": "Il quinto capitolo rispetta i topos e i personaggi della saga, affrontando le più grandi paure dei bambini: l'abbandono e la solitudine. Animazione, Avventura, Commedia - USA, Giappone 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1084244,
+    "tmdb_title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "release_date": "2026-06-17",
+    "vote_average": 7.418,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genres": "Animazione, Famiglia, Commedia, Avventura",
+    "director": "Andrew Stanton",
+    "ai_reason": "Under the direction of Andrew Stanton, this Pixar installment represents the pinnacle of prestige animation, blending technical mastery with sophisticated narrative depth.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TUNER - L'ACCORDATORE",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
+    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1340206,
+    "tmdb_title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "release_date": "2026-05-21",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg",
+    "genres": "Crime, Dramma, Thriller",
+    "director": "Daniel Roher",
+    "mathyas-pick": false
+  },
+  {
+    "title": "HOKUM",
+    "cast": "Adam Scott, Peter Coonan, David Wilmot, Florence Ordesh",
+    "details": "Damian McCarthy conferma il suo talento, firmando un folk horror che intreccia soprannaturale, trauma e redenzione. Horror, Thriller - Irlanda, Emirati Arabi Uniti 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:00",
+          "22:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1430077,
+    "tmdb_title": "Hokum",
+    "original_title": "Hokum",
+    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+    "release_date": "2026-04-29",
+    "vote_average": 6.956,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+    "genres": "Horror",
+    "director": "Damian McCarthy",
+    "ai_reason": "Damian McCarthy is a burgeoning auteur of elevated horror; this atmospheric, psychological piece aligns with the current wave of sophisticated, folklore-driven genre cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LO SGUARDO DI EMMA",
+    "cast": "Lila Gueneau, Grégoire Colin, Thomas Doret, Aurelia Petit",
+    "details": "Un doloroso coming of age che mette in scena la forza delle donne che si salvano da sole. Drammatico, Svizzera, Francia, Belgio 2025. Durata 98 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1303357,
+    "tmdb_title": "Lo sguardo di Emma",
+    "original_title": "À bras-le-corps",
+    "overview": "In un piccolo villaggio di confine in Svizzera, durante la Seconda Guerra Mondiale, la giovanissima e timorata Emma serve in casa di un predicatore. Tra i frequentatori della casa c'è un giovane reporter benestante che la aggredisce durante una gita sulle montagne. Dopo aver scoperto di essere incinta, Emma prenderà in mano la sua vita, imparando a fare a meno dell'uomo in un mondo e in un'epoca dove il maschilismo è la regola.",
+    "release_date": "2026-01-29",
+    "vote_average": 6.688,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kuq1LvJJxgDJCgRgLZCRHnA37Wj.jpg",
+    "genres": "Dramma, Storia",
+    "director": "Marie-Elsa Sgualdo",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 6.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BREVE STORIA D'AMORE",
+    "cast": "Pilar Fogliati, Adriano Giannini, Andrea Carpenzano, Valeria Golino",
+    "details": "Un esordio che guarda alle relazioni senza falsi moralismi e segna la nascita di un'autrice curiosa e coraggiosa. Commedia, Italia 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1299382,
+    "tmdb_title": "Breve storia d'amore",
+    "original_title": "Breve storia d'amore",
+    "overview": "Lea incontra Rocco in un bar e ne diventa l'amante. La loro relazione clandestina, consumata in una stanza d'albergo, prende una piega sinistra quando lei inizia a infilarsi nella vita di lui.",
+    "release_date": "2025-11-27",
+    "vote_average": 6.23,
+    "poster_url": "https://image.tmdb.org/t/p/w500/avqBTEK53Zqyr5sWIi6EuE51UaH.jpg",
+    "genres": "Commedia",
+    "director": "Ludovica Rampoldi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "GRETA E LE FAVOLE VERE",
+    "cast": "Sara Ciocca, Raoul Bova, Donatella Finocchiaro, Sabrina Impacciatore",
+    "details": "Una favola ecologista coraggiosa,con un'anima autentica e molto naïf. Commedia, Italia 2026. Durata 93 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "17:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30"
+        ]
+      }
+    ],
+    "tmdb_id": 870092,
+    "tmdb_title": "Greta e le favole vere",
+    "original_title": "Greta e le favole vere",
+    "overview": "Greta ha nove anni ed è bravissima a realizzare gli addobbi natalizi con la sua babysitter, Katy. La bambina crede così tanto in Babbo Natale, da decidere di portare una letterina a Nicola, il suo vicino di casa, che le fa credere di essere l’assistente personale di Babbo Natale. Ovviamente Nicola le ha mentito e, quando viene smascherato da Greta, le confessa di non avere nessun rapporto con Babbo Natale. Nicola - che è un bravissimo illustratore - per farsi perdonare, le disegna una fiaba animata che le cambierà la vita: la protagonista della fiaba è Greta Thunberg, una ragazzina che si chiama come lei e che è riuscita a cambiare il mondo, portando al centro dell’attenzione i problemi ambientali e trascinando con la sua determinazione milioni di ragazzi.",
+    "release_date": "2026-08-06",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cbviggp1WTZeijGuFKOoF6XYpsg.jpg",
+    "genres": "Commedia, Famiglia",
+    "director": "Berardo Carboni",
+    "mathyas-pick": false
+  },
+  {
+    "title": "NIMRODS",
+    "cast": "Mckenna Grace, Mason Thames, Jenna Fischer, Jolene Blalock",
+    "details": "I Green Day si raccontano attraverso una commedia on the road che rielabora fatti della loro adolescenza, più che un biopic celebrativo un coming of age. Commedia, USA 2025. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1432474,
+    "tmdb_title": "Nimrods",
+    "original_title": "Nimrods",
+    "overview": "Quando Tommy (Mason Thames) riceve una telefonata in cui viene invitato con la sua band ad aprire il concerto di Capodanno dei Green Day, non sa che si tratta di un elaborato scherzo organizzato dal fratello maggiore Wayne (Keen Ruffalo). Convinto che la sua vita stia per cambiare, Tommy ruba l’auto di Wayne e parte alla guida della propria band da Kansas City verso Los Angeles, deciso ad arrivarci in tre giorni. Quello che segue è un viaggio on the road sfrenato ed esilarante attraverso l’America, ispirato ai primi anni di tour dei Green Day a bordo di un furgone, ben prima dell’uscita del loro disco rivelazione Dookie.",
+    "release_date": "2026-08-06",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/l79yUWutmY0Nr8MfEwfurxcnmTY.jpg",
+    "genres": "Commedia, Musica",
+    "director": "Lee Kirk",
+    "mathyas-pick": false
+  }
+]
