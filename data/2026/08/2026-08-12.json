@@ -31,7 +31,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A definitive cinematic event from Christopher Nolan, merging grand-scale epic tradition with high-concept auteurism.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, a master of the intellectual blockbuster, reimagining epic mythology through a lens of technical and narrative grandiosity.",
     "mathyas-pick": true
   },
   {
@@ -79,6 +79,12 @@
     "details": "Un film, con un 'mostruoso' Russell Crowe, che ha il merito di porre lo spettatore di fronte all'orrore, provando a dialogare con l'oggi. Drammatico, Storico, Thriller - USA 2025. Durata 148 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -99,7 +105,7 @@
   {
     "title": "LA FINE DI OAK STREET",
     "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
-    "details": "Thriller, USA 2025. Durata 100 Minuti.",
+    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -128,7 +134,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell continues to redefine modern genre cinema with this surrealist, high-concept suburban mystery.",
+    "ai_reason": "A high-concept, elevated sci-fi mystery from visionary auteur David Robert Mitchell, known for his unique ability to blend atmosphere with surrealist tension.",
     "mathyas-pick": true
   },
   {
@@ -152,8 +158,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
     "genres": "Animazione, Famiglia, Commedia, Avventura",
     "director": "Andrew Stanton",
-    "ai_reason": "A prestige animation entry from visionary director Andrew Stanton, blending social commentary with high-art storytelling.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
   },
   {
     "title": "HOKUM",
@@ -179,35 +207,12 @@
     "original_title": "Hokum",
     "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
     "release_date": "2026-04-29",
-    "vote_average": 6.944,
+    "vote_average": 6.931,
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "A chilling addition to the elevated horror canon by emerging genre auteur Damian McCarthy, master of atmospheric dread.",
+    "ai_reason": "A chilling exercise in psychological and atmospheric horror from Damian McCarthy, an emerging auteur of the modern indie genre scene.",
     "mathyas-pick": true
-  },
-  {
-    "title": "MINIONS & MONSTERS",
-    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
-    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1315772,
-    "tmdb_title": "Minions & Monsters",
-    "original_title": "Minions & Monsters",
-    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
-    "release_date": "2026-06-24",
-    "vote_average": 6.867,
-    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
-    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
-    "director": "Pierre Coffin",
-    "mathyas-pick": false
   },
   {
     "title": "LO SGUARDO DI EMMA",
@@ -233,26 +238,34 @@
     "mathyas-pick": false
   },
   {
-    "title": "BREVE STORIA D'AMORE",
-    "cast": "Pilar Fogliati, Adriano Giannini, Andrea Carpenzano, Valeria Golino",
-    "details": "Un esordio che guarda alle relazioni senza falsi moralismi e segna la nascita di un'autrice curiosa e coraggiosa. Commedia, Italia 2025. Durata 100 Minuti.",
+    "title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
+    "cast": "Hugh Jackman, Jade Croot, Bill Skarsgård, Katie Breen",
+    "details": "La versione più crepuscolare del mito di Robin Hood, visto come un killer sul viale del tramonto e divorato dal rimorso. Azione, Avventura, Drammatico - USA 2026. Durata 122 Minuti.",
     "cinemas": [
       {
-        "name": "Arena Quattro Palme",
+        "name": "The Space Casamassima",
         "times": [
-          "21:00"
+          "16:45",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:45",
+          "21:50"
         ]
       }
     ],
-    "tmdb_id": 1299382,
-    "tmdb_title": "Breve storia d'amore",
-    "original_title": "Breve storia d'amore",
-    "overview": "Lea incontra Rocco in un bar e ne diventa l'amante. La loro relazione clandestina, consumata in una stanza d'albergo, prende una piega sinistra quando lei inizia a infilarsi nella vita di lui.",
-    "release_date": "2025-11-27",
-    "vote_average": 6.23,
-    "poster_url": "https://image.tmdb.org/t/p/w500/avqBTEK53Zqyr5sWIi6EuE51UaH.jpg",
-    "genres": "Commedia",
-    "director": "Ludovica Rampoldi",
+    "tmdb_id": 1284465,
+    "tmdb_title": "Robin Hood - Il prezzo del sangue",
+    "original_title": "The Death of Robin Hood",
+    "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
+    "release_date": "2026-06-18",
+    "vote_average": 6.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "genres": "Avventura, Dramma, Azione",
+    "director": "Michael Sarnoski",
     "mathyas-pick": false
   },
   {
@@ -261,9 +274,9 @@
     "details": "I Green Day si raccontano attraverso una commedia on the road che rielabora fatti della loro adolescenza, più che un biopic celebrativo un coming of age. Commedia, USA 2025. Durata 102 Minuti.",
     "cinemas": [
       {
-        "name": "Uci Cinemas Showville",
+        "name": "The Space Casamassima",
         "times": [
-          "19:10"
+          "21:40"
         ]
       }
     ],
@@ -272,7 +285,7 @@
     "original_title": "Nimrods",
     "overview": "Quando Tommy (Mason Thames) riceve una telefonata in cui viene invitato con la sua band ad aprire il concerto di Capodanno dei Green Day, non sa che si tratta di un elaborato scherzo organizzato dal fratello maggiore Wayne (Keen Ruffalo). Convinto che la sua vita stia per cambiare, Tommy ruba l’auto di Wayne e parte alla guida della propria band da Kansas City verso Los Angeles, deciso ad arrivarci in tre giorni. Quello che segue è un viaggio on the road sfrenato ed esilarante attraverso l’America, ispirato ai primi anni di tour dei Green Day a bordo di un furgone, ben prima dell’uscita del loro disco rivelazione Dookie.",
     "release_date": "2026-08-06",
-    "vote_average": 6,
+    "vote_average": 5.333,
     "poster_url": "https://image.tmdb.org/t/p/w500/l79yUWutmY0Nr8MfEwfurxcnmTY.jpg",
     "genres": "Commedia, Musica",
     "director": "Lee Kirk",
