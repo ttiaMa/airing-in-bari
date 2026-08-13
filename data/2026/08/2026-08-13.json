@@ -30,11 +30,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.993,
+    "vote_average": 8,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A definitive cinematic event from Christopher Nolan, masterfully blending grand-scale ambition with rigorous auteur filmmaking.",
+    "ai_reason": "A major cinematic event by Christopher Nolan, promising a grand, auteur-driven reimagining of classical myth.",
     "mathyas-pick": true
   },
   {
@@ -77,33 +77,16 @@
     "mathyas-pick": false
   },
   {
-    "title": "NORIMBERGA",
-    "cast": "Russell Crowe, Rami Malek, Leo Woodall, John Slattery",
-    "details": "Un film, con un 'mostruoso' Russell Crowe, che ha il merito di porre lo spettatore di fronte all'orrore, provando a dialogare con l'oggi. Drammatico, Storico, Thriller - USA 2025. Durata 148 Minuti.",
+    "title": "I COLORI DEL TEMPO",
+    "cast": "Suzanne Lindon, Abraham Wapler, Julia Piaton, Vincent Macaigne",
+    "details": "Un riuscito esercizio di cinema popolare, sempre ammiccante ma mai stucchevole. Commedia, Francia 2025. Durata 124 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
         "times": [
           "21:00"
         ]
-      }
-    ],
-    "tmdb_id": 1214931,
-    "tmdb_title": "Norimberga",
-    "original_title": "Nuremberg",
-    "overview": "All’indomani della Seconda guerra mondiale, mentre il mondo è ancora sconvolto dagli orrori dell’Olocausto, al tenente colonnello Douglas Kelley, psichiatra dell’esercito americano, viene affidato un incarico senza precedenti: valutare la sanità mentale di Hermann Göring, il famigerato ex braccio destro di Hitler, e di altri alti gerarchi nazisti. Allo stesso tempo, gli Alleati — guidati dal giudice Robert H. Jackson — affrontano l’impresa titanica di istituire un tribunale internazionale, per far sì che il regime nazista risponda dei propri crimini di fronte alla storia. Nel silenzio delle celle, Kelley ingaggia un intenso duello psicologico con Göring, uomo carismatico e manipolatore. Da quello scontro emerge una domanda che ancora oggi tormenta la coscienza del mondo:stavano eseguendo ordini, erano pazzi… o semplicemente malvagi? Sul palcoscenico della storia si apre così il processo di Norimberga, un evento che ha cambiato per sempre la storia e l’umanità.",
-    "release_date": "2025-11-06",
-    "vote_average": 7.6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/ucZHG8KD2A9Czl1aZz1f4bIvbLR.jpg",
-    "genres": "Storia, Dramma",
-    "director": "James Vanderbilt",
-    "mathyas-pick": false
-  },
-  {
-    "title": "I COLORI DEL TEMPO",
-    "cast": "Suzanne Lindon, Abraham Wapler, Julia Piaton, Vincent Macaigne",
-    "details": "Un riuscito esercizio di cinema popolare, sempre ammiccante ma mai stucchevole. Commedia, Francia 2025. Durata 124 Minuti.",
-    "cinemas": [
+      },
       {
         "name": "Galleria",
         "times": [
@@ -120,8 +103,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/vBgjKGLcvlIEfV0SMIJuTSaQnMT.jpg",
     "genres": "Dramma, Commedia",
     "director": "Cédric Klapisch",
-    "ai_reason": "A sophisticated piece of French auteur cinema from Cédric Klapisch, weaving a complex narrative through the history of art and identity.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 7.226,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
   },
   {
     "title": "L'AGENTE SEGRETO",
@@ -144,31 +149,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/hQWzqAQ798fBOzQZ7cuLjTOLqCI.jpg",
     "genres": "Thriller, Dramma, Crime",
     "director": "Kleber Mendonça Filho",
-    "ai_reason": "A masterwork of atmospheric tension from Brazilian auteur Kleber Mendonça Filho, a celebrated figure in high-brow international cinema.",
+    "ai_reason": "Sophisticated political thriller from Brazilian auteur Kleber Mendonça Filho, a staple of high-brow festival circuits.",
     "mathyas-pick": true
-  },
-  {
-    "title": "MINIONS & MONSTERS",
-    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
-    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:05"
-        ]
-      }
-    ],
-    "tmdb_id": 1315772,
-    "tmdb_title": "Minions & Monsters",
-    "original_title": "Minions & Monsters",
-    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
-    "release_date": "2026-06-24",
-    "vote_average": 7.076,
-    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
-    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
-    "director": "Pierre Coffin",
-    "mathyas-pick": false
   },
   {
     "title": "LA FINE DI OAK STREET",
@@ -202,7 +184,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell cements his status as a genre-bending auteur with this surrealist, high-concept psychological thriller.",
+    "ai_reason": "An elevated surrealist mystery from David Robert Mitchell, a definitive voice in modern arthouse-genre cinema.",
     "mathyas-pick": true
   },
   {
@@ -234,7 +216,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "A masterclass in atmospheric dread from emerging horror auteur Damian McCarthy, fitting the 'elevated indie horror' movement.",
+    "ai_reason": "Gripping psychological horror by emerging auteur Damian McCarthy, known for his unique and unsettling visual language.",
     "mathyas-pick": true
   },
   {
@@ -285,7 +267,7 @@
     "original_title": "The Death of Robin Hood",
     "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
     "release_date": "2026-06-18",
-    "vote_average": 6.292,
+    "vote_average": 6.296,
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
