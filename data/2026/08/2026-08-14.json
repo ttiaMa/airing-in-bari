@@ -33,7 +33,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event directed by Christopher Nolan, promising a cerebral and visually grand re-imagining of Homeric myth.",
+    "ai_reason": "A mandatory cinematic event; Christopher Nolan’s intellectual rigor applied to the foundation of Western mythology.",
     "mathyas-pick": true
   },
   {
@@ -102,30 +102,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "I COLORI DEL TEMPO",
-    "cast": "Suzanne Lindon, Abraham Wapler, Julia Piaton, Vincent Macaigne",
-    "details": "Un riuscito esercizio di cinema popolare, sempre ammiccante ma mai stucchevole. Commedia, Francia 2025. Durata 124 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1235304,
-    "tmdb_title": "I colori del tempo",
-    "original_title": "La Venue de l'avenir",
-    "overview": "Nella Francia di oggi, un gruppo di sconosciuti viene riunito in quanto discendente di Adèle, donna di fine ottocento che dalla Normandia era partita alla volta di Parigi in cerca della madre che l'aveva abbandonata. Dovendo ispezionare la casa in rovina di Adèle per decidere cosa fare della proprietà, gli emissari del gruppo - Guy, Céline, Seb e Abdel - mettono insieme pezzo dopo pezzo il lontano passato della loro famiglia. Parallelamente, durante la Belle Époque, Adèle si avventura nella grande città assieme ai nuovi amici Lucien e Anatole, scoprendo una capitale nel vortice del cambiamento, tra zone ancora rurali e i salotti della borghesia moderna, e tra le arti figurative e l'avvento della fotografia.",
-    "release_date": "2025-05-22",
-    "vote_average": 7.372,
-    "poster_url": "https://image.tmdb.org/t/p/w500/vBgjKGLcvlIEfV0SMIJuTSaQnMT.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Cédric Klapisch",
-    "ai_reason": "Cédric Klapisch provides a sophisticated, multi-layered French drama exploring heritage through a refined arthouse lens.",
-    "mathyas-pick": true
-  },
-  {
     "title": "MINIONS & MONSTERS",
     "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
     "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
@@ -169,7 +145,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/hQWzqAQ798fBOzQZ7cuLjTOLqCI.jpg",
     "genres": "Thriller, Dramma, Crime",
     "director": "Kleber Mendonça Filho",
-    "ai_reason": "Directed by Kleber Mendonça Filho, this is a masterclass in atmospheric tension from one of Brazil's most significant contemporary auteurs.",
+    "ai_reason": "Brazilian master Kleber Mendonça Filho delivers a tense, auteur-driven period thriller that captures the pulse of contemporary world cinema.",
     "mathyas-pick": true
   },
   {
@@ -203,7 +179,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell, a darling of modern indie cinema, delivers a surreal and high-concept psychological mystery.",
+    "ai_reason": "David Robert Mitchell continues to redefine genre boundaries with this surrealist exploration of suburban displacement.",
     "mathyas-pick": true
   },
   {
@@ -235,7 +211,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "Damian McCarthy continues to redefine the modern horror landscape with a slow-burn, atmospheric descent into psychological trauma.",
+    "ai_reason": "Damian McCarthy solidifies his status as a leader of the new wave of elevated horror, favoring atmospheric dread and psychological depth.",
     "mathyas-pick": true
   },
   {
@@ -278,7 +254,7 @@
     "original_title": "Nimrods",
     "overview": "Quando Tommy (Mason Thames) riceve una telefonata in cui viene invitato con la sua band ad aprire il concerto di Capodanno dei Green Day, non sa che si tratta di un elaborato scherzo organizzato dal fratello maggiore Wayne (Keen Ruffalo). Convinto che la sua vita stia per cambiare, Tommy ruba l’auto di Wayne e parte alla guida della propria band da Kansas City verso Los Angeles, deciso ad arrivarci in tre giorni. Quello che segue è un viaggio on the road sfrenato ed esilarante attraverso l’America, ispirato ai primi anni di tour dei Green Day a bordo di un furgone, ben prima dell’uscita del loro disco rivelazione Dookie.",
     "release_date": "2026-08-06",
-    "vote_average": 6.4,
+    "vote_average": 6.667,
     "poster_url": "https://image.tmdb.org/t/p/w500/l79yUWutmY0Nr8MfEwfurxcnmTY.jpg",
     "genres": "Commedia, Musica",
     "director": "Lee Kirk",
@@ -320,6 +296,12 @@
     "cast": "Edoardo Leo, Claudia Pandolfi, Benedetta Tiberi, Francesca Alati",
     "details": "Una commedia romantica che affronta temi importanti della contemporaneità con leggerezza e un grande cast. Commedia, Italia 2025. Durata 108 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
