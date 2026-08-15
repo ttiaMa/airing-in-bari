@@ -34,11 +34,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.997,
+    "vote_average": 8,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, a director explicitly cited as the gold standard for high-concept, critically acclaimed tentpole filmmaking.",
+    "ai_reason": "A massive cinematic event by Christopher Nolan; a high-concept, auteur-driven reimagining of classical mythology.",
     "mathyas-pick": true
   },
   {
@@ -151,7 +151,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
     "genres": "Musica, Dramma, Storia",
     "director": "Damiano Michieletto",
-    "ai_reason": "A prestigious piece of Italian cinema directed by the world-renowned Damiano Michieletto, bridging the gap between operatic grandiosity and historical drama.",
+    "ai_reason": "A prestige Italian period piece from a world-class opera director, focusing on artistic legacy rather than commercial sentimentality.",
     "mathyas-pick": true
   },
   {
@@ -181,11 +181,11 @@
     "original_title": "The End of Oak Street",
     "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
     "release_date": "2026-08-12",
-    "vote_average": 6.93,
+    "vote_average": 6.958,
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell is a celebrated auteur of the modern indie scene; this surrealist sci-fi promises the same elevated mystery found in his previous cult hits.",
+    "ai_reason": "An essential genre-bending work from David Robert Mitchell, a prominent figure in contemporary elevated indie cinema.",
     "mathyas-pick": true
   },
   {
@@ -217,7 +217,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "McCarthy is a rising master of atmospheric, psychological horror, making this a must-watch for those seeking dread and depth over conventional jump scares.",
+    "ai_reason": "Pure atmospheric dread from a rising auteur of elevated horror, prioritizing psychological tension over generic tropes.",
     "mathyas-pick": true
   },
   {
@@ -225,6 +225,12 @@
     "cast": "Stefano Accorsi, Miriam Leone, Claudio Santamaria, Carolina Crescentini",
     "details": "Una summa dello stile e dei temi di Muccino. Il ritratto tragicomico di una generazione perduta. Drammatico, Italia 2026. Durata 114 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -318,29 +324,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
-    "mathyas-pick": false
-  },
-  {
-    "title": "2 CUORI E 2 CAPANNE",
-    "cast": "Edoardo Leo, Claudia Pandolfi, Benedetta Tiberi, Francesca Alati",
-    "details": "Una commedia romantica che affronta temi importanti della contemporaneità con leggerezza e un grande cast. Commedia, Italia 2025. Durata 108 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1397055,
-    "tmdb_title": "2 cuori e 2 capanne",
-    "original_title": "2 cuori e 2 capanne",
-    "overview": "Alessandra e Valerio non potrebbero essere più diversi. Lei è una splendida quarantenne libera e indipendente, anticonformista e impegnata nel sociale, femminista convinta e allergica alla convivenza e alle lunghe relazioni. Lui è un coetaneo attraente, sportivo, ma rigido e attento alle convenzioni con una vita semplice, rigorosa e forse abbastanza banale. Un mattino, le loro strade si incrociano: la chimica è innegabile, la passione travolgente. Poi la sorpresa: lavorano nella stessa scuola. Peccato che lei sia l’idolo dei suoi alunni e lui il preside inflessibile con i ragazzi. Due mondi agli antipodi. Costretti a convivere tra corridoi scolastici e aule piene di adolescenti, saranno pronti a rimettere in discussione tutto ciò in cui credono?",
-    "release_date": "2026-01-22",
-    "vote_average": 5.9,
-    "poster_url": "https://image.tmdb.org/t/p/w500/iqzJFIm7p64xVnRHLD5FKQM5XcJ.jpg",
-    "genres": "Commedia",
-    "director": "Massimiliano Bruno",
     "mathyas-pick": false
   }
 ]
