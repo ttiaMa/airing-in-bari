@@ -1,0 +1,292 @@
+[
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "17:00",
+          "17:55",
+          "19:45",
+          "20:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00",
+          "18:00",
+          "19:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "release_date": "2026-07-15",
+    "vote_average": 7.99,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A monumental cinematic event by Christopher Nolan, whose work represents the pinnacle of high-concept, intellectually rigorous blockbuster filmmaking.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:05",
+          "17:15",
+          "17:50",
+          "18:45",
+          "19:20",
+          "20:40",
+          "21:15",
+          "21:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "16:30",
+          "18:10",
+          "19:20",
+          "20:40",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-29",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 7.463,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PRIMAVERA",
+    "cast": "Tecla Insolia, Michele Riondino, Andrea Pennacchi, Fabrizia Sacchi",
+    "details": "Un film solido - classico ma contemporaneo - che parla dell'ingiustizia della condizione femminile. E dove la musica può fare tutto. Drammatico, Storico - Italia, Francia 2025. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1365683,
+    "tmdb_title": "Primavera",
+    "original_title": "Primavera",
+    "overview": "Primi del Settecento. L'Ospedale della Pietà è il più grande orfanotrofio di Venezia, ma è anche un'istituzione che avvia le orfane più brillanti allo studio della musica. La sua orchestra è una delle più apprezzate al mondo. Cecilia ha vent'anni, vive da sempre alla Pietà ed è una straordinaria violinista. L'arte ha dischiuso la sua mente ma non le porte dell'orfanotrofio; può esibirsi solo lì dentro, dietro una grata, per ricchi mecenati. Questo fino a che un vento di primavera scuote improvvisamente la sua vita. Tutto cambia con l'arrivo del nuovo insegnante di violino. Il suo nome è Antonio Vivaldi.",
+    "release_date": "2025-12-05",
+    "vote_average": 7.099,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
+    "genres": "Musica, Dramma, Storia",
+    "director": "Damiano Michieletto",
+    "ai_reason": "Directed by the prestigious Damiano Michieletto, this historical drama offers a sophisticated, auteur-driven exploration of Italian art and musical heritage.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "HOKUM",
+    "cast": "Adam Scott, Peter Coonan, David Wilmot, Florence Ordesh",
+    "details": "Damian McCarthy conferma il suo talento, firmando un folk horror che intreccia soprannaturale, trauma e redenzione. Horror, Thriller - Irlanda, Emirati Arabi Uniti 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:20",
+          "22:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1430077,
+    "tmdb_title": "Hokum",
+    "original_title": "Hokum",
+    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+    "release_date": "2026-04-29",
+    "vote_average": 6.933,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+    "genres": "Horror",
+    "director": "Damian McCarthy",
+    "ai_reason": "A prime example of elevated modern horror from Damian McCarthy, focusing on psychological dread and atmospheric storytelling over cheap thrills.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LE COSE NON DETTE",
+    "cast": "Stefano Accorsi, Miriam Leone, Claudio Santamaria, Carolina Crescentini",
+    "details": "Una summa dello stile e dei temi di Muccino. Il ritratto tragicomico di una generazione perduta. Drammatico, Italia 2026. Durata 114 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1473635,
+    "tmdb_title": "Le cose non dette",
+    "original_title": "Le cose non dette",
+    "overview": "Tra Tangeri e Roma, le fragilità, i desideri, le insidie e i momenti di luce nei rapporti tra donne e uomini, madri e figlie, amanti e disincanti. La sottilissima linea tra bene e male e di ciò che scorre in mezzo alle nostre vite travolgendole spesso come un fiume in piena.",
+    "release_date": "2026-01-29",
+    "vote_average": 6.87,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg",
+    "genres": "Dramma",
+    "director": "Gabriele Muccino",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TERRIFIER 3",
+    "cast": "Lauren LaVera, David Howard Thornton, Antonella Rose, Elliott Fullam",
+    "details": "Brillante e vigoroso, convince il nuovo episodio della sfrenata saga splatter. Horror, USA 2024. Durata 125 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1034541,
+    "tmdb_title": "Terrifier 3",
+    "original_title": "Terrifier 3",
+    "overview": "Quando gli abitanti di Miles County si coricano nelle loro case alla Vigilia di Natale, non hanno idea che a scendere dal camino stavolta sarà Art il Clown. Il folle killer ha preso il posto di Babbo Natale e le sue povere vittime sono ignare che, invece dei giocattoli, saranno loro a riempire il sacco dei regali.",
+    "release_date": "2024-10-09",
+    "vote_average": 6.773,
+    "poster_url": "https://image.tmdb.org/t/p/w500/h24qwvXSXIAVXsbftPhNtYEkoLg.jpg",
+    "genres": "Horror",
+    "director": "Damien Leone",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA FINE DI OAK STREET",
+    "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
+    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "19:00",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:20",
+          "19:40",
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1101383,
+    "tmdb_title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "release_date": "2026-08-12",
+    "vote_average": 6.752,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "genres": "Fantascienza, Mistero, Thriller",
+    "director": "David Robert Mitchell",
+    "ai_reason": "David Robert Mitchell, a darling of modern indie cinema, returns with a surrealist sci-fi mystery that promises the same atmospheric depth as 'It Follows'.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "NIMRODS",
+    "cast": "Mckenna Grace, Mason Thames, Jenna Fischer, Jolene Blalock",
+    "details": "I Green Day si raccontano attraverso una commedia on the road che rielabora fatti della loro adolescenza, più che un biopic celebrativo un coming of age. Commedia, USA 2025. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1432474,
+    "tmdb_title": "Nimrods",
+    "original_title": "Nimrods",
+    "overview": "Quando Tommy (Mason Thames) riceve una telefonata in cui viene invitato con la sua band ad aprire il concerto di Capodanno dei Green Day, non sa che si tratta di un elaborato scherzo organizzato dal fratello maggiore Wayne (Keen Ruffalo). Convinto che la sua vita stia per cambiare, Tommy ruba l’auto di Wayne e parte alla guida della propria band da Kansas City verso Los Angeles, deciso ad arrivarci in tre giorni. Quello che segue è un viaggio on the road sfrenato ed esilarante attraverso l’America, ispirato ai primi anni di tour dei Green Day a bordo di un furgone, ben prima dell’uscita del loro disco rivelazione Dookie.",
+    "release_date": "2026-08-06",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/l79yUWutmY0Nr8MfEwfurxcnmTY.jpg",
+    "genres": "Commedia, Musica",
+    "director": "Lee Kirk",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
+    "cast": "Hugh Jackman, Jade Croot, Bill Skarsgård, Katie Breen",
+    "details": "La versione più crepuscolare del mito di Robin Hood, visto come un killer sul viale del tramonto e divorato dal rimorso. Azione, Avventura, Drammatico - USA 2026. Durata 122 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "22:05"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:50",
+          "21:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1284465,
+    "tmdb_title": "Robin Hood - Il prezzo del sangue",
+    "original_title": "The Death of Robin Hood",
+    "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
+    "release_date": "2026-06-18",
+    "vote_average": 6.302,
+    "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "genres": "Avventura, Dramma, Azione",
+    "director": "Michael Sarnoski",
+    "mathyas-pick": false
+  }
+]
