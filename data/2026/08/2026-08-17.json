@@ -33,7 +33,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event by Christopher Nolan, whose work represents the pinnacle of high-concept, intellectually rigorous blockbuster filmmaking.",
+    "ai_reason": "A mandatory cinematic event from Christopher Nolan, whose high-concept intellectualism defines the peak of prestige blockbuster filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -101,30 +101,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "PRIMAVERA",
-    "cast": "Tecla Insolia, Michele Riondino, Andrea Pennacchi, Fabrizia Sacchi",
-    "details": "Un film solido - classico ma contemporaneo - che parla dell'ingiustizia della condizione femminile. E dove la musica può fare tutto. Drammatico, Storico - Italia, Francia 2025. Durata 110 Minuti.",
-    "cinemas": [
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1365683,
-    "tmdb_title": "Primavera",
-    "original_title": "Primavera",
-    "overview": "Primi del Settecento. L'Ospedale della Pietà è il più grande orfanotrofio di Venezia, ma è anche un'istituzione che avvia le orfane più brillanti allo studio della musica. La sua orchestra è una delle più apprezzate al mondo. Cecilia ha vent'anni, vive da sempre alla Pietà ed è una straordinaria violinista. L'arte ha dischiuso la sua mente ma non le porte dell'orfanotrofio; può esibirsi solo lì dentro, dietro una grata, per ricchi mecenati. Questo fino a che un vento di primavera scuote improvvisamente la sua vita. Tutto cambia con l'arrivo del nuovo insegnante di violino. Il suo nome è Antonio Vivaldi.",
-    "release_date": "2025-12-05",
-    "vote_average": 7.099,
-    "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
-    "genres": "Musica, Dramma, Storia",
-    "director": "Damiano Michieletto",
-    "ai_reason": "Directed by the prestigious Damiano Michieletto, this historical drama offers a sophisticated, auteur-driven exploration of Italian art and musical heritage.",
-    "mathyas-pick": true
-  },
-  {
     "title": "HOKUM",
     "cast": "Adam Scott, Peter Coonan, David Wilmot, Florence Ordesh",
     "details": "Damian McCarthy conferma il suo talento, firmando un folk horror che intreccia soprannaturale, trauma e redenzione. Horror, Thriller - Irlanda, Emirati Arabi Uniti 2026. Durata 107 Minuti.",
@@ -152,54 +128,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "A prime example of elevated modern horror from Damian McCarthy, focusing on psychological dread and atmospheric storytelling over cheap thrills.",
+    "ai_reason": "A haunting new entry in the 'elevated horror' subgenre from emerging auteur Damian McCarthy, focused on atmospheric dread rather than cheap thrills.",
     "mathyas-pick": true
-  },
-  {
-    "title": "LE COSE NON DETTE",
-    "cast": "Stefano Accorsi, Miriam Leone, Claudio Santamaria, Carolina Crescentini",
-    "details": "Una summa dello stile e dei temi di Muccino. Il ritratto tragicomico di una generazione perduta. Drammatico, Italia 2026. Durata 114 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1473635,
-    "tmdb_title": "Le cose non dette",
-    "original_title": "Le cose non dette",
-    "overview": "Tra Tangeri e Roma, le fragilità, i desideri, le insidie e i momenti di luce nei rapporti tra donne e uomini, madri e figlie, amanti e disincanti. La sottilissima linea tra bene e male e di ciò che scorre in mezzo alle nostre vite travolgendole spesso come un fiume in piena.",
-    "release_date": "2026-01-29",
-    "vote_average": 6.87,
-    "poster_url": "https://image.tmdb.org/t/p/w500/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg",
-    "genres": "Dramma",
-    "director": "Gabriele Muccino",
-    "mathyas-pick": false
-  },
-  {
-    "title": "TERRIFIER 3",
-    "cast": "Lauren LaVera, David Howard Thornton, Antonella Rose, Elliott Fullam",
-    "details": "Brillante e vigoroso, convince il nuovo episodio della sfrenata saga splatter. Horror, USA 2024. Durata 125 Minuti. Consigli per la visione: Ragazzi +13",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "21:40"
-        ]
-      }
-    ],
-    "tmdb_id": 1034541,
-    "tmdb_title": "Terrifier 3",
-    "original_title": "Terrifier 3",
-    "overview": "Quando gli abitanti di Miles County si coricano nelle loro case alla Vigilia di Natale, non hanno idea che a scendere dal camino stavolta sarà Art il Clown. Il folle killer ha preso il posto di Babbo Natale e le sue povere vittime sono ignare che, invece dei giocattoli, saranno loro a riempire il sacco dei regali.",
-    "release_date": "2024-10-09",
-    "vote_average": 6.773,
-    "poster_url": "https://image.tmdb.org/t/p/w500/h24qwvXSXIAVXsbftPhNtYEkoLg.jpg",
-    "genres": "Horror",
-    "director": "Damien Leone",
-    "mathyas-pick": false
   },
   {
     "title": "LA FINE DI OAK STREET",
@@ -228,12 +158,35 @@
     "original_title": "The End of Oak Street",
     "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
     "release_date": "2026-08-12",
-    "vote_average": 6.752,
+    "vote_average": 6.8,
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell, a darling of modern indie cinema, returns with a surrealist sci-fi mystery that promises the same atmospheric depth as 'It Follows'.",
+    "ai_reason": "Directed by David Robert Mitchell, a darling of contemporary arthouse cinema, this surrealist sci-fi promises the elevated genre depth found in his previous works.",
     "mathyas-pick": true
+  },
+  {
+    "title": "TERRIFIER 3",
+    "cast": "Lauren LaVera, David Howard Thornton, Antonella Rose, Elliott Fullam",
+    "details": "Brillante e vigoroso, convince il nuovo episodio della sfrenata saga splatter. Horror, USA 2024. Durata 125 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1034541,
+    "tmdb_title": "Terrifier 3",
+    "original_title": "Terrifier 3",
+    "overview": "Quando gli abitanti di Miles County si coricano nelle loro case alla Vigilia di Natale, non hanno idea che a scendere dal camino stavolta sarà Art il Clown. Il folle killer ha preso il posto di Babbo Natale e le sue povere vittime sono ignare che, invece dei giocattoli, saranno loro a riempire il sacco dei regali.",
+    "release_date": "2024-10-09",
+    "vote_average": 6.773,
+    "poster_url": "https://image.tmdb.org/t/p/w500/h24qwvXSXIAVXsbftPhNtYEkoLg.jpg",
+    "genres": "Horror",
+    "director": "Damien Leone",
+    "mathyas-pick": false
   },
   {
     "title": "NIMRODS",
@@ -283,10 +236,39 @@
     "original_title": "The Death of Robin Hood",
     "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
     "release_date": "2026-06-18",
-    "vote_average": 6.302,
+    "vote_average": 6.311,
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
+    "cast": "Russell Crowe, Luke Evans, Aaron Paul, Nina Dobrev",
+    "details": "Un film che non si prende troppo sul serio tra thriller e commedia. Azione, Thriller - USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1279493,
+    "tmdb_title": "La vendetta perfetta - Bear Country",
+    "original_title": "The Get Out",
+    "overview": "Manko Kapac è il proprietario di un nightclub che decide di lasciarsi alle spalle il suo passato pericoloso per godersi la pensione insieme alla donna che ama (Teresa Palmer). Quando due figure armate e mascherate (Aaron Paul e Nina Dobrev) lo rapinano e lui si ritrova stretto nella morsa dei cartelli, si presenta un uomo misterioso (Luke Evans) interessato ad acquistare il suo club. Con il pericolo che incombe da ogni parte, dovrà districarsi in una rete mortale di inganni, potere e sopravvivenza, dove la fuga potrebbe non essere più un'opzione.",
+    "release_date": "2026-06-18",
+    "vote_average": 6.291,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
+    "genres": "Azione, Thriller",
+    "director": "Derrick Borte",
     "mathyas-pick": false
   }
 ]
