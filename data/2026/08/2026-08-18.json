@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/KUzJSsW6pFy1Dbw7rp1PKrzvfL.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A gripping example of the new wave of viral indie horror, representing the specific psychological and thematic depth characteristic of Curry Barker's style.",
+    "ai_reason": "Specifically identified as a significant entry in the new wave of viral indie horror by emerging auteur Curry Barker.",
     "mathyas-pick": true
   },
   {
@@ -52,11 +52,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.992,
+    "vote_average": 8,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from Christopher Nolan, redefining epic mythology through his signature grand-scale vision and prestige ensemble cast.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, promising a rigorous and visually stunning reimagining of epic mythology.",
     "mathyas-pick": true
   },
   {
@@ -104,6 +104,12 @@
     "details": "Un film di fantasmi, di morti e rinascite. L'energia potentemente femminile della regista sa affrontare un dolore lancinante con coraggio ed empatia. Drammatico, USA 2025. Durata 125 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -115,11 +121,11 @@
     "original_title": "Hamnet",
     "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
     "release_date": "2025-11-26",
-    "vote_average": 7.707,
+    "vote_average": 7.708,
     "poster_url": "https://image.tmdb.org/t/p/w500/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
     "genres": "Dramma, Romance",
     "director": "Chloé Zhao",
-    "ai_reason": "Oscar-winner Chloé Zhao brings her contemplative, poetic lens to this Shakespearean prestige drama, featuring the high-brow pairing of Paul Mescal and Jessie Buckley.",
+    "ai_reason": "Prestige arthouse drama from Academy Award winner Chloé Zhao, adapting a highly acclaimed literary work with her signature poetic lens.",
     "mathyas-pick": true
   },
   {
@@ -173,8 +179,37 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror",
     "director": "Damian McCarthy",
-    "ai_reason": "Damian McCarthy delivers a masterclass in atmosphere and psychological dread, cementing his status as a rising auteur in the elevated horror space.",
+    "ai_reason": "Elevated folk horror from a rising specialist in atmospheric, psychological tension, fitting the modern indie horror aesthetic.",
     "mathyas-pick": true
+  },
+  {
+    "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
+    "cast": "Monica Barbaro, Callum Turner, Maya Hawke (II), Julia Fox",
+    "details": "Commedia, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1433367,
+    "tmdb_title": "One Night Only - Quando tutto è possibile",
+    "original_title": "One Night Only",
+    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
+    "release_date": "2026-07-28",
+    "vote_average": 6.793,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+    "genres": "Commedia, Romance",
+    "director": "Will Gluck",
+    "mathyas-pick": false
   },
   {
     "title": "LA FINE DI OAK STREET",
@@ -206,7 +241,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell, a darling of modern indie cinema, returns to high-concept mystery, blending surrealism with suburban anxiety in true arthouse fashion.",
+    "ai_reason": "Visionary surrealist sci-fi from David Robert Mitchell, a definitive auteur of modern indie cinema.",
     "mathyas-pick": true
   },
   {
