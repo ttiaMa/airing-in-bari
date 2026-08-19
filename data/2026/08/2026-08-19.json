@@ -30,7 +30,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, redefining the epic scale with his signature technical mastery and high critical expectations.",
+    "ai_reason": "A definitive cinematic event; Christopher Nolan applies his intellectual rigor and grand-scale mastery to the foundational Greek epic.",
     "mathyas-pick": true
   },
   {
@@ -69,38 +69,15 @@
     "mathyas-pick": false
   },
   {
-    "title": "HAMNET - NEL NOME DEL FIGLIO",
-    "cast": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn",
-    "details": "Un film di fantasmi, di morti e rinascite. L'energia potentemente femminile della regista sa affrontare un dolore lancinante con coraggio ed empatia. Drammatico, USA 2025. Durata 125 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 858024,
-    "tmdb_title": "Hamnet - Nel nome del figlio",
-    "original_title": "Hamnet",
-    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
-    "release_date": "2025-11-26",
-    "vote_average": 7.709,
-    "poster_url": "https://image.tmdb.org/t/p/w500/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
-    "genres": "Dramma, Romance",
-    "director": "Chloé Zhao",
-    "ai_reason": "Oscar-winner Chloé Zhao delivers a prestige literary adaptation that blends naturalism with poetic, historical drama.",
-    "mathyas-pick": true
-  },
-  {
     "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
     "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
     "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
     "cinemas": [
       {
-        "name": "Uci Cinemas Showville",
+        "name": "The Space Casamassima",
         "times": [
-          "21:10"
+          "18:10",
+          "22:30"
         ]
       }
     ],
@@ -113,7 +90,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
     "genres": "Commedia, Horror, Romance",
     "director": "Jane Schoenbrun",
-    "ai_reason": "Jane Schoenbrun is a quintessential emerging auteur of elevated horror, offering a meta-textual and surrealist exploration of the genre.",
+    "ai_reason": "An essential entry in modern elevated horror; Jane Schoenbrun's meta-textual narrative provides a profound, queer perspective on genre tropes.",
     "mathyas-pick": true
   },
   {
@@ -140,11 +117,11 @@
     "original_title": "The End of Oak Street",
     "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
     "release_date": "2026-08-12",
-    "vote_average": 6.648,
+    "vote_average": 6.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "From the director of 'It Follows', this film represents the best of modern indie sci-fi with a surreal, high-concept approach to suburban anxiety.",
+    "ai_reason": "Auteur David Robert Mitchell returns to the surrealist mystery, blending high-concept sci-fi with his unique, dreamlike visual language.",
     "mathyas-pick": true
   },
   {
@@ -152,6 +129,12 @@
     "cast": "Paul Dano, Alicia Vikander, Tom Sturridge, Jeffrey Wright",
     "details": "Nonostante ambizione e cast eccellente, il film di Assayas resta intrappolato in uno sguardo datato e poco incisivo sul potere russo. Drammatico, Thriller - Francia 2025. Durata 159 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -205,17 +188,24 @@
     "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
     "cinemas": [
       {
-        "name": "Galleria",
+        "name": "The Space Casamassima",
         "times": [
-          "16:45",
-          "18:15",
+          "16:00",
+          "16:30",
+          "17:00",
+          "18:00",
           "19:00",
-          "21:00"
+          "19:30",
+          "20:00",
+          "21:00",
+          "22:00",
+          "22:25"
         ]
       },
       {
         "name": "Uci Cinemas Showville",
         "times": [
+          "14:00",
           "14:30",
           "15:30",
           "16:00",
@@ -265,7 +255,7 @@
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
     "cast": "Lin Shaye, Amelia Eve, Brandon Perea, Sam Spruell",
-    "details": "Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
+    "details": "Un prodotto convenzionale ma ben realizzato, destinato a non scontentare i fan del franchise. Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
