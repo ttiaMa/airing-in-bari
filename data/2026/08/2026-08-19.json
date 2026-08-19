@@ -1,0 +1,297 @@
+[
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "17:30",
+          "20:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:15",
+          "17:10",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "release_date": "2026-07-15",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A major cinematic event from Christopher Nolan, redefining the epic scale with his signature technical mastery and high critical expectations.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "19:05",
+          "19:10",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "15:40",
+          "18:00",
+          "19:00",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-29",
+    "vote_average": 7.881,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "HAMNET - NEL NOME DEL FIGLIO",
+    "cast": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn",
+    "details": "Un film di fantasmi, di morti e rinascite. L'energia potentemente femminile della regista sa affrontare un dolore lancinante con coraggio ed empatia. Drammatico, USA 2025. Durata 125 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 858024,
+    "tmdb_title": "Hamnet - Nel nome del figlio",
+    "original_title": "Hamnet",
+    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
+    "release_date": "2025-11-26",
+    "vote_average": 7.709,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Chloé Zhao",
+    "ai_reason": "Oscar-winner Chloé Zhao delivers a prestige literary adaptation that blends naturalism with poetic, historical drama.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
+    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
+    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1240889,
+    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
+    "release_date": "2026-08-06",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "genres": "Commedia, Horror, Romance",
+    "director": "Jane Schoenbrun",
+    "ai_reason": "Jane Schoenbrun is a quintessential emerging auteur of elevated horror, offering a meta-textual and surrealist exploration of the genre.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA FINE DI OAK STREET",
+    "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
+    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:50",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1101383,
+    "tmdb_title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "release_date": "2026-08-12",
+    "vote_average": 6.648,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "genres": "Fantascienza, Mistero, Thriller",
+    "director": "David Robert Mitchell",
+    "ai_reason": "From the director of 'It Follows', this film represents the best of modern indie sci-fi with a surreal, high-concept approach to suburban anxiety.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IL MAGO DEL CREMLINO - LE ORIGINI DI PUTIN",
+    "cast": "Paul Dano, Alicia Vikander, Tom Sturridge, Jeffrey Wright",
+    "details": "Nonostante ambizione e cast eccellente, il film di Assayas resta intrappolato in uno sguardo datato e poco incisivo sul potere russo. Drammatico, Thriller - Francia 2025. Durata 159 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1291659,
+    "tmdb_title": "Il mago del Cremlino - Le origini di Putin",
+    "original_title": "Le Mage du Kremlin",
+    "overview": "Russia, primi anni Novanta. L’URSS è crollata. Nel caos di un Paese che cerca di ricostruirsi, Vadim Baranov, un giovane brillante, sta per trovare la propria strada. Prima artista d’avanguardia, poi produttore di reality show, diventa spin doctor di un ex agente del KGB in ascesa: Vladimir Putin. Immerso nel cuore del sistema, Baranov plasma la nuova Russia, confondendo i confini tra verità e menzogna, credenze e manipolazione. Ma c’è una figura che sfugge al suo controllo: Ksenia, donna libera e inafferrabile, che incarna la possibilità di fuga, lontano da questo gioco pericoloso. Quindici anni dopo, ritiratosi nel silenzio e avvolto nel mistero, Baranov accetta di parlare, rivelando i segreti occulti del regime che ha contribuito a costruire.",
+    "release_date": "2026-01-21",
+    "vote_average": 6.514,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6YilH8o9Y2ZJNdu2Ak5m6you8zL.jpg",
+    "genres": "Dramma",
+    "director": "Olivier Assayas",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
+    "cast": "Hugh Jackman, Jade Croot, Bill Skarsgård, Katie Breen",
+    "details": "La versione più crepuscolare del mito di Robin Hood, visto come un killer sul viale del tramonto e divorato dal rimorso. Azione, Avventura, Drammatico - USA 2026. Durata 122 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "15:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1284465,
+    "tmdb_title": "Robin Hood - Il prezzo del sangue",
+    "original_title": "The Death of Robin Hood",
+    "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
+    "release_date": "2026-06-18",
+    "vote_average": 6.273,
+    "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "genres": "Avventura, Dramma, Azione",
+    "director": "Michael Sarnoski",
+    "mathyas-pick": false
+  },
+  {
+    "title": "OCEANIA",
+    "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams",
+    "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:45",
+          "18:15",
+          "19:00",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:30",
+          "15:30",
+          "16:00",
+          "17:20",
+          "18:10",
+          "18:50",
+          "20:00",
+          "21:00",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1108427,
+    "tmdb_title": "Oceania",
+    "original_title": "Moana",
+    "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
+    "release_date": "2026-07-08",
+    "vote_average": 6.015,
+    "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "genres": "Famiglia, Fantasy, Commedia, Avventura",
+    "director": "Thomas Kail",
+    "mathyas-pick": false
+  },
+  {
+    "title": "GRAND CIEL",
+    "cast": "Damien Bonnard, Samir Guesmi, Mouna Soualem, Tudor Istodor",
+    "details": "Gran bell'esordio di Akihiro Hata, rappresentazione spietata e visionaria degli effetti del capitalismo. Drammatico, Fantascienza, Thriller - Francia, Lussemburgo 2025. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1000879,
+    "tmdb_title": "Grand Ciel",
+    "original_title": "Grand Ciel",
+    "overview": "Vincent lavora di notte nel cantiere di un quartiere futuristico. Quando un operaio scompare, Vincent e i suoi colleghi iniziano a sospettare che i loro superiori stiano insabbiando un incidente. Ma presto scompare un altro operaio.",
+    "release_date": "2026-01-21",
+    "vote_average": 5.625,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nCdIQGX9ox10a5vyekZddSxZbX6.jpg",
+    "genres": "Thriller, Fantasy",
+    "director": "Akihiro Hata",
+    "mathyas-pick": false
+  },
+  {
+    "title": "INSIDIOUS - FUORI DALL'ALTROVE",
+    "cast": "Lin Shaye, Amelia Eve, Brandon Perea, Sam Spruell",
+    "details": "Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:45",
+          "22:10",
+          "22:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20",
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1291595,
+    "tmdb_title": "Insidious - Fuori dall’Altrove",
+    "original_title": "Insidious: Out of the Further",
+    "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
+    "release_date": "2026-08-19",
+    "vote_average": 5.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Jacob Chase",
+    "mathyas-pick": false
+  }
+]
