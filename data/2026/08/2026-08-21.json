@@ -33,7 +33,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan represents the pinnacle of modern event cinema, blending high-concept philosophical inquiry with prestige large-scale filmmaking.",
+    "ai_reason": "Christopher Nolan’s intellectual scale turns the epic myth into a quintessential cinematic event, blending grand spectacle with auteur-driven ambition.",
     "mathyas-pick": true
   },
   {
@@ -91,7 +91,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xisotUBBDV4haNlpJsuPF0GggSd.jpg",
     "genres": "Horror, Thriller",
     "director": "Michael Philippou, Danny Philippou",
-    "ai_reason": "A viral, critically-lauded indie horror hit that elevates the possession subgenre with visceral practical effects and deep psychological metaphors.",
+    "ai_reason": "An A24 horror standout that masterfully uses psychological trauma and visceral imagery to reinvent the possession subgenre for the modern era.",
     "mathyas-pick": true
   },
   {
@@ -99,6 +99,12 @@
     "cast": "Tecla Insolia, Michele Riondino, Andrea Pennacchi, Fabrizia Sacchi",
     "details": "Un film solido - classico ma contemporaneo - che parla dell'ingiustizia della condizione femminile. E dove la musica può fare tutto. Drammatico, Storico - Italia, Francia 2025. Durata 110 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -115,7 +121,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
     "genres": "Musica, Dramma, Storia",
     "director": "Damiano Michieletto",
-    "ai_reason": "A high-prestige Italian production by world-renowned opera director Damiano Michieletto, focusing on historical artistry and musical genius rather than commercial tropes.",
+    "ai_reason": "A sophisticated Venetian period piece directed by world-class theatre and opera auteur Damiano Michieletto, representing high-brow Italian cultural cinema.",
     "mathyas-pick": true
   },
   {
@@ -135,11 +141,11 @@
     "original_title": "Teenage Sex and Death at Camp Miasma",
     "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
     "release_date": "2026-08-06",
-    "vote_average": 7.056,
+    "vote_average": 6.883,
     "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
     "genres": "Commedia, Horror, Romance",
     "director": "Jane Schoenbrun",
-    "ai_reason": "Jane Schoenbrun is a vital new voice in meta-textual, elevated horror; this project promises the surrealism and psychological depth expected from an emerging auteur.",
+    "ai_reason": "Jane Schoenbrun’s latest meta-horror exploration of identity and obsession through a daring queer lens is essential for fans of elevated, surrealist cinema.",
     "mathyas-pick": true
   },
   {
@@ -167,11 +173,11 @@
     "original_title": "The End of Oak Street",
     "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
     "release_date": "2026-08-12",
-    "vote_average": 6.465,
+    "vote_average": 6.5,
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell returns to the uncanny suburban anxieties of his earlier work, cementing his status as a master of modern indie sci-fi and mystery.",
+    "ai_reason": "David Robert Mitchell returns to his signature blend of suburban dread and surreal genre-bending sci-fi, cementing his status as a modern indie master.",
     "mathyas-pick": true
   },
   {
@@ -197,12 +203,11 @@
     "original_title": "The Death of Robin Hood",
     "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
     "release_date": "2026-06-18",
-    "vote_average": 6.288,
+    "vote_average": 6.286,
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
-    "ai_reason": "Following 'Pig', Michael Sarnoski continues to deconstruct heroic archetypes through an intimate, gritty, and auteur-driven lens.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
@@ -279,29 +284,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
-    "mathyas-pick": false
-  },
-  {
-    "title": "LAVOREREMO DA GRANDI",
-    "cast": "Antonio Albanese, Giuseppe Battiston, Nicola Rignanese, Niccolò Ferrero",
-    "details": "Un colpo sparato a salve. La sesta regia di Antonio Albanese gira a vuoto. Commedia, Italia 2026. Durata 91 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1493021,
-    "tmdb_title": "Lavoreremo da grandi",
-    "original_title": "Lavoreremo da grandi",
-    "overview": "Tre amici, Beppe, Umberto e Gigi, attendono l’arrivo del giovane Toni per festeggiare la sua ritrovata libertà. Dopo una serata ad alto tasso alcolico nel bar del paese, l’auto sulla quale stanno per tornare a casa colpisce qualcosa. O meglio, qualcuno. Dando inizio ad una serie di inesorabili scelte sbagliate, i quattro fuggono e si rifugiano a casa di Umberto. Sarà una lunga notte di colpi di scena, situazioni paradossali e ridicole, incontri e scontri tra i protagonisti e altre figure improbabili che popolano quella interminabile giornata. Fino alla più inimmaginabile delle soluzioni, che arriverà alle prime luci dell’alba.",
-    "release_date": "2026-02-05",
-    "vote_average": 5.394,
-    "poster_url": "https://image.tmdb.org/t/p/w500/lRpHSwgcjcGrysxixDTek1ONiph.jpg",
-    "genres": "Commedia",
-    "director": "Antonio Albanese",
     "mathyas-pick": false
   }
 ]
