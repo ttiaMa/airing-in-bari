@@ -1,0 +1,279 @@
+[
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:10",
+          "15:40",
+          "17:15",
+          "19:15",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "19:00",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-29",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "TALK TO ME",
+    "cast": "Sophie Wilde, Miranda Otto, Joe Bird, Otis Dhanji",
+    "details": "Un horror efficace, dalla grande libertà narrativa. Il debutto dei fratelli Philippou è da elogiare. Horror, Australia 2022. Durata 95 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "23:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1008042,
+    "tmdb_title": "Talk to Me",
+    "original_title": "Talk to Me",
+    "overview": "Un gruppo di giovani amici scopre come evocare i demoni facendo uso di un'antica mano imbalsamata, finché uno di loro si spinge troppo oltre aprendo irrimediabilmente le porte al mondo degli spiriti. Perseguitato così da visioni soprannaturali, il gruppo si trova inconsapevolmente al centro di una possessione devastante che porterà a porsi una domanda importante: meglio fidarsi dei vivi o dei morti?",
+    "release_date": "2023-07-26",
+    "vote_average": 7.139,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xisotUBBDV4haNlpJsuPF0GggSd.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Michael Philippou, Danny Philippou",
+    "ai_reason": "A24’s critically acclaimed breakout hit that redefined modern horror through psychological grief and innovative practical effects.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "PRIMAVERA",
+    "cast": "Tecla Insolia, Michele Riondino, Andrea Pennacchi, Fabrizia Sacchi",
+    "details": "Un film solido - classico ma contemporaneo - che parla dell'ingiustizia della condizione femminile. E dove la musica può fare tutto. Drammatico, Storico - Italia, Francia 2025. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1365683,
+    "tmdb_title": "Primavera",
+    "original_title": "Primavera",
+    "overview": "Primi del Settecento. L'Ospedale della Pietà è il più grande orfanotrofio di Venezia, ma è anche un'istituzione che avvia le orfane più brillanti allo studio della musica. La sua orchestra è una delle più apprezzate al mondo. Cecilia ha vent'anni, vive da sempre alla Pietà ed è una straordinaria violinista. L'arte ha dischiuso la sua mente ma non le porte dell'orfanotrofio; può esibirsi solo lì dentro, dietro una grata, per ricchi mecenati. Questo fino a che un vento di primavera scuote improvvisamente la sua vita. Tutto cambia con l'arrivo del nuovo insegnante di violino. Il suo nome è Antonio Vivaldi.",
+    "release_date": "2025-12-05",
+    "vote_average": 7.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
+    "genres": "Musica, Dramma, Storia",
+    "director": "Damiano Michieletto",
+    "ai_reason": "A prestige Italian production from world-renowned opera director Damiano Michieletto, eschewing commercial tropes for high artistic merit.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
+    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
+    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1240889,
+    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
+    "release_date": "2026-08-06",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "genres": "Commedia, Horror, Romance",
+    "director": "Jane Schoenbrun",
+    "ai_reason": "A meta-textual, surrealist exploration of the horror genre by Jane Schoenbrun, a definitive voice in contemporary arthouse cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "INSIDIOUS - FUORI DALL'ALTROVE",
+    "cast": "Lin Shaye, Amelia Eve, Brandon Perea, Sam Spruell",
+    "details": "Un prodotto convenzionale ma ben realizzato, destinato a non scontentare i fan del franchise. Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:30",
+          "22:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20",
+          "22:10",
+          "23:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1291595,
+    "tmdb_title": "Insidious - Fuori dall’Altrove",
+    "original_title": "Insidious: Out of the Further",
+    "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
+    "release_date": "2026-08-19",
+    "vote_average": 6.438,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Jacob Chase",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA FINE DI OAK STREET",
+    "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
+    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:00",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:00",
+          "16:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1101383,
+    "tmdb_title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "release_date": "2026-08-12",
+    "vote_average": 6.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "genres": "Fantascienza, Mistero, Thriller",
+    "director": "David Robert Mitchell",
+    "ai_reason": "Auteur-driven sci-fi from David Robert Mitchell, the visionary behind 'It Follows', blending suburban mystery with high-concept dread.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
+    "cast": "Hugh Jackman, Jade Croot, Bill Skarsgård, Katie Breen",
+    "details": "La versione più crepuscolare del mito di Robin Hood, visto come un killer sul viale del tramonto e divorato dal rimorso. Azione, Avventura, Drammatico - USA 2026. Durata 122 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1284465,
+    "tmdb_title": "Robin Hood - Il prezzo del sangue",
+    "original_title": "The Death of Robin Hood",
+    "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
+    "release_date": "2026-06-18",
+    "vote_average": 6.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "genres": "Avventura, Dramma, Azione",
+    "director": "Michael Sarnoski",
+    "ai_reason": "A revisionist, atmospheric character study from Michael Sarnoski that deconstructs folklore through a gritty, auteur lens.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IL BENE COMUNE",
+    "cast": "Claudia Pandolfi, Rocco Papaleo, Teresa Saponangelo, Vanessa Scalera",
+    "details": "A un passo dal musical, una favola che conferma il cinema originale di Rocco Papaleo. Commedia, Italia 2026. Durata 103 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1493024,
+    "tmdb_title": "Il Bene Comune",
+    "original_title": "Il Bene Comune",
+    "overview": "Una guida turistica e un’attrice di “insuccesso” accompagnano quattro detenute sul massiccio del Pollino, alla ricerca del secolare Pino Loricato, simbolo di resilienza. Il cammino diventa presto un viaggio di trasformazione, fatto di incontri e cambiamenti, scandito da una musica che prende forma passo dopo passo, fino a diventare una voce collettiva capace di tenere insieme corpi, emozioni e storie diverse. In una natura dura e bellissima, attraversata da una solidarietà inattesa, emergono frammenti di vite complesse, ferite ancora aperte e il bisogno profondo di essere viste e ascoltate. Parlare, cantare, dare un nome a ciò che si è vissuto diventa un modo per sciogliere tensioni e ritrovare un senso di appartenenza, almeno finché un evento improvviso non rimette tutto in discussione. Perché, a volte, raccontarsi è già un primo passo verso qualcosa di più grande.",
+    "release_date": "2026-03-12",
+    "vote_average": 6.261,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Rocco Papaleo",
+    "mathyas-pick": false
+  },
+  {
+    "title": "OCEANIA",
+    "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams",
+    "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:00",
+          "14:25",
+          "15:00",
+          "15:30",
+          "16:00",
+          "16:30",
+          "17:00",
+          "17:30",
+          "18:00",
+          "19:00",
+          "20:00",
+          "20:30",
+          "21:00",
+          "22:00",
+          "22:40",
+          "23:05"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:00",
+          "14:30",
+          "15:00",
+          "15:30",
+          "17:20",
+          "17:50",
+          "18:10",
+          "20:00",
+          "20:30",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1108427,
+    "tmdb_title": "Oceania",
+    "original_title": "Moana",
+    "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
+    "release_date": "2026-07-08",
+    "vote_average": 6.088,
+    "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "genres": "Famiglia, Fantasy, Commedia, Avventura",
+    "director": "Thomas Kail",
+    "mathyas-pick": false
+  }
+]
