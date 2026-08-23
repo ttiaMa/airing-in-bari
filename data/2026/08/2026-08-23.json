@@ -1,0 +1,318 @@
+[
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:30",
+          "14:30",
+          "15:40",
+          "17:45",
+          "18:50",
+          "21:15",
+          "21:50",
+          "00:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "19:00",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-29",
+    "vote_average": 7.898,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ARCO - UN'AMICIZIA PER SALVARE IL FUTURO",
+    "cast": "",
+    "details": "Un coming of age poetico e gentile che affronta temi scottanti, dal cambiamento climatico alla morte. Animazione, Francia 2025. Durata 88 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10"
+        ]
+      }
+    ],
+    "tmdb_id": 804370,
+    "tmdb_title": "Arco - Un'amicizia per salvare il futuro",
+    "original_title": "Arco",
+    "overview": "E se gli arcobaleni fossero in realtà... dei viaggiatori spaziotemporali? Arco ha dieci anni e viene da un lontanissimo futuro. Durante il suo primo viaggio nella sua tuta arcobaleno, perde il controllo e precipita nel suo passato, che è un futuro a noi prossimo. Iris, una ragazza della sua stessa età, lo vede cadere dal cielo. Farà tutto il possibile per aiutarlo a tornare a casa.",
+    "release_date": "2025-10-22",
+    "vote_average": 7.525,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rgNlpMEkGk6qoLf3pqarw3PSwOs.jpg",
+    "genres": "Avventura, Animazione, Famiglia, Fantascienza",
+    "director": "Ugo Bienvenu",
+    "ai_reason": "A stunning example of prestige animation; Ugo Bienvenu's distinct visual language elevates this far beyond commercial children's programming into the realm of art.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MINIONS & MONSTERS",
+    "cast": "Marcello Macchia, Pierre Coffin, Romesh Ranganathan, Zoey Deutch",
+    "details": "Un'avventura godibile - e una bella lettera d'amore per il cinema - che mantiene viva la natura surreale dei piccoli protagonisti. Animazione, USA 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1315772,
+    "tmdb_title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "release_date": "2026-06-24",
+    "vote_average": 7.503,
+    "poster_url": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg",
+    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "director": "Pierre Coffin",
+    "mathyas-pick": false
+  },
+  {
+    "title": "DECISION TO LEAVE",
+    "cast": "Hae-il Park, Wei Tang, Go Kyung-pyo, Yong-woo Park",
+    "details": "Park Chan-wook sorprende con un romantico neo-noir che ha il respiro dei classici e il linguaggio del presente. Drammatico, Corea del sud 2022. Durata 138 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20"
+        ]
+      }
+    ],
+    "tmdb_id": 705996,
+    "tmdb_title": "Decision to Leave",
+    "original_title": "헤어질 결심",
+    "overview": "Un austero detective deve indagare su un possibile caso di omicidio in una zona rurale limitrofa. Non ci vorrà molto, però, prima che i suoi sospetti ricadano sulla moglie della vittima, per la quale il detective comincia anche a provare qualcosa.",
+    "release_date": "2022-06-29",
+    "vote_average": 7.317,
+    "poster_url": "https://image.tmdb.org/t/p/w500/980Zfix859QLVEBN4QRt8m5tZEC.jpg",
+    "genres": "Thriller, Mistero, Romance",
+    "director": "Park Chan-wook",
+    "ai_reason": "A contemporary masterpiece of world cinema by visionary auteur Park Chan-wook; a Cannes-winning triumph of style and psychological obsession.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "INSIDIOUS - FUORI DALL'ALTROVE",
+    "cast": "Lin Shaye, Amelia Eve, Brandon Perea, Sam Spruell",
+    "details": "Un prodotto convenzionale ma ben realizzato, destinato a non scontentare i fan del franchise. Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:50",
+          "13:45",
+          "19:30",
+          "22:10",
+          "00:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20",
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1291595,
+    "tmdb_title": "Insidious - Fuori dall’Altrove",
+    "original_title": "Insidious: Out of the Further",
+    "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
+    "release_date": "2026-08-19",
+    "vote_average": 6.764,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Jacob Chase",
+    "mathyas-pick": false
+  },
+  {
+    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
+    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
+    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1240889,
+    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
+    "release_date": "2026-08-06",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "genres": "Commedia, Horror, Romance",
+    "director": "Jane Schoenbrun",
+    "ai_reason": "Jane Schoenbrun is a defining voice in elevated indie horror; this meta-textual exploration of genre legacy is a must-watch for fans of A24-style surrealism.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA FINE DI OAK STREET",
+    "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
+    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:05",
+          "14:50",
+          "00:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:50",
+          "14:00",
+          "16:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1101383,
+    "tmdb_title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "release_date": "2026-08-12",
+    "vote_average": 6.394,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "genres": "Fantascienza, Mistero, Thriller",
+    "director": "David Robert Mitchell",
+    "ai_reason": "From the cult-favorite director of 'It Follows' and 'Under the Silver Lake,' this high-concept mystery represents the best of modern auteur-driven sci-fi.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
+    "cast": "Hugh Jackman, Jade Croot, Bill Skarsgård, Katie Breen",
+    "details": "La versione più crepuscolare del mito di Robin Hood, visto come un killer sul viale del tramonto e divorato dal rimorso. Azione, Avventura, Drammatico - USA 2026. Durata 122 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1284465,
+    "tmdb_title": "Robin Hood - Il prezzo del sangue",
+    "original_title": "The Death of Robin Hood",
+    "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
+    "release_date": "2026-06-18",
+    "vote_average": 6.289,
+    "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "genres": "Avventura, Dramma, Azione",
+    "director": "Michael Sarnoski",
+    "ai_reason": "Director Michael Sarnoski (of 'Pig' fame) brings a gritty, high-brow subversion to the Robin Hood mythos, stripping away blockbuster tropes for a darker character study.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IL BENE COMUNE",
+    "cast": "Claudia Pandolfi, Rocco Papaleo, Teresa Saponangelo, Vanessa Scalera",
+    "details": "A un passo dal musical, una favola che conferma il cinema originale di Rocco Papaleo. Commedia, Italia 2026. Durata 103 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1493024,
+    "tmdb_title": "Il Bene Comune",
+    "original_title": "Il Bene Comune",
+    "overview": "Una guida turistica e un’attrice di “insuccesso” accompagnano quattro detenute sul massiccio del Pollino, alla ricerca del secolare Pino Loricato, simbolo di resilienza. Il cammino diventa presto un viaggio di trasformazione, fatto di incontri e cambiamenti, scandito da una musica che prende forma passo dopo passo, fino a diventare una voce collettiva capace di tenere insieme corpi, emozioni e storie diverse. In una natura dura e bellissima, attraversata da una solidarietà inattesa, emergono frammenti di vite complesse, ferite ancora aperte e il bisogno profondo di essere viste e ascoltate. Parlare, cantare, dare un nome a ciò che si è vissuto diventa un modo per sciogliere tensioni e ritrovare un senso di appartenenza, almeno finché un evento improvviso non rimette tutto in discussione. Perché, a volte, raccontarsi è già un primo passo verso qualcosa di più grande.",
+    "release_date": "2026-03-12",
+    "vote_average": 6.256,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Rocco Papaleo",
+    "mathyas-pick": false
+  },
+  {
+    "title": "OCEANIA",
+    "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams",
+    "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "11:10",
+          "12:10",
+          "13:00",
+          "14:00",
+          "15:00",
+          "15:30",
+          "16:00",
+          "16:25",
+          "17:00",
+          "17:30",
+          "18:00",
+          "18:30",
+          "19:00",
+          "20:00",
+          "21:00",
+          "21:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:00",
+          "11:30",
+          "14:30",
+          "15:00",
+          "15:30",
+          "17:20",
+          "17:50",
+          "18:10",
+          "20:00",
+          "20:30",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1108427,
+    "tmdb_title": "Oceania",
+    "original_title": "Moana",
+    "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
+    "release_date": "2026-07-08",
+    "vote_average": 6.109,
+    "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "genres": "Famiglia, Fantasy, Commedia, Avventura",
+    "director": "Thomas Kail",
+    "mathyas-pick": false
+  }
+]
