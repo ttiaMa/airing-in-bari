@@ -1,5 +1,43 @@
 [
   {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:00",
+          "17:45",
+          "20:50",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:10",
+          "12:00",
+          "14:10",
+          "17:10",
+          "18:00",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "release_date": "2026-07-15",
+    "vote_average": 7.992,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A monumental cinematic event from Christopher Nolan, redefining the epic through his signature precision and grand-scale vision.",
+    "mathyas-pick": true
+  },
+  {
     "title": "SPIDER-MAN - BRAND NEW DAY",
     "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
     "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
@@ -13,8 +51,7 @@
           "17:45",
           "18:50",
           "21:15",
-          "21:50",
-          "00:00"
+          "21:50"
         ]
       },
       {
@@ -58,7 +95,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rgNlpMEkGk6qoLf3pqarw3PSwOs.jpg",
     "genres": "Avventura, Animazione, Famiglia, Fantascienza",
     "director": "Ugo Bienvenu",
-    "ai_reason": "A stunning example of prestige animation; Ugo Bienvenu's distinct visual language elevates this far beyond commercial children's programming into the realm of art.",
+    "ai_reason": "A work of high artistic value in the field of contemporary prestige animation, showcasing the distinct visual language of Ugo Bienvenu.",
     "mathyas-pick": true
   },
   {
@@ -106,7 +143,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/980Zfix859QLVEBN4QRt8m5tZEC.jpg",
     "genres": "Thriller, Mistero, Romance",
     "director": "Park Chan-wook",
-    "ai_reason": "A contemporary masterpiece of world cinema by visionary auteur Park Chan-wook; a Cannes-winning triumph of style and psychological obsession.",
+    "ai_reason": "A modern masterpiece from Park Chan-wook; this is essential auteur cinema that blends neo-noir precision with deep romantic yearning.",
     "mathyas-pick": true
   },
   {
@@ -120,8 +157,7 @@
           "11:50",
           "13:45",
           "19:30",
-          "22:10",
-          "00:30"
+          "22:10"
         ]
       },
       {
@@ -164,7 +200,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
     "genres": "Commedia, Horror, Romance",
     "director": "Jane Schoenbrun",
-    "ai_reason": "Jane Schoenbrun is a defining voice in elevated indie horror; this meta-textual exploration of genre legacy is a must-watch for fans of A24-style surrealism.",
+    "ai_reason": "Jane Schoenbrun is a vital voice in modern indie horror; this meta-textual, surrealist exploration of genre and identity is a must-see for the avant-garde enthusiast.",
     "mathyas-pick": true
   },
   {
@@ -176,8 +212,7 @@
         "name": "The Space Casamassima",
         "times": [
           "11:05",
-          "14:50",
-          "00:45"
+          "14:50"
         ]
       },
       {
@@ -194,11 +229,11 @@
     "original_title": "The End of Oak Street",
     "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
     "release_date": "2026-08-12",
-    "vote_average": 6.394,
+    "vote_average": 6.411,
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "From the cult-favorite director of 'It Follows' and 'Under the Silver Lake,' this high-concept mystery represents the best of modern auteur-driven sci-fi.",
+    "ai_reason": "David Robert Mitchell, the visionary behind 'It Follows', returns with an atmospheric, auteur-driven take on existential sci-fi.",
     "mathyas-pick": true
   },
   {
@@ -228,8 +263,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
-    "ai_reason": "Director Michael Sarnoski (of 'Pig' fame) brings a gritty, high-brow subversion to the Robin Hood mythos, stripping away blockbuster tropes for a darker character study.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "IL BENE COMUNE",
