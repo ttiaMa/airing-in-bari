@@ -5,6 +5,12 @@
     "details": "Un film-evento musicale, dal ritmo travolgente. Da brividi la performance di Jaafar Jackson. Biografico, USA 2026. Durata 127 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -47,11 +53,43 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.992,
+    "vote_average": 8,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan is the definitive auteur of the modern 'Event Movie,' blending immense technical scale with complex, high-concept narrative structures.",
+    "ai_reason": "A monumental cinematic event from Christopher Nolan, reimagining epic mythology through the director's signature grand-scale auteurism.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "HARRY POTTER E LA PIETRA FILOSOFALE",
+    "cast": "Daniel Radcliffe, Rupert Grint, Emma Watson, John Cleese",
+    "details": "La magia di un film davvero 'per tutti'. Fantastico, USA 2001. Durata 151 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:15",
+          "20:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:10",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 671,
+    "tmdb_title": "Harry Potter e la pietra filosofale",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter vive con gli zii e il cuginetto sin dalla più tenera età dopo la morte dei suoi genitori. I parenti non lo amano per nulla. Harry sta ormai per compiere undici anni e viene guardato male anche per alcune sue capacità 'magiche'. Che sono effettive perché Harry è figlio di maghi e comincia a ricevere lettere, regolarmente sequestrate, portate da gufi. Dovrà giungere il gigantesco Hagrid a recapitargliene personalmente una perché possa apprendere di essere stato ammesso a frequentare la Scuola di Magia e Stregoneria di Hogwarts. Gli zii a questo punto non possono far più nulla e Harry raggiunge la Scuola dove apprende che il suo nome è già noto e dove scoprirà di avere naturali doti magiche.",
+    "release_date": "2001-11-16",
+    "vote_average": 7.902,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
+    "genres": "Avventura, Fantasy",
+    "director": "Chris Columbus",
+    "ai_reason": "A significant theatrical re-release of a modern cinema classic that serves as a cornerstone of contemporary fantasy history.",
     "mathyas-pick": true
   },
   {
@@ -85,6 +123,32 @@
     "genres": "Fantascienza, Azione, Avventura",
     "director": "Destin Daniel Cretton",
     "mathyas-pick": false
+  },
+  {
+    "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
+    "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:25",
+          "19:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1384216,
+    "tmdb_title": "The Dog Stars - Le stelle dopo la fine",
+    "original_title": "The Dog Stars",
+    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
+    "release_date": "2026-08-26",
+    "vote_average": 6.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
+    "genres": "Fantascienza, Avventura, Thriller",
+    "director": "Ridley Scott",
+    "ai_reason": "A prestige post-apocalyptic vision from master director Ridley Scott, featuring a high-caliber cast and sophisticated world-building.",
+    "mathyas-pick": true
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -138,7 +202,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
     "genres": "Commedia, Horror, Romance",
     "director": "Jane Schoenbrun",
-    "ai_reason": "Jane Schoenbrun is a rising star in the 'elevated horror' landscape; this meta-cinematic exploration of the genre is essential viewing for followers of A24-style surrealism.",
+    "ai_reason": "A subversive, meta-cinematic horror from Jane Schoenbrun, a quintessential voice in the modern elevated indie horror movement.",
     "mathyas-pick": true
   },
   {
@@ -192,7 +256,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell is a master of atmosphere and modern indie genre-bending; his return to sci-fi mystery represents a major milestone for arthouse enthusiasts.",
+    "ai_reason": "The latest work from David Robert Mitchell, an emerging auteur known for elevated, atmosphere-drenched genre-bending cinema.",
     "mathyas-pick": true
   },
   {
@@ -220,7 +284,7 @@
     "original_title": "The Get Out",
     "overview": "Manko Kapac è il proprietario di un nightclub che decide di lasciarsi alle spalle il suo passato pericoloso per godersi la pensione insieme alla donna che ama (Teresa Palmer). Quando due figure armate e mascherate (Aaron Paul e Nina Dobrev) lo rapinano e lui si ritrova stretto nella morsa dei cartelli, si presenta un uomo misterioso (Luke Evans) interessato ad acquistare il suo club. Con il pericolo che incombe da ogni parte, dovrà districarsi in una rete mortale di inganni, potere e sopravvivenza, dove la fuga potrebbe non essere più un'opzione.",
     "release_date": "2026-06-18",
-    "vote_average": 6.237,
+    "vote_average": 6.2,
     "poster_url": "https://image.tmdb.org/t/p/w500/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
     "genres": "Azione, Thriller",
     "director": "Derrick Borte",
