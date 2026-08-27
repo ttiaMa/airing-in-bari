@@ -22,11 +22,35 @@
     "original_title": "Michael",
     "overview": "La storia di Michael Jackson oltre la musica, il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five all'artista precursore la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Seguendo la sua vita fuori dal palco e alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora.",
     "release_date": "2026-04-22",
-    "vote_average": 8.7,
+    "vote_average": 8.664,
     "poster_url": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
     "genres": "Musica, Dramma",
     "director": "Antoine Fuqua",
-    "ai_reason": "A major biographical event that aims to capture the complex legacy of a cultural icon with grand cinematic scope and high critical anticipation.",
+    "ai_reason": "A grand-scale prestige biopic that aims for definitive historical and artistic significance.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TERMINATOR 2 - IL GIORNO DEL GIUDIZIO",
+    "cast": "Arnold Schwarzenegger, Edward Furlong, Linda Hamilton, Robert Patrick",
+    "details": "Una pietra miliare, non solo del cinema action: visionario, spettacolare e profondamente umanista. Fantascienza, USA 1991. Durata 135 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 280,
+    "tmdb_title": "Terminator 2 - Il giorno del giudizio",
+    "original_title": "Terminator 2: Judgment Day",
+    "overview": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+    "release_date": "1991-07-03",
+    "vote_average": 8.165,
+    "poster_url": "https://image.tmdb.org/t/p/w500/orzgtkWWEHlSMcFm1p74ZvGqdz0.jpg",
+    "genres": "Azione, Thriller, Fantascienza",
+    "director": "James Cameron",
+    "ai_reason": "A seminal masterpiece of science fiction and action; a definitive re-release for any serious student of cinema history.",
     "mathyas-pick": true
   },
   {
@@ -54,11 +78,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.992,
+    "vote_average": 7.99,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from Christopher Nolan, redefining epic storytelling with his signature visual and narrative complexity.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, redefining the epic genre with his signature intellectual and visual scale.",
     "mathyas-pick": true
   },
   {
@@ -86,12 +110,11 @@
     "original_title": "Harry Potter and the Philosopher's Stone",
     "overview": "Harry Potter vive con gli zii e il cuginetto sin dalla più tenera età dopo la morte dei suoi genitori. I parenti non lo amano per nulla. Harry sta ormai per compiere undici anni e viene guardato male anche per alcune sue capacità 'magiche'. Che sono effettive perché Harry è figlio di maghi e comincia a ricevere lettere, regolarmente sequestrate, portate da gufi. Dovrà giungere il gigantesco Hagrid a recapitargliene personalmente una perché possa apprendere di essere stato ammesso a frequentare la Scuola di Magia e Stregoneria di Hogwarts. Gli zii a questo punto non possono far più nulla e Harry raggiunge la Scuola dove apprende che il suo nome è già noto e dove scoprirà di avere naturali doti magiche.",
     "release_date": "2001-11-16",
-    "vote_average": 7.902,
+    "vote_average": 7.9,
     "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
     "genres": "Avventura, Fantasy",
     "director": "Chris Columbus",
-    "ai_reason": "An essential theatrical re-release of a modern classic that redefined fantasy cinema and remains a milestone of 21st-century film history.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "SPIDER-MAN - BRAND NEW DAY",
@@ -157,7 +180,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott returns to the sci-fi genre with a high-concept post-apocalyptic vision and an exceptional ensemble cast.",
+    "ai_reason": "Ridley Scott returns to the genre he helped define with a visceral, star-studded post-apocalyptic event.",
     "mathyas-pick": true
   },
   {
@@ -182,7 +205,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "Directed by indie darling Matt Johnson, this prestige biopic explores a culinary legend through the lens of a sophisticated, auteur-driven drama.",
+    "ai_reason": "A stylized and elevated indie biopic by Matt Johnson, capturing the raw origin of a cultural icon with prestige talent.",
     "mathyas-pick": true
   },
   {
@@ -309,7 +332,7 @@
     "original_title": "Moana",
     "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
     "release_date": "2026-07-08",
-    "vote_average": 6.125,
+    "vote_average": 6.124,
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
@@ -361,13 +384,13 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "A philosophically rich work from Japanese auteur and Palme d'Or winner Hirokazu Kore-eda, blending intimate drama with speculative sci-fi.",
+    "ai_reason": "A philosophical, high-brow sci-fi meditation from Japanese auteur and Palme d'Or winner Hirokazu Kore-eda.",
     "mathyas-pick": true
   },
   {
     "title": "GHOST - 2 BIG TO RIG",
     "cast": "",
-    "details": "Documentario, Musicale - USA 2026. Durata 115 Minuti.",
+    "details": "Un'immersione nello spettacolo eccessivo e magniloquente dei Ghost, totalmente al servizio di un pubblico che trova quel che cerca. Documentario, Musicale - USA 2026. Durata 115 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
