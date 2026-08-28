@@ -3,14 +3,7 @@
     "title": "GHOST - 2 BIG TO RIG",
     "cast": "",
     "details": "Un'immersione nello spettacolo eccessivo e magniloquente dei Ghost, totalmente al servizio di un pubblico che trova quel che cerca. Documentario, Musicale - USA 2026. Durata 115 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "21:30"
-        ]
-      }
-    ],
+    "cinemas": [],
     "tmdb_id": 1693400,
     "tmdb_title": "Ghost: 2 Big to Rig",
     "original_title": "Ghost: 2 Big to Rig",
@@ -28,6 +21,12 @@
     "details": "Esordio alla regia dell'attore Massimiliano Gallo, un tributo all'amore per il palcoscenico e alla sua capacità trasformativa. Drammatico, Italia 2026. Durata 90 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -43,30 +42,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
     "genres": "Dramma",
     "director": "Massimiliano Gallo",
-    "ai_reason": "High-brow Italian cinema exploring the legacy of the legendary Eduardo De Filippo and the intersection of art and social struggle.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "MICHAEL",
-    "cast": "Jaafar Jackson, Nia Long, Laura Harrier, Juliano Valdi",
-    "details": "Un film-evento musicale, dal ritmo travolgente. Da brividi la performance di Jaafar Jackson. Biografico, USA 2026. Durata 127 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 936075,
-    "tmdb_title": "Michael",
-    "original_title": "Michael",
-    "overview": "La storia di Michael Jackson oltre la musica, il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five all'artista precursore la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Seguendo la sua vita fuori dal palco e alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora.",
-    "release_date": "2026-04-22",
-    "vote_average": 8.662,
-    "poster_url": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
-    "genres": "Musica, Dramma",
-    "director": "Antoine Fuqua",
     "mathyas-pick": false
   },
   {
@@ -75,9 +50,9 @@
     "details": "Una pietra miliare, non solo del cinema action: visionario, spettacolare e profondamente umanista. Fantascienza, USA 1991. Durata 135 Minuti. Consigli per la visione: Ragazzi +16",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Uci Cinemas Showville",
         "times": [
-          "22:20"
+          "23:40"
         ]
       }
     ],
@@ -90,7 +65,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/orzgtkWWEHlSMcFm1p74ZvGqdz0.jpg",
     "genres": "Azione, Thriller, Fantascienza",
     "director": "James Cameron",
-    "ai_reason": "An essential re-release of James Cameron's sci-fi masterwork, a foundational pillar of cinema history.",
+    "ai_reason": "A cornerstone of speculative fiction and action cinema; Cameron’s masterpiece remains a masterclass in structural pacing and technical innovation. A mandatory classic re-release.",
     "mathyas-pick": true
   },
   {
@@ -99,10 +74,10 @@
     "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "18:35",
-          "21:25"
+          "17:15",
+          "20:45"
         ]
       },
       {
@@ -122,7 +97,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A mandatory cinematic event from Christopher Nolan, the definitive auteur of the high-concept modern blockbuster.",
+    "ai_reason": "Christopher Nolan returns to the epic format, offering a high-concept reimagining of myth that demands the largest screen possible. A definitive cinematic event.",
     "mathyas-pick": true
   },
   {
@@ -131,10 +106,10 @@
     "details": "La magia di un film davvero 'per tutti'. Fantastico, USA 2001. Durata 151 Minuti. Consigli per la visione: Film per tutti",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "18:05",
-          "20:40"
+          "15:35",
+          "21:00"
         ]
       },
       {
@@ -154,7 +129,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
     "genres": "Avventura, Fantasy",
     "director": "Chris Columbus",
-    "ai_reason": "A major theatrical re-release of a modern classic that reshaped the landscape of contemporary fantasy cinema.",
+    "ai_reason": "An essential re-release of Chris Columbus’s foundational work, marking a pivotal moment in the history of global cinematic world-building and contemporary mythology.",
     "mathyas-pick": true
   },
   {
@@ -163,10 +138,10 @@
     "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "16:05",
-          "21:40",
+          "15:40",
+          "18:05",
           "21:10"
         ]
       },
@@ -212,8 +187,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "An elevated indie portrait of a cultural icon by Matt Johnson, a rising auteur known for his distinct narrative style.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
@@ -221,10 +195,10 @@
     "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "16:10",
-          "19:00",
+          "15:55",
+          "18:15",
           "21:00"
         ]
       },
@@ -241,11 +215,11 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 7.319,
+    "vote_average": 7.208,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "A major cinematic event from Ridley Scott, a master director returning to high-stakes genre storytelling.",
+    "ai_reason": "Ridley Scott’s latest post-apocalyptic venture promises a blend of high-production spectacle and the director’s signature visual gravitas, making it a significant event for genre enthusiasts.",
     "mathyas-pick": true
   },
   {
@@ -254,10 +228,10 @@
     "details": "Una rom com brillante e musicale, sostenuta dalla riuscita chimica dei suoi protagonisti. Commedia, USA 2026. Durata 102 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
           "16:00",
-          "18:50"
+          "19:10"
         ]
       },
       {
@@ -285,10 +259,10 @@
     "details": "Un prodotto convenzionale ma ben realizzato, destinato a non scontentare i fan del franchise. Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "16:55",
-          "22:10"
+          "18:30",
+          "21:15"
         ]
       },
       {
@@ -316,10 +290,10 @@
     "details": "Un film che non si prende troppo sul serio tra thriller e commedia. Azione, Thriller - USA 2026. Durata 111 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "16:25",
-          "22:30"
+          "18:25",
+          "21:15"
         ]
       },
       {
@@ -347,16 +321,21 @@
     "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
+        "name": "Galleria",
         "times": [
-          "16:00",
-          "17:40",
-          "18:00",
-          "18:50",
-          "19:20",
-          "19:40",
-          "21:00",
-          "21:50"
+          "15:50",
+          "16:45",
+          "18:20",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:20",
+          "18:10",
+          "20:00",
+          "21:30"
         ]
       }
     ],
@@ -417,7 +396,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "A profound exploration of humanity from Hirokazu Kore-eda, one of the most essential contemporary international auteurs.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   }
 ]
