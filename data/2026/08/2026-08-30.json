@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/orzgtkWWEHlSMcFm1p74ZvGqdz0.jpg",
     "genres": "Azione, Thriller, Fantascienza",
     "director": "James Cameron",
-    "ai_reason": "A mandatory big-screen re-release of James Cameron’s seminal masterpiece of sci-fi and cinema history.",
+    "ai_reason": "The return of James Cameron’s revolutionary sci-fi landmark to the cinema; a quintessential classic that defined the modern blockbuster aesthetic.",
     "mathyas-pick": true
   },
   {
@@ -57,7 +57,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, redefining epic storytelling with grand scale and high critical stakes.",
+    "ai_reason": "A monumental cinematic event from Christopher Nolan, redefining the epic through a lens of psychological depth and grand-scale technical mastery.",
     "mathyas-pick": true
   },
   {
@@ -89,7 +89,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
     "genres": "Avventura, Fantasy",
     "director": "Chris Columbus",
-    "ai_reason": "A significant theatrical re-release of the first chapter in a modern cinematic saga that defined a generation.",
+    "ai_reason": "A cornerstone of contemporary myth-making returning to theaters; a significant re-release for those revisiting the foundations of modern fantasy cinema.",
     "mathyas-pick": true
   },
   {
@@ -150,7 +150,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/in0kk41QEtO8ITaEzkpjX2LQBuJ.jpg",
     "genres": "Animazione, Dramma, Famiglia",
     "director": "Maïlys Vallade, Liane-cho Han",
-    "ai_reason": "A work of prestige animation that avoids commercial tropes to delve into the profound emotional complexities of childhood.",
+    "ai_reason": "A beautifully crafted piece of prestige animation that shuns commercial tropes for a delicate, poignant exploration of the child's interior world.",
     "mathyas-pick": true
   },
   {
@@ -160,6 +160,12 @@
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Galleria",
         "times": [
           "21:00"
         ]
@@ -174,7 +180,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
     "genres": "Dramma, Commedia",
     "director": "Joachim Trier",
-    "ai_reason": "Joachim Trier's latest prestige drama offers a sophisticated, deeply moving exploration of family dynamics and artistic legacy.",
+    "ai_reason": "Joachim Trier delivers another masterclass in contemporary drama, dissecting family dysfunction with his characteristic intellectual and emotional precision.",
     "mathyas-pick": true
   },
   {
@@ -199,7 +205,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "An inventive, auteur-driven biopic from Matt Johnson, capturing the raw spirit of an emerging culinary icon with indie prestige.",
+    "ai_reason": "Acclaimed indie director Matt Johnson captures the raw, chaotic energy of youth in this sophisticated and deeply human biographical portrait.",
     "mathyas-pick": true
   },
   {
@@ -234,7 +240,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott returns to grand-scale genre filmmaking with a high-profile, atmospheric post-apocalyptic vision.",
+    "ai_reason": "Legacy auteur Ridley Scott brings his formidable visual sense to a post-apocalyptic landscape, elevating the genre to a high-prestige survivalist epic.",
     "mathyas-pick": true
   },
   {
@@ -278,8 +284,7 @@
         "times": [
           "12:30",
           "13:35",
-          "21:50",
-          "00:05"
+          "21:50"
         ]
       },
       {
@@ -324,7 +329,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "Master auteur Hirokazu Kore-eda explores the ethics of human connection through an elevated and philosophical sci-fi lens.",
+    "ai_reason": "A profound work by world-cinema master Hirokazu Kore-eda, merging contemplative arthouse sensibilities with a futuristic, existential narrative.",
     "mathyas-pick": true
   },
   {
@@ -344,11 +349,11 @@
     "original_title": "The End of Oak Street",
     "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
     "release_date": "2026-08-12",
-    "vote_average": 6.342,
+    "vote_average": 6.3,
     "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
     "genres": "Fantascienza, Mistero, Thriller",
     "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell brings his signature surrealist and elevated genre sensibilities to this high-concept cosmic mystery.",
+    "ai_reason": "Arthouse darling David Robert Mitchell returns with a surrealist sci-fi enigma, perfect for fans of elevated, atmospheric genre-bending cinema.",
     "mathyas-pick": true
   },
   {
