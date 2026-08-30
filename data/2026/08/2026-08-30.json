@@ -1,0 +1,501 @@
+[
+  {
+    "title": "TERMINATOR 2 - IL GIORNO DEL GIUDIZIO",
+    "cast": "Arnold Schwarzenegger, Edward Furlong, Linda Hamilton, Robert Patrick",
+    "details": "Una pietra miliare, non solo del cinema action: visionario, spettacolare e profondamente umanista. Fantascienza, USA 1991. Durata 135 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 280,
+    "tmdb_title": "Terminator 2 - Il giorno del giudizio",
+    "original_title": "Terminator 2: Judgment Day",
+    "overview": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+    "release_date": "1991-07-03",
+    "vote_average": 8.167,
+    "poster_url": "https://image.tmdb.org/t/p/w500/orzgtkWWEHlSMcFm1p74ZvGqdz0.jpg",
+    "genres": "Azione, Thriller, Fantascienza",
+    "director": "James Cameron",
+    "ai_reason": "A mandatory big-screen re-release of James Cameron’s seminal masterpiece of sci-fi and cinema history.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:55",
+          "15:00",
+          "17:00",
+          "20:10",
+          "21:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "14:20",
+          "18:00",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "release_date": "2026-07-15",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A major cinematic event from Christopher Nolan, redefining epic storytelling with grand scale and high critical stakes.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "HARRY POTTER E LA PIETRA FILOSOFALE",
+    "cast": "Daniel Radcliffe, Rupert Grint, Emma Watson, John Cleese",
+    "details": "La magia di un film davvero 'per tutti'. Fantastico, USA 2001. Durata 151 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "20:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:30",
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 671,
+    "tmdb_title": "Harry Potter e la pietra filosofale",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter vive con gli zii e il cuginetto sin dalla più tenera età dopo la morte dei suoi genitori. I parenti non lo amano per nulla. Harry sta ormai per compiere undici anni e viene guardato male anche per alcune sue capacità 'magiche'. Che sono effettive perché Harry è figlio di maghi e comincia a ricevere lettere, regolarmente sequestrate, portate da gufi. Dovrà giungere il gigantesco Hagrid a recapitargliene personalmente una perché possa apprendere di essere stato ammesso a frequentare la Scuola di Magia e Stregoneria di Hogwarts. Gli zii a questo punto non possono far più nulla e Harry raggiunge la Scuola dove apprende che il suo nome è già noto e dove scoprirà di avere naturali doti magiche.",
+    "release_date": "2001-11-16",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
+    "genres": "Avventura, Fantasy",
+    "director": "Chris Columbus",
+    "ai_reason": "A significant theatrical re-release of the first chapter in a modern cinematic saga that defined a generation.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "13:15",
+          "15:30",
+          "18:50",
+          "20:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:15",
+          "13:20",
+          "16:30",
+          "19:10",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-29",
+    "vote_average": 7.887,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA PICCOLA AMELIE",
+    "cast": "",
+    "details": "Forte e coloratissimo, un adattamento animato della biografia creativa di Amélie Nothomb. Animazione, Francia 2025. Durata 75 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10"
+        ]
+      }
+    ],
+    "tmdb_id": 682012,
+    "tmdb_title": "La piccola Amelie",
+    "original_title": "Amélie et la métaphysique des tubes",
+    "overview": "Amélie è una bambina belga nata in Giappone. Grazie al suo amico Nishio-san, il mondo è pieno di avventure e scoperte. Ma nel giorno del suo terzo compleanno, un evento cambia il corso della sua vita. Perché a quell'età per Amélie tutto è in gioco: la felicità ma anche la tragedia.",
+    "release_date": "2025-06-25",
+    "vote_average": 7.873,
+    "poster_url": "https://image.tmdb.org/t/p/w500/in0kk41QEtO8ITaEzkpjX2LQBuJ.jpg",
+    "genres": "Animazione, Dramma, Famiglia",
+    "director": "Maïlys Vallade, Liane-cho Han",
+    "ai_reason": "A work of prestige animation that avoids commercial tropes to delve into the profound emotional complexities of childhood.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SENTIMENTAL VALUE",
+    "cast": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning",
+    "details": "Con una cifra stilistica inconfondibile, Trier delinea con morbidezza e fluidità la complessità dei rapporti familiari. Commedia, Drammatico - Norvegia, Germania, Danimarca, Francia, Svezia 2025. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1124566,
+    "tmdb_title": "Sentimental Value",
+    "original_title": "Affeksjonsverdi",
+    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
+    "release_date": "2025-08-20",
+    "vote_average": 7.461,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Joachim Trier",
+    "ai_reason": "Joachim Trier's latest prestige drama offers a sophisticated, deeply moving exploration of family dynamics and artistic legacy.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TONY - DIARIO DI UN GIOVANE CUOCO",
+    "cast": "Dominic Sessa, Antonio Banderas, Leo Woodall, Emilia Jones",
+    "details": "Un coming of age ironico e anticonvenzionale. Un'ode stravagante a tutte le persone fuori dal comune. Biografico, Commedia, Drammatico - USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "17:30",
+          "21:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1329016,
+    "tmdb_title": "Tony - Diario di un giovane cuoco",
+    "original_title": "Tony",
+    "overview": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
+    "release_date": "2026-08-07",
+    "vote_average": 7.448,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Matt Johnson",
+    "ai_reason": "An inventive, auteur-driven biopic from Matt Johnson, capturing the raw spirit of an emerging culinary icon with indie prestige.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
+    "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:00",
+          "22:30",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:30",
+          "13:20",
+          "16:20",
+          "20:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1384216,
+    "tmdb_title": "The Dog Stars - Le stelle dopo la fine",
+    "original_title": "The Dog Stars",
+    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
+    "release_date": "2026-08-26",
+    "vote_average": 7.021,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
+    "genres": "Fantascienza, Avventura, Thriller",
+    "director": "Ridley Scott",
+    "ai_reason": "Ridley Scott returns to grand-scale genre filmmaking with a high-profile, atmospheric post-apocalyptic vision.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
+    "cast": "Callum Turner, Monica Barbaro, Grace Dumdaw, Duncan Jui",
+    "details": "Una rom com brillante e musicale, sostenuta dalla riuscita chimica dei suoi protagonisti. Commedia, USA 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:25",
+          "18:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:30",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1433367,
+    "tmdb_title": "One Night Only - Quando tutto è possibile",
+    "original_title": "One Night Only",
+    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
+    "release_date": "2026-07-28",
+    "vote_average": 6.854,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+    "genres": "Commedia, Romance",
+    "director": "Will Gluck",
+    "mathyas-pick": false
+  },
+  {
+    "title": "INSIDIOUS - FUORI DALL'ALTROVE",
+    "cast": "Lin Shaye, Amelia Eve, Brandon Perea, Sam Spruell",
+    "details": "Un prodotto convenzionale ma ben realizzato, destinato a non scontentare i fan del franchise. Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "12:30",
+          "13:35",
+          "21:50",
+          "00:05"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1291595,
+    "tmdb_title": "Insidious - Fuori dall’Altrove",
+    "original_title": "Insidious: Out of the Further",
+    "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
+    "release_date": "2026-08-19",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Jacob Chase",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SHEEP IN THE BOX",
+    "cast": "Haruka Ayase, Daigo Yamamoto (II), Kuwaki Rimu, Nana Seino",
+    "details": "L'intelligenza artificiale come strumento per lenire i nostri problemi. Un'opera sul nostro immediato futuro. Drammatico, Giappone 2026. Durata 126 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1553969,
+    "tmdb_title": "Sheep in the Box",
+    "original_title": "箱の中の羊",
+    "overview": "In un futuro prossimo, a Yokohama, la coppia dei Komoto, che ha tragicamente perso il figlio di sette anni Kakeru, decide di avvalersi di REbirth, un programma pensato per le famiglie nella loro situazione: riceveranno in prova gratuita un androide guidato dall'intelligenza artificiale, con le fattezze e i ricordi di Kakeru, destinato a diventare un surrogato in tutto e per tutto del figlio perduto. Il padre Kensuke è inizialmente scettico, laddove la madre Otone si affeziona istantaneamente al nuovo Kakeru, scegliendo di vivere nell'autosuggestione. Finché una visita della madre e della sorella non riportano Otone alla realtà, mentre il nuovo Kakeru stringe segretamente amicizia con altri suoi \"simili\".",
+    "release_date": "2026-05-29",
+    "vote_average": 6.346,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
+    "genres": "Dramma, Fantascienza",
+    "director": "是枝裕和",
+    "ai_reason": "Master auteur Hirokazu Kore-eda explores the ethics of human connection through an elevated and philosophical sci-fi lens.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA FINE DI OAK STREET",
+    "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
+    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1101383,
+    "tmdb_title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "release_date": "2026-08-12",
+    "vote_average": 6.342,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "genres": "Fantascienza, Mistero, Thriller",
+    "director": "David Robert Mitchell",
+    "ai_reason": "David Robert Mitchell brings his signature surrealist and elevated genre sensibilities to this high-concept cosmic mystery.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "OCEANIA",
+    "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams",
+    "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10",
+          "12:25",
+          "14:00",
+          "15:05",
+          "15:40",
+          "16:10",
+          "16:50",
+          "17:40",
+          "18:00",
+          "18:30",
+          "19:40",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "14:40",
+          "15:00",
+          "17:20",
+          "18:10",
+          "18:50",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1108427,
+    "tmdb_title": "Oceania",
+    "original_title": "Moana",
+    "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
+    "release_date": "2026-07-08",
+    "vote_average": 6.149,
+    "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "genres": "Famiglia, Fantasy, Commedia, Avventura",
+    "director": "Thomas Kail",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
+    "cast": "Russell Crowe, Luke Evans, Aaron Paul, Nina Dobrev",
+    "details": "Un film che non si prende troppo sul serio tra thriller e commedia. Azione, Thriller - USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "15:15",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:15",
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1279493,
+    "tmdb_title": "La vendetta perfetta - Bear Country",
+    "original_title": "The Get Out",
+    "overview": "Manko Kapac è il proprietario di un nightclub che decide di lasciarsi alle spalle il suo passato pericoloso per godersi la pensione insieme alla donna che ama (Teresa Palmer). Quando due figure armate e mascherate (Aaron Paul e Nina Dobrev) lo rapinano e lui si ritrova stretto nella morsa dei cartelli, si presenta un uomo misterioso (Luke Evans) interessato ad acquistare il suo club. Con il pericolo che incombe da ogni parte, dovrà districarsi in una rete mortale di inganni, potere e sopravvivenza, dove la fuga potrebbe non essere più un'opzione.",
+    "release_date": "2026-06-18",
+    "vote_average": 6.135,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
+    "genres": "Azione, Thriller",
+    "director": "Derrick Borte",
+    "mathyas-pick": false
+  },
+  {
+    "title": "COUTURE",
+    "cast": "Angelina Jolie, Anyier Anei, Louis Garrel, Ella Rumpf",
+    "details": "Tre donne e tre vite da cucire o da riparare. Una prova significativa e apprezzabile di sguardo femminile. Drammatico, USA, Francia 2025. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 719463,
+    "tmdb_title": "Alta moda",
+    "original_title": "Haute Couture",
+    "overview": "",
+    "release_date": "2021-11-10",
+    "vote_average": 6.111,
+    "poster_url": "https://image.tmdb.org/t/p/w500/srN0iA97EfjZReGlGyDNcDh8ZPs.jpg",
+    "genres": "Dramma",
+    "director": "Sylvie Ohayon",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IO SONO LA FINE DEL MONDO",
+    "cast": "Angelo Duro, Giorgio Colangeli, Matilde Piana, Marilù Pipitone",
+    "details": "Quando il politicamente scorretto non graffia perché troppo programmatico. Commedia, Italia 2025. Durata 96 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1386877,
+    "tmdb_title": "Io sono la fine del mondo",
+    "original_title": "Io sono la fine del mondo",
+    "overview": "\"Un giorno i tuoi genitori non ci saranno più e sarai pieno di rimorsi\" è la frase che convince Angelo a prendersi cura dei suoi vecchi genitori ora che non sono più autosufficienti: non vuole infatti perdere l'occasione di vendicarsi dei peggiori nemici della sua adolescenza.",
+    "release_date": "2025-01-09",
+    "vote_average": 4.981,
+    "poster_url": "https://image.tmdb.org/t/p/w500/atxPVWn8ljVO1YX7W5xUwO6BGnM.jpg",
+    "genres": "Commedia",
+    "director": "Gennaro Nunziante",
+    "mathyas-pick": false
+  },
+  {
+    "title": "GRETA E LE FAVOLE VERE",
+    "cast": "Sara Ciocca, Raoul Bova, Donatella Finocchiaro, Sabrina Impacciatore",
+    "details": "Una favola ecologista coraggiosa,con un'anima autentica e molto naïf. Commedia, Italia 2026. Durata 93 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:45",
+          "11:00"
+        ]
+      }
+    ],
+    "tmdb_id": 870092,
+    "tmdb_title": "Greta e le favole vere",
+    "original_title": "Greta e le favole vere",
+    "overview": "Greta ha nove anni ed è bravissima a realizzare gli addobbi natalizi con la sua babysitter, Katy. La bambina crede così tanto in Babbo Natale, da decidere di portare una letterina a Nicola, il suo vicino di casa, che le fa credere di essere l’assistente personale di Babbo Natale. Ovviamente Nicola le ha mentito e, quando viene smascherato da Greta, le confessa di non avere nessun rapporto con Babbo Natale. Nicola - che è un bravissimo illustratore - per farsi perdonare, le disegna una fiaba animata che le cambierà la vita: la protagonista della fiaba è Greta Thunberg, una ragazzina che si chiama come lei e che è riuscita a cambiare il mondo, portando al centro dell’attenzione i problemi ambientali e trascinando con la sua determinazione milioni di ragazzi.",
+    "release_date": "2026-08-06",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cbviggp1WTZeijGuFKOoF6XYpsg.jpg",
+    "genres": "Commedia, Famiglia",
+    "director": "Berardo Carboni",
+    "mathyas-pick": false
+  }
+]
