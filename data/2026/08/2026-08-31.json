@@ -45,7 +45,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from Christopher Nolan, the definitive architect of the modern grand-scale spectacle. This epic reimagining is an essential theatrical experience.",
+    "ai_reason": "Christopher Nolan's grand-scale reinterpretation of Homeric myth marks a monumental cinematic event for the modern era.",
     "mathyas-pick": true
   },
   {
@@ -76,7 +76,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
     "genres": "Avventura, Fantasy",
     "director": "Chris Columbus",
-    "mathyas-pick": false
+    "ai_reason": "The definitive re-release of a foundational fantasy classic that remains a cornerstone of 21st-century cinema history.",
+    "mathyas-pick": true
   },
   {
     "title": "SPIDER-MAN - BRAND NEW DAY",
@@ -110,30 +111,6 @@
     "genres": "Fantascienza, Azione, Avventura",
     "director": "Destin Daniel Cretton",
     "mathyas-pick": false
-  },
-  {
-    "title": "SENTIMENTAL VALUE",
-    "cast": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning",
-    "details": "Con una cifra stilistica inconfondibile, Trier delinea con morbidezza e fluidità la complessità dei rapporti familiari. Commedia, Drammatico - Norvegia, Germania, Danimarca, Francia, Svezia 2025. Durata 132 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1124566,
-    "tmdb_title": "Sentimental Value",
-    "original_title": "Affeksjonsverdi",
-    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
-    "release_date": "2025-08-20",
-    "vote_average": 7.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Joachim Trier",
-    "ai_reason": "Joachim Trier, a master of contemporary existentialist cinema, returns with what promises to be another deeply emotive and critically acclaimed character study.",
-    "mathyas-pick": true
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -197,7 +174,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "mathyas-pick": false
+    "ai_reason": "Ridley Scott returns to gritty speculative fiction, elevated by a cast of prestigious contemporary indie icons.",
+    "mathyas-pick": true
   },
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
@@ -250,7 +228,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/grNynqw4K4Xr66MrmpfmrjPjzkR.jpg",
     "genres": "Western, Avventura, Famiglia",
     "director": "Lucio Fulci",
-    "ai_reason": "A foundational piece of Italian auteur cinema. Despite the curious metadata, the combination of Nanni Moretti and Laura Morante marks this as a vital classic re-release.",
+    "ai_reason": "A significant cult re-release from Italian genre maestro Lucio Fulci, offering a rare look at his contribution to the adventure genre.",
     "mathyas-pick": true
   },
   {
@@ -276,7 +254,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "A profound work by Japanese auteur Hirokazu Kore-eda, blending his signature humanistic lens with speculative fiction to explore the boundaries of grief and technology.",
+    "ai_reason": "A contemplative sci-fi meditation on grief and artificiality from Palme d'Or winner Hirokazu Kore-eda.",
     "mathyas-pick": true
   },
   {
@@ -301,10 +279,13 @@
       {
         "name": "Uci Cinemas Showville",
         "times": [
+          "16:40",
           "17:20",
           "18:10",
           "18:50",
-          "20:00"
+          "19:20",
+          "20:00",
+          "22:00"
         ]
       }
     ],
