@@ -25,11 +25,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.988,
+    "vote_average": 7.989,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from Christopher Nolan; a cerebral, large-scale reimagining of the Homeric myth that demands the biggest screen possible.",
+    "ai_reason": "Christopher Nolan returns with a monumental cinematic event, reimagining the Homeric myth through his signature lens of technical precision and intellectual scale.",
     "mathyas-pick": true
   },
   {
@@ -60,7 +60,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
     "genres": "Avventura, Fantasy",
     "director": "Chris Columbus",
-    "mathyas-pick": false
+    "ai_reason": "A significant theatrical re-release of a contemporary classic that serves as a cornerstone of modern cinema history.",
+    "mathyas-pick": true
   },
   {
     "title": "SPIDER-MAN - BRAND NEW DAY",
@@ -116,8 +117,43 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "Emerging auteur Matt Johnson brings his sharp, stylized gaze to the formative years of Anthony Bourdain, offering an elevated and gritty biographical narrative.",
+    "ai_reason": "A prestige indie production from director Matt Johnson, offering a gritty and sophisticated portrayal of Anthony Bourdain's formative years.",
     "mathyas-pick": true
+  },
+  {
+    "title": "THE INVITE - IL PIACERE È TUTTO NOSTRO",
+    "cast": "Seth Rogen, Olivia Wilde, Penélope Cruz, Edward Norton",
+    "details": "Una commedia romantica acida al punto giusto. Commedia, Drammatico - USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:50"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "20:00"
+        ]
+      }
+    ],
+    "tmdb_id": 950028,
+    "tmdb_title": "The Invite - Il piacere è tutto nostro",
+    "original_title": "The Invite",
+    "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
+    "release_date": "2026-06-25",
+    "vote_average": 7.272,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "genres": "Commedia, Dramma, Romance",
+    "director": "Olivia Wilde",
+    "mathyas-pick": false
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -149,7 +185,7 @@
     "original_title": "One Night Only",
     "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
     "release_date": "2026-07-28",
-    "vote_average": 6.856,
+    "vote_average": 6.858,
     "poster_url": "https://image.tmdb.org/t/p/w500/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
     "genres": "Commedia, Romance",
     "director": "Will Gluck",
@@ -185,8 +221,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott’s legendary visual mastery meets the raw energy of contemporary indie icons Jacob Elordi and Margaret Qualley in this atmospheric post-apocalyptic odyssey.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
@@ -242,7 +277,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "The master of contemporary humanism, Hirokazu Kore-eda, explores speculative fiction in this haunting, high-concept meditation on memory and loss.",
+    "ai_reason": "Acclaimed auteur Hirokazu Kore-eda ventures into elevated speculative fiction, exploring the haunting intersection of grief and artificial intelligence.",
     "mathyas-pick": true
   },
   {
@@ -276,7 +311,7 @@
     "original_title": "Moana",
     "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
     "release_date": "2026-07-08",
-    "vote_average": 6.156,
+    "vote_average": 6.152,
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
