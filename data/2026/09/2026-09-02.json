@@ -28,7 +28,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from visionary director Christopher Nolan, redefining the epic genre through his signature intellectual lens.",
+    "ai_reason": "A monumental cinematic event from Christopher Nolan, redefining the epic through his signature precision and high-concept storytelling.",
     "mathyas-pick": true
   },
   {
@@ -60,7 +60,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
     "genres": "Avventura, Fantasy",
     "director": "Chris Columbus",
-    "ai_reason": "A significant theatrical re-release of a definitive modern classic that shaped contemporary blockbuster history.",
+    "ai_reason": "A cornerstone of modern cinema history, this classic re-release remains an essential theatrical experience for any true cinephile.",
     "mathyas-pick": true
   },
   {
@@ -96,6 +96,43 @@
     "mathyas-pick": false
   },
   {
+    "title": "COYOTE VS. ACME",
+    "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne",
+    "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 141 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:20",
+          "17:00",
+          "18:20",
+          "18:55",
+          "19:40",
+          "20:00",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00",
+          "19:30",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1204680,
+    "tmdb_title": "Coyote vs. Acme",
+    "original_title": "Coyote vs. Acme",
+    "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+    "release_date": "2026-08-20",
+    "vote_average": 7.858,
+    "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+    "genres": "Commedia, Avventura, Famiglia",
+    "director": "Dave Green",
+    "mathyas-pick": false
+  },
+  {
     "title": "TONY - DIARIO DI UN GIOVANE CUOCO",
     "cast": "Dominic Sessa, Antonio Banderas, Leo Woodall, Emilia Jones",
     "details": "Un coming of age ironico e anticonvenzionale. Un'ode stravagante a tutte le persone fuori dal comune. Biografico, Commedia, Drammatico - USA 2026. Durata 106 Minuti.",
@@ -117,8 +154,37 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "A prestige biographical drama from acclaimed director Matt Johnson, featuring rising indie star Dominic Sessa in a grit-infused origin story.",
+    "ai_reason": "A prestigious indie portrait of a cultural icon, capturing the raw energy of Bourdain’s youth through the lens of a rising auteur.",
     "mathyas-pick": true
+  },
+  {
+    "title": "THE INVITE - IL PIACERE È TUTTO NOSTRO",
+    "cast": "Seth Rogen, Olivia Wilde, Penélope Cruz, Edward Norton",
+    "details": "Una commedia romantica acida al punto giusto. Commedia, Drammatico - USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:50"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 950028,
+    "tmdb_title": "The Invite - Il piacere è tutto nostro",
+    "original_title": "The Invite",
+    "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
+    "release_date": "2026-06-25",
+    "vote_average": 7.285,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "genres": "Commedia, Dramma, Romance",
+    "director": "Olivia Wilde",
+    "mathyas-pick": false
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -143,7 +209,7 @@
     "original_title": "One Night Only",
     "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
     "release_date": "2026-07-28",
-    "vote_average": 7.026,
+    "vote_average": 6.958,
     "poster_url": "https://image.tmdb.org/t/p/w500/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
     "genres": "Commedia, Romance",
     "director": "Will Gluck",
@@ -166,7 +232,7 @@
     "original_title": "Sunny Dancer",
     "overview": "Dopo anni trascorsi a combattere battaglie più grandi di loro, Ivy e un gruppo di ragazzi decidono di recuperare il tempo perduto. Li aspetta un’estate di libertà, amicizia e scelte che non dimenticheranno mai. Un coming-of-age pieno di cuore, un inno alla giovinezza, all’amicizia e alla voglia di vivere ogni momento senza rimpianti.",
     "release_date": "2026-08-12",
-    "vote_average": 7,
+    "vote_average": 6.708,
     "poster_url": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
     "genres": "Dramma, Commedia",
     "director": "George Jaques",
@@ -196,12 +262,11 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 6.692,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Legendary auteur Ridley Scott returns to high-concept sci-fi with an impressive cast, promising a grand-scale survivalist epic.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
@@ -256,7 +321,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "A profound exploration of grief and technology from Palme d'Or winner Hirokazu Kore-eda, blending arthouse sensibilities with speculative fiction.",
+    "ai_reason": "A profound arthouse meditation on grief and technology from Palme d'Or winner Hirokazu Kore-eda, blending speculative fiction with humanism.",
     "mathyas-pick": true
   },
   {
@@ -347,7 +412,7 @@
   {
     "title": "KATY PERRY: THE LIFETIMES TOUR - LIVE FROM PARIS",
     "cast": "Katy Perry",
-    "details": "Katy Perry, una delle artiste pop più iconiche della sua generazione. Concerto, USA 2026. Durata 132 Minuti.",
+    "details": "Un monumento allo spettacolo e alla relazione tra una popstar e il suo pubblico. Concerto, USA 2026. Durata 132 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
