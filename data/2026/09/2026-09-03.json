@@ -28,7 +28,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A quintessential 'Event Movie' from Christopher Nolan; a high-stakes epic that promises the intellectual and visual scale cinephiles demand.",
+    "ai_reason": "A monumental cinematic event from Christopher Nolan, reimagining epic mythology through the visionary lens of a modern master.",
     "mathyas-pick": true
   },
   {
@@ -66,7 +66,7 @@
   {
     "title": "COYOTE VS. ACME",
     "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne",
-    "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 141 Minuti.",
+    "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 103 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -107,6 +107,12 @@
     "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
     "cinemas": [
       {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
         "name": "Galleria",
         "times": [
           "21:00"
@@ -122,7 +128,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg",
     "genres": "Crime, Dramma, Thriller",
     "director": "Daniel Roher",
-    "ai_reason": "A sophisticated psychological thriller with a prestige cast including Dustin Hoffman, focusing on sensory perception and high-stakes moral dilemmas.",
+    "ai_reason": "An elevated psychological thriller exploring the isolation of genius and sensory obsession, directed by Oscar-winner Daniel Roher.",
     "mathyas-pick": true
   },
   {
@@ -147,8 +153,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "An elevated indie biopic from Matt Johnson (BlackBerry) featuring 'The Holdovers' breakout Dominic Sessa as a young Anthony Bourdain.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -200,7 +205,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
     "genres": "Dramma",
     "director": "Enyedi Ildikó",
-    "ai_reason": "A masterclass in arthouse cinema from auteur Ildikó Enyedi, starring Tony Leung; a meditative, multi-generational exploration of nature and humanity.",
+    "ai_reason": "A profound arthouse triptych by Ildikó Enyedi featuring the legendary Tony Leung; a contemplative, high-brow study of nature and human connection.",
     "mathyas-pick": true
   },
   {
@@ -250,11 +255,11 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 6.691,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "A major cinematic event from legendary director Ridley Scott, adapting a cult post-apocalyptic novel with a formidable ensemble cast.",
+    "ai_reason": "A major cinematic event from Ridley Scott, blending post-apocalyptic survival with the visual grandeur and thematic weight expected of a legendary auteur.",
     "mathyas-pick": true
   },
   {
@@ -274,7 +279,7 @@
     "original_title": "Insidious: Out of the Further",
     "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
     "release_date": "2026-08-19",
-    "vote_average": 6.6,
+    "vote_average": 6.567,
     "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
     "genres": "Horror, Thriller",
     "director": "Jacob Chase",
@@ -301,7 +306,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "World-renowned auteur Hirokazu Kore-eda delivers an elevated sci-fi narrative, blending his signature humanism with a provocative look at AI.",
+    "ai_reason": "Palme d'Or winner Hirokazu Kore-eda explores loss and existentialism through a sophisticated sci-fi premise, maintaining his signature humanist depth.",
     "mathyas-pick": true
   },
   {
@@ -416,6 +421,29 @@
     "mathyas-pick": false
   },
   {
+    "title": "THE MORTUARY ASSISTANT - ANATOMIA DI UN INCUBO",
+    "cast": "Willa Holland, Paul Sparks, Mark Steger, Keena Ferguson",
+    "details": "Basato su un videogioco, il film non riesce a trascenderne la natura ludico-ripetitiva. Horror, USA 2026. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1470130,
+    "tmdb_title": "The Mortuary Assistant - Anatomia di un incubo",
+    "original_title": "The Mortuary Assistant",
+    "overview": "",
+    "release_date": "2026-02-13",
+    "vote_average": 5.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7k7hY1HqUYryPdRio0fuDMaIq4N.jpg",
+    "genres": "Horror, Mistero",
+    "director": "Jeremiah Kipp",
+    "mathyas-pick": false
+  },
+  {
     "title": "KETTICÈ",
     "cast": "Salvatore Gallina, Rachele Testagrossa, Monica Bellucci, Tommaso Cristiano Wirz",
     "details": "Un adolescente in cerca di senso all'interno di un mondo programmaticamente insensato. Commedia, Italia 2026. Durata 107 Minuti.",
@@ -442,36 +470,13 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lRg0437Vsgc9tGcqvSib6rBgKQy.jpg",
     "genres": "Dramma",
     "director": "Giovanni Tortorici",
-    "ai_reason": "A serious, non-commercial work of Italian cinema that explores the communicative void between generations in Palermo, featuring Monica Bellucci.",
+    "ai_reason": "A sophisticated Italian auteur drama that shuns generic tropes to explore the profound disconnect between generations in contemporary Palermo.",
     "mathyas-pick": true
-  },
-  {
-    "title": "KATY PERRY: THE LIFETIMES TOUR - LIVE FROM PARIS",
-    "cast": "Katy Perry",
-    "details": "Un monumento allo spettacolo e alla relazione tra una popstar e il suo pubblico. Concerto, USA 2026. Durata 132 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "18:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1684016,
-    "tmdb_title": "Katy Perry: The Lifetimes Tour – Live from Paris",
-    "original_title": "Katy Perry: The Lifetimes Tour – Live from Paris",
-    "overview": "",
-    "release_date": "2026-09-02",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/ulsXx67XgRupN53gZHCuzwBEA7O.jpg",
-    "genres": "Documentario, Musica",
-    "director": "Paul Dugdale",
-    "mathyas-pick": false
   },
   {
     "title": "IL MALLOPPO",
     "cast": "Diego Abatantuono, Michele Foresta, Max Angioni, Maria Amelia Monti",
-    "details": "Una commedia non dotata di un testo all'altezza degli attori in scena. Commedia, Italia 2026. Durata 110 Minuti.",
+    "details": "Una commedia noir dal cast corale e familiare. Tanti siparietti, poco ritmo comico. Commedia, Italia 2026. Durata 110 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -496,6 +501,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tTpHYA1XCg4ZzN2pn6n58XDiuxV.jpg",
     "genres": "Commedia",
     "director": "Volfango De Biasi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "KATY PERRY: THE LIFETIMES TOUR - LIVE FROM PARIS",
+    "cast": "Katy Perry",
+    "details": "Un monumento allo spettacolo e alla relazione tra una popstar e il suo pubblico. Concerto, USA 2026. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1684016,
+    "tmdb_title": "Katy Perry: The Lifetimes Tour – Live from Paris",
+    "original_title": "Katy Perry: The Lifetimes Tour – Live from Paris",
+    "overview": "",
+    "release_date": "2026-09-02",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ulsXx67XgRupN53gZHCuzwBEA7O.jpg",
+    "genres": "Documentario, Musica",
+    "director": "Paul Dugdale",
     "mathyas-pick": false
   }
 ]
