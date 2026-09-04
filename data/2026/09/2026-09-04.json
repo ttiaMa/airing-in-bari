@@ -24,11 +24,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.996,
+    "vote_average": 7.997,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A definitive cinematic event from Christopher Nolan, master of the large-scale intellectual epic, featuring a powerhouse ensemble cast.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, master of the intellectual blockbuster, reimagining the epic Odissea with his signature auteurist vision.",
     "mathyas-pick": true
   },
   {
@@ -100,29 +100,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "TUNER - L'ACCORDATORE",
-    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz",
-    "details": "Un film d'autore con un andamento jazz capace di parlare al grande pubblico. Con Hoffman in una parte scritta con amore e grazia. Drammatico, Canada, USA 2025. Durata 109 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1340206,
-    "tmdb_title": "Tuner - L’accordatore",
-    "original_title": "Tuner",
-    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
-    "release_date": "2026-05-21",
-    "vote_average": 7.6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg",
-    "genres": "Crime, Dramma, Thriller",
-    "director": "Daniel Roher",
-    "mathyas-pick": false
-  },
-  {
     "title": "TONY - DIARIO DI UN GIOVANE CUOCO",
     "cast": "Dominic Sessa, Antonio Banderas, Leo Woodall, Emilia Jones",
     "details": "Un coming of age ironico e anticonvenzionale. Un'ode stravagante a tutte le persone fuori dal comune. Biografico, Commedia, Drammatico - USA 2026. Durata 106 Minuti.",
@@ -167,6 +144,35 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
     "genres": "Commedia, Romance",
     "director": "Will Gluck",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PAW PATROL - MISSIONE DINOSAURI",
+    "cast": "",
+    "details": "Animazione, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1185806,
+    "tmdb_title": "PAW Patrol - Missione Dinosauri",
+    "original_title": "PAW Patrol: The Dino Movie",
+    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
+    "release_date": "2026-07-23",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
+    "director": "Cal Brunker",
     "mathyas-pick": false
   },
   {
@@ -220,7 +226,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
     "genres": "Dramma",
     "director": "Enyedi Ildikó",
-    "ai_reason": "A highly anticipated arthouse triptych from Golden Bear winner Ildikó Enyedi, starring the legendary Tony Leung in a meditative exploration of nature and humanity.",
+    "ai_reason": "An exquisite example of international auteur cinema by Ildikó Enyedi, featuring the legendary Tony Leung in a high-brow, multi-generational triptych.",
     "mathyas-pick": true
   },
   {
@@ -228,6 +234,12 @@
     "cast": "Virginia Raffaele, Diego Abatantuono, Aldo Baglio, Giuseppe Ignazio Loi",
     "details": "Una commedia che fotografa un'Italia legata alle proprie radici anche davanti alla necessità di adeguarsi al presente. Commedia, Italia 2025. Durata 118 Minuti.",
     "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      },
       {
         "name": "Galleria",
         "times": [
@@ -274,7 +286,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "A prestige post-apocalyptic vision from Ridley Scott, led by indie darlings Jacob Elordi and Margaret Qualley.",
+    "ai_reason": "A significant production by legendary director Ridley Scott, blending high-stakes survival with the prestige and scale expected of a major cinematic event.",
     "mathyas-pick": true
   },
   {
@@ -344,7 +356,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "Palme d'Or winner Hirokazu Kore-eda explores the boundaries of grief and technology in this sophisticated speculative drama.",
+    "ai_reason": "A sophisticated work of arthouse science fiction from Palme d'Or winner Hirokazu Kore-eda, offering a profound meditation on memory and humanity.",
     "mathyas-pick": true
   },
   {
