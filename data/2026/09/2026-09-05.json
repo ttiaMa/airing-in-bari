@@ -29,7 +29,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from visionary auteur Christopher Nolan, reimagining Homeric myth with his signature intellectual depth and grand visual scale.",
+    "ai_reason": "A monumental cinematic event directed by Christopher Nolan; a high-concept reimagining of Homeric myth that defines modern prestige blockbuster filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -131,8 +131,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "An evocative biopic from indie auteur Matt Johnson, exploring the formative years of a cultural icon through a sharp, gritty, and kinetic lens.",
+    "ai_reason": "A stylized indie biopic by auteur Matt Johnson, capturing the raw, culinary underground spirit of cultural icon Anthony Bourdain.",
     "mathyas-pick": true
+  },
+  {
+    "title": "LE CITTÀ DI PIANURA",
+    "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
+    "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1462322,
+    "tmdb_title": "Le città di pianura",
+    "original_title": "Le città di pianura",
+    "overview": "La storia di Carlobianchi e Doriano, due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio, un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.",
+    "release_date": "2025-09-25",
+    "vote_average": 7.446,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
+    "genres": "Commedia",
+    "director": "Francesco Sossai",
+    "mathyas-pick": false
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -188,6 +211,30 @@
     "mathyas-pick": false
   },
   {
+    "title": "PAW PATROL - MISSIONE DINOSAURI",
+    "cast": "",
+    "details": "Animazione, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "15:10",
+          "17:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1185806,
+    "tmdb_title": "PAW Patrol - Missione Dinosauri",
+    "original_title": "PAW Patrol: The Dino Movie",
+    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
+    "release_date": "2026-07-23",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
+    "director": "Cal Brunker",
+    "mathyas-pick": false
+  },
+  {
     "title": "SILENT FRIEND",
     "cast": "Tony Chiu-Wai Leung, Luna Wedler, Enzo Brumm, Léa Seydoux",
     "details": "Una sfida vinta: Enyedi affronta con originalità l'impresa di relazionare esseri umani con il mondo vegetale. Drammatico, Germania, Francia, Ungheria 2025. Durata 145 Minuti.",
@@ -208,31 +255,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
     "genres": "Dramma",
     "director": "Enyedi Ildikó",
-    "ai_reason": "A masterclass in contemplative arthouse cinema by Ildikó Enyedi, featuring the legendary Tony Leung in a poetic, multi-generational narrative.",
+    "ai_reason": "A sophisticated arthouse triptych by Palme d'Or winner Ildikó Enyedi, featuring the peerless Tony Leung in a contemplative, multi-generational narrative.",
     "mathyas-pick": true
-  },
-  {
-    "title": "LA VITA VA COSÌ",
-    "cast": "Virginia Raffaele, Diego Abatantuono, Aldo Baglio, Giuseppe Ignazio Loi",
-    "details": "Una commedia che fotografa un'Italia legata alle proprie radici anche davanti alla necessità di adeguarsi al presente. Commedia, Italia 2025. Durata 118 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1397375,
-    "tmdb_title": "La vita va così",
-    "original_title": "La vita va così",
-    "overview": "Un racconto ironico e appassionato lungo vent’anni, ambientato in un angolo meraviglioso della Sardegna, dove una comunità si troverà stretta tra il sogno del lavoro e la difesa del territorio e della sua identità.",
-    "release_date": "2025-10-23",
-    "vote_average": 6.891,
-    "poster_url": "https://image.tmdb.org/t/p/w500/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Riccardo Milani",
-    "mathyas-pick": false
   },
   {
     "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
@@ -262,7 +286,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott returns to the post-apocalyptic landscape with a visceral, high-prestige adaptation that promises both spectacle and existential weight.",
+    "ai_reason": "Ridley Scott returns to the science fiction genre with a stark, post-apocalyptic survival thriller that promises high-caliber craftsmanship and scale.",
     "mathyas-pick": true
   },
   {
@@ -332,7 +356,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "Palme d'Or winner Hirokazu Kore-eda ventures into philosophical sci-fi, examining grief and the boundaries of human connection with his characteristic humanism.",
+    "ai_reason": "Master auteur Hirokazu Kore-eda ventures into philosophical science fiction, exploring memory and mourning with his signature humanistic precision.",
     "mathyas-pick": true
   },
   {
@@ -446,8 +470,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/srN0iA97EfjZReGlGyDNcDh8ZPs.jpg",
     "genres": "Dramma",
     "director": "Sylvie Ohayon",
-    "ai_reason": "An intimate, female-led drama featuring Angelina Jolie and Louis Garrel, embodying the sophisticated aesthetic of contemporary European auteur cinema.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "THE MORTUARY ASSISTANT - ANATOMIA DI UN INCUBO",
