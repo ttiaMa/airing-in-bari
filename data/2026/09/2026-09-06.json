@@ -27,11 +27,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 7.998,
+    "vote_average": 7.999,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event directed by Christopher Nolan, promising the intellectual depth and visual scale required of a modern visionary auteur.",
+    "ai_reason": "A major cinematic event from visionary auteur Christopher Nolan, reimagining epic myth through his signature high-concept and prestige lens.",
     "mathyas-pick": true
   },
   {
@@ -55,7 +55,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/in0kk41QEtO8ITaEzkpjX2LQBuJ.jpg",
     "genres": "Animazione, Dramma, Famiglia",
     "director": "Maïlys Vallade, Liane-cho Han",
-    "ai_reason": "A work of significant artistic value in animation that eschews commercial tropes for a delicate, cross-cultural dramatic narrative.",
+    "ai_reason": "A poignant work of prestige animation that explores the delicate, tragic-comic boundaries of childhood with significant artistic merit and cross-cultural depth.",
     "mathyas-pick": true
   },
   {
@@ -113,7 +113,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2iPmnobEL2HMSzbQKWWqUPfYkrQ.jpg",
     "genres": "Animazione, Dramma, Storia, Romance",
     "director": "Hayao Miyazaki",
-    "ai_reason": "The pinnacle of prestige animation from Studio Ghibli; a historical and poetic masterpiece by the legendary Hayao Miyazaki.",
+    "ai_reason": "A seminal masterpiece of prestige animation from Studio Ghibli and Hayao Miyazaki, balancing historical weight with poetic artistry; a quintessential theatrical re-release for any cinephile.",
     "mathyas-pick": true
   },
   {
@@ -134,9 +134,7 @@
           "19:05",
           "19:35",
           "21:00",
-          "22:20",
-          "00:25",
-          "00:40"
+          "22:20"
         ]
       },
       {
@@ -186,7 +184,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "mathyas-pick": false
+    "ai_reason": "A prestige biopic from emerging auteur Matt Johnson, focusing on a counter-culture icon with a high-caliber cast including Dominic Sessa and Antonio Banderas.",
+    "mathyas-pick": true
   },
   {
     "title": "LE CITTÀ DI PIANURA",
@@ -195,12 +194,6 @@
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      },
-      {
-        "name": "Galleria",
         "times": [
           "21:00"
         ]
@@ -218,6 +211,38 @@
     "mathyas-pick": false
   },
   {
+    "title": "PAW PATROL - MISSIONE DINOSAURI",
+    "cast": "",
+    "details": "Animazione, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "15:10",
+          "17:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:45",
+          "14:10",
+          "16:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1185806,
+    "tmdb_title": "PAW Patrol - Missione Dinosauri",
+    "original_title": "PAW Patrol: The Dino Movie",
+    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
+    "release_date": "2026-07-23",
+    "vote_average": 7.056,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
+    "director": "Cal Brunker",
+    "mathyas-pick": false
+  },
+  {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "cast": "Callum Turner, Monica Barbaro, Grace Dumdaw, Duncan Jui",
     "details": "Una rom com brillante e musicale, sostenuta dalla riuscita chimica dei suoi protagonisti. Commedia, USA 2026. Durata 102 Minuti.",
@@ -226,8 +251,7 @@
         "name": "The Space Casamassima",
         "times": [
           "11:05",
-          "21:40",
-          "00:25"
+          "21:40"
         ]
       }
     ],
@@ -293,7 +317,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
     "genres": "Dramma",
     "director": "Enyedi Ildikó",
-    "ai_reason": "A high-brow arthouse triptych by Golden Bear winner Ildikó Enyedi, featuring the sublime Tony Leung in a contemplative study of nature and humanity.",
+    "ai_reason": "A transcendent arthouse triptych by acclaimed director Ildikó Enyedi, featuring the legendary Tony Leung in a contemplative meditation on nature and time.",
     "mathyas-pick": true
   },
   {
@@ -320,11 +344,12 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 6.722,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Avventura, Thriller",
     "director": "Ridley Scott",
-    "mathyas-pick": false
+    "ai_reason": "A major cinematic event from Ridley Scott, bringing his grand-scale visual ambition and signature style to a post-apocalyptic narrative.",
+    "mathyas-pick": true
   },
   {
     "title": "SUNNY DANCER",
@@ -359,8 +384,7 @@
         "times": [
           "12:05",
           "13:40",
-          "22:40",
-          "00:20"
+          "22:40"
         ]
       }
     ],
@@ -396,7 +420,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "Palme d'Or winner Hirokazu Kore-eda crafts an elevated, philosophical exploration of grief through a sophisticated science-fiction lens.",
+    "ai_reason": "Palme d'Or winner Hirokazu Kore-eda explores the human condition through a high-concept, melancholic sci-fi lens, marking a significant entry in modern world cinema.",
     "mathyas-pick": true
   },
   {
@@ -464,7 +488,7 @@
     "original_title": "Moana",
     "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
     "release_date": "2026-07-08",
-    "vote_average": 6.185,
+    "vote_average": 6.2,
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
@@ -501,8 +525,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "20:05",
-          "00:35"
+          "20:05"
         ]
       }
     ],
@@ -549,7 +572,7 @@
         "name": "The Space Casamassima",
         "times": [
           "19:50",
-          "00:20"
+          "21:00"
         ]
       },
       {
