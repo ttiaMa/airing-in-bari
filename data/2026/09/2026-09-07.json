@@ -29,7 +29,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, reimagining epic myth through his signature high-concept lens.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, redefining epic storytelling with a high-caliber cast and immense scale.",
     "mathyas-pick": true
   },
   {
@@ -65,6 +65,31 @@
     "mathyas-pick": false
   },
   {
+    "title": "TRAIN TO BUSAN",
+    "cast": "Gong Yoo, Dong-seok Ma, Jung Yu-mi, Choi Woo-Sik",
+    "details": "Un film che funziona su più livelli: non solo come puro intrattenimento ma anche come risultato di una profonda riflessione sociologica sulla Corea. Drammatico, Corea del sud 2016. Durata 118 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:15",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 396535,
+    "tmdb_title": "Train to Busan",
+    "original_title": "부산행",
+    "overview": "Seok-wu è un manager finanziario separato dalla moglie: la piccola Su-an spesso si sente trascurata da lui e preferisce la compagnia della madre. Sul treno su cui viaggiano i due, per portare Su-an dalla madre che vive a Busan, sale una ragazza che riporta delle ferite strane sul corpo, simili al morso di un animale. Presto si trasformerà in zombi e sul treno per Busan si scatenerà l'inferno.",
+    "release_date": "2016-07-20",
+    "vote_average": 7.75,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oekUlBFR85PejJK3z5jWyy3KyCG.jpg",
+    "genres": "Azione, Horror, Thriller, Avventura",
+    "director": "Yeon Sang-ho",
+    "ai_reason": "A modern masterpiece of South Korean genre cinema, widely acclaimed for its social depth and visceral direction.",
+    "mathyas-pick": true
+  },
+  {
     "title": "COYOTE VS. ACME",
     "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne",
     "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 103 Minuti.",
@@ -97,16 +122,16 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.624,
+    "vote_average": 7.635,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
     "mathyas-pick": false
   },
   {
-    "title": "LE CITTÀ DI PIANURA",
-    "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
-    "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
+    "title": "LA CASA DALLE FINESTRE CHE RIDONO",
+    "cast": "Gianni Cavina, Lino Capolicchio, Giulio Pizzirani, Francesca Marciano",
+    "details": "Un classico del gotico padano diretto da Pupi Avati con originalità, maestria e senso del macabro. Giallo, Italia 1976. Durata 110 Minuti.",
     "cinemas": [
       {
         "name": "Arena Quattro Palme",
@@ -115,16 +140,17 @@
         ]
       }
     ],
-    "tmdb_id": 1462322,
-    "tmdb_title": "Le città di pianura",
-    "original_title": "Le città di pianura",
-    "overview": "La storia di Carlobianchi e Doriano, due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio, un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.",
-    "release_date": "2025-09-25",
-    "vote_average": 7.446,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-    "genres": "Commedia",
-    "director": "Francesco Sossai",
-    "mathyas-pick": false
+    "tmdb_id": 57447,
+    "tmdb_title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "release_date": "1976-08-20",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "genres": "Mistero, Thriller, Horror",
+    "director": "Pupi Avati",
+    "ai_reason": "A quintessential Italian cult classic from master Pupi Avati; the definitive example of 'Padan Gothic' cinema.",
+    "mathyas-pick": true
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -176,8 +202,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lRg0437Vsgc9tGcqvSib6rBgKQy.jpg",
     "genres": "Dramma",
     "director": "Giovanni Tortorici",
-    "ai_reason": "A sophisticated Italian coming-of-age drama featuring Monica Bellucci, far removed from standard generic comedies.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "LA CASA - IL RISVEGLIO DEL MALE",
@@ -200,8 +225,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qktgDSamaIp8924F2suWcabzNkY.jpg",
     "genres": "Horror, Thriller",
     "director": "Lee Cronin",
-    "ai_reason": "A visceral, critically acclaimed entry in a cult horror franchise that elevates the genre through psychological depth.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "SILENT FRIEND",
@@ -224,7 +248,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
     "genres": "Dramma",
     "director": "Enyedi Ildikó",
-    "ai_reason": "A masterclass in arthouse cinema from Ildikó Enyedi, featuring global icons Tony Leung and Léa Seydoux.",
+    "ai_reason": "Pure arthouse excellence from Enyedi Ildikó, featuring the legendary Tony Leung and exploring transcendental themes.",
     "mathyas-pick": true
   },
   {
@@ -258,8 +282,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "22:15",
-          "21:15"
+          "22:15"
         ]
       },
       {
@@ -274,12 +297,11 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 6.679,
+    "vote_average": 6.685,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Dramma",
     "director": "Ridley Scott",
-    "ai_reason": "A prestige post-apocalyptic event film directed by legendary auteur Ridley Scott.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
@@ -325,7 +347,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
     "genres": "Dramma, Fantascienza",
     "director": "是枝裕和",
-    "ai_reason": "Palme d'Or winner Hirokazu Kore-eda explores speculative humanism in this high-brow sci-fi drama.",
+    "ai_reason": "Master auteur Hirokazu Kore-eda explores the intersection of human grief and artificial intelligence in this high-brow sci-fi.",
     "mathyas-pick": true
   },
   {
@@ -466,6 +488,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/tTpHYA1XCg4ZzN2pn6n58XDiuxV.jpg",
     "genres": "Commedia",
     "director": "Volfango De Biasi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "FERRARI 250 GTO - L'AUTO DI MAURO FORGHIERI CHE SALVÒ MARANELLO",
+    "cast": "",
+    "details": "Tre documentari in uno, un film che prende troppe direzioni e finisce fuori strada. Documentario, USA 2024. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1359883,
+    "tmdb_title": "Ferrari 250 GTO - L'auto di Mauro Forghieri che salvò Maranello",
+    "original_title": "Ferrari: Fury and the Monster",
+    "overview": "L’incredibile storia di un giovane ingegnere che ha rivoluzionato il mondo dell’automobilismo, instaurando un rapporto decisivo con Enzo Ferrari e contribuendo alla nascita di una delle vetture più iconiche di sempre.",
+    "release_date": "2026-09-07",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gRLQiKDGSlwVxuxsrT6pCkwNNL0.jpg",
+    "genres": "Documentario",
+    "director": "Steve Hoover",
     "mathyas-pick": false
   }
 ]
