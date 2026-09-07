@@ -1,0 +1,471 @@
+[
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:35",
+          "18:40",
+          "20:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:35",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "release_date": "2026-07-15",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A major cinematic event from Christopher Nolan, reimagining epic myth through his signature high-concept lens.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SPIDER-MAN - BRAND NEW DAY",
+    "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon",
+    "details": "Cinema di formazione, iperbolico nella forma ma umano nella sostanza. Azione, Avventura, Fantasy - USA 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "18:00",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 969681,
+    "tmdb_title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "release_date": "2026-07-29",
+    "vote_average": 7.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Destin Daniel Cretton",
+    "mathyas-pick": false
+  },
+  {
+    "title": "COYOTE VS. ACME",
+    "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne",
+    "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 103 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:30",
+          "17:20",
+          "18:20",
+          "19:05",
+          "20:00",
+          "21:00",
+          "22:25"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00",
+          "17:30",
+          "19:30",
+          "21:40",
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1204680,
+    "tmdb_title": "Coyote vs. Acme",
+    "original_title": "Coyote vs. Acme",
+    "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+    "release_date": "2026-08-20",
+    "vote_average": 7.624,
+    "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+    "genres": "Commedia, Avventura, Famiglia",
+    "director": "Dave Green",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LE CITTÀ DI PIANURA",
+    "cast": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran",
+    "details": "Un road movie che riesce a raccontare un'Italia vera con una sua energia lenta e sul finale commovente. Drammatico, Italia, Germania 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Arena Quattro Palme",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1462322,
+    "tmdb_title": "Le città di pianura",
+    "original_title": "Le città di pianura",
+    "overview": "La storia di Carlobianchi e Doriano, due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio, un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.",
+    "release_date": "2025-09-25",
+    "vote_average": 7.446,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
+    "genres": "Commedia",
+    "director": "Francesco Sossai",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
+    "cast": "Callum Turner, Monica Barbaro, Grace Dumdaw, Duncan Jui",
+    "details": "Una rom com brillante e musicale, sostenuta dalla riuscita chimica dei suoi protagonisti. Commedia, USA 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1433367,
+    "tmdb_title": "One Night Only - Quando tutto è possibile",
+    "original_title": "One Night Only",
+    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
+    "release_date": "2026-07-28",
+    "vote_average": 7.043,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+    "genres": "Commedia, Romance",
+    "director": "Will Gluck",
+    "mathyas-pick": false
+  },
+  {
+    "title": "KETTICÈ",
+    "cast": "Salvatore Gallina, Rachele Testagrossa, Monica Bellucci, Tommaso Cristiano Wirz",
+    "details": "Un adolescente in cerca di senso all'interno di un mondo programmaticamente insensato. Commedia, Italia 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1401832,
+    "tmdb_title": "Ketticè",
+    "original_title": "Ketticè",
+    "overview": "Palermo, 2012. Giulio ha sedici anni e la sua vita si divide tra scuola, motorini, i primi amori, Facebook e le serate con gli amici. Con i genitori la comunicazione è quasi inesistente: sembra che parlino due lingue completamente diverse. Tutto cambia quando incontra Ketty, una ragazza imprevedibile che vive senza condizionamenti. Insieme a lei, Giulio si ritrova a vivere un intero anno scolastico intenso e fuori dal tempo. Intorno a loro, il mondo degli adulti continua a parlare, ma sembra aver perso del tutto la capacità di ascoltare davvero. È tra i coetanei che Giulio cerca il proprio posto, e in particolare nel legame esclusivo con Ketty, che diventa un rifugio sicuro, lontano dagli sguardi e dai giudizi dei grandi.",
+    "release_date": "2026-09-03",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lRg0437Vsgc9tGcqvSib6rBgKQy.jpg",
+    "genres": "Dramma",
+    "director": "Giovanni Tortorici",
+    "ai_reason": "A sophisticated Italian coming-of-age drama featuring Monica Bellucci, far removed from standard generic comedies.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA CASA - IL RISVEGLIO DEL MALE",
+    "cast": "Lily Sullivan, Alyssa Sutherland, Morgan Davies, Gabrielle Echols",
+    "details": "Gorefest rutilante e sanguinaria, un horror duro e puro che rivitalizza una serie storica. Horror, USA, Irlanda, Nuova Zelanda 2023. Durata 97 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 713704,
+    "tmdb_title": "La casa - Il risveglio del male",
+    "original_title": "Evil Dead Rise",
+    "overview": "Una stanca Beth fa una visita tardiva a sua sorella maggiore Ellie, che sta crescendo tre figli da sola in un angusto appartamento di Los Angeles. La riunione delle sorelle è interrotta dalla scoperta di un libro misterioso nelle viscere dell’edificio di Ellie, che dà origine a demoni indemoniati e spinge Beth in una battaglia primordiale per la sopravvivenza mentre deve affrontare una versione da incubo della maternità.",
+    "release_date": "2023-04-12",
+    "vote_average": 6.961,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qktgDSamaIp8924F2suWcabzNkY.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Lee Cronin",
+    "ai_reason": "A visceral, critically acclaimed entry in a cult horror franchise that elevates the genre through psychological depth.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SILENT FRIEND",
+    "cast": "Tony Chiu-Wai Leung, Luna Wedler, Enzo Brumm, Léa Seydoux",
+    "details": "Una sfida vinta: Enyedi affronta con originalità l'impresa di relazionare esseri umani con il mondo vegetale. Drammatico, Germania, Francia, Ungheria 2025. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "18:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1168719,
+    "tmdb_title": "Silent Friend",
+    "original_title": "Silent Friend",
+    "overview": "Nel cuore di un giardino botanico in una città universitaria medievale in Germania si erge un maestoso ginkgo biloba. Questo testimone silenzioso ha osservato per oltre un secolo i tranquilli ritmi di trasformazione attraverso tre vite umane. 2020: un neuroscienziato di Hong Kong, esplorando la mente dei neonati, inizia un esperimento inaspettato con il vecchio albero. 1972: una giovane studentessa subisce un profondo cambiamento grazie al semplice atto di osservare e connettersi con un geranio. 1908: la prima donna ammessa all’università scopre, attraverso la lente della fotografia, i sacri schemi dell’universo nascosti nella più umile delle piante.  Seguiamo i loro goffi e impacciati tentativi di stabilire dei legami – ognuno profondamente radicato nel proprio presente – mentre vengono trasformati dal potere silenzioso, persistente e misterioso della natura. L’antico ginkgo biloba ci avvicina al senso dell’essere umani: al nostro desiderio di sentirci a casa.",
+    "release_date": "2026-01-15",
+    "vote_average": 6.913,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
+    "genres": "Dramma",
+    "director": "Enyedi Ildikó",
+    "ai_reason": "A masterclass in arthouse cinema from Ildikó Enyedi, featuring global icons Tony Leung and Léa Seydoux.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SUNNY DANCER",
+    "cast": "Bella Ramsey, Daniel Quinn Toye, Ruby Stokes, Earl Cave",
+    "details": "Un racconto di amicizia, amore e rinascita. Scrittura brillante e ottime interpretazioni. Commedia, Drammatico - Gran Bretagna 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1280015,
+    "tmdb_title": "Sunny Dancer",
+    "original_title": "Sunny Dancer",
+    "overview": "Dopo anni trascorsi a combattere battaglie più grandi di loro, Ivy e un gruppo di ragazzi decidono di recuperare il tempo perduto. Li aspetta un’estate di libertà, amicizia e scelte che non dimenticheranno mai. Un coming-of-age pieno di cuore, un inno alla giovinezza, all’amicizia e alla voglia di vivere ogni momento senza rimpianti.",
+    "release_date": "2026-08-12",
+    "vote_average": 6.692,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "George Jaques",
+    "mathyas-pick": false
+  },
+  {
+    "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
+    "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:15",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1384216,
+    "tmdb_title": "The Dog Stars - Le stelle dopo la fine",
+    "original_title": "The Dog Stars",
+    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
+    "release_date": "2026-08-26",
+    "vote_average": 6.679,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "Ridley Scott",
+    "ai_reason": "A prestige post-apocalyptic event film directed by legendary auteur Ridley Scott.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "INSIDIOUS - FUORI DALL'ALTROVE",
+    "cast": "Lin Shaye, Amelia Eve, Brandon Perea, Sam Spruell",
+    "details": "Un prodotto convenzionale ma ben realizzato, destinato a non scontentare i fan del franchise. Horror, Thriller - Australia, USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1291595,
+    "tmdb_title": "Insidious - Fuori dall’Altrove",
+    "original_title": "Insidious: Out of the Further",
+    "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
+    "release_date": "2026-08-19",
+    "vote_average": 6.509,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Jacob Chase",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SHEEP IN THE BOX",
+    "cast": "Haruka Ayase, Daigo Yamamoto (II), Kuwaki Rimu, Nana Seino",
+    "details": "L'intelligenza artificiale come strumento per lenire i nostri problemi. Un'opera sul nostro immediato futuro. Drammatico, Giappone 2026. Durata 126 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1553969,
+    "tmdb_title": "Sheep in the Box",
+    "original_title": "箱の中の羊",
+    "overview": "In un futuro prossimo, a Yokohama, la coppia dei Komoto, che ha tragicamente perso il figlio di sette anni Kakeru, decide di avvalersi di REbirth, un programma pensato per le famiglie nella loro situazione: riceveranno in prova gratuita un androide guidato dall'intelligenza artificiale, con le fattezze e i ricordi di Kakeru, destinato a diventare un surrogato in tutto e per tutto del figlio perduto. Il padre Kensuke è inizialmente scettico, laddove la madre Otone si affeziona istantaneamente al nuovo Kakeru, scegliendo di vivere nell'autosuggestione. Finché una visita della madre e della sorella non riportano Otone alla realtà, mentre il nuovo Kakeru stringe segretamente amicizia con altri suoi \"simili\".",
+    "release_date": "2026-05-29",
+    "vote_average": 6.438,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
+    "genres": "Dramma, Fantascienza",
+    "director": "是枝裕和",
+    "ai_reason": "Palme d'Or winner Hirokazu Kore-eda explores speculative humanism in this high-brow sci-fi drama.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "FAMMI IL PIACERE",
+    "cast": "Alexandra Lamy, François Cluzet, Delphine Baril, François Bureloup",
+    "details": "La tipica commedia francese che si regge tutta sull'interpretazione degli attori. Commedia, Francia 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:10",
+          "18:25",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1516724,
+    "tmdb_title": "Fammi il piacere",
+    "original_title": "Pour le plaisir",
+    "overview": "Dopo vent'anni di matrimonio, Fanny confessa a Thomas una verità che manda in frantumi le loro certezze: non ha mai provato un orgasmo. Per lui è uno shock, ma invece di chiudersi nel silenzio o arrendersi alla distanza, Thomas decide di trasformare quella confessione in una travolgente prova d'amore: ritrovare, insieme a Fanny, la strada del desiderio. Mentre lei si lancia con coraggio e ironia in un percorso di riscoperta di sé e del proprio piacere, Thomas affronta con entusiasmo, goffaggine e tenerezza l'universo del piacere femminile. Tra tentativi improbabili, fallimenti esilaranti e intuizioni sorprendenti, quella che sembrava una crisi di coppia si trasforma in un'avventura sentimentale brillante e fuori dagli schemi, capace di riaccendere la complicità e reinventare il loro amore.",
+    "release_date": "2026-05-06",
+    "vote_average": 6.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bkmsl7MsV0NwFrAKxDEUmy1Ls3c.jpg",
+    "genres": "Commedia",
+    "director": "Reem Kherici",
+    "mathyas-pick": false
+  },
+  {
+    "title": "OCEANIA",
+    "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams",
+    "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "17:50",
+          "19:20",
+          "21:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1108427,
+    "tmdb_title": "Oceania",
+    "original_title": "Moana",
+    "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
+    "release_date": "2026-07-08",
+    "vote_average": 6.199,
+    "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "genres": "Famiglia, Fantasy, Commedia, Avventura",
+    "director": "Thomas Kail",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
+    "cast": "Russell Crowe, Luke Evans, Aaron Paul, Nina Dobrev",
+    "details": "Un film che non si prende troppo sul serio tra thriller e commedia. Azione, Thriller - USA 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:55"
+        ]
+      }
+    ],
+    "tmdb_id": 1279493,
+    "tmdb_title": "La vendetta perfetta - Bear Country",
+    "original_title": "The Get Out",
+    "overview": "Manko Kapac è il proprietario di un nightclub che decide di lasciarsi alle spalle il suo passato pericoloso per godersi la pensione insieme alla donna che ama (Teresa Palmer). Quando due figure armate e mascherate (Aaron Paul e Nina Dobrev) lo rapinano e lui si ritrova stretto nella morsa dei cartelli, si presenta un uomo misterioso (Luke Evans) interessato ad acquistare il suo club. Con il pericolo che incombe da ogni parte, dovrà districarsi in una rete mortale di inganni, potere e sopravvivenza, dove la fuga potrebbe non essere più un'opzione.",
+    "release_date": "2026-06-18",
+    "vote_average": 6.111,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
+    "genres": "Azione, Thriller",
+    "director": "Derrick Borte",
+    "mathyas-pick": false
+  },
+  {
+    "title": "THE MORTUARY ASSISTANT - ANATOMIA DI UN INCUBO",
+    "cast": "Willa Holland, Paul Sparks, Mark Steger, Keena Ferguson",
+    "details": "Basato su un videogioco, il film non riesce a trascenderne la natura ludico-ripetitiva. Horror, USA 2026. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "22:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1470130,
+    "tmdb_title": "The Mortuary Assistant - Anatomia di un incubo",
+    "original_title": "The Mortuary Assistant",
+    "overview": "",
+    "release_date": "2026-02-13",
+    "vote_average": 5.299,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7k7hY1HqUYryPdRio0fuDMaIq4N.jpg",
+    "genres": "Horror, Mistero",
+    "director": "Jeremiah Kipp",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL MALLOPPO",
+    "cast": "Diego Abatantuono, Michele Foresta, Max Angioni, Maria Amelia Monti",
+    "details": "Una commedia noir dal cast corale e familiare. Tanti siparietti, poco ritmo comico. Commedia, Italia 2026. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:20",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1605372,
+    "tmdb_title": "Il malloppo",
+    "original_title": "Il malloppo",
+    "overview": "Diego Viani è un ex rapinatore, noto negli anni ’80 per i suoi colpi “a mano disarmata”. Il suo migliore amico è Michele Ragusa, uno scalcinato investigatore privato che vivacchia arrangiandosi tra casi di infedeltà coniugale. Con lui lavora Alex, tirocinante non retribuito, mammone e imbranato, che sogna di diventare investigatore senza avere il minimo talento. Quando il passato di Diego si ripresenta sotto le sembianze di Salamandra, un vecchio complice che lo accusa di aver sottratto il bottino dell’ultimo colpo — cinque miliardi di lire in lingotti d’oro scomparsi nel nulla — tutto precipita. La morte misteriosa di Salamandra rende Diego il principale sospettato. Il commissario Castrone, che nutre verso Diego un vecchio odio personale, è convinto della sua colpevolezza. L’unico a credere nell’innocenza di Diego è Ragusa che, affiancato dall’improbabile Alex, decide di indagare.",
+    "release_date": "2026-09-03",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tTpHYA1XCg4ZzN2pn6n58XDiuxV.jpg",
+    "genres": "Commedia",
+    "director": "Volfango De Biasi",
+    "mathyas-pick": false
+  }
+]
