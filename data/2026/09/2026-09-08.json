@@ -29,7 +29,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, redefining the epic genre with his signature intellectual depth and scale.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, redefining epic storytelling with his signature high-brow philosophical and technical precision.",
     "mathyas-pick": true
   },
   {
@@ -72,8 +72,8 @@
       {
         "name": "Galleria",
         "times": [
-          "18:15",
-          "21:00"
+          "15:45",
+          "21:15"
         ]
       }
     ],
@@ -86,7 +86,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oekUlBFR85PejJK3z5jWyy3KyCG.jpg",
     "genres": "Azione, Horror, Thriller, Avventura",
     "director": "Yeon Sang-ho",
-    "ai_reason": "A modern classic of international genre cinema; a viral South Korean hit that redefined the thriller landscape.",
+    "ai_reason": "A modern cult masterpiece of South Korean cinema, blending visceral genre thrills with sophisticated social and humanistic commentary.",
     "mathyas-pick": true
   },
   {
@@ -150,30 +150,6 @@
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
     "mathyas-pick": false
-  },
-  {
-    "title": "LA CASA DALLE FINESTRE CHE RIDONO",
-    "cast": "Gianni Cavina, Lino Capolicchio, Giulio Pizzirani, Francesca Marciano",
-    "details": "Un classico del gotico padano diretto da Pupi Avati con originalità, maestria e senso del macabro. Giallo, Italia 1976. Durata 110 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 57447,
-    "tmdb_title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "release_date": "1976-08-20",
-    "vote_average": 7.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "genres": "Mistero, Thriller, Horror",
-    "director": "Pupi Avati",
-    "ai_reason": "An essential Italian cult classic from auteur Pupi Avati; the pinnacle of the 'Padanian Gothic' genre.",
-    "mathyas-pick": true
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -249,7 +225,62 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
     "genres": "Dramma",
     "director": "Enyedi Ildikó",
-    "ai_reason": "High-brow arthouse excellence from Ildikó Enyedi, featuring the sublime Tony Leung in a contemplative, multidisciplinary narrative.",
+    "ai_reason": "Directed by Golden Bear winner Ildikó Enyedi and starring the legendary Tony Leung, this is a masterful piece of high-concept, multi-layered arthouse cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
+    "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:50",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1384216,
+    "tmdb_title": "The Dog Stars - Le stelle dopo la fine",
+    "original_title": "The Dog Stars",
+    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
+    "release_date": "2026-08-26",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "Ridley Scott",
+    "ai_reason": "A major auteur production by Ridley Scott, bringing his distinctive visual style to a prestige post-apocalyptic narrative.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
+    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
+    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1240889,
+    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
+    "release_date": "2026-08-06",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "genres": "Commedia, Horror, Romance",
+    "director": "Jane Schoenbrun",
+    "ai_reason": "Emerging auteur Jane Schoenbrun continues to redefine elevated indie horror with this surrealist, meta-narrative exploration of the genre.",
     "mathyas-pick": true
   },
   {
@@ -276,58 +307,27 @@
     "mathyas-pick": false
   },
   {
-    "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
-    "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
+    "title": "GIOIA MIA",
+    "cast": "Marco Fiore, Aurora Quattrocchi, Martina Ziami, Camille Dugay Comencini",
+    "details": "Un film semplice e nostalgico che guarda alla proverbiale estate italiana che forse non esiste più. Drammatico, Italia 2025. Durata 90 Minuti.",
     "cinemas": [
       {
-        "name": "The Space Casamassima",
-        "times": [
-          "21:50"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "22:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1384216,
-    "tmdb_title": "The Dog Stars - Le stelle dopo la fine",
-    "original_title": "The Dog Stars",
-    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
-    "release_date": "2026-08-26",
-    "vote_average": 6.675,
-    "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
-    "genres": "Fantascienza, Dramma",
-    "director": "Ridley Scott",
-    "ai_reason": "A high-concept sci-fi event from Ridley Scott, continuing his exploration of survival and the human condition.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
-    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
-    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
+        "name": "Arena Quattro Palme",
         "times": [
           "21:00"
         ]
       }
     ],
-    "tmdb_id": 1240889,
-    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
-    "original_title": "Teenage Sex and Death at Camp Miasma",
-    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
-    "release_date": "2026-08-06",
-    "vote_average": 6.675,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "genres": "Commedia, Horror, Romance",
-    "director": "Jane Schoenbrun",
-    "ai_reason": "A quintessential example of modern elevated horror from rising auteur Jane Schoenbrun, exploring identity and genre through a surreal lens.",
-    "mathyas-pick": true
+    "tmdb_id": 1510325,
+    "tmdb_title": "Gioia mia",
+    "original_title": "Gioia mia",
+    "overview": "Nico è un bambino di oggi, dipendente dal telefono e con lo smalto sulle unghie. All'improvviso viene strappato al suo mondo \"del nord\" per passare un mese d'estate in Sicilia, in compagnia di un'anziana zia, Gela. A casa della donna non c'è il wifi né l'aria condizionata, e si mangiano prelibatezze a cui il suo palato non è ancora pronto. Ci sono solo i giochi di carte, l'adorabile cagnolino Frank, e un condominio intero popolato di nonne e nipoti, più forse qualche spirito che abita gli appartamenti all'ultimo piano ed è causa di strani rumori. Nico e Gela, ognuno radicato nelle proprie certezze ma con dolori simili nel cuore, dovranno pian piano cercare un linguaggio comune.",
+    "release_date": "2025-12-11",
+    "vote_average": 6.571,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kYw62IF023miZMKyiAqX4mYat3a.jpg",
+    "genres": "Dramma",
+    "director": "Margherita Spampinato",
+    "mathyas-pick": false
   },
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
@@ -378,7 +378,7 @@
     "original_title": "Moana",
     "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
     "release_date": "2026-07-08",
-    "vote_average": 6.31,
+    "vote_average": 6.484,
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
@@ -405,8 +405,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
-    "ai_reason": "A dark, elevated deconstruction of the Robin Hood myth by Michael Sarnoski, focusing on psychological grit over blockbuster tropes.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "FAMMI IL PIACERE",
@@ -433,7 +432,7 @@
     "original_title": "Pour le plaisir",
     "overview": "Dopo vent'anni di matrimonio, Fanny confessa a Thomas una verità che manda in frantumi le loro certezze: non ha mai provato un orgasmo. Per lui è uno shock, ma invece di chiudersi nel silenzio o arrendersi alla distanza, Thomas decide di trasformare quella confessione in una travolgente prova d'amore: ritrovare, insieme a Fanny, la strada del desiderio. Mentre lei si lancia con coraggio e ironia in un percorso di riscoperta di sé e del proprio piacere, Thomas affronta con entusiasmo, goffaggine e tenerezza l'universo del piacere femminile. Tra tentativi improbabili, fallimenti esilaranti e intuizioni sorprendenti, quella che sembrava una crisi di coppia si trasforma in un'avventura sentimentale brillante e fuori dagli schemi, capace di riaccendere la complicità e reinventare il loro amore.",
     "release_date": "2026-05-06",
-    "vote_average": 6.25,
+    "vote_average": 6.159,
     "poster_url": "https://image.tmdb.org/t/p/w500/bkmsl7MsV0NwFrAKxDEUmy1Ls3c.jpg",
     "genres": "Commedia",
     "director": "Reem Kherici",
