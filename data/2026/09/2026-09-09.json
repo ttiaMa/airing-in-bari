@@ -28,7 +28,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event by Christopher Nolan, promising a cerebral and visually grand re-interpretation of epic mythology.",
+    "ai_reason": "A major cinematic event directed by Christopher Nolan, offering a high-concept, auteur-driven reimagining of epic mythology.",
     "mathyas-pick": true
   },
   {
@@ -85,7 +85,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oekUlBFR85PejJK3z5jWyy3KyCG.jpg",
     "genres": "Azione, Horror, Thriller, Avventura",
     "director": "Yeon Sang-ho",
-    "ai_reason": "A modern cult classic of South Korean cinema that transcends genre tropes with its visceral execution and social subtext.",
+    "ai_reason": "A modern cult classic and a highly acclaimed genre hit that redefined international horror cinema.",
     "mathyas-pick": true
   },
   {
@@ -119,7 +119,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.66,
+    "vote_average": 7.68,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -143,12 +143,11 @@
     "original_title": "Tony",
     "overview": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
     "release_date": "2026-08-07",
-    "vote_average": 7.535,
+    "vote_average": 7.545,
     "poster_url": "https://image.tmdb.org/t/p/w500/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
     "genres": "Dramma, Commedia",
     "director": "Matt Johnson",
-    "ai_reason": "A prestige biographical drama directed by Matt Johnson, an acclaimed voice in the modern indie scene, focusing on a pivotal cultural icon.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -248,7 +247,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
     "genres": "Dramma",
     "director": "Enyedi Ildikó",
-    "ai_reason": "High-brow arthouse triptych by Palme d'Or winner Ildikó Enyedi, featuring the iconic Tony Leung in a meditative exploration of nature and humanity.",
+    "ai_reason": "A sophisticated arthouse triptych from Golden Bear winner Ildikó Enyedi, featuring world-class talent like Tony Leung and Léa Seydoux.",
     "mathyas-pick": true
   },
   {
@@ -284,6 +283,30 @@
     "mathyas-pick": false
   },
   {
+    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
+    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
+    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1240889,
+    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
+    "release_date": "2026-08-06",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "genres": "Commedia, Horror, Romance",
+    "director": "Jane Schoenbrun",
+    "ai_reason": "Directed by emerging indie horror auteur Jane Schoenbrun, this meta-textual psychological thriller fits the elevated genre movement perfectly.",
+    "mathyas-pick": true
+  },
+  {
     "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
     "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
     "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
@@ -311,32 +334,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Dramma, Avventura",
     "director": "Ridley Scott",
-    "ai_reason": "A major event film from veteran auteur Ridley Scott, offering a prestige, high-stakes exploration of post-apocalyptic survival.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
-    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
-    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1240889,
-    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
-    "original_title": "Teenage Sex and Death at Camp Miasma",
-    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
-    "release_date": "2026-08-06",
-    "vote_average": 6.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "genres": "Commedia, Horror, Romance",
-    "director": "Jane Schoenbrun",
-    "ai_reason": "A quintessential example of elevated indie horror from Jane Schoenbrun, an emerging auteur celebrated for surrealist, psychological narratives.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "SUNNY DANCER",
