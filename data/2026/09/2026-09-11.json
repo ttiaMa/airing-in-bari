@@ -38,7 +38,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Emerging auteur Curry Barker delivers a gripping psychological thriller that transforms human desire into a dark, surrealist exploration of autonomy.",
+    "ai_reason": "An elevated horror entry from Curry Barker, an emerging auteur specifically noted for blending psychological depth with surrealist dread.",
     "mathyas-pick": true
   },
   {
@@ -70,7 +70,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan's interpretation of Homeric myth is the quintessential event movie, blending technical mastery with epic narrative scope.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, a director whose name is synonymous with high-concept, prestigious filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -124,7 +124,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror",
     "director": "Sébastien Vaniček",
-    "ai_reason": "New-wave French talent Sébastien Vaniček brings a visceral, auteur-driven intensity to this reimagining of a genre staple, moving beyond simple slasher tropes.",
+    "ai_reason": "Directed by the acclaimed Sébastien Vaniček, this entry revitalizes a cult horror legacy through the lens of a rising genre auteur.",
     "mathyas-pick": true
   },
   {
@@ -160,6 +160,30 @@
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
     "mathyas-pick": false
+  },
+  {
+    "title": "BAD APPLES",
+    "cast": "Sean Gilder, Saoirse Ronan, Jack Ashton, Rakie Ayola",
+    "details": "Commedia, Thriller - Regno Unito 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1198654,
+    "tmdb_title": "Bad Apples",
+    "original_title": "Bad Apples",
+    "overview": "",
+    "release_date": "2026-09-10",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "genres": "Commedia, Thriller",
+    "director": "Jonatan Etzler",
+    "ai_reason": "A modern indie thriller led by the prestigious Saoirse Ronan, fitting the criteria for elevated genre fiction.",
+    "mathyas-pick": true
   },
   {
     "title": "OASIS - DON'T LOOK BACK IN ANGER",
@@ -199,29 +223,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "BAD APPLES",
-    "cast": "Sean Gilder, Saoirse Ronan, Jack Ashton, Rakie Ayola",
-    "details": "Commedia, Thriller - Regno Unito 2025. Durata 100 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:05"
-        ]
-      }
-    ],
-    "tmdb_id": 1198654,
-    "tmdb_title": "Bad Apples",
-    "original_title": "Bad Apples",
-    "overview": "",
-    "release_date": "2026-09-10",
-    "vote_average": 7.4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-    "genres": "Commedia, Thriller",
-    "director": "Jonatan Etzler",
-    "mathyas-pick": false
-  },
-  {
     "title": "SERPENTI",
     "cast": "Leonardo Lidi, Alessandro Borghi, Pietro Castellitto, Valeria Golino",
     "details": "Un'opera efficace che, nella cifra del grottesco, crea un ribaltamento. E va dritto al cuore delle cose. Drammatico, Italia 2026. Durata 88 Minuti.",
@@ -243,13 +244,13 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "A sharp, Kafkaesque satire from Roberto De Paolis that utilizes a grotesque narrative to provide high-brow social commentary on modern Italy.",
+    "ai_reason": "Roberto De Paolis is a significant Italian auteur; this Kafkaesque absurdist drama avoids standard comedy tropes for high-brow social commentary.",
     "mathyas-pick": true
   },
   {
     "title": "PAW PATROL - MISSIONE DINOSAURI",
     "cast": "",
-    "details": "Animazione, USA 2026. Durata 88 Minuti.",
+    "details": "Un film di svago movimentato, con gag innocue e un messaggio semplice. Animazione, USA 2026. Durata 88 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -332,30 +333,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
-    "cast": "Gillian Anderson, Hannah Einbinder, Patrick Fischler, Jack Haven",
-    "details": "Una rilettura in chiave gender dell'horror degli anni '80 e '90. Con un attualissimo sguardo sulla contemporaneità. Horror, USA, Gran Bretagna, Canada 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "Arena Quattro Palme",
-        "times": [
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1240889,
-    "tmdb_title": "Camp Miasma - Adolescenza, sesso e morte",
-    "original_title": "Teenage Sex and Death at Camp Miasma",
-    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
-    "release_date": "2026-08-06",
-    "vote_average": 6.662,
-    "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "genres": "Commedia, Horror, Romance",
-    "director": "Jane Schoenbrun",
-    "ai_reason": "Auteur Jane Schoenbrun continues to redefine surrealist horror with a meta-narrative that challenges genre tropes and explores identity through an arthouse lens.",
-    "mathyas-pick": true
-  },
-  {
     "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
     "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
     "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
@@ -378,11 +355,11 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 6.6,
+    "vote_average": 6.63,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott returns to the post-apocalyptic genre with visual grandeur and a prestigious cast, marking a significant cinematic event.",
+    "ai_reason": "A high-profile sci-fi event directed by Ridley Scott, featuring a prestige cast including Margaret Qualley and Jacob Elordi.",
     "mathyas-pick": true
   },
   {
@@ -402,35 +379,10 @@
     "original_title": "Insidious: Out of the Further",
     "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
     "release_date": "2026-08-19",
-    "vote_average": 6.5,
+    "vote_average": 6.481,
     "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
     "genres": "Horror, Thriller",
     "director": "Jacob Chase",
-    "mathyas-pick": false
-  },
-  {
-    "title": "MUTINY",
-    "cast": "Jason Statham, Chaneil Kular, Ramon Tikaram, Jason Wong",
-    "details": "Un thriller marittimo che non rivoluziona il genere e fa quello che gli si chiede. Azione, Thriller - Regno Unito, USA 2026. Durata 95 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:00",
-          "18:30",
-          "21:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1288445,
-    "tmdb_title": "Mutiny - Inverti la rotta",
-    "original_title": "Mutiny",
-    "overview": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
-    "release_date": "2026-08-19",
-    "vote_average": 6.412,
-    "poster_url": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
-    "genres": "Azione, Thriller",
-    "director": "Jean-François Richet",
     "mathyas-pick": false
   },
   {
@@ -463,6 +415,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MUTINY",
+    "cast": "Jason Statham, Chaneil Kular, Ramon Tikaram, Jason Wong",
+    "details": "Un thriller marittimo che non rivoluziona il genere e fa quello che gli si chiede. Azione, Thriller - Regno Unito, USA 2026. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "18:30",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1288445,
+    "tmdb_title": "Mutiny - Inverti la rotta",
+    "original_title": "Mutiny",
+    "overview": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
+    "release_date": "2026-08-19",
+    "vote_average": 6.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+    "genres": "Azione, Thriller",
+    "director": "Jean-François Richet",
     "mathyas-pick": false
   },
   {
@@ -511,7 +488,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "Italian auteur Andrea Pallaoro crafts an intimate, sophisticated character study that bridges the gap between European minimalism and international arthouse.",
+    "ai_reason": "Andrea Pallaoro is a celebrated fixture of the international festival circuit; an essential piece of contemporary arthouse cinema.",
     "mathyas-pick": true
   }
 ]
