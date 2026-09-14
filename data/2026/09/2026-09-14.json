@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Directed by Curry Barker, this viral indie hit exemplifies the new wave of high-concept, psychological horror currently revitalizing the genre.",
+    "ai_reason": "Directed by the emerging auteur specifically cited for his viral/indie mastery, this represents the vanguard of modern elevated horror.",
     "mathyas-pick": true
   },
   {
@@ -46,7 +46,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9tzahfmcb8GyYtqOMSSfTr9Lium.jpg",
     "genres": "Dramma, Thriller, Crime",
     "director": "Fritz Lang",
-    "ai_reason": "Fritz Lang’s 1931 masterpiece is a cornerstone of German Expressionism and procedural noir, essential for any curated study of cinema history.",
+    "ai_reason": "A cornerstone of cinema history, Fritz Lang's masterpiece is the ultimate cult classic and a definitive study of German Expressionism.",
     "mathyas-pick": true
   },
   {
@@ -79,7 +79,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan’s foray into the Homeric epic represents a monumental cinematic event, marrying intellectual ambition with grand-scale filmmaking.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, an auteur who defines the modern high-concept epic with immense critical weight.",
     "mathyas-pick": true
   },
   {
@@ -109,7 +109,7 @@
   {
     "title": "BATMAN",
     "cast": "Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl",
-    "details": "Uno spettacolo ben costruito con un dilagante Jack Nicholson. Fantastico, USA 1989. Durata 126 Minuti. Consigli per la visione: Ragazzi +13",
+    "details": "Un film imperfetto, che lanciò Burton tra i grandi di Hollywood. Fantastico, USA 1989. Durata 126 Minuti. Consigli per la visione: Ragazzi +13",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -134,7 +134,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",
     "genres": "Crime, Mistero, Thriller",
     "director": "Matt Reeves",
-    "mathyas-pick": false
+    "ai_reason": "A major cinematic event combining a distinct directorial vision with the gravity of one of cinema's most iconic noir-inspired figures.",
+    "mathyas-pick": true
   },
   {
     "title": "LA CASA - IL ROGO DEL MALE",
@@ -157,7 +158,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
     "genres": "Horror",
     "director": "Sébastien Vaniček",
-    "ai_reason": "A striking work of elevated horror by rising auteur Sébastien Vaniček, blending visceral genre intensity with a sharp, modern directorial vision.",
+    "ai_reason": "An elevated genre entry by emerging auteur Sébastien Vaniček, delivering a sophisticated and visceral take on psychological horror.",
     "mathyas-pick": true
   },
   {
@@ -313,6 +314,29 @@
     "mathyas-pick": false
   },
   {
+    "title": "ASSASSINATION CLASSROOM - L'ORA DI TUTTI NOI",
+    "cast": "Shintarô Asanuma, Terri Doty, Mai Fuchigami, Jun Fukuyama",
+    "details": "Animazione, Giappone 2026. Durata 86 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1542877,
+    "tmdb_title": "Assassination Classroom – L’Ora di Tutti Noi",
+    "original_title": "劇場版「暗殺教室」みんなの時間",
+    "overview": "Il film raccoglie episodi mai animati nella serie TV originale a causa dei limiti temporali e non si tratta solo di un omaggio per il decimo anniversario, ma anche di una continuazione diretta della storia principale.",
+    "release_date": "2026-03-20",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nrz9YSLdmmnAKrpdFNmZO2IsIwG.jpg",
+    "genres": "Animazione, Commedia, Azione, Fantascienza",
+    "director": "北村真咲",
+    "mathyas-pick": false
+  },
+  {
     "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
     "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
     "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
@@ -329,11 +353,11 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 6.6,
+    "vote_average": 6.613,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott continues his exploration of the human condition within speculative landscapes in this prestigious sci-fi adaptation.",
+    "ai_reason": "A high-profile production from visionary director Ridley Scott, fitting the criteria for a major cinematic event.",
     "mathyas-pick": true
   },
   {
@@ -378,7 +402,7 @@
     "original_title": "Mutiny",
     "overview": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
     "release_date": "2026-08-19",
-    "vote_average": 6.416,
+    "vote_average": 6.424,
     "poster_url": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
     "genres": "Azione, Thriller",
     "director": "Jean-François Richet",
@@ -434,7 +458,7 @@
     "original_title": "Practical Magic 2",
     "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
     "release_date": "2026-09-09",
-    "vote_average": 6.085,
+    "vote_average": 6.068,
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
@@ -463,7 +487,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "A sophisticated work of contemporary Italian cinema from Andrea Pallaoro, showcasing his signature minimalist aesthetic and psychological depth.",
+    "ai_reason": "A significant work of contemporary Italian cinema by acclaimed auteur Andrea Pallaoro, exploring complex psychological landscapes.",
     "mathyas-pick": true
   }
 ]
