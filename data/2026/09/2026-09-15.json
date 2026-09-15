@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "From the new vanguard of elevated indie horror, Curry Barker explores the sinister geometry of desire in this gripping psychological thriller.",
+    "ai_reason": "A key work from emerging horror auteur Curry Barker, delivering the psychological depth and viral intensity sought by new-age genre fans.",
     "mathyas-pick": true
   },
   {
@@ -44,7 +44,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9tzahfmcb8GyYtqOMSSfTr9Lium.jpg",
     "genres": "Dramma, Thriller, Crime",
     "director": "Fritz Lang",
-    "ai_reason": "A cornerstone of German Expressionism; Fritz Lang's definitive masterpiece is an essential re-release for any serious student of cinema history.",
+    "ai_reason": "A cornerstone of cinema history; Fritz Lang's 1931 masterpiece is an essential re-release for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -78,7 +78,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from Christopher Nolan, reimagining the Homeric epic with his signature intellectual ambition and technical scale.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, exploring mythic themes with his signature scale and technical ambition.",
     "mathyas-pick": true
   },
   {
@@ -90,6 +90,12 @@
         "name": "The Space Casamassima",
         "times": [
           "21:25"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:30"
         ]
       }
     ],
@@ -155,8 +161,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",
     "genres": "Crime, Mistero, Thriller",
     "director": "Matt Reeves",
-    "ai_reason": "A seminal piece of dark pop-culture history, this re-release (featuring the iconic Keaton/Nicholson pairing) celebrates the gothic artistry of a cult classic.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "COYOTE VS. ACME",
@@ -185,10 +190,42 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.6,
+    "vote_average": 7.606,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PAW PATROL - MISSIONE DINOSAURI",
+    "cast": "",
+    "details": "Un film di svago movimentato, con gag innocue e un messaggio semplice. Animazione, USA 2026. Durata 88 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "17:00",
+          "18:50",
+          "19:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1185806,
+    "tmdb_title": "PAW Patrol - Missione Dinosauri",
+    "original_title": "PAW Patrol: The Dino Movie",
+    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
+    "release_date": "2026-07-23",
+    "vote_average": 7.578,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
+    "director": "Cal Brunker",
     "mathyas-pick": false
   },
   {
@@ -243,38 +280,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
     "genres": "Commedia, Thriller",
     "director": "Jonatan Etzler",
-    "mathyas-pick": false
-  },
-  {
-    "title": "PAW PATROL - MISSIONE DINOSAURI",
-    "cast": "",
-    "details": "Un film di svago movimentato, con gag innocue e un messaggio semplice. Animazione, USA 2026. Durata 88 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:00",
-          "17:00",
-          "18:50",
-          "19:20"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "17:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1185806,
-    "tmdb_title": "PAW Patrol - Missione Dinosauri",
-    "original_title": "PAW Patrol: The Dino Movie",
-    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
-    "release_date": "2026-07-23",
-    "vote_average": 7.48,
-    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
-    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
-    "director": "Cal Brunker",
     "mathyas-pick": false
   },
   {
@@ -372,11 +377,35 @@
     "original_title": "The Dog Stars",
     "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
     "release_date": "2026-08-26",
-    "vote_average": 6.619,
+    "vote_average": 6.621,
     "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
     "genres": "Fantascienza, Thriller",
     "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott delivers a visceral, high-stakes exploration of the human condition, marking a major cinematic event by a legendary auteur.",
+    "ai_reason": "A high-profile production from Ridley Scott that blends post-apocalyptic tension with prestige performances.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA FINE DI OAK STREET",
+    "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
+    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1101383,
+    "tmdb_title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "release_date": "2026-08-12",
+    "vote_average": 6.527,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "genres": "Fantascienza, Mistero, Thriller",
+    "director": "David Robert Mitchell",
+    "ai_reason": "Directed by David Robert Mitchell, this surrealist mystery exemplifies the elevated, auteur-driven genre cinema of the modern era.",
     "mathyas-pick": true
   },
   {
@@ -396,7 +425,7 @@
     "original_title": "Insidious: Out of the Further",
     "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
     "release_date": "2026-08-19",
-    "vote_average": 6.48,
+    "vote_average": 6.5,
     "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
     "genres": "Horror, Thriller",
     "director": "Jacob Chase",
@@ -421,35 +450,11 @@
     "original_title": "Mutiny",
     "overview": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
     "release_date": "2026-08-19",
-    "vote_average": 6.441,
+    "vote_average": 6.436,
     "poster_url": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
     "genres": "Azione, Thriller",
     "director": "Jean-François Richet",
     "mathyas-pick": false
-  },
-  {
-    "title": "LA FINE DI OAK STREET",
-    "cast": "Anne Hathaway, Ewan McGregor, P.J. Byrne, Pilot Bunch",
-    "details": "Provare a cambiare le regole del gioco per dire qualcosa di straordinario. Thriller, USA 2025. Durata 100 Minuti.",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "21:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1101383,
-    "tmdb_title": "La fine di Oak Street",
-    "original_title": "The End of Oak Street",
-    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
-    "release_date": "2026-08-12",
-    "vote_average": 6.418,
-    "poster_url": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
-    "genres": "Fantascienza, Mistero, Thriller",
-    "director": "David Robert Mitchell",
-    "ai_reason": "David Robert Mitchell, a key figure in the modern indie genre wave, brings his distinct surrealist touch to this elevated, high-concept mystery.",
-    "mathyas-pick": true
   },
   {
     "title": "FAMMI IL PIACERE",
@@ -484,9 +489,7 @@
         "times": [
           "16:00",
           "21:40",
-          "21:00",
-          "15:45",
-          "21:05"
+          "21:00"
         ]
       },
       {
@@ -529,7 +532,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "Auteur Roberto De Paolis crafts a surreal, Kafkaesque descent into the Italian justice system, featuring a powerhouse ensemble cast.",
+    "ai_reason": "Roberto De Paolis presents a grotesque and surrealist exploration of guilt, cementing his status as a significant voice in contemporary Italian auteurism.",
     "mathyas-pick": true
   },
   {
@@ -542,6 +545,7 @@
         "times": [
           "15:45",
           "18:05",
+          "15:50",
           "20:50"
         ]
       }
@@ -555,7 +559,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "An elegant, atmospheric meditation on intimacy and presence from acclaimed Italian auteur Andrea Pallaoro.",
+    "ai_reason": "An intimate and rigorous work of Italian auteur cinema by Andrea Pallaoro, focusing on psychological boundaries and visual storytelling.",
     "mathyas-pick": true
   }
 ]
