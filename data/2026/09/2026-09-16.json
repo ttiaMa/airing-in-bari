@@ -16,11 +16,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 8.192,
+    "vote_average": 8.2,
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A masterclass in elevated indie horror from viral emerging auteur Curry Barker, blending psychological depth with surrealist dread.",
+    "ai_reason": "A masterclass in modern indie horror by emerging auteur Curry Barker, delivering the psychological dread and surrealism that defines the new wave of genre cinema.",
     "mathyas-pick": true
   },
   {
@@ -53,7 +53,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan's latest opus is the definitive cinematic event of the season, promising a grand-scale auteur vision.",
+    "ai_reason": "A monumental cinematic event from visionary director Christopher Nolan, redefining the epic journey through a lens of existential sacrifice and grand-scale storytelling.",
     "mathyas-pick": true
   },
   {
@@ -131,7 +131,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",
     "genres": "Crime, Mistero, Thriller",
     "director": "Matt Reeves",
-    "ai_reason": "A vital re-release of a genre-defining classic, essential for any student of cinema history.",
+    "ai_reason": "A foundational gothic masterpiece re-release; this classic remains a touchstone of cinema history for its expressionistic production design and iconic performances.",
     "mathyas-pick": true
   },
   {
@@ -194,7 +194,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.599,
+    "vote_average": 7.589,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -247,7 +247,8 @@
       {
         "name": "Uci Cinemas Showville",
         "times": [
-          "19:00"
+          "19:00",
+          "21:15"
         ]
       }
     ],
@@ -286,7 +287,7 @@
     "original_title": "Moana",
     "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
     "release_date": "2026-07-08",
-    "vote_average": 7.242,
+    "vote_average": 7.265,
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
@@ -332,11 +333,12 @@
     "original_title": "Bad Apples",
     "overview": "",
     "release_date": "2026-09-10",
-    "vote_average": 6.964,
+    "vote_average": 7,
     "poster_url": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
     "genres": "Commedia, Thriller",
     "director": "Jonatan Etzler",
-    "mathyas-pick": false
+    "ai_reason": "A prestige indie thriller led by the formidable Saoirse Ronan, balancing razor-sharp wit with the tension of an elevated psychological character study.",
+    "mathyas-pick": true
   },
   {
     "title": "SPEZIE E BUGIE - LA PICCOLA CUCINA DI MEHDI",
@@ -403,7 +405,7 @@
     "original_title": "Mutiny",
     "overview": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
     "release_date": "2026-08-19",
-    "vote_average": 6.447,
+    "vote_average": 6.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
     "genres": "Azione, Thriller",
     "director": "Jean-François Richet",
@@ -435,7 +437,7 @@
     "original_title": "Practical Magic 2",
     "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
     "release_date": "2026-09-09",
-    "vote_average": 6.073,
+    "vote_average": 6.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
@@ -463,7 +465,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "A surreal, Kafkaesque exploration of guilt and redemption from one of Italy's most relevant contemporary auteurs.",
+    "ai_reason": "A Kafkaesque descent into modern guilt and bureaucracy from Roberto De Paolis, showcasing the depth of contemporary Italian auteur-driven drama.",
     "mathyas-pick": true
   },
   {
@@ -489,7 +491,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "Andrea Pallaoro crafts a sophisticated, high-brow character study featuring a prestigious international cast.",
+    "ai_reason": "An evocative, high-brow exploration of intimacy and absence by celebrated Italian auteur Andrea Pallaoro, led by the exceptional Luca Marinelli and Alicia Vikander.",
     "mathyas-pick": true
   }
 ]
