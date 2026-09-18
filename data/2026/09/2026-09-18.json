@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A chilling psychological descent from emerging horror auteur Curry Barker, exploring the surreal and dark costs of human desire.",
+    "ai_reason": "A viral sensation in elevated horror from auteur Curry Barker, delivering gripping psychological tension and a high critical score.",
     "mathyas-pick": true
   },
   {
@@ -47,46 +47,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 8,
+    "vote_average": 8.013,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event from visionary auteur Christopher Nolan, reimagining epic myth through his signature high-concept lens.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "cast": "Austin Abrams, Paul Walter Hauser, kali Reis, Zach Cherry",
-    "details": "Azione, Fantascienza, Horror - USA, Germania 2026.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:10",
-          "19:10",
-          "21:25",
-          "22:20"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "17:40",
-          "19:20",
-          "21:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1423191,
-    "tmdb_title": "Resident Evil",
-    "original_title": "Resident Evil",
-    "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
-    "release_date": "2026-09-16",
-    "vote_average": 7.9,
-    "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-    "genres": "Horror, Fantascienza, Avventura",
-    "director": "Zach Cregger",
-    "ai_reason": "Zach Cregger, the acclaimed director of 'Barbarian', delivers a visceral, auteur-driven subversion of genre tropes.",
+    "ai_reason": "A definitive cinematic event from Christopher Nolan, blending blockbuster scale with high-brow philosophical inquiry.",
     "mathyas-pick": true
   },
   {
@@ -111,6 +76,41 @@
     "genres": "Fantascienza, Azione, Avventura",
     "director": "Destin Daniel Cretton",
     "mathyas-pick": false
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "cast": "Austin Abrams, Zach Cherry, kali Reis, Paul Walter Hauser",
+    "details": "Zach Cregger realizza uno dei più felici adattamenti videoludici mai visti. Azione, Fantascienza, Horror - USA, Germania 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10",
+          "19:10",
+          "21:25",
+          "22:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:40",
+          "19:20",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1423191,
+    "tmdb_title": "Resident Evil",
+    "original_title": "Resident Evil",
+    "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
+    "release_date": "2026-09-16",
+    "vote_average": 7.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+    "genres": "Horror, Fantascienza, Avventura",
+    "director": "Zach Cregger",
+    "ai_reason": "A subversive, auteur-driven genre piece from Zach Cregger, the visionary mind behind the indie hit 'Barbarian'.",
+    "mathyas-pick": true
   },
   {
     "title": "PAW PATROL - MISSIONE DINOSAURI",
@@ -145,36 +145,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "CALLE MALAGA",
-    "cast": "Carmen Maura, Marta Etura, Ahmed Boulane, María Alfonsa Rosso",
-    "details": "Una favola sul rispetto della terza età e del femminile, mai passivo e sempre seducente. Drammatico, Spagna 2025. Durata 116 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "17:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1399462,
-    "tmdb_title": "Calle Malaga",
-    "original_title": "Calle Málaga",
-    "overview": "",
-    "release_date": "2025-10-31",
-    "vote_average": 7.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
-    "genres": "Dramma",
-    "director": "Maryam Touzani",
-    "ai_reason": "Maryam Touzani continues her delicate, high-brow exploration of the human condition with this evocative, critically acclaimed drama.",
-    "mathyas-pick": true
-  },
-  {
     "title": "COYOTE VS. ACME",
     "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne",
     "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 103 Minuti.",
@@ -201,10 +171,39 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.5,
+    "vote_average": 7.537,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
+    "mathyas-pick": false
+  },
+  {
+    "title": "CALLE MALAGA",
+    "cast": "Carmen Maura, Marta Etura, Ahmed Boulane, María Alfonsa Rosso",
+    "details": "Una favola sul rispetto della terza età e del femminile, mai passivo e sempre seducente. Drammatico, Spagna 2025. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1399462,
+    "tmdb_title": "Calle Malaga",
+    "original_title": "Calle Málaga",
+    "overview": "",
+    "release_date": "2025-10-31",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
+    "genres": "Dramma",
+    "director": "Maryam Touzani",
     "mathyas-pick": false
   },
   {
@@ -231,7 +230,7 @@
     "original_title": "Moana",
     "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
     "release_date": "2026-07-08",
-    "vote_average": 7.309,
+    "vote_average": 7.332,
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
@@ -322,11 +321,11 @@
     "original_title": "Cars",
     "overview": "Lightning McQueen, un determinato novellino di grande talento, scopre che la vita è il viaggio, non il traguardo, quando si ritrova inaspettatamente deviato nella sonnolenta cittadina di Radiator Springs sulla Route 66. Durante il viaggio attraverso il paese verso la gara del Piston Cup in California per competere contro due professionisti esperti, McQueen imparerà che c'è ben altro oltre il semplice traguardo.",
     "release_date": "2006-06-08",
-    "vote_average": 7.052,
+    "vote_average": 7.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "ai_reason": "A cornerstone of prestige animation; this Pixar original is a masterclass in digital world-building and a modern classic of the medium.",
+    "ai_reason": "A seminal Pixar original and a foundational masterclass in the artistry of modern animation.",
     "mathyas-pick": true
   },
   {
@@ -350,7 +349,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
     "genres": "Commedia, Horror, Romance",
     "director": "Jane Schoenbrun",
-    "ai_reason": "A meta-horror exploration of identity and genre legacy from arthouse visionary Jane Schoenbrun, a rising star of elevated genre cinema.",
+    "ai_reason": "Arthouse meta-horror from Jane Schoenbrun, a leading voice in the surrealist 'New Weird' indie scene.",
     "mathyas-pick": true
   },
   {
@@ -430,8 +429,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "Roberto De Paolis delivers a Kafkaesque satire on guilt, marking a significant and high-brow entry in modern Italian auteurism.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "AMORI & INCANTESIMI 2",
@@ -451,7 +449,7 @@
     "original_title": "Practical Magic 2",
     "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
     "release_date": "2026-09-09",
-    "vote_average": 6.066,
+    "vote_average": 6.081,
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
@@ -480,7 +478,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "Andrea Pallaoro crafts a haunting, lyrical study of intimacy and absence, cementing his status as a major voice in contemporary auteur cinema.",
+    "ai_reason": "An atmospheric work of major Italian auteur Andrea Pallaoro, anchored by a formidable prestige cast.",
     "mathyas-pick": true
   },
   {
