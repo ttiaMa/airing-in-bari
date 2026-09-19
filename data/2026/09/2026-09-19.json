@@ -1,5 +1,28 @@
 [
   {
+    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+    "cast": "Brad Pitt, J.K. Simmons, Anna Lambe",
+    "details": "Un'avventura dura e disperata. David Ayer ritrova il lato più umano del suo cinema. Azione, Avventura, Drammatico - USA 2026. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 10,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
+    "mathyas-pick": false
+  },
+  {
     "title": "OBSESSION",
     "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
     "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
@@ -16,11 +39,11 @@
     "original_title": "Obsession",
     "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
     "release_date": "2026-05-13",
-    "vote_average": 8.194,
+    "vote_average": 8.195,
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "Specifically cited as a viral indie genre hit, Curry Barker's work represents the new wave of psychological, high-concept horror.",
+    "ai_reason": "A new genre exploration by Curry Barker, one of the leading names in the new wave of viral, highly-acclaimed indie horror.",
     "mathyas-pick": true
   },
   {
@@ -51,7 +74,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan's take on epic myth-making represents the pinnacle of the contemporary 'Event Movie' with high artistic ambition.",
+    "ai_reason": "A major cinematic event directed by Christopher Nolan, promising the technical mastery and epic scope expected of a modern master.",
     "mathyas-pick": true
   },
   {
@@ -145,7 +168,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Zach Cregger, director of 'Barbarian', brings his subversive and elevated horror lens to this reimagined survival narrative.",
+    "ai_reason": "Directed by Zach Cregger (Barbarian), this reimagining promises a subversion of genre tropes through a sophisticated, auteur-driven lens.",
     "mathyas-pick": true
   },
   {
@@ -209,7 +232,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
     "genres": "Dramma",
     "director": "Maryam Touzani",
-    "ai_reason": "Acclaimed director Maryam Touzani delivers a delicate, arthouse fable that exemplifies the sophistication of the modern feminine gaze.",
+    "ai_reason": "An exquisite international arthouse selection from Maryam Touzani, celebrated for her nuanced and visually poetic storytelling.",
     "mathyas-pick": true
   },
   {
@@ -269,7 +292,7 @@
     "original_title": "The Invite",
     "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
     "release_date": "2026-06-25",
-    "vote_average": 7.264,
+    "vote_average": 7.276,
     "poster_url": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
     "genres": "Commedia, Dramma, Romance",
     "director": "Olivia Wilde",
@@ -297,7 +320,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "ai_reason": "A significant work from major auteur Marco Bechis, examining the dark shadows of history and personal guilt.",
+    "ai_reason": "Acclaimed Italian auteur Marco Bechis returns with a rigorous, high-prestige drama addressing historical memory and personal guilt.",
     "mathyas-pick": true
   },
   {
@@ -338,7 +361,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "mathyas-pick": false
+    "ai_reason": "A foundational classic of prestige animation from Pixar’s golden era, demonstrating high artistic value and cross-generational appeal.",
+    "mathyas-pick": true
   },
   {
     "title": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE",
@@ -357,11 +381,11 @@
     "original_title": "Teenage Sex and Death at Camp Miasma",
     "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
     "release_date": "2026-08-06",
-    "vote_average": 6.7,
+    "vote_average": 6.633,
     "poster_url": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
     "genres": "Commedia, Horror, Romance",
     "director": "Jane Schoenbrun",
-    "ai_reason": "Jane Schoenbrun is a quintessential emerging auteur; this meta-horror exploration is a definitive example of modern surrealist indie cinema.",
+    "ai_reason": "A meta-cinematic and surrealist horror from Jane Schoenbrun, the visionary auteur behind recent elevated indie sensations.",
     "mathyas-pick": true
   },
   {
@@ -441,7 +465,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "Roberto De Paolis offers a Kafkaesque, satirical look at Italian society, fitting the criteria for major contemporary auteur cinema.",
+    "ai_reason": "A Kafkaesque and satirical drama from Roberto De Paolis, representing the best of contemporary Italian auteur-driven cinema.",
     "mathyas-pick": true
   },
   {
@@ -462,7 +486,7 @@
     "original_title": "Practical Magic 2",
     "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
     "release_date": "2026-09-09",
-    "vote_average": 6.031,
+    "vote_average": 6.046,
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
@@ -491,7 +515,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "Andrea Pallaoro's atmospheric, high-prestige drama featuring an international cast is an essential entry in contemporary arthouse cinema.",
+    "ai_reason": "A sophisticated piece of international arthouse cinema by acclaimed Italian auteur Andrea Pallaoro, exploring the complexities of intimacy.",
     "mathyas-pick": true
   },
   {
