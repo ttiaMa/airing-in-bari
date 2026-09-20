@@ -1,5 +1,28 @@
 [
   {
+    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+    "cast": "Brad Pitt, J.K. Simmons, Anna Lambe",
+    "details": "Un'avventura dura e disperata. David Ayer ritrova il lato più umano del suo cinema. Azione, Avventura, Drammatico - USA 2026. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 8.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
+    "mathyas-pick": false
+  },
+  {
     "title": "OBSESSION",
     "cast": "Michael Johnston (II), Inde Navarrette, Cooper Tomlinson, Megan Lawless",
     "details": "La conferma del talento dell'astro nascente Curry Barker. Horror, USA 2026. Durata 108 Minuti.",
@@ -7,8 +30,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "12:30",
-          "00:15"
+          "12:30"
         ]
       }
     ],
@@ -21,7 +43,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "The latest from emerging horror auteur Curry Barker, exploring psychological dread and the high price of desire.",
+    "ai_reason": "A masterclass in psychological dread from emerging auteur Curry Barker, perfectly aligning with the new wave of elevated indie horror.",
     "mathyas-pick": true
   },
   {
@@ -52,7 +74,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, redefining the epic through his signature auteurist lens and a star-studded cast.",
+    "ai_reason": "A colossal cinematic event from visionary auteur Christopher Nolan, blending mythic scale with his signature high-concept narrative ambition.",
     "mathyas-pick": true
   },
   {
@@ -144,7 +166,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.55,
+    "vote_average": 7.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -178,7 +200,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
     "genres": "Dramma",
     "director": "Maryam Touzani",
-    "ai_reason": "Acclaimed auteur Maryam Touzani crafts a seductive and lyrical fable on the resilience of the feminine spirit.",
+    "ai_reason": "A refined work of international arthouse cinema by Maryam Touzani, offering a poetic and high-brow meditation on the feminine experience.",
     "mathyas-pick": true
   },
   {
@@ -203,6 +225,46 @@
     "genres": "Documentario, Musica",
     "director": "Dylan Southern, Will Lovelace",
     "mathyas-pick": false
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "cast": "Austin Abrams, Zach Cherry, kali Reis, Paul Walter Hauser",
+    "details": "Zach Cregger realizza uno dei più felici adattamenti videoludici mai visti. Azione, Fantascienza, Horror - USA, Germania 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "14:35",
+          "15:25",
+          "17:45",
+          "18:55",
+          "20:05",
+          "21:15",
+          "22:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "13:40",
+          "16:40",
+          "19:20",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1423191,
+    "tmdb_title": "Resident Evil",
+    "original_title": "Resident Evil",
+    "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
+    "release_date": "2026-09-16",
+    "vote_average": 7.359,
+    "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+    "genres": "Horror, Fantascienza, Avventura",
+    "director": "Zach Cregger",
+    "ai_reason": "A bold genre reimagining by emerging horror auteur Zach Cregger, shifting the franchise toward a more atmospheric and surrealist vision.",
+    "mathyas-pick": true
   },
   {
     "title": "OCEANIA",
@@ -244,8 +306,7 @@
         "times": [
           "11:10",
           "15:10",
-          "20:45",
-          "00:15"
+          "20:45"
         ]
       },
       {
@@ -269,47 +330,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "RESIDENT EVIL",
-    "cast": "Austin Abrams, Zach Cherry, kali Reis, Paul Walter Hauser",
-    "details": "Zach Cregger realizza uno dei più felici adattamenti videoludici mai visti. Azione, Fantascienza, Horror - USA, Germania 2026. Durata 90 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:00",
-          "14:35",
-          "15:25",
-          "17:45",
-          "18:55",
-          "20:05",
-          "21:15",
-          "22:20",
-          "00:35"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "13:40",
-          "16:40",
-          "19:20",
-          "21:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1423191,
-    "tmdb_title": "Resident Evil",
-    "original_title": "Resident Evil",
-    "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
-    "release_date": "2026-09-16",
-    "vote_average": 7.288,
-    "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-    "genres": "Horror, Fantascienza, Avventura",
-    "director": "Zach Cregger",
-    "ai_reason": "A reimagining by Zach Cregger, the visionary behind 'Barbarian,' promising an elevated and subversive genre experience.",
-    "mathyas-pick": true
-  },
-  {
     "title": "RITORNO A BUENOS AIRES",
     "cast": "Adriano Giannini, Ana Celentano, Veronica Gerez, Adrián Fondari",
     "details": "Un film di impegno civile, asciutto ed essenziale, come non eravamo più abituati a vedere nel nostro cinema. Drammatico, Italia, Brasile 2026. Durata 104 Minuti.",
@@ -331,7 +351,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "ai_reason": "A profound work from acclaimed director Marco Bechis, dealing with memory and historical trauma through a sophisticated narrative lens.",
+    "ai_reason": "A vital and harrowing historical inquiry by established auteur Marco Bechis, exploring the moral shadows of the Argentine dictatorship.",
     "mathyas-pick": true
   },
   {
@@ -379,7 +399,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lrukuw7z38D2OJhJ0iMERCcXwt2.jpg",
     "genres": "Dramma, Musica",
     "director": "James Mangold",
-    "ai_reason": "A prestige musical biopic from James Mangold, capturing a pivotal cultural shift with high critical and awards potential.",
+    "ai_reason": "A prestige musical exploration of a cultural icon, directed by James Mangold and anchored by Timothée Chalamet’s transformative performance.",
     "mathyas-pick": true
   },
   {
@@ -421,30 +441,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "mathyas-pick": false
-  },
-  {
-    "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce",
-    "details": "Ridley Scott inciampa nel déjà vu del post-apocalittico. Buoni gli attori. Azione, Avventura, Drammatico - USA 2026. Durata 118 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "00:15"
-        ]
-      }
-    ],
-    "tmdb_id": 1384216,
-    "tmdb_title": "The Dog Stars - Le stelle dopo la fine",
-    "original_title": "The Dog Stars",
-    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
-    "release_date": "2026-08-26",
-    "vote_average": 6.634,
-    "poster_url": "https://image.tmdb.org/t/p/w500/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
-    "genres": "Fantascienza, Thriller, Avventura",
-    "director": "Ridley Scott",
-    "ai_reason": "Ridley Scott returns to high-concept sci-fi, blending atmospheric survival with his masterful visual scale and prestige leads.",
+    "ai_reason": "A landmark entry in prestige animation history, representing Pixar’s original era of storytelling mastery and artistic innovation.",
     "mathyas-pick": true
   },
   {
@@ -546,7 +543,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "Auteur Roberto De Paolis presents a Kafkaesque, grotesque exploration of guilt featuring the elite of contemporary Italian cinema.",
+    "ai_reason": "A sharp, Kafkaesque satire from Roberto De Paolis, showcasing an elite ensemble of contemporary Italian cinema’s most respected actors.",
     "mathyas-pick": true
   },
   {
@@ -567,7 +564,7 @@
     "original_title": "Practical Magic 2",
     "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
     "release_date": "2026-09-09",
-    "vote_average": 6.015,
+    "vote_average": 6,
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
@@ -596,7 +593,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "Andrea Pallaoro delivers a haunting arthouse study of intimacy, led by a powerhouse cast of prestige international performers.",
+    "ai_reason": "A sophisticated and atmospheric character study by acclaimed Italian auteur Andrea Pallaoro, featuring a powerhouse international cast.",
     "mathyas-pick": true
   },
   {
