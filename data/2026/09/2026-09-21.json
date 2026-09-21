@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "The film follows the path of viral, modern horror auteurs like Curry Barker, focusing on psychological consequences and surreal dread.",
+    "ai_reason": "An elevated psychological horror from viral auteur Curry Barker, exploring dark, surreal themes of desire and consequence.",
     "mathyas-pick": true
   },
   {
@@ -52,7 +52,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "Christopher Nolan delivers a major cinematic event, reimagining epic myth through his signature grand-scale, high-concept lens.",
+    "ai_reason": "A major cinematic event directed by Christopher Nolan, promising the intellectual depth and visual scale required of a modern masterpiece.",
     "mathyas-pick": true
   },
   {
@@ -144,7 +144,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.555,
+    "vote_average": 7.559,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -177,8 +177,38 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
     "genres": "Dramma",
     "director": "Maryam Touzani",
-    "ai_reason": "A delicate arthouse drama from acclaimed director Maryam Touzani, representing the best of contemporary global independent cinema.",
+    "ai_reason": "An arthouse gem from acclaimed director Maryam Touzani, showcasing the refined sensitivity of modern world cinema.",
     "mathyas-pick": true
+  },
+  {
+    "title": "OCEANIA",
+    "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams",
+    "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:55"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "15:40",
+          "16:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1108427,
+    "tmdb_title": "Oceania",
+    "original_title": "Moana",
+    "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
+    "release_date": "2026-07-08",
+    "vote_average": 7.402,
+    "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "genres": "Famiglia, Fantasy, Commedia, Avventura",
+    "director": "Thomas Kail",
+    "mathyas-pick": false
   },
   {
     "title": "RESIDENT EVIL",
@@ -212,37 +242,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger (of Barbarian fame), this is an elevated genre piece from a buzzy auteur that promises more than just standard jumpscares.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "OCEANIA",
-    "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams",
-    "details": "Stessi temi, stessa musica. Un godibilissimo remake in live-action, con una protagonista perfetta. Azione, Avventura, Commedia - USA 2026. Durata 115 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "15:55"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "15:40",
-          "16:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1108427,
-    "tmdb_title": "Oceania",
-    "original_title": "Moana",
-    "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
-    "release_date": "2026-07-08",
-    "vote_average": 7.381,
-    "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "genres": "Famiglia, Fantasy, Commedia, Avventura",
-    "director": "Thomas Kail",
     "mathyas-pick": false
   },
   {
@@ -299,7 +298,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "ai_reason": "A significant work from auteur Marco Bechis, exploring profound themes of trauma and historical memory with a sophisticated narrative approach.",
+    "ai_reason": "A profound psychological drama from director Marco Bechis, focusing on the complex 'grey zone' of the human soul.",
     "mathyas-pick": true
   },
   {
@@ -337,7 +336,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "ai_reason": "A theatrical re-release of a Pixar cornerstone, showcasing the high artistic value and narrative craft of prestige animation.",
+    "ai_reason": "A cornerstone of prestige animation that exemplifies Pixar's original era of artistic and narrative excellence.",
     "mathyas-pick": true
   },
   {
@@ -441,7 +440,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a2hxeonmr6A5SGD6qwIr18I9mGZ.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "Andrea Pallaoro is a refined Italian auteur known for minimalist arthouse rigor; this prestigious production features an exceptional international cast.",
+    "ai_reason": "A prestige work by Italian auteur Andrea Pallaoro, delivering a sophisticated and melancholic exploration of human intimacy.",
     "mathyas-pick": true
   },
   {
