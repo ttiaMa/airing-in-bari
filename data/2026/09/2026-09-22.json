@@ -27,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A monumental cinematic event directed by Christopher Nolan, representing the pinnacle of high-concept, auteur-driven blockbuster filmmaking.",
+    "ai_reason": "A major cinematic event from Christopher Nolan, the definitive auteur of the high-concept, large-scale prestige blockbuster.",
     "mathyas-pick": true
   },
   {
@@ -120,7 +120,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-20",
-    "vote_average": 7.55,
+    "vote_average": 7.551,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -153,7 +153,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
     "genres": "Dramma",
     "director": "Maryam Touzani",
-    "ai_reason": "A refined piece of international arthouse cinema from Maryam Touzani, known for her aesthetically rich and emotionally complex narratives.",
+    "ai_reason": "Acclaimed director Maryam Touzani continues her exploration of the female gaze with this delicate, poetic Spanish-Moroccan arthouse production.",
     "mathyas-pick": true
   },
   {
@@ -219,7 +219,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger, this represents the 'elevated horror' movement where emerging auteurs subvert commercial IP with visionary direction.",
+    "ai_reason": "Directed by emerging genre auteur Zach Cregger (Barbarian), this elevated horror promises to subvert expectations with a sophisticated, subversive lens.",
     "mathyas-pick": true
   },
   {
@@ -288,8 +288,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "ai_reason": "A modern classic of prestige animation from the golden era of Pixar, demonstrating significant cultural and artistic impact.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "RITORNO A BUENOS AIRES",
@@ -313,7 +312,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "ai_reason": "A profound work of Italian auteur cinema by Marco Bechis, examining historical trauma and moral ambiguity with intellectual rigor.",
+    "ai_reason": "Marco Bechis returns to the essential themes of memory and historical trauma with this rigorous, auteur-driven examination of Argentinian history.",
     "mathyas-pick": true
   },
   {
@@ -405,7 +404,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "A surreal, Kafkaesque social satire by Roberto De Paolis, fitting the profile of sophisticated Italian arthouse cinema.",
+    "ai_reason": "Roberto De Paolis delivers a Kafkaesque satire on guilt and bureaucracy, confirming his position as a vital voice in contemporary Italian auteur cinema.",
     "mathyas-pick": true
   },
   {
@@ -425,7 +424,7 @@
     "original_title": "Practical Magic 2",
     "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
     "release_date": "2026-09-09",
-    "vote_average": 6.2,
+    "vote_average": 6.158,
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
@@ -454,7 +453,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a2hxeonmr6A5SGD6qwIr18I9mGZ.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "An evocative, atmospheric study of intimacy and psychological control from celebrated Italian director Andrea Pallaoro.",
+    "ai_reason": "A sophisticated psychological study from Andrea Pallaoro, featuring an impeccable arthouse cast including Alicia Vikander and Luca Marinelli.",
     "mathyas-pick": true
   },
   {
