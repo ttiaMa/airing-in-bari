@@ -27,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
     "genres": "Horror, Thriller",
     "director": "Curry Barker",
-    "ai_reason": "A high-concept psychological thriller from Curry Barker, an emerging auteur specifically noted for viral, elevated genre hits.",
+    "ai_reason": "An essential selection from Curry Barker, an auteur specifically cited for leading the current movement of viral, surreal, and psychological indie horror.",
     "mathyas-pick": true
   },
   {
@@ -41,12 +41,6 @@
           "17:05",
           "21:00"
         ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "18:00"
-        ]
       }
     ],
     "tmdb_id": 1368337,
@@ -58,7 +52,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event directed by Christopher Nolan, a definitive auteur of the large-scale intellectual blockbuster.",
+    "ai_reason": "A monumental cinematic event from Christopher Nolan, the definitive auteur of the modern blockbuster, exploring epic themes through high-concept storytelling.",
     "mathyas-pick": true
   },
   {
@@ -174,7 +168,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
     "genres": "Dramma",
     "director": "Maryam Touzani",
-    "ai_reason": "A work by Maryam Touzani, a critically acclaimed auteur of contemporary world cinema and festival favorite.",
+    "ai_reason": "Exquisite world cinema from Maryam Touzani (The Blue Caftan), offering the kind of sophisticated, auteur-driven storytelling prized by international festivals.",
     "mathyas-pick": true
   },
   {
@@ -201,7 +195,7 @@
     "original_title": "Moana",
     "overview": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
     "release_date": "2026-07-08",
-    "vote_average": 7.414,
+    "vote_average": 7.425,
     "poster_url": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
     "genres": "Famiglia, Fantasy, Commedia, Avventura",
     "director": "Thomas Kail",
@@ -236,11 +230,11 @@
     "original_title": "Resident Evil",
     "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
     "release_date": "2026-09-16",
-    "vote_average": 7.3,
+    "vote_average": 7.309,
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger (Barbarian), this reimagining promises the elevated, unsettling style of a modern horror auteur.",
+    "ai_reason": "Directed by Zach Cregger (Barbarian), this represents the new wave of elevated genre filmmaking where emerging auteurs reimagine established lore through a sophisticated, visceral lens.",
     "mathyas-pick": true
   },
   {
@@ -269,7 +263,7 @@
     "original_title": "The Invite",
     "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
     "release_date": "2026-06-25",
-    "vote_average": 7.248,
+    "vote_average": 7.254,
     "poster_url": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
     "genres": "Commedia, Dramma, Romance",
     "director": "Olivia Wilde",
@@ -305,11 +299,11 @@
     "original_title": "Cars",
     "overview": "Lightning McQueen, un determinato novellino di grande talento, scopre che la vita è il viaggio, non il traguardo, quando si ritrova inaspettatamente deviato nella sonnolenta cittadina di Radiator Springs sulla Route 66. Durante il viaggio attraverso il paese verso la gara del Piston Cup in California per competere contro due professionisti esperti, McQueen imparerà che c'è ben altro oltre il semplice traguardo.",
     "release_date": "2006-06-08",
-    "vote_average": 7.054,
+    "vote_average": 7.055,
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "ai_reason": "A theatrical re-release of a Pixar original classic, representing a landmark in prestige animation history.",
+    "ai_reason": "A theatrical re-release of a Pixar original classic, meeting the criteria for prestige animation with significant historical value in the medium.",
     "mathyas-pick": true
   },
   {
@@ -334,7 +328,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "ai_reason": "A sophisticated work by major auteur Marco Bechis, exploring historical trauma through a rigorous, non-linear lens.",
+    "ai_reason": "A high-brow historical drama from Marco Bechis, a master of civil cinema, focusing on memory and moral ambiguity rather than standard genre tropes.",
     "mathyas-pick": true
   },
   {
@@ -382,7 +376,8 @@
       {
         "name": "Galleria",
         "times": [
-          "20:00"
+          "17:45",
+          "21:00"
         ]
       },
       {
@@ -399,7 +394,7 @@
     "original_title": "Insidious: Out of the Further",
     "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
     "release_date": "2026-08-19",
-    "vote_average": 6.491,
+    "vote_average": 6.494,
     "poster_url": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
     "genres": "Horror, Thriller",
     "director": "Jacob Chase",
@@ -427,7 +422,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "A Kafkaesque social satire from Roberto De Paolis, a recognized Italian auteur working with a powerhouse cast.",
+    "ai_reason": "A surrealist, Kafkaesque social critique from Roberto De Paolis, fitting the criteria for major Italian auteurs exploring non-traditional, elevated narratives.",
     "mathyas-pick": true
   },
   {
@@ -438,7 +433,8 @@
       {
         "name": "Galleria",
         "times": [
-          "15:45"
+          "15:45",
+          "21:10"
         ]
       }
     ],
@@ -447,7 +443,7 @@
     "original_title": "Practical Magic 2",
     "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
     "release_date": "2026-09-09",
-    "vote_average": 6.158,
+    "vote_average": 6.175,
     "poster_url": "https://image.tmdb.org/t/p/w500/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
     "genres": "Romance, Fantasy, Commedia",
     "director": "Susanne Bier",
@@ -476,7 +472,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a2hxeonmr6A5SGD6qwIr18I9mGZ.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "An arthouse exploration of psychological boundaries by Andrea Pallaoro, featuring a high-prestige international cast.",
+    "ai_reason": "A prestige arthouse production from Andrea Pallaoro, a celebrated voice in contemporary Italian cinema known for his rigorous aesthetic and deep psychological inquiry.",
     "mathyas-pick": true
   },
   {
@@ -487,8 +483,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:30",
-          "20:55"
+          "16:30"
         ]
       },
       {
