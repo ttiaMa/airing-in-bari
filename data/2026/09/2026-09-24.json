@@ -1,0 +1,498 @@
+[
+  {
+    "title": "AVENGERS: ENDGAME",
+    "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "details": "Un film che chiude un cerchio, celebra i suoi protagonisti e regala uno spettacolo impressionante. Azione, Fantastico - USA 2019. Durata 182 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:00",
+          "15:15",
+          "17:10",
+          "18:05",
+          "20:10",
+          "20:31",
+          "21:00",
+          "21:10",
+          "21:30",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:00",
+          "10:40",
+          "11:30",
+          "12:50",
+          "13:50",
+          "14:10",
+          "16:40",
+          "17:40",
+          "20:30",
+          "21:00",
+          "21:30",
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 299534,
+    "tmdb_title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
+    "release_date": "2019-04-24",
+    "vote_average": 8.244,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+    "genres": "Avventura, Fantascienza, Azione",
+    "director": "Anthony Russo, Joe Russo",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ODISSEA",
+    "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson",
+    "details": "L'epica si fa cinema. Nolan rilegge l'Odissea e ci illumina con messaggi pacifisti e femministi. Avventura, Drammatico, Fantasy - USA, Gran Bretagna 2026. Durata 172 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:20",
+          "17:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1368337,
+    "tmdb_title": "Odissea",
+    "original_title": "The Odyssey",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "release_date": "2026-07-15",
+    "vote_average": 8.019,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genres": "Avventura, Azione, Fantasy",
+    "director": "Christopher Nolan",
+    "ai_reason": "A massive cinematic event from visionary director Christopher Nolan, redefining the epic for the modern age with his signature technical mastery.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "PAW PATROL - MISSIONE DINOSAURI",
+    "cast": "",
+    "details": "Un film di svago movimentato, con gag innocue e un messaggio semplice. Animazione, USA 2026. Durata 88 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1185806,
+    "tmdb_title": "PAW Patrol - Missione Dinosauri",
+    "original_title": "PAW Patrol: The Dino Movie",
+    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
+    "release_date": "2026-07-23",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
+    "director": "Cal Brunker",
+    "mathyas-pick": false
+  },
+  {
+    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+    "cast": "Brad Pitt, J.K. Simmons, Anna Lambe",
+    "details": "Un'avventura dura e disperata. David Ayer ritrova il lato più umano del suo cinema. Azione, Avventura, Drammatico - USA 2026. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:50",
+          "17:55",
+          "20:50",
+          "23:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:00",
+          "19:20",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 7.712,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
+    "mathyas-pick": false
+  },
+  {
+    "title": "L'ISOLA DEI RICORDI",
+    "cast": "Giulia Vecchio, Alessandro Tiberi, Dave Franco, Jenny Slate",
+    "details": "Animazione, Avventura, Commedia - USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:45",
+          "18:20",
+          "20:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:30",
+          "17:00",
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1465063,
+    "tmdb_title": "L'isola dei ricordi",
+    "original_title": "Forgotten Island",
+    "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
+    "release_date": "2026-09-10",
+    "vote_average": 7.6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+    "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
+    "director": "Januel Mercado, Joel Crawford",
+    "mathyas-pick": false
+  },
+  {
+    "title": "COYOTE VS. ACME",
+    "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne",
+    "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 103 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1204680,
+    "tmdb_title": "Coyote vs. Acme",
+    "original_title": "Coyote vs. Acme",
+    "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+    "release_date": "2026-08-20",
+    "vote_average": 7.556,
+    "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+    "genres": "Commedia, Avventura, Famiglia",
+    "director": "Dave Green",
+    "mathyas-pick": false
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "cast": "Austin Abrams, Zach Cherry, kali Reis, Paul Walter Hauser",
+    "details": "Zach Cregger realizza uno dei più felici adattamenti videoludici mai visti. Azione, Fantascienza, Horror - USA, Germania 2026. Durata 90 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:20",
+          "15:55",
+          "19:10",
+          "23:25"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:45",
+          "19:30",
+          "21:40",
+          "23:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1423191,
+    "tmdb_title": "Resident Evil",
+    "original_title": "Resident Evil",
+    "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
+    "release_date": "2026-09-16",
+    "vote_average": 7.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+    "genres": "Horror, Fantascienza, Avventura",
+    "director": "Zach Cregger",
+    "ai_reason": "A bold, elevated horror reimagining from emerging auteur Zach Cregger (Barbarian), moving the franchise into the realm of psychological tension.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "THE INVITE - IL PIACERE È TUTTO NOSTRO",
+    "cast": "Seth Rogen, Olivia Wilde, Penélope Cruz, Edward Norton",
+    "details": "Una commedia romantica acida al punto giusto. Commedia, Drammatico - USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:25",
+          "18:15",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:10",
+          "13:40"
+        ]
+      }
+    ],
+    "tmdb_id": 950028,
+    "tmdb_title": "The Invite - Il piacere è tutto nostro",
+    "original_title": "The Invite",
+    "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
+    "release_date": "2026-06-25",
+    "vote_average": 7.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "genres": "Commedia, Dramma, Romance",
+    "director": "Olivia Wilde",
+    "mathyas-pick": false
+  },
+  {
+    "title": "CARS - MOTORI RUGGENTI",
+    "cast": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry The Cable Guy",
+    "details": "Un raro esempio di utilizzo emozionale della CG, una traduzione del nostro mondo in un universo di macchine antropomorfizzate. Animazione, USA 2006. Durata 112 Minuti. Consigli per la visione: Film per tutti",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "15:00",
+          "17:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:00",
+          "16:30",
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 920,
+    "tmdb_title": "Cars - Motori ruggenti",
+    "original_title": "Cars",
+    "overview": "Lightning McQueen, un determinato novellino di grande talento, scopre che la vita è il viaggio, non il traguardo, quando si ritrova inaspettatamente deviato nella sonnolenta cittadina di Radiator Springs sulla Route 66. Durante il viaggio attraverso il paese verso la gara del Piston Cup in California per competere contro due professionisti esperti, McQueen imparerà che c'è ben altro oltre il semplice traguardo.",
+    "release_date": "2006-06-08",
+    "vote_average": 7.055,
+    "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
+    "genres": "Animazione, Avventura, Commedia, Famiglia",
+    "director": "John Lasseter",
+    "mathyas-pick": false
+  },
+  {
+    "title": "RITORNO A BUENOS AIRES",
+    "cast": "Adriano Giannini, Ana Celentano, Veronica Gerez, Adrián Fondari",
+    "details": "Un film di impegno civile, asciutto ed essenziale, come non eravamo più abituati a vedere nel nostro cinema. Drammatico, Italia, Brasile 2026. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1597199,
+    "tmdb_title": "Ritorno a Buenos Aires",
+    "original_title": "Ritorno a Buenos Aires",
+    "overview": "Il film segue Mariano Guerra, chiamato a tornare in Argentina per testimoniare nel processo contro i militari che lo sequestrarono e torturarono durante la dittatura militare, la stessa che nel 1978 organizzò i Mondiali di calcio mentre il paese era attraversato dalla repressione clandestina.  Il film non racconta il ritorno di un eroe in cerca di rivalsa, ma il percorso di un uomo che porta dentro di sé la propria zona d’ombra: piegato dalla tortura, parlò denunciando i suoi compagni.",
+    "release_date": "2026-09-11",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
+    "genres": "Dramma",
+    "director": "Marco Bechis",
+    "ai_reason": "A demanding and essential work from Marco Bechis, examining the dark moral complexities of historical trauma through an uncompromising auteur lens.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "I FIGLI DELLA SCIMMIA",
+    "cast": "Riccardo Scamarcio, Fausto Russo Alesi, Andrea Aggio, Tancredi Naldini",
+    "details": "Le difficoltà genitoriali legate al mondo della disabilità raccontate con delicatezza e profondità. Drammatico, Italia 2026. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1554129,
+    "tmdb_title": "I figli della scimmia",
+    "original_title": "I figli della scimmia",
+    "overview": "Dario, padre di un bambino disabile, comincia a ricevere attenzioni dal figlio adolescente di suo fratello scoprendo di preferirlo al proprio. Nella crescente complicità con il nipote trova il figlio che avrebbe voluto avere, veste i panni del padre che avrebbe potuto essere. Un gioco di ruolo illusorio e pericoloso che metterà a rischio l’intera famiglia.",
+    "release_date": "2026-09-17",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
+    "genres": "Dramma",
+    "director": "Tommaso Landucci",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SERPENTI",
+    "cast": "Leonardo Lidi, Alessandro Borghi, Pietro Castellitto, Valeria Golino",
+    "details": "Un'opera efficace che, nella cifra del grottesco, crea un ribaltamento. E va dritto al cuore delle cose. Drammatico, Italia 2026. Durata 88 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1645164,
+    "tmdb_title": "Serpenti",
+    "original_title": "Serpenti",
+    "overview": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L'uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
+    "release_date": "2026-09-10",
+    "vote_average": 6.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Roberto De Paolis",
+    "ai_reason": "A biting, Kafkaesque satire that exemplifies the strength and surrealist edge of contemporary Italian arthouse cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MAIGRET, L'AMORE E LA MORTE",
+    "cast": "Denis Podalydès, Anne Alvaro, Manuel Guillot, Irène Jacob",
+    "details": "Un polar tratto da Maigret, nel segno della tradizione. Ottima prova di Denis Podalydés. Drammatico, Francia, Belgio 2026. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:00",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1398486,
+    "tmdb_title": "Maigret - L'amore e la morte",
+    "original_title": "Maigret et le mort amoureux",
+    "overview": "Il commissario Maigret viene convocato d’urgenza al Quai d’Orsay (Ministero degli Affari Esteri) in seguito all’omicidio di Monsieur Berthier-Lagès, un celebre ex ambasciatore. Scopre ben presto che Berthier-Lagès aveva intrattenuto per cinquant’anni una corrispondenza amorosa con la principessa de Vuynes, il cui marito, in uno strano scherzo del destino, è appena morto.",
+    "release_date": "2026-02-18",
+    "vote_average": 5.936,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
+    "genres": "Mistero, Dramma, Crime",
+    "director": "Pascal Bonitzer",
+    "mathyas-pick": false
+  },
+  {
+    "title": "UNA STORIA",
+    "cast": "Guido Caprino, Alba Rohrwacher",
+    "details": "Un esordio sensibile su una piccola storia domestica. Dove incontriamo un'infelicità senza nome molto familiare. Drammatico, Italia 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1597196,
+    "tmdb_title": "Una storia",
+    "original_title": "Una storia",
+    "overview": "Erika e Mauro vivono in provincia, dentro una quotidianità semplice fatta di abitudini rassicuranti e piccoli gesti. Quando la figlia Irene parte per studiare lontano, la casa si svuota e l’equilibrio su cui la coppia ha costruito la propria esistenza sembra incrinarsi. Erika, che ha sempre abitato il mondo attraverso la cura degli altri, si scopre improvvisamente senza direzione. Mauro, cresciuto nel rigore emotivo di un padre autoritario, tenta a suo modo di reagire riempiendo il vuoto, ma finisce per confrontarsi con una fragilità mai confessata. Nel tempo sospeso che segue riaffiorano ferite lontane e desideri dimenticati. Sarà proprio questa crisi intima e profonda a spingerli a guardarsi davvero e a capire se e come possono trasformare se stessi e di conseguenza il loro amore.",
+    "release_date": "2026-09-07",
+    "vote_average": 5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kZzFOWsc3LbCGRLdsFofbMM7dly.jpg",
+    "genres": "Dramma",
+    "director": "Anna Foglietta",
+    "mathyas-pick": false
+  },
+  {
+    "title": "DOV'È LA FIESTA?",
+    "cast": "Linda Caridi, Francesco Carril, Giorgio Tirabassi, Lorenzo Balducci",
+    "details": "Una rom com urbana, ironica e generazionale. Commedia, Italia 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1723662,
+    "tmdb_title": "Dov’è la fiesta?",
+    "original_title": "Dov’è la fiesta?",
+    "overview": "A pochi giorni da Capodanno, Roma è un caos di traffico, regali, cene e aspettative. Leo e Irene si frequentano da tre mesi e non hanno ancora trovato il coraggio di rispondere alla domanda che incombe su ogni nuova relazione: “Allora, cosa siamo?”. La sera in cui decidono finalmente di affrontarla, l’auto nuova di Leo viene rubata sotto casa di Irene. Da quel momento, la loro storia viene travolta da una settimana assurda di commissariati, assicurazioni, uffici ACI, guardie giurate, ladri, coinquilini, genitori e suore. Convinti di vivere una commedia romantica, i due si ritrovano invece a combattere contro burocrazia, pregiudizi e un mondo di adulti frustrati che sembra fare di tutto per ostacolarli. Ma proprio attraversando questo labirinto di ostacoli, Leo e Irene potrebbero trovare qualcosa di più importante dell’auto scomparsa: una direzione comune e il coraggio di scegliere il proprio futuro insieme.",
+    "release_date": "2026-09-17",
+    "vote_average": 4.917,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
+    "genres": "Commedia, Romance",
+    "director": "Niccolò Gentili",
+    "mathyas-pick": false
+  },
+  {
+    "title": "NESSUN DOLORE",
+    "cast": "Alessandro Borghi, Valeria Golino, Valerio Mastandrea",
+    "details": "Gianni Amelio torna sul tema delle migrazioni da una prospettiva intima e originale. Drammatico, Italia 2026.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:50",
+          "18:10",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "14:30",
+          "16:50",
+          "18:50",
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1594043,
+    "tmdb_title": "Nessun dolore",
+    "original_title": "Nessun dolore",
+    "overview": "La vita di Davide viene sconvolta da un tragico evento, involontariamente causato da lui stesso. Questo fatto dirompente spinge Davide, devastato dal senso di colpa, a intraprendere una serie di azioni apparentemente irragionevoli che lo porteranno a pagare delle gravi conseguenze. Grazie anche al forte legame affettivo con Elsa, Davide forse riuscirà a ritrovare una serenità inaspettata.",
+    "release_date": "2026-09-24",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+    "genres": "Dramma",
+    "director": "Gianni Amelio",
+    "ai_reason": "Masterful Italian cinema from auteur Gianni Amelio, providing a deeply humanistic and sensitive exploration of conscience and redemption.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ULTIMO - TUTTO. LIVE A TOR VERGATA",
+    "cast": "",
+    "details": "Il concerto più grande della storia della musica italiana. Concerto, Italia 2026. Durata 165 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:50",
+          "20:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "18:00",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1740126,
+    "tmdb_title": "Ultimo - Tutto. Live a Tor Vergata",
+    "original_title": "Ultimo - Tutto. Live a Tor Vergata",
+    "overview": "Ogni sfaccettatura del concerto dei record, seguendo fedelmente lo scorrere del tempo e il crescendo delle emozioni che accompagnano la “favola per sempre” di Ultimo. Quello che un tempo era il sogno ostinato di un ragazzo seduto al pianoforte a San Basilio è diventato un luogo vero e proprio, che la storica notte del 4 luglio 2026 ha accolto i 250.000 abitanti della città di Ultimo, cementando il legame indissolubile con la Generazione Ultimo.",
+    "release_date": "2026-09-22",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ntM0voyewKJn6L59MDAcyVu8ft.jpg",
+    "genres": "Documentario, Musica",
+    "director": "Giorgio Testi",
+    "mathyas-pick": false
+  }
+]
