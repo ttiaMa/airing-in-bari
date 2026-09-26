@@ -91,7 +91,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A grand-scale cinematic event from a master of modern spectacles, Christopher Nolan.",
+    "ai_reason": "A major cinematic event from visionary director Christopher Nolan, promising a grand-scale, auteur-driven reimagining of mythic proportions.",
     "mathyas-pick": true
   },
   {
@@ -120,7 +120,7 @@
     "original_title": "Forgotten Island",
     "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
     "release_date": "2026-09-10",
-    "vote_average": 7.706,
+    "vote_average": 7.8,
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
@@ -209,11 +209,11 @@
     "original_title": "Resident Evil",
     "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
     "release_date": "2026-09-16",
-    "vote_average": 7.3,
+    "vote_average": 7.317,
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "A psychological subversion of genre tropes by the visionary emerging auteur behind the viral hit Barbarian.",
+    "ai_reason": "Directed by Zach Cregger (Barbarian), this project represents the new wave of elevated genre filmmaking, offering an auteurist lens on survival horror.",
     "mathyas-pick": true
   },
   {
@@ -299,7 +299,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "ai_reason": "A rigorous exploration of historical memory and moral ambiguity by a major Italian-Argentine auteur.",
+    "ai_reason": "Auteur Marco Bechis continues his haunting investigation of memory and the shadows of the Argentine dictatorship in this socially significant drama.",
     "mathyas-pick": true
   },
   {
@@ -319,11 +319,11 @@
     "original_title": "Hokum",
     "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
     "release_date": "2026-04-29",
-    "vote_average": 6.847,
+    "vote_average": 6.846,
     "poster_url": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "genres": "Horror, Thriller",
     "director": "Damian McCarthy",
-    "ai_reason": "Atmospheric, dread-filled indie horror from a new master of the elevated supernatural thriller.",
+    "ai_reason": "Damian McCarthy follows up his cult hits with another masterclass in atmospheric, psychological dread, essential for any enthusiast of modern indie horror.",
     "mathyas-pick": true
   },
   {
@@ -347,7 +347,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "An absurdist, Kafkaesque critique of modern society from an acclaimed contemporary Italian voice.",
+    "ai_reason": "Roberto De Paolis delivers a Kafkaesque, satirical exploration of contemporary Italian society, anchored by the country's most compelling modern actors.",
     "mathyas-pick": true
   },
   {
@@ -378,8 +378,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
     "genres": "Dramma",
     "director": "Tommaso Landucci",
-    "ai_reason": "An intimate, unsettling character study exploring the complexities of family by a rising auteur.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "UNA STORIA",
@@ -484,7 +483,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A high-prestige drama from one of Italy's most decorated living auteurs, Gianni Amelio.",
+    "ai_reason": "A rigorous and profound work by Gianni Amelio, a titan of Italian cinema, featuring a prestigious cast and exploring the depths of human guilt.",
     "mathyas-pick": true
   },
   {
