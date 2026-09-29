@@ -33,7 +33,7 @@
     "vote_average": 8.246,
     "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
     "genres": "Avventura, Fantascienza, Azione",
-    "director": "Joe Russo, Anthony Russo",
+    "director": "Anthony Russo, Joe Russo",
     "mathyas-pick": false
   },
   {
@@ -111,7 +111,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "mathyas-pick": false
+    "ai_reason": "A major cinematic event from visionary director Christopher Nolan, offering a high-concept, auteur-driven take on the epic tradition.",
+    "mathyas-pick": true
   },
   {
     "title": "NAZA",
@@ -168,7 +169,7 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.681,
+    "vote_average": 7.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -191,7 +192,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-17",
-    "vote_average": 7.556,
+    "vote_average": 7.557,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -226,7 +227,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "mathyas-pick": false
+    "ai_reason": "Directed by Zach Cregger (Barbarian), this represents the new wave of elevated indie horror that prioritizes atmosphere and tension over generic tropes.",
+    "mathyas-pick": true
   },
   {
     "title": "THE INVITE - IL PIACERE È TUTTO NOSTRO",
@@ -280,7 +282,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "mathyas-pick": false
+    "ai_reason": "A serious work of historical and political depth from acclaimed auteur Marco Bechis, examining personal trauma and national memory.",
+    "mathyas-pick": true
   },
   {
     "title": "CARS - MOTORI RUGGENTI",
@@ -343,7 +346,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "mathyas-pick": false
+    "ai_reason": "Essential Italian cinema from a major auteur, Gianni Amelio, exploring deep psychological guilt with a prestigious cast.",
+    "mathyas-pick": true
   },
   {
     "title": "SERPENTI",
@@ -366,7 +370,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "mathyas-pick": false
+    "ai_reason": "An arthouse-inflected Kafkaesque drama from emerging Italian talent Roberto De Paolis, featuring a stellar ensemble of prestige actors.",
+    "mathyas-pick": true
   },
   {
     "title": "THE DOG STARS - LE STELLE DOPO LA FINE",
