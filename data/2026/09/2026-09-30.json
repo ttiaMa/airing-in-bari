@@ -1,5 +1,42 @@
 [
   {
+    "title": "AVENGERS: ENDGAME",
+    "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "details": "Un film che chiude un cerchio, celebra i suoi protagonisti e regala uno spettacolo impressionante. Azione, Fantastico - USA 2019. Durata 182 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:30",
+          "17:10",
+          "18:35",
+          "20:10",
+          "20:35",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:40",
+          "17:40",
+          "20:30",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 299534,
+    "tmdb_title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
+    "release_date": "2019-04-24",
+    "vote_average": 8.245,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+    "genres": "Avventura, Fantascienza, Azione",
+    "director": "Anthony Russo, Joe Russo",
+    "mathyas-pick": false
+  },
+  {
     "title": "L'ISOLA DEI RICORDI",
     "cast": "Giulia Vecchio, Alessandro Tiberi, Dave Franco, Jenny Slate",
     "details": "Sorprendente caleidoscopio di idee con un'animazione cangiante. Animazione, Avventura, Commedia - USA 2026. Durata 109 Minuti.",
@@ -31,43 +68,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "AVENGERS: ENDGAME",
-    "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
-    "details": "Un film che chiude un cerchio, celebra i suoi protagonisti e regala uno spettacolo impressionante. Azione, Fantastico - USA 2019. Durata 182 Minuti. Consigli per la visione: Ragazzi +13",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:30",
-          "17:10",
-          "18:35",
-          "20:10",
-          "20:35",
-          "21:10"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:40",
-          "17:40",
-          "20:30",
-          "21:30"
-        ]
-      }
-    ],
-    "tmdb_id": 299534,
-    "tmdb_title": "Avengers: Endgame",
-    "original_title": "Avengers: Endgame",
-    "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
-    "release_date": "2019-04-24",
-    "vote_average": 8.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-    "genres": "Avventura, Fantascienza, Azione",
-    "director": "Anthony Russo, Joe Russo",
-    "mathyas-pick": false
-  },
-  {
     "title": "PAW PATROL - MISSIONE DINOSAURI",
     "cast": "",
     "details": "Un film di svago movimentato, con gag innocue e un messaggio semplice. Animazione, USA 2026. Durata 88 Minuti.",
@@ -84,7 +84,7 @@
     "original_title": "PAW Patrol: The Dino Movie",
     "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
     "release_date": "2026-07-23",
-    "vote_average": 8.164,
+    "vote_average": 8.2,
     "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
     "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
     "director": "Cal Brunker",
@@ -107,11 +107,11 @@
     "original_title": "The Odyssey",
     "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
     "release_date": "2026-07-15",
-    "vote_average": 8.015,
+    "vote_average": 8,
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event from Christopher Nolan, promising the intellectual depth and technical mastery expected of a modern auteur.",
+    "ai_reason": "A massive cinematic event from visionary director Christopher Nolan, redefining epic storytelling with his signature high-concept execution.",
     "mathyas-pick": true
   },
   {
@@ -194,7 +194,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-17",
-    "vote_average": 7.561,
+    "vote_average": 7.563,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -224,11 +224,11 @@
     "original_title": "Resident Evil",
     "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
     "release_date": "2026-09-16",
-    "vote_average": 7.3,
+    "vote_average": 7.339,
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by indie darling Zach Cregger, this reimagining promises an elevated, atmospheric approach to psychological horror.",
+    "ai_reason": "Directed by Zach Cregger (Barbarian), this represents the new wave of elevated horror from a highly acclaimed emerging auteur.",
     "mathyas-pick": true
   },
   {
@@ -283,7 +283,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
     "genres": "Dramma",
     "director": "Marco Bechis",
-    "ai_reason": "Marco Bechis delivers a rigorous and essential work of auteur cinema, examining the haunting shadows of history and personal memory.",
+    "ai_reason": "Marco Bechis, a key figure in auteur cinema, delivers a rigorous and necessary exploration of memory and the shadows of the Argentine dictatorship.",
     "mathyas-pick": true
   },
   {
@@ -313,7 +313,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "mathyas-pick": false
+    "ai_reason": "A seminal Pixar original and a cornerstone of prestige animation that balances technical innovation with a classic narrative arc.",
+    "mathyas-pick": true
   },
   {
     "title": "NESSUN DOLORE",
@@ -346,7 +347,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A profound exploration of guilt from Gianni Amelio, cementing his status as a premiere master of the Italian auteur tradition.",
+    "ai_reason": "A significant work by major Italian auteur Gianni Amelio, exploring deep psychological themes of guilt with a prestige ensemble cast.",
     "mathyas-pick": true
   },
   {
@@ -370,7 +371,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "A Kafkaesque and surrealist critique of society from rising auteur Roberto De Paolis, featuring a stellar ensemble of Italian prestige talent.",
+    "ai_reason": "A grotesque and Kafkaesque social satire from Roberto De Paolis, featuring a powerhouse cast of Italy's most respected contemporary actors.",
     "mathyas-pick": true
   },
   {
@@ -394,8 +395,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
     "genres": "Dramma",
     "director": "Tommaso Landucci",
-    "ai_reason": "A gripping psychological study and auteur-driven drama that explores the darker, complex facets of domesticity and identity.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ULTIMO - TUTTO. LIVE A TOR VERGATA",
@@ -490,6 +490,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
     "genres": "Commedia, Romance",
     "director": "Niccolò Gentili",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LINKIN PARK - UNSHATTER",
+    "cast": "Joe Hahn, Mike Shinoda",
+    "details": "Il racconto ibrido, tra concerti e retroscena, del ritorno in attività del gruppo dopo la perdita di Chester Bennington. Documentario, Musicale - Corea del sud 2026. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1388805,
+    "tmdb_title": "LINKIN PARK: UNSHATTER",
+    "original_title": "LINKIN PARK: UNSHATTER",
+    "overview": "Il documentario racconta i sette anni di silenzio durante i quali la band ha affrontato la perdita di Chester Bennington e trovato la forza di ricominciare. Dopo sette anni di pausa seguiti alla devastante scomparsa dell’amato frontman, il film segue i Linkin Park dalle intime sessioni in studio del 2022 fino all’esplosiva uscita dell’album From Zero nel 2024 e al concerto di San Paolo, intrecciando rari filmati d’archivio, performance da show sold-out e interviste sincere ai membri della band e ai fan, per raccontare in modo autentico cosa significhi ripartire dopo una perdita così profonda.",
+    "release_date": "2026-09-30",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nI1Ps53sGYAX22tfaLqrNQCmaDT.jpg",
+    "genres": "Musica, Documentario",
+    "director": "Joe Hahn",
     "mathyas-pick": false
   }
 ]
