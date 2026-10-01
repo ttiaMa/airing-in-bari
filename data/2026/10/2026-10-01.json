@@ -85,30 +85,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "NAZA",
-    "cast": "",
-    "details": "Un'opera analitica e razionale nel cuore di Tel Aviv. Un atto necessario di resistenza. Documentario, Gran Bretagna 2026. Durata 80 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "19:35",
-          "21:55"
-        ]
-      }
-    ],
-    "tmdb_id": 1755291,
-    "tmdb_title": "NAZA",
-    "original_title": "NAZA",
-    "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
-    "release_date": "2026-09-25",
-    "vote_average": 8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "genres": "Documentario",
-    "director": "يوفال إبراهيم, Rachel Szor",
-    "mathyas-pick": false
-  },
-  {
     "title": "UN PO' DI LUCE",
     "cast": "Missagh Zareh, Sadaf Asgari, Forouzan Jamshidnejad, Ramtin Daghigh",
     "details": "Un'amara riflessione sul tema del suicidio. Nel contesto dell'Iran, dove Asgari si interroga sulla forza dei legami. Drammatico, Iran 2026. Durata 87 Minuti.",
@@ -130,6 +106,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
+    "ai_reason": "A refined example of contemporary Iranian arthouse cinema from festival favorite Ali Asgari, focusing on humanistic and existential struggle.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "NAZA",
+    "cast": "",
+    "details": "Un'opera analitica e razionale nel cuore di Tel Aviv. Un atto necessario di resistenza. Documentario, Gran Bretagna 2026. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:35",
+          "21:55"
+        ]
+      }
+    ],
+    "tmdb_id": 1755291,
+    "tmdb_title": "NAZA",
+    "original_title": "NAZA",
+    "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
+    "release_date": "2026-09-25",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
+    "genres": "Documentario",
+    "director": "يوفال إبراهيم, Rachel Szor",
     "mathyas-pick": false
   },
   {
@@ -207,7 +208,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "An elevated genre piece from Zach Cregger, the emerging auteur who gained viral acclaim with the indie horror hit 'Barbarian'.",
+    "ai_reason": "A highly anticipated elevated horror project from Zach Cregger, whose subversive debut 'Barbarian' established him as a new master of the genre.",
     "mathyas-pick": true
   },
   {
@@ -244,7 +245,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A significant cinematic event directed by multi-Oscar winner Alejandro G. Iñárritu, marking a high-profile collaboration with Tom Cruise and Sandra Hüller.",
+    "ai_reason": "A major cinematic event directed by multi-Oscar winner Alejandro G. Iñárritu, featuring an extraordinary prestige cast including Sandra Hüller and Tom Cruise.",
     "mathyas-pick": true
   },
   {
@@ -292,8 +293,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "ai_reason": "A cornerstone of prestige animation from Pixar's golden era, representing the high artistic value required for theatrical re-releases.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "NESSUN DOLORE",
@@ -325,13 +325,13 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A new entry from Gianni Amelio, one of the most respected masters of contemporary Italian cinema, fitting the criteria for major national auteurs.",
+    "ai_reason": "A profound and introspective work by Gianni Amelio, a titan of Italian cinema and winner of the Golden Lion at Venice.",
     "mathyas-pick": true
   },
   {
     "title": "VERITY",
     "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Ismael Cruz Cordova",
-    "details": "Drammatico, USA 2026.",
+    "details": "Un noir femminile troppo incoerente, dove è impossibile parteggiare per i protagonisti. Drammatico, USA 2026. Durata 104 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -383,6 +383,37 @@
     "mathyas-pick": false
   },
   {
+    "title": "LA CITTÀ DEI VIVI",
+    "cast": "Emanuele Maria Di Stefano, Valerio Mastandrea, Gaia Merlonghi, Simona Senzacqua",
+    "details": "Un film intimo e doloroso, che oppone all'assurdità del male l'ostinata normalità della vita. Drammatico, Italia 2026. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:45",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1632103,
+    "tmdb_title": "La città dei vivi",
+    "original_title": "La città dei vivi",
+    "overview": "Luca ha ventitré anni. Vive in una famiglia che lo ha adottato e che lo ama. Si muove con i suoi amici tra la periferia e il centro e ha una fidanzata con cui vive un amore giovane ma importante per entrambi. Luca sta cercando la sua strada, in un’età in cui tutto sembra ancora possibile e al tempo stesso già perduto, e in questa ricerca vive una doppia vita. Una notte, dopo un incontro apparentemente casuale, la traiettoria della vita di Luca si spezza, infrangendosi contro una violenza cieca e insensata.",
+    "release_date": "2026-10-01",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+    "genres": "Dramma, Thriller",
+    "director": "Edoardo Gabbriellini",
+    "ai_reason": "A gritty, psychological Roman drama directed by Edoardo Gabbriellini, based on the Strega Prize-winning novel by Nicola Lagioia.",
+    "mathyas-pick": true
+  },
+  {
     "title": "UNA STORIA",
     "cast": "Guido Caprino, Alba Rohrwacher, Caterina Casini, Elio De Capitani",
     "details": "Un esordio sensibile su una piccola storia domestica. Dove incontriamo un'infelicità senza nome molto familiare. Drammatico, Italia 2026. Durata 107 Minuti.",
@@ -406,29 +437,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "LA CITTÀ DEI VIVI",
-    "cast": "Emanuele Maria Di Stefano, Valerio Mastandrea, Gaia Merlonghi, Simona Senzacqua",
-    "details": "Un film intimo e doloroso, che oppone all'assurdità del male l'ostinata normalità della vita. Drammatico, Italia 2026. Durata 104 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "21:45"
-        ]
-      }
-    ],
-    "tmdb_id": 1632103,
-    "tmdb_title": "La città dei vivi",
-    "original_title": "La città dei vivi",
-    "overview": "Luca ha ventitré anni. Vive in una famiglia che lo ha adottato e che lo ama. Si muove con i suoi amici tra la periferia e il centro e ha una fidanzata con cui vive un amore giovane ma importante per entrambi. Luca sta cercando la sua strada, in un’età in cui tutto sembra ancora possibile e al tempo stesso già perduto, e in questa ricerca vive una doppia vita. Una notte, dopo un incontro apparentemente casuale, la traiettoria della vita di Luca si spezza, infrangendosi contro una violenza cieca e insensata.",
-    "release_date": "2026-10-01",
-    "vote_average": 6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
-    "genres": "Dramma, Thriller",
-    "director": "Edoardo Gabbriellini",
-    "mathyas-pick": false
-  },
-  {
     "title": "MAIGRET, L'AMORE E LA MORTE",
     "cast": "Denis Podalydès, Anne Alvaro, Manuel Guillot, Irène Jacob",
     "details": "Un polar tratto da Maigret, nel segno della tradizione. Ottima prova di Denis Podalydés. Drammatico, Francia, Belgio 2026. Durata 80 Minuti.",
@@ -449,6 +457,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
     "genres": "Mistero, Dramma, Crime",
     "director": "Pascal Bonitzer",
+    "ai_reason": "A sophisticated and intellectual reimagining of the Maigret mythos through the lens of esteemed French director and screenwriter Pascal Bonitzer.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ONSLAUGHT - ASSALTO FINALE",
+    "cast": "Adria Arjona, Dan Stevens, Eric Wareheim, Reginald Vel Johnson",
+    "details": "Un omaggio viscerale e volutamente sopra le righe al B movie. Azione, Horror, Thriller - USA 2026. Durata 92 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1284046,
+    "tmdb_title": "Onslaught - Assalto finale",
+    "original_title": "Onslaught",
+    "overview": "Quando una squadra di supersoldati geneticamente modificati fuori controllo evade da una base governativa segreta e si scatena nel deserto del New Mexico, un’ex cecchina dell’esercito dovrà tornare a essere la temibile combattente di un tempo per proteggere sua figlia e sopravvivere al loro infernale assalto.",
+    "release_date": "2026-09-02",
+    "vote_average": 5.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ifrboaovWTOPA2KOenwQ0VyHqbo.jpg",
+    "genres": "Azione, Horror, Thriller",
+    "director": "Adam Wingard",
     "mathyas-pick": false
   },
   {
@@ -475,17 +507,17 @@
     "original_title": "Her Private Hell",
     "overview": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
     "release_date": "2026-07-23",
-    "vote_average": 5.264,
+    "vote_average": 5.3,
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "A signature arthouse horror experience from visionary auteur Nicolas Winding Refn, known for his surrealist aesthetic and stylized violence.",
+    "ai_reason": "A visionary, neon-soaked nightmare from cult auteur Nicolas Winding Refn, exploring surrealist and futuristic horror themes.",
     "mathyas-pick": true
   },
   {
     "title": "QUASI VERA",
     "cast": "Laura Chiatti, Federica Cifola, Sergio Friscia, Maurizio Lops",
-    "details": "Nell'era dell'intelligenza artificiale, la vera sfida è restare autentici!. Commedia, Italia 2026.",
+    "details": "Nell'era dell'intelligenza artificiale, la vera sfida è restare autentici!. Commedia, Italia 2026. Durata 90 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
