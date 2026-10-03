@@ -85,8 +85,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "A prestige animation piece that explores cultural mythology with high artistic ambition and critical depth, far beyond standard commercial fare.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "PAW PATROL - MISSIONE DINOSAURI",
@@ -131,66 +130,10 @@
     "original_title": "NAZA",
     "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
     "release_date": "2026-09-25",
-    "vote_average": 8.02,
+    "vote_average": 8,
     "poster_url": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "genres": "Documentario",
     "director": "يوفال إبراهيم, Rachel Szor",
-    "mathyas-pick": false
-  },
-  {
-    "title": "DIGGER",
-    "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller",
-    "details": "Una satira sull'apocalisse ambientale e un chiaro tentativo di far vincere l'Oscar a Tom Cruise. Drammatico, Commedia - USA, Gran Bretagna, Messico 2026. Durata 129 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:50",
-          "18:00",
-          "21:00",
-          "23:45"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "21:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1248832,
-    "tmdb_title": "Digger",
-    "original_title": "Digger",
-    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
-    "release_date": "2026-09-28",
-    "vote_average": 7.627,
-    "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Alejandro G. Iñárritu",
-    "ai_reason": "Alejandro G. Iñárritu is a multi-Oscar winning auteur; this collaboration with a high-profile cast constitutes a major cinematic event.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "BEAST",
-    "cast": "Russell Crowe, Mojean Aria, Daniel MacPherson, Nathan Phillips",
-    "details": "Un mélo australiano di lotta e di redenzione, che sa di Rocky in versione MMA. Azione, Drammatico, Sportivo - USA, Australia 2026. Durata 114 Minuti.",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "22:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1263337,
-    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
-    "original_title": "Heart of the Beast",
-    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-    "release_date": "2026-09-19",
-    "vote_average": 7.6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "genres": "Avventura, Thriller",
-    "director": "David Ayer",
     "mathyas-pick": false
   },
   {
@@ -219,7 +162,30 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.581,
+    "vote_average": 7.553,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BEAST",
+    "cast": "Russell Crowe, Mojean Aria, Daniel MacPherson, Nathan Phillips",
+    "details": "Un mélo australiano di lotta e di redenzione, che sa di Rocky in versione MMA. Azione, Drammatico, Sportivo - USA, Australia 2026. Durata 114 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 7.551,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -243,7 +209,7 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-17",
-    "vote_average": 7.533,
+    "vote_average": 7.53,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
@@ -271,7 +237,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "A significant work of contemporary world cinema from Ali Asgari, representing the high-brow Iranian tradition of intimate, poetic realism.",
+    "ai_reason": "Acclaimed Iranian director Ali Asgari delivers a meditative and humanistic work, a staple of high-brow international film festival circuits.",
     "mathyas-pick": true
   },
   {
@@ -328,6 +294,39 @@
     "mathyas-pick": false
   },
   {
+    "title": "DIGGER",
+    "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller",
+    "details": "Una satira sull'apocalisse ambientale e un chiaro tentativo di far vincere l'Oscar a Tom Cruise. Drammatico, Commedia - USA, Gran Bretagna, Messico 2026. Durata 129 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:50",
+          "18:00",
+          "21:00",
+          "23:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1248832,
+    "tmdb_title": "Digger",
+    "original_title": "Digger",
+    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
+    "release_date": "2026-09-28",
+    "vote_average": 7.366,
+    "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Alejandro G. Iñárritu",
+    "ai_reason": "A major cinematic event directed by Alejandro G. Iñárritu, one of the most significant contemporary auteurs, starring Sandra Hüller.",
+    "mathyas-pick": true
+  },
+  {
     "title": "RESIDENT EVIL",
     "cast": "Austin Abrams, Zach Cherry, kali Reis, Paul Walter Hauser",
     "details": "Zach Cregger realizza uno dei più felici adattamenti videoludici mai visti. Azione, Fantascienza, Horror - USA, Germania 2026. Durata 90 Minuti.",
@@ -349,7 +348,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "While part of a franchise, director Zach Cregger is an emerging auteur of elevated horror, known for subverting genre expectations with high artistic merit.",
+    "ai_reason": "Directed by emerging horror auteur Zach Cregger (Barbarian), this project promises the psychological depth and viral artistry of modern indie hits.",
     "mathyas-pick": true
   },
   {
@@ -394,11 +393,11 @@
     "original_title": "Cars",
     "overview": "Lightning McQueen, un determinato novellino di grande talento, scopre che la vita è il viaggio, non il traguardo, quando si ritrova inaspettatamente deviato nella sonnolenta cittadina di Radiator Springs sulla Route 66. Durante il viaggio attraverso il paese verso la gara del Piston Cup in California per competere contro due professionisti esperti, McQueen imparerà che c'è ben altro oltre il semplice traguardo.",
     "release_date": "2006-06-08",
-    "vote_average": 7.1,
+    "vote_average": 7.057,
     "poster_url": "https://image.tmdb.org/t/p/w500/wpImvqmdrvJsa3edcUUnr4RCkNU.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "ai_reason": "A seminal Pixar work that serves as a modern classic; its theatrical return is an event for any serious student of contemporary animation history.",
+    "ai_reason": "A theatrical re-release of a Pixar original, representing the peak of high-artistry animation and modern cinema history.",
     "mathyas-pick": true
   },
   {
@@ -432,7 +431,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "Gianni Amelio is a titan of Italian cinema; this production features a prestigious cast and explores deep, guilt-ridden psychological depths.",
+    "ai_reason": "Gianni Amelio is a titan of Italian auteur cinema; this intimate drama is a prime example of prestige national filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -456,7 +455,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
-    "ai_reason": "Michael Sarnoski, a rising indie star, offers a revisionist and gritty arthouse take on the legendary figure, prioritizing drama over generic action.",
+    "ai_reason": "Michael Sarnoski (director of 'Pig') offers an elevated, revisionist deconstruction of a classic myth, far removed from standard action tropes.",
     "mathyas-pick": true
   },
   {
@@ -516,6 +515,30 @@
     "mathyas-pick": false
   },
   {
+    "title": "UNA STORIA",
+    "cast": "Guido Caprino, Alba Rohrwacher, Caterina Casini, Elio De Capitani",
+    "details": "Un esordio sensibile su una piccola storia domestica. Dove incontriamo un'infelicità senza nome molto familiare. Drammatico, Italia 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1597196,
+    "tmdb_title": "Una storia",
+    "original_title": "Una storia",
+    "overview": "Erika e Mauro vivono in provincia, dentro una quotidianità semplice fatta di abitudini rassicuranti e piccoli gesti. Quando la figlia Irene parte per studiare lontano, la casa si svuota e l’equilibrio su cui la coppia ha costruito la propria esistenza sembra incrinarsi. Erika, che ha sempre abitato il mondo attraverso la cura degli altri, si scopre improvvisamente senza direzione. Mauro, cresciuto nel rigore emotivo di un padre autoritario, tenta a suo modo di reagire riempiendo il vuoto, ma finisce per confrontarsi con una fragilità mai confessata. Nel tempo sospeso che segue riaffiorano ferite lontane e desideri dimenticati. Sarà proprio questa crisi intima e profonda a spingerli a guardarsi davvero e a capire se e come possono trasformare se stessi e di conseguenza il loro amore.",
+    "release_date": "2026-09-07",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kZzFOWsc3LbCGRLdsFofbMM7dly.jpg",
+    "genres": "Dramma",
+    "director": "Anna Foglietta",
+    "ai_reason": "A sophisticated Italian drama starring Alba Rohrwacher, the quintessential muse of contemporary high-brow European cinema.",
+    "mathyas-pick": true
+  },
+  {
     "title": "LA CITTÀ DEI VIVI",
     "cast": "Emanuele Maria Di Stefano, Valerio Mastandrea, Gaia Merlonghi, Simona Senzacqua",
     "details": "Un film intimo e doloroso, che oppone all'assurdità del male l'ostinata normalità della vita. Drammatico, Italia 2026. Durata 104 Minuti.",
@@ -543,29 +566,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "mathyas-pick": false
-  },
-  {
-    "title": "UNA STORIA",
-    "cast": "Guido Caprino, Alba Rohrwacher, Caterina Casini, Elio De Capitani",
-    "details": "Un esordio sensibile su una piccola storia domestica. Dove incontriamo un'infelicità senza nome molto familiare. Drammatico, Italia 2026. Durata 107 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "19:15"
-        ]
-      }
-    ],
-    "tmdb_id": 1597196,
-    "tmdb_title": "Una storia",
-    "original_title": "Una storia",
-    "overview": "Erika e Mauro vivono in provincia, dentro una quotidianità semplice fatta di abitudini rassicuranti e piccoli gesti. Quando la figlia Irene parte per studiare lontano, la casa si svuota e l’equilibrio su cui la coppia ha costruito la propria esistenza sembra incrinarsi. Erika, che ha sempre abitato il mondo attraverso la cura degli altri, si scopre improvvisamente senza direzione. Mauro, cresciuto nel rigore emotivo di un padre autoritario, tenta a suo modo di reagire riempiendo il vuoto, ma finisce per confrontarsi con una fragilità mai confessata. Nel tempo sospeso che segue riaffiorano ferite lontane e desideri dimenticati. Sarà proprio questa crisi intima e profonda a spingerli a guardarsi davvero e a capire se e come possono trasformare se stessi e di conseguenza il loro amore.",
-    "release_date": "2026-09-07",
-    "vote_average": 6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/kZzFOWsc3LbCGRLdsFofbMM7dly.jpg",
-    "genres": "Dramma",
-    "director": "Anna Foglietta",
     "mathyas-pick": false
   },
   {
@@ -642,7 +642,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "Directed by Nicolas Winding Refn, this film promises the surrealist, hyper-stylized aesthetic and elevated horror sensibilities of a true cult auteur.",
+    "ai_reason": "Nicolas Winding Refn is a cult visionary; his return to surrealist horror and sci-fi perfectly fits the elevated genre criteria.",
     "mathyas-pick": true
   }
 ]
