@@ -30,7 +30,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "A work of prestige animation that blends cultural folklore with high artistic merit, far removed from commercial tropes.",
+    "ai_reason": "A stunning example of prestige animation, blending rich folklore with a sophisticated narrative that transcends the standard family film.",
     "mathyas-pick": true
   },
   {
@@ -65,7 +65,7 @@
     "vote_average": 8.245,
     "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
     "genres": "Avventura, Fantascienza, Azione",
-    "director": "Joe Russo, Anthony Russo",
+    "director": "Anthony Russo, Joe Russo",
     "mathyas-pick": false
   },
   {
@@ -113,7 +113,32 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "genres": "Avventura, Azione, Fantasy",
     "director": "Christopher Nolan",
-    "ai_reason": "A major cinematic event directed by Christopher Nolan, promising a grand, cerebral, and visually arresting reimagining of epic myth.",
+    "ai_reason": "A monumental cinematic event from visionary director Christopher Nolan, promising a sensory and philosophical exploration of epic proportions.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "UN PO' DI LUCE",
+    "cast": "Missagh Zareh, Sadaf Asgari, Forouzan Jamshidnejad, Ramtin Daghigh",
+    "details": "Un'amara riflessione sul tema del suicidio. Nel contesto dell'Iran, dove Asgari si interroga sulla forza dei legami. Drammatico, Iran 2026. Durata 87 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1736490,
+    "tmdb_title": "Un po' di luce",
+    "original_title": "کمی نور",
+    "overview": "Dopo l’arresto e la chiusura del suo ambulatorio, un medico iraniano, disilluso, perde ogni fiducia nel futuro. Deciso a porre fine alla propria vita, trascorre un’ultima giornata con i fratelli e la madre, per prepararli alla sua scomparsa. Ma la compassione, la cura e la vicinanza che gli dimostrano finiscono per riconciliarlo con la realtà.",
+    "release_date": "2026-10-01",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
+    "genres": "Dramma",
+    "director": "Ali Asgari",
+    "ai_reason": "A high-brow selection for the true cinephile, this Iranian drama represents the pinnacle of contemporary world cinema through its minimalist and humanistic lens.",
     "mathyas-pick": true
   },
   {
@@ -143,64 +168,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-    "cast": "Brad Pitt, J.K. Simmons, Anna Lambe",
-    "details": "Un'avventura dura e disperata. David Ayer ritrova il lato più umano del suo cinema. Azione, Avventura, Drammatico - USA 2026. Durata 101 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "14:15",
-          "15:40",
-          "19:10",
-          "21:35",
-          "00:40"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "10:30",
-          "17:20",
-          "19:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1263337,
-    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
-    "original_title": "Heart of the Beast",
-    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-    "release_date": "2026-09-19",
-    "vote_average": 7.533,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "genres": "Avventura, Thriller",
-    "director": "David Ayer",
-    "mathyas-pick": false
-  },
-  {
-    "title": "BEAST",
-    "cast": "Russell Crowe, Mojean Aria, Daniel MacPherson, Nathan Phillips",
-    "details": "Un mélo australiano di lotta e di redenzione, che sa di Rocky in versione MMA. Azione, Drammatico, Sportivo - USA, Australia 2026. Durata 114 Minuti.",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "21:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1263337,
-    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
-    "original_title": "Heart of the Beast",
-    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-    "release_date": "2026-09-19",
-    "vote_average": 7.533,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "genres": "Avventura, Thriller",
-    "director": "David Ayer",
-    "mathyas-pick": false
-  },
-  {
     "title": "COYOTE VS. ACME",
     "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne",
     "details": "Un legal drama dell'assurdo, un'opera contro l'impunità delle grandi aziende. Animazione, Avventura, Commedia - USA 2026. Durata 103 Minuti.",
@@ -217,36 +184,11 @@
     "original_title": "Coyote vs. Acme",
     "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
     "release_date": "2026-08-17",
-    "vote_average": 7.525,
+    "vote_average": 7.53,
     "poster_url": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
     "genres": "Commedia, Avventura, Famiglia",
     "director": "Dave Green",
     "mathyas-pick": false
-  },
-  {
-    "title": "UN PO' DI LUCE",
-    "cast": "Missagh Zareh, Sadaf Asgari, Forouzan Jamshidnejad, Ramtin Daghigh",
-    "details": "Un'amara riflessione sul tema del suicidio. Nel contesto dell'Iran, dove Asgari si interroga sulla forza dei legami. Drammatico, Iran 2026. Durata 87 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "17:30",
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1736490,
-    "tmdb_title": "Un po' di luce",
-    "original_title": "کمی نور",
-    "overview": "Dopo l’arresto e la chiusura del suo ambulatorio, un medico iraniano, disilluso, perde ogni fiducia nel futuro. Deciso a porre fine alla propria vita, trascorre un’ultima giornata con i fratelli e la madre, per prepararli alla sua scomparsa. Ma la compassione, la cura e la vicinanza che gli dimostrano finiscono per riconciliarlo con la realtà.",
-    "release_date": "2026-10-01",
-    "vote_average": 7.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
-    "genres": "Dramma",
-    "director": "Ali Asgari",
-    "ai_reason": "A refined example of contemporary Iranian auteur cinema, focusing on intimate human connection and social realism.",
-    "mathyas-pick": true
   },
   {
     "title": "QUASI VERA",
@@ -277,6 +219,63 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mDaLeE82vmuUCwzGl8CcAMsiFDK.jpg",
     "genres": "Commedia",
     "director": "Fausto Brizzi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+    "cast": "Brad Pitt, J.K. Simmons, Anna Lambe",
+    "details": "Un'avventura dura e disperata. David Ayer ritrova il lato più umano del suo cinema. Azione, Avventura, Drammatico - USA 2026. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:15",
+          "15:40",
+          "19:10",
+          "21:35"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:30",
+          "17:20",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BEAST",
+    "cast": "Russell Crowe, Mojean Aria, Daniel MacPherson, Nathan Phillips",
+    "details": "Un mélo australiano di lotta e di redenzione, che sa di Rocky in versione MMA. Azione, Drammatico, Sportivo - USA, Australia 2026. Durata 114 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
     "mathyas-pick": false
   },
   {
@@ -338,7 +337,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A prestige production from Academy Award-winner Alejandro G. Iñárritu, bringing together an elite cast for a high-stakes dramatic narrative.",
+    "ai_reason": "Alejandro G. Iñárritu, a master of the human condition, returns with a prestige cast in a narrative that blends ecological urgency with auteur intensity.",
     "mathyas-pick": true
   },
   {
@@ -375,8 +374,7 @@
           "11:15",
           "14:05",
           "16:25",
-          "22:50",
-          "00:40"
+          "22:50"
         ]
       }
     ],
@@ -385,11 +383,11 @@
     "original_title": "Resident Evil",
     "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
     "release_date": "2026-09-16",
-    "vote_average": 7.303,
+    "vote_average": 7.305,
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Helmed by emerging auteur Zach Cregger, this suggests a subversive, high-concept approach to psychological horror.",
+    "ai_reason": "Directed by Zach Cregger, the mind behind the viral hit 'Barbarian', this is a high-anticipation subversion of horror tropes by a rising genre auteur.",
     "mathyas-pick": true
   },
   {
@@ -434,11 +432,11 @@
     "original_title": "Cars",
     "overview": "Lightning McQueen, un determinato novellino di grande talento, scopre che la vita è il viaggio, non il traguardo, quando si ritrova inaspettatamente deviato nella sonnolenta cittadina di Radiator Springs sulla Route 66. Durante il viaggio attraverso il paese verso la gara del Piston Cup in California per competere contro due professionisti esperti, McQueen imparerà che c'è ben altro oltre il semplice traguardo.",
     "release_date": "2006-06-08",
-    "vote_average": 7.057,
+    "vote_average": 7.058,
     "poster_url": "https://image.tmdb.org/t/p/w500/wpImvqmdrvJsa3edcUUnr4RCkNU.jpg",
     "genres": "Animazione, Avventura, Commedia, Famiglia",
     "director": "John Lasseter",
-    "ai_reason": "A theatrical re-release of a Pixar classic, representing a milestone in the history of prestige digital animation.",
+    "ai_reason": "A cornerstone of the Pixar canon and a classic of modern animation, this original work remains essential viewing for its artistic merit and storytelling.",
     "mathyas-pick": true
   },
   {
@@ -462,7 +460,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3zdr031LjTG71QyeC7mWdyU19bE.jpg",
     "genres": "Romance, Commedia, Dramma",
     "director": "Kristoffer Borgli",
-    "ai_reason": "Directed by Kristoffer Borgli, this production embodies the modern indie spirit with a sophisticated, psychological exploration of relationships.",
+    "ai_reason": "Following the success of 'Dream Scenario', Kristoffer Borgli cements his status as a key voice in elevated indie cinema with this A24-style psychological drama.",
     "mathyas-pick": true
   },
   {
@@ -497,7 +495,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A significant work by Gianni Amelio, a true master of Italian cinema, offering a deep and sensitive exploration of human fragility.",
+    "ai_reason": "Gianni Amelio, one of Italy's most revered living auteurs, explores the profound complexities of guilt and redemption with his signature sensitivity.",
     "mathyas-pick": true
   },
   {
@@ -535,8 +533,7 @@
           "17:10",
           "18:45",
           "20:00",
-          "21:50",
-          "00:00"
+          "21:50"
         ]
       },
       {
@@ -551,7 +548,7 @@
     "original_title": "Verity",
     "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
     "release_date": "2026-09-30",
-    "vote_average": 6.68,
+    "vote_average": 6.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
@@ -585,7 +582,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "mathyas-pick": false
+    "ai_reason": "A chilling Italian psychological thriller that avoids mainstream tropes to examine the disturbing undercurrents of urban violence and fractured youth.",
+    "mathyas-pick": true
   },
   {
     "title": "I FIGLI DELLA SCIMMIA",
@@ -688,7 +686,7 @@
         "name": "The Space Casamassima",
         "times": [
           "22:35",
-          "00:20"
+          "21:00"
         ]
       },
       {
@@ -707,7 +705,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "Nicolas Winding Refn brings his signature neon-noir aesthetic and surrealist sensibilities to this elevated genre piece.",
+    "ai_reason": "The neon-noir provocateur Nicolas Winding Refn delivers a surrealist, high-concept horror that challenges the boundaries of genre and aesthetic.",
     "mathyas-pick": true
   }
 ]
