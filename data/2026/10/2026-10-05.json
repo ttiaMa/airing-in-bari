@@ -26,7 +26,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "A beautifully crafted piece of prestige animation that weaves folklore into a rich, artistic coming-of-age tapestry.",
+    "ai_reason": "A work of prestige animation that utilizes Filipino folklore to explore complex themes of identity and the weight of memory.",
     "mathyas-pick": true
   },
   {
@@ -117,31 +117,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/liLUacZTs3J5UXt1OlBNuvGOZ5T.jpg",
     "genres": "Crime, Thriller, Dramma",
     "director": "Orson Welles",
-    "ai_reason": "A towering masterpiece of film noir by Orson Welles; an essential theatrical re-release for any serious cinephile.",
+    "ai_reason": "An essential re-release of Orson Welles' noir masterpiece, featuring one of the most celebrated opening sequence shots in cinema history.",
     "mathyas-pick": true
-  },
-  {
-    "title": "BEAST",
-    "cast": "Russell Crowe, Mojean Aria, Daniel MacPherson, Nathan Phillips",
-    "details": "Un mélo australiano di lotta e di redenzione, che sa di Rocky in versione MMA. Azione, Drammatico, Sportivo - USA, Australia 2026. Durata 114 Minuti.",
-    "cinemas": [
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "21:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1263337,
-    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
-    "original_title": "Heart of the Beast",
-    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-    "release_date": "2026-09-19",
-    "vote_average": 7.548,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "genres": "Avventura, Thriller",
-    "director": "David Ayer",
-    "mathyas-pick": false
   },
   {
     "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
@@ -168,7 +145,30 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.547,
+    "vote_average": 7.548,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
+    "mathyas-pick": false
+  },
+  {
+    "title": "BEAST",
+    "cast": "Russell Crowe, Mojean Aria, Daniel MacPherson, Nathan Phillips",
+    "details": "Un mélo australiano di lotta e di redenzione, che sa di Rocky in versione MMA. Azione, Drammatico, Sportivo - USA, Australia 2026. Durata 114 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 7.548,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -202,11 +202,11 @@
     "original_title": "Digger",
     "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
     "release_date": "2026-09-28",
-    "vote_average": 7.486,
+    "vote_average": 7.497,
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A major cinematic event from multi-Oscar winner Alejandro G. Iñárritu, pairing high-concept drama with an elite international cast.",
+    "ai_reason": "A major cinematic event from multi-Oscar winner Alejandro G. Iñárritu, bringing his uncompromising auteur vision to a high-stakes narrative.",
     "mathyas-pick": true
   },
   {
@@ -227,11 +227,11 @@
     "original_title": "Resident Evil",
     "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
     "release_date": "2026-09-16",
-    "vote_average": 7.295,
+    "vote_average": 7.304,
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger (Barbarian), this reimagining promises the same subversive, elevated genre-bending that defines modern indie horror.",
+    "ai_reason": "Following the viral success of 'Barbarian', Zach Cregger is a key emerging auteur in the modern indie horror landscape.",
     "mathyas-pick": true
   },
   {
@@ -279,8 +279,39 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
     "genres": "Avventura, Dramma, Azione",
     "director": "Michael Sarnoski",
-    "ai_reason": "Michael Sarnoski brings his unique, meditative lens to a deconstructed myth, subverting expectations with a grit-soaked revisionist drama.",
+    "ai_reason": "Michael Sarnoski, who stunned critics with 'Pig', offers a gritty, revisionist take on folk legend, prioritizing psychological depth over spectacle.",
     "mathyas-pick": true
+  },
+  {
+    "title": "VERITY",
+    "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Ismael Cruz Cordova",
+    "details": "Un noir femminile troppo incoerente, dove è impossibile parteggiare per i protagonisti. Drammatico, USA 2026. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:10",
+          "19:45",
+          "21:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1283515,
+    "tmdb_title": "Verity",
+    "original_title": "Verity",
+    "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
+    "release_date": "2026-09-30",
+    "vote_average": 6.682,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
+    "genres": "Mistero, Thriller",
+    "director": "Michael Showalter",
+    "mathyas-pick": false
   },
   {
     "title": "LA CITTÀ DEI VIVI",
@@ -310,38 +341,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "mathyas-pick": false
-  },
-  {
-    "title": "VERITY",
-    "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Ismael Cruz Cordova",
-    "details": "Un noir femminile troppo incoerente, dove è impossibile parteggiare per i protagonisti. Drammatico, USA 2026. Durata 104 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "18:10",
-          "19:45",
-          "21:50"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "18:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1283515,
-    "tmdb_title": "Verity",
-    "original_title": "Verity",
-    "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
-    "release_date": "2026-09-30",
-    "vote_average": 6.649,
-    "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
-    "genres": "Mistero, Thriller",
-    "director": "Michael Showalter",
-    "mathyas-pick": false
+    "ai_reason": "A sharp, psychological Italian thriller from Edoardo Gabbriellini that avoids commercial tropes to focus on the fracture of youth and violence.",
+    "mathyas-pick": true
   },
   {
     "title": "NESSUN DOLORE",
@@ -373,7 +374,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "Master filmmaker Gianni Amelio delivers a poignant character study, cementing his status as a titan of contemporary Italian auteur cinema.",
+    "ai_reason": "A new work by Gianni Amelio, a titan of Italian cinema, offering a profound and devastating exploration of guilt and redemption.",
     "mathyas-pick": true
   },
   {
@@ -397,7 +398,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
     "genres": "Dramma",
     "director": "Tommaso Landucci",
-    "mathyas-pick": false
+    "ai_reason": "An unsettling and intimate Italian drama exploring the dark nuances of family dynamics through an auteurist lens.",
+    "mathyas-pick": true
   },
   {
     "title": "QUASI VERA",
@@ -430,29 +432,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "MAIGRET, L'AMORE E LA MORTE",
-    "cast": "Denis Podalydès, Anne Alvaro, Manuel Guillot, Irène Jacob",
-    "details": "Un polar tratto da Maigret, nel segno della tradizione. Ottima prova di Denis Podalydés. Drammatico, Francia, Belgio 2026. Durata 80 Minuti.",
-    "cinemas": [
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "17:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1398486,
-    "tmdb_title": "Maigret - L'amore e la morte",
-    "original_title": "Maigret et le mort amoureux",
-    "overview": "Il commissario Maigret viene convocato d’urgenza al Quai d’Orsay (Ministero degli Affari Esteri) in seguito all’omicidio di Monsieur Berthier-Lagès, un celebre ex ambasciatore. Scopre ben presto che Berthier-Lagès aveva intrattenuto per cinquant’anni una corrispondenza amorosa con la principessa de Vuynes, il cui marito, in uno strano scherzo del destino, è appena morto.",
-    "release_date": "2026-02-18",
-    "vote_average": 5.967,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
-    "genres": "Mistero, Dramma, Crime",
-    "director": "Pascal Bonitzer",
-    "mathyas-pick": false
-  },
-  {
     "title": "ONSLAUGHT - ASSALTO FINALE",
     "cast": "Adria Arjona, Dan Stevens, Eric Wareheim, Reginald Vel Johnson",
     "details": "Un omaggio viscerale e volutamente sopra le righe al B movie. Azione, Horror, Thriller - USA 2026. Durata 92 Minuti.",
@@ -469,7 +448,7 @@
     "original_title": "Onslaught",
     "overview": "Quando una squadra di supersoldati geneticamente modificati fuori controllo evade da una base governativa segreta e si scatena nel deserto del New Mexico, un’ex cecchina dell’esercito dovrà tornare a essere la temibile combattente di un tempo per proteggere sua figlia e sopravvivere al loro infernale assalto.",
     "release_date": "2026-09-02",
-    "vote_average": 5.8,
+    "vote_average": 5.844,
     "poster_url": "https://image.tmdb.org/t/p/w500/ifrboaovWTOPA2KOenwQ0VyHqbo.jpg",
     "genres": "Azione, Thriller, Horror",
     "director": "Adam Wingard",
@@ -483,14 +462,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "22:35",
-          "21:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "22:00"
+          "22:35"
         ]
       }
     ],
@@ -499,11 +471,11 @@
     "original_title": "Her Private Hell",
     "overview": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
     "release_date": "2026-07-23",
-    "vote_average": 5.435,
+    "vote_average": 5.43,
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "Nicolas Winding Refn returns to his signature neon-soaked surrealism, offering a divisive but visually arresting arthouse nightmare.",
+    "ai_reason": "Nicolas Winding Refn continues his exploration of neon-soaked surrealism and elevated horror in this atmospheric genre-deconstruction.",
     "mathyas-pick": true
   },
   {
@@ -527,7 +499,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/a2hxeonmr6A5SGD6qwIr18I9mGZ.jpg",
     "genres": "Dramma, Romance",
     "director": "Andrea Pallaoro",
-    "ai_reason": "Andrea Pallaoro continues his exploration of intimacy and alienation with this refined, atmospheric work of Italian-international arthouse.",
+    "ai_reason": "Andrea Pallaoro's rigorous arthouse aesthetic and focus on psychological intimacy make this a must-watch for fans of elevated drama.",
     "mathyas-pick": true
   }
 ]
