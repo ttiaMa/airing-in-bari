@@ -27,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "A work of prestige animation that blends cultural folklore with a complex, melancholic narrative on memory, far removed from standard commercial fare.",
+    "ai_reason": "A work of prestige animation that utilizes Filipino mythology to explore complex emotional themes of memory and the cost of identity.",
     "mathyas-pick": true
   },
   {
@@ -115,7 +115,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "Ali Asgari is a vital voice in contemporary Iranian cinema; this minimalist drama is a masterclass in empathy and international arthouse storytelling.",
+    "ai_reason": "A masterclass in Iranian social realism from Ali Asgari, offering a poignant and deeply humanistic exploration of family dynamics and reconciliation.",
     "mathyas-pick": true
   },
   {
@@ -139,41 +139,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/liLUacZTs3J5UXt1OlBNuvGOZ5T.jpg",
     "genres": "Crime, Thriller, Dramma",
     "director": "Orson Welles",
-    "ai_reason": "An essential re-release of Orson Welles' film noir masterpiece, showcasing his legendary technical prowess and directorial vision.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "DIGGER",
-    "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller",
-    "details": "Una satira sull'apocalisse ambientale e un chiaro tentativo di far vincere l'Oscar a Tom Cruise. Drammatico, Commedia - USA, Gran Bretagna, Messico 2026. Durata 129 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:40",
-          "18:50",
-          "21:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:20",
-          "19:20",
-          "21:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1248832,
-    "tmdb_title": "Digger",
-    "original_title": "Digger",
-    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
-    "release_date": "2026-09-28",
-    "vote_average": 7.547,
-    "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "genres": "Commedia, Dramma",
-    "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A major cinematic event from Alejandro G. Iñárritu, featuring a powerhouse cast and the ambitious narrative scale expected of a multi-Oscar winning auteur.",
+    "ai_reason": "A vital theatrical re-release of Orson Welles' noir masterpiece; an essential study in visual composition and the corruption of power.",
     "mathyas-pick": true
   },
   {
@@ -202,7 +168,7 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.5,
+    "vote_average": 7.504,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -225,11 +191,45 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.5,
+    "vote_average": 7.504,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
     "mathyas-pick": false
+  },
+  {
+    "title": "DIGGER",
+    "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller",
+    "details": "Una satira sull'apocalisse ambientale e un chiaro tentativo di far vincere l'Oscar a Tom Cruise. Drammatico, Commedia - USA, Gran Bretagna, Messico 2026. Durata 129 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "18:50",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:20",
+          "19:20",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1248832,
+    "tmdb_title": "Digger",
+    "original_title": "Digger",
+    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
+    "release_date": "2026-09-28",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Alejandro G. Iñárritu",
+    "ai_reason": "A monumental cinematic event directed by Alejandro G. Iñárritu, promising the complex, high-concept auteurism typical of his decorated career.",
+    "mathyas-pick": true
   },
   {
     "title": "RESIDENT EVIL",
@@ -253,7 +253,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Helmed by Zach Cregger—the visionary behind the viral hit 'Barbarian'—this reimagining elevates genre tropes into the realm of sophisticated, auteur-driven horror.",
+    "ai_reason": "Emerging horror visionary Zach Cregger applies his subversive, elevated style to this reimagined survival narrative, elevating it beyond standard genre tropes.",
     "mathyas-pick": true
   },
   {
@@ -308,7 +308,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "ai_reason": "Edoardo Gabbriellini avoids generic thriller beats to deliver a raw, intellectually stimulating look at the darkness beneath the surface of Italian youth.",
+    "ai_reason": "Based on the high-brow literary sensation by Nicola Lagioia, Gabbriellini delivers a chilling psychological investigation into the darkest corners of the Roman youth.",
     "mathyas-pick": true
   },
   {
@@ -342,7 +342,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A prestigious entry from Gianni Amelio, a titan of Italian cinema, offering a profound and rigorous exploration of guilt and human fragility.",
+    "ai_reason": "A significant work by Gianni Amelio, a true maestro of Italian cinema, offering a profound and intimate meditation on human guilt.",
     "mathyas-pick": true
   },
   {
@@ -399,8 +399,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
     "genres": "Dramma",
     "director": "Tommaso Landucci",
-    "ai_reason": "An unsettling and deeply psychological Italian drama that explores the taboos of paternity and family dynamics with an arthouse sensibility.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -456,29 +455,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "UNA STORIA",
-    "cast": "Guido Caprino, Alba Rohrwacher, Caterina Casini, Elio De Capitani",
-    "details": "Un esordio sensibile su una piccola storia domestica. Dove incontriamo un'infelicità senza nome molto familiare. Drammatico, Italia 2026. Durata 107 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "19:15"
-        ]
-      }
-    ],
-    "tmdb_id": 1597196,
-    "tmdb_title": "Una storia",
-    "original_title": "Una storia",
-    "overview": "Erika e Mauro vivono in provincia, dentro una quotidianità semplice fatta di abitudini rassicuranti e piccoli gesti. Quando la figlia Irene parte per studiare lontano, la casa si svuota e l’equilibrio su cui la coppia ha costruito la propria esistenza sembra incrinarsi. Erika, che ha sempre abitato il mondo attraverso la cura degli altri, si scopre improvvisamente senza direzione. Mauro, cresciuto nel rigore emotivo di un padre autoritario, tenta a suo modo di reagire riempiendo il vuoto, ma finisce per confrontarsi con una fragilità mai confessata. Nel tempo sospeso che segue riaffiorano ferite lontane e desideri dimenticati. Sarà proprio questa crisi intima e profonda a spingerli a guardarsi davvero e a capire se e come possono trasformare se stessi e di conseguenza il loro amore.",
-    "release_date": "2026-09-07",
-    "vote_average": 6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/kZzFOWsc3LbCGRLdsFofbMM7dly.jpg",
-    "genres": "Dramma",
-    "director": "Anna Foglietta",
-    "mathyas-pick": false
-  },
-  {
     "title": "MAIGRET, L'AMORE E LA MORTE",
     "cast": "Denis Podalydès, Anne Alvaro, Manuel Guillot, Irène Jacob",
     "details": "Un polar tratto da Maigret, nel segno della tradizione. Ottima prova di Denis Podalydés. Drammatico, Francia, Belgio 2026. Durata 80 Minuti.",
@@ -499,6 +475,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
     "genres": "Mistero, Dramma, Crime",
     "director": "Pascal Bonitzer",
+    "ai_reason": "A sophisticated French procedural from Pascal Bonitzer that prioritizes psychological depth and literary nuance over typical crime conventions.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "UNA STORIA",
+    "cast": "Guido Caprino, Alba Rohrwacher, Caterina Casini, Elio De Capitani",
+    "details": "Un esordio sensibile su una piccola storia domestica. Dove incontriamo un'infelicità senza nome molto familiare. Drammatico, Italia 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1597196,
+    "tmdb_title": "Una storia",
+    "original_title": "Una storia",
+    "overview": "Erika e Mauro vivono in provincia, dentro una quotidianità semplice fatta di abitudini rassicuranti e piccoli gesti. Quando la figlia Irene parte per studiare lontano, la casa si svuota e l’equilibrio su cui la coppia ha costruito la propria esistenza sembra incrinarsi. Erika, che ha sempre abitato il mondo attraverso la cura degli altri, si scopre improvvisamente senza direzione. Mauro, cresciuto nel rigore emotivo di un padre autoritario, tenta a suo modo di reagire riempiendo il vuoto, ma finisce per confrontarsi con una fragilità mai confessata. Nel tempo sospeso che segue riaffiorano ferite lontane e desideri dimenticati. Sarà proprio questa crisi intima e profonda a spingerli a guardarsi davvero e a capire se e come possono trasformare se stessi e di conseguenza il loro amore.",
+    "release_date": "2026-09-07",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kZzFOWsc3LbCGRLdsFofbMM7dly.jpg",
+    "genres": "Dramma",
+    "director": "Anna Foglietta",
     "mathyas-pick": false
   },
   {
@@ -552,7 +552,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "A hyper-stylized, surrealist odyssey from Nicolas Winding Refn, a definitive auteur of modern elevated horror and neon-soaked arthouse cinema.",
+    "ai_reason": "A signature piece of surrealist, neon-soaked genre-bending from auteur Nicolas Winding Refn, perfect for lovers of stylized psychological horror.",
     "mathyas-pick": true
   }
 ]
