@@ -1,59 +1,26 @@
 [
   {
-    "title": "AVENGERS: ENDGAME",
-    "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
-    "details": "Un film che chiude un cerchio, celebra i suoi protagonisti e regala uno spettacolo impressionante. Azione, Fantastico - USA 2019. Durata 182 Minuti. Consigli per la visione: Ragazzi +13",
+    "title": "PAW PATROL - MISSIONE DINOSAURI",
+    "cast": "",
+    "details": "Un film di svago movimentato, con gag innocue e un messaggio semplice. Animazione, USA 2026. Durata 88 Minuti.",
     "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "17:25",
-          "20:40",
-          "21:20"
-        ]
-      },
       {
         "name": "Uci Cinemas Showville",
         "times": [
-          "17:40",
-          "20:40"
+          "17:30"
         ]
       }
     ],
-    "tmdb_id": 299534,
-    "tmdb_title": "Avengers: Endgame",
-    "original_title": "Avengers: Endgame",
-    "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
-    "release_date": "2019-04-24",
-    "vote_average": 8.246,
-    "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-    "genres": "Avventura, Fantascienza, Azione",
-    "director": "Anthony Russo, Joe Russo",
+    "tmdb_id": 1185806,
+    "tmdb_title": "PAW Patrol - Missione Dinosauri",
+    "original_title": "PAW Patrol: The Dino Movie",
+    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
+    "release_date": "2026-07-23",
+    "vote_average": 8.225,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
+    "director": "Cal Brunker",
     "mathyas-pick": false
-  },
-  {
-    "title": "QUEEN BUDAPEST",
-    "cast": "Queen, John Deacon, Brian May, Freddie Mercury",
-    "details": "Riedizione restaurata nell'immagine e nel suono dell'ultimo concerto filmato con Freddie Mercury: un primato tecnologico. Documentario, Musicale - Ungheria, Canada, USA 1986. Durata 92 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "20:00"
-        ]
-      }
-    ],
-    "tmdb_id": 142773,
-    "tmdb_title": "Hungarian Rhapsody: Queen Live in Budapest '86",
-    "original_title": "Queen: Budapest",
-    "overview": "Hungarian Rhapsody: Queen Live in Budapest '86 (Varázslat - Queen Budapesten) è un film del 1987 diretto da János Zsombolyai. È un documentario musicale ed è la registrazione contenente parte del concerto dei Queen svoltosi durante il Magic Tour, al Népstadion di Budapest il 27 luglio 1986",
-    "release_date": "2012-09-20",
-    "vote_average": 8.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-    "genres": "Musica, Documentario",
-    "director": "Zsombolyai János",
-    "ai_reason": "A pristine theatrical re-release of one of the most iconic concert films in history; an essential moment of music cinema restoration.",
-    "mathyas-pick": true
   },
   {
     "title": "L'ISOLA DEI RICORDI",
@@ -83,29 +50,63 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "mathyas-pick": false
+    "ai_reason": "Prestige animation with high artistic value, blending folklore and emotional depth from a director known for elevating the medium.",
+    "mathyas-pick": true
   },
   {
-    "title": "PAW PATROL - MISSIONE DINOSAURI",
-    "cast": "",
-    "details": "Un film di svago movimentato, con gag innocue e un messaggio semplice. Animazione, USA 2026. Durata 88 Minuti.",
+    "title": "QUEEN BUDAPEST",
+    "cast": "Queen, John Deacon, Brian May, Freddie Mercury",
+    "details": "Riedizione restaurata nell'immagine e nel suono dell'ultimo concerto filmato con Freddie Mercury: un primato tecnologico. Documentario, Musicale - Ungheria, Canada, USA 1986. Durata 92 Minuti.",
     "cinemas": [
       {
-        "name": "Uci Cinemas Showville",
+        "name": "The Space Casamassima",
         "times": [
-          "17:30"
+          "20:00"
         ]
       }
     ],
-    "tmdb_id": 1185806,
-    "tmdb_title": "PAW Patrol - Missione Dinosauri",
-    "original_title": "PAW Patrol: The Dino Movie",
-    "overview": "Dopo essere stati travolti da una misteriosa tempesta, i cuccioli della PAW Patrol si ritrovano catapultati su un’isola tropicale inesplorata, un luogo fuori dal tempo dove i dinosauri dominano incontrastati. Qui incontrano Rex, un cucciolo rimasto isolato per anni, che ha trasformato la sopravvivenza in una missione, diventando il massimo esperto di quel mondo primordiale. Ma la tregua dura poco. Il loro storico rivale, il sindaco Humdinger, arriva sull’isola deciso a sfruttarne le risorse naturali senza alcun riguardo. Le sue azioni scatenano però una catastrofe: il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge, creature preistoriche e pericoli inarrestabili, la PAW Patrol si trova ad affrontare la sfida più grande di sempre. Una corsa contro il tempo, tra spettacolari missioni di salvataggio “formato dinosauro”, per fermare Humdinger e salvare l’isola prima che venga cancellata per sempre.",
-    "release_date": "2026-07-23",
+    "tmdb_id": 142773,
+    "tmdb_title": "Hungarian Rhapsody: Queen Live in Budapest '86",
+    "original_title": "Queen: Budapest",
+    "overview": "Hungarian Rhapsody: Queen Live in Budapest '86 (Varázslat - Queen Budapesten) è un film del 1987 diretto da János Zsombolyai. È un documentario musicale ed è la registrazione contenente parte del concerto dei Queen svoltosi durante il Magic Tour, al Népstadion di Budapest il 27 luglio 1986",
+    "release_date": "2012-09-20",
     "vote_average": 8.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
-    "genres": "Animazione, Avventura, Famiglia, Fantasy, Commedia",
-    "director": "Cal Brunker",
+    "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+    "genres": "Musica, Documentario",
+    "director": "Zsombolyai János",
+    "ai_reason": "A cult classic re-release of a legendary musical event, capturing a pivotal moment in cinema and music history.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "AVENGERS: ENDGAME",
+    "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "details": "Un film che chiude un cerchio, celebra i suoi protagonisti e regala uno spettacolo impressionante. Azione, Fantastico - USA 2019. Durata 182 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:25",
+          "20:40",
+          "21:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:40",
+          "20:40"
+        ]
+      }
+    ],
+    "tmdb_id": 299534,
+    "tmdb_title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
+    "release_date": "2019-04-24",
+    "vote_average": 8.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+    "genres": "Avventura, Fantascienza, Azione",
+    "director": "Anthony Russo, Joe Russo",
     "mathyas-pick": false
   },
   {
@@ -162,7 +163,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "A vital piece of international arthouse cinema from festival regular Ali Asgari, offering a poignant and meditative look at human resilience.",
+    "ai_reason": "A profound work from Iranian auteur Ali Asgari, representing the best of international festival cinema.",
     "mathyas-pick": true
   },
   {
@@ -196,7 +197,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A major cinematic event from four-time Oscar winner Alejandro G. Iñárritu, featuring a prestige cast in a high-stakes narrative.",
+    "ai_reason": "A major cinematic event from Alejandro G. Iñárritu, featuring a powerhouse cast in a high-stakes narrative from a decorated auteur.",
     "mathyas-pick": true
   },
   {
@@ -271,11 +272,11 @@
     "original_title": "Resident Evil",
     "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
     "release_date": "2026-09-16",
-    "vote_average": 7.3,
+    "vote_average": 7.316,
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Helmed by Zach Cregger (director of the viral hit 'Barbarian'), this promises an elevated and visceral auteur-driven reimagining of survival horror.",
+    "ai_reason": "Directed by emerging auteur Zach Cregger, this project promises an elevated, psychological approach to genre storytelling.",
     "mathyas-pick": true
   },
   {
@@ -330,7 +331,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "ai_reason": "A dark and sophisticated Italian psychological thriller that examines the fragility of urban life and the nature of senseless violence.",
+    "ai_reason": "A sophisticated psychological thriller from Edoardo Gabbriellini that explores deep, unsettling themes within the Italian auteur tradition.",
     "mathyas-pick": true
   },
   {
@@ -363,7 +364,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A rigorous and intimate work from Gianni Amelio, a true maestro of Italian cinema, exploring guilt and redemption through a psychological lens.",
+    "ai_reason": "Gianni Amelio is a titan of Italian cinema; this film represents the pinnacle of contemporary Italian auteur filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -387,7 +388,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
     "genres": "Dramma",
     "director": "Tommaso Landucci",
-    "mathyas-pick": false
+    "ai_reason": "An unsettling, high-brow exploration of family dynamics and psychological obsession from a respected Italian voice.",
+    "mathyas-pick": true
   },
   {
     "title": "VERITY",
@@ -466,7 +468,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
     "genres": "Mistero, Dramma, Crime",
     "director": "Pascal Bonitzer",
-    "ai_reason": "French auteur Pascal Bonitzer brings literary elegance and a refined detective aesthetic to this sophisticated investigation into the past.",
+    "ai_reason": "A sophisticated, atmospheric mystery from Pascal Bonitzer, rooted in the rich traditions of European arthouse cinema.",
     "mathyas-pick": true
   },
   {
@@ -486,7 +488,7 @@
     "original_title": "Onslaught",
     "overview": "Quando una squadra di supersoldati geneticamente modificati fuori controllo evade da una base governativa segreta e si scatena nel deserto del New Mexico, un’ex cecchina dell’esercito dovrà tornare a essere la temibile combattente di un tempo per proteggere sua figlia e sopravvivere al loro infernale assalto.",
     "release_date": "2026-09-02",
-    "vote_average": 5.94,
+    "vote_average": 5.9,
     "poster_url": "https://image.tmdb.org/t/p/w500/ifrboaovWTOPA2KOenwQ0VyHqbo.jpg",
     "genres": "Azione, Horror, Thriller",
     "director": "Adam Wingard",
@@ -520,7 +522,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "The return of provocateur Nicolas Winding Refn; expect neon-soaked surrealism and high-concept genre subversion in this arthouse thriller.",
+    "ai_reason": "Nicolas Winding Refn brings his signature neon-drenched, surrealist vision to this elevated sci-fi horror odyssey.",
     "mathyas-pick": true
   },
   {
