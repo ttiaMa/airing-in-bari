@@ -1,13 +1,56 @@
 [
   {
-    "title": "THE SOCIAL - IL PREZZO DELLA VERITÀ",
-    "cast": "Jeremy Allen White, Mikey Madison, Jeremy Strong, Bill Burr",
-    "details": "Drammatico, USA 2026.",
+    "title": "MAMMINA",
+    "cast": "Jessica Chastain, Jay Duplass, Karen Allen, Dichen Lachman",
+    "details": "Un'altra mamma molto inquietante. Horror, USA 2026. Durata 93 Minuti.",
     "cinemas": [
       {
-        "name": "Il Piccolo",
+        "name": "The Space Casamassima",
         "times": [
-          "20:30"
+          "16:00",
+          "20:00",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:20",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1400837,
+    "tmdb_title": "Mammina",
+    "original_title": "Other Mommy",
+    "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
+    "release_date": "2026-10-07",
+    "vote_average": 9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "genres": "Horror, Thriller",
+    "director": "Rob Savage",
+    "ai_reason": "Elevated horror at its most visceral, featuring Jessica Chastain in a psychologically taxing role directed by emerging genre auteur Rob Savage.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "THE SOCIAL - IL PREZZO DELLA VERITÀ",
+    "cast": "Jeremy Allen White, Mikey Madison, Jeremy Strong, Bill Burr",
+    "details": "Drammatico, USA 2026. Durata 114 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:00",
+          "19:10",
+          "21:20"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "20:00",
+          "18:10"
         ]
       }
     ],
@@ -20,7 +63,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
     "genres": "Dramma, Thriller",
     "director": "Aaron Sorkin",
-    "ai_reason": "Aaron Sorkin returns to the world of tech-whistleblowing with a prestige ensemble, promising a sophisticated, sharp-witted drama in the vein of 'The Social Network'.",
+    "ai_reason": "A prestige production featuring a screenplay by Aaron Sorkin and a cast of contemporary indie darlings like Mikey Madison and Jeremy Allen White.",
     "mathyas-pick": true
   },
   {
@@ -43,7 +86,7 @@
     "vote_average": 8.246,
     "poster_url": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
     "genres": "Avventura, Fantascienza, Azione",
-    "director": "Anthony Russo, Joe Russo",
+    "director": "Joe Russo, Anthony Russo",
     "mathyas-pick": false
   },
   {
@@ -67,7 +110,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
     "genres": "Musica, Documentario",
     "director": "Zsombolyai János",
-    "ai_reason": "A high-quality theatrical re-release of a historical musical event, capturing the pinnacle of stadium rock in a classic documentary format.",
+    "ai_reason": "A legendary piece of musical cinema history, this restored 1986 concert film is a vital artifact for any serious cultural curator.",
     "mathyas-pick": true
   },
   {
@@ -123,8 +166,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "An example of prestige animation with high artistic merit, weaving Filipino mythology into a poignant and visually distinct coming-of-age journey.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "L'ESTRANEA",
@@ -137,7 +179,7 @@
           "17:15",
           "18:55",
           "21:55",
-          "00:05",
+          "20:30",
           "20:45"
         ]
       },
@@ -158,7 +200,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli continues to elevate Italian genre cinema with this psychologically dense thriller, featuring a sophisticated cast and atmospheric auteurist direction.",
+    "ai_reason": "Paolo Strippoli is at the forefront of the Italian genre renaissance; this psychological thriller promises atmospheric dread and thematic depth.",
     "mathyas-pick": true
   },
   {
@@ -182,7 +224,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "Ali Asgari represents the best of contemporary Iranian arthouse, offering a contemplative and deeply humanistic drama that has become a staple of major festivals.",
+    "ai_reason": "A masterclass in global auteur cinema, Ali Asgari delivers a poignant and minimalist Iranian drama that resonates with festival-circuit sophistication.",
     "mathyas-pick": true
   },
   {
@@ -214,7 +256,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A monumental cinematic event directed by Alejandro G. Iñárritu, bringing together a powerhouse cast for a high-concept exploration of environmental hubris.",
+    "ai_reason": "Alejandro G. Iñárritu is a titan of world cinema; this collaboration with Sandra Hüller and Tom Cruise represents a massive cinematic event with high artistic stakes.",
     "mathyas-pick": true
   },
   {
@@ -290,11 +332,11 @@
     "original_title": "Resident Evil",
     "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
     "release_date": "2026-09-16",
-    "vote_average": 7.315,
+    "vote_average": 7.317,
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger, the visionary behind 'Barbarian', this marks the vanguard of modern elevated genre cinema from an emerging horror auteur.",
+    "ai_reason": "Directed by Zach Cregger (the visionary behind 'Barbarian'), this is a subversion of genre tropes that fits the 'elevated horror' criteria perfectly.",
     "mathyas-pick": true
   },
   {
@@ -367,6 +409,35 @@
     "mathyas-pick": false
   },
   {
+    "title": "L'ALBERO DI MOLTO LONTANO",
+    "cast": "Andrew Garfield, Claire Foy, Rebecca Ferguson, Nonso Anozie",
+    "details": "Un film che celebra il senso della meraviglia infantile e il ritorno alla natura. Tra nostalgia, ironia e buffe creature fatate. Family, Avventura, Fantasy - Regno Unito, USA, Francia 2026. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:35"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1140521,
+    "tmdb_title": "L'albero di molto lontano",
+    "original_title": "The Magic Faraway Tree",
+    "overview": "Subito dopo l'arrivo della famiglia Thompson in campagna, i tre figli – Joe, Beth e Fran – scoprono un albero magico e i suoi residenti straordinari ed eccentrici, tra cui Moonface, Silky, Dame Washalot e Saucepan Man. In cima all'albero, vengono trasportati in terre spettacolari e fantastiche e, attraverso le gioie e le sfide delle loro avventure, i Thompson imparano a riconnettersi e valorizzarsi a vicenda per la prima volta dopo anni.",
+    "release_date": "2026-03-26",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/q8rVIdLn2PUIEoot8JOnmK65EGr.jpg",
+    "genres": "Avventura, Famiglia, Fantasy",
+    "director": "Ben Gregor",
+    "mathyas-pick": false
+  },
+  {
     "title": "LA CITTÀ DEI VIVI",
     "cast": "Emanuele Maria Di Stefano, Valerio Mastandrea, Gaia Merlonghi, Simona Senzacqua",
     "details": "Un film intimo e doloroso, che oppone all'assurdità del male l'ostinata normalità della vita. Drammatico, Italia 2026. Durata 104 Minuti.",
@@ -394,7 +465,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "ai_reason": "A prestige Italian production based on the Strega-prize winning literary sensation by Nicola Lagioia, exploring the psychological depths of real-world darkness.",
+    "ai_reason": "A sophisticated adaptation of Nicola Lagioia’s literary masterpiece, capturing the dark, psychological undercurrents of modern Rome through an auteur's lens.",
     "mathyas-pick": true
   },
   {
@@ -424,7 +495,7 @@
     "original_title": "Verity",
     "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
     "release_date": "2026-09-30",
-    "vote_average": 6.4,
+    "vote_average": 6.436,
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
@@ -447,7 +518,7 @@
     "original_title": "Ghost Rider",
     "overview": "Johnny Blaze ha fatto un patto con il diavolo. Letteralmente. Stuntman infallibile con la sua motocicletta, è costretto, per salvare il padre, a stringere un accordo faustiano con il maligno: in suo nome dovrà affrontare demoni e malvagi di ogni sorta, ma anche Lucifero può essere sconfitto e la maledizione messa a vantaggio dei deboli e degli innocenti...",
     "release_date": "2007-01-15",
-    "vote_average": 5.6,
+    "vote_average": 5.624,
     "poster_url": "https://image.tmdb.org/t/p/w500/9s2RG61wmVangExXXHbmvhzzIiw.jpg",
     "genres": "Thriller, Azione, Fantasy",
     "director": "Mark Steven Johnson",
