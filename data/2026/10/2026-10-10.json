@@ -44,7 +44,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
     "genres": "Musica, Documentario",
     "director": "Zsombolyai János",
-    "ai_reason": "A legendary piece of cinema history; this restored 1986 concert film is an essential event for music and film enthusiasts alike.",
+    "ai_reason": "A significant restoration of a landmark musical event, essential for collectors of cinema history and concert documentaries.",
     "mathyas-pick": true
   },
   {
@@ -69,7 +69,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "Prestige animation that prioritizes cultural heritage and complex emotional storytelling over commercial tropes.",
+    "ai_reason": "Prestige animation that moves beyond commercial tropes to explore cultural folklore with high artistic merit.",
     "mathyas-pick": true
   },
   {
@@ -123,7 +123,7 @@
     "original_title": "NAZA",
     "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
     "release_date": "2026-09-25",
-    "vote_average": 8.07,
+    "vote_average": 8.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "genres": "Documentario",
     "director": "Yuval Abraham, Rachel Szor",
@@ -150,7 +150,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "A minimalist masterpiece of contemporary Iranian cinema by Ali Asgari, a favorite of the international festival circuit.",
+    "ai_reason": "High-brow Iranian arthouse cinema by Ali Asgari, focusing on deep humanistic themes and existential reflection.",
     "mathyas-pick": true
   },
   {
@@ -170,11 +170,11 @@
     "original_title": "부산행",
     "overview": "Seok-wu è un manager finanziario separato dalla moglie: la piccola Su-an spesso si sente trascurata da lui e preferisce la compagnia della madre. Sul treno su cui viaggiano i due, per portare Su-an dalla madre che vive a Busan, sale una ragazza che riporta delle ferite strane sul corpo, simili al morso di un animale. Presto si trasformerà in zombi e sul treno per Busan si scatenerà l'inferno.",
     "release_date": "2016-07-20",
-    "vote_average": 7.751,
+    "vote_average": 7.8,
     "poster_url": "https://image.tmdb.org/t/p/w500/oekUlBFR85PejJK3z5jWyy3KyCG.jpg",
     "genres": "Azione, Horror, Thriller, Avventura",
     "director": "Yeon Sang-ho",
-    "ai_reason": "A modern classic of South Korean genre cinema, acclaimed for its emotional depth and technical mastery, transcending the zombie trope.",
+    "ai_reason": "A modern cult classic of global cinema that redefined the horror genre through its relentless pace and social subtext.",
     "mathyas-pick": true
   },
   {
@@ -206,7 +206,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
     "genres": "Dramma, Storia, Thriller",
     "director": "Aaron Sorkin",
-    "ai_reason": "Prestige drama at its finest, penned and directed by Aaron Sorkin, featuring a stellar ensemble in a sharp, rhythmic corporate thriller.",
+    "ai_reason": "Prestige screenwriting from Aaron Sorkin and a high-caliber cast make this a sophisticated, dialogue-driven cinematic event.",
     "mathyas-pick": true
   },
   {
@@ -237,7 +237,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A major cinematic event from multi-Oscar winner Alejandro G. Iñárritu, featuring a powerhouse cast and his signature high-concept narrative style.",
+    "ai_reason": "A major cinematic event from multi-Oscar winner Alejandro G. Iñárritu, blending top-tier talent with ambitious, auteur-driven storytelling.",
     "mathyas-pick": true
   },
   {
@@ -262,8 +262,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/zReOL1Nh4p0VPHbCbL618DwCpRD.jpg",
     "genres": "Dramma",
     "director": "Nicola Sorcinelli",
-    "ai_reason": "An intense, socially conscious drama by emerging Italian auteur Nicola Sorcinelli, featuring the acclaimed Matilda De Angelis.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
@@ -330,7 +329,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Elevated Italian genre cinema from Paolo Strippoli, blending atmospheric thriller elements with high psychological stakes.",
+    "ai_reason": "An elevated Italian psychological thriller led by arthouse icons Jasmine Trinca and Valeria Bruni Tedeschi.",
     "mathyas-pick": true
   },
   {
@@ -354,7 +353,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger (the mind behind 'Barbarian'), this promises an elevated, subversive take on genre horror by a rising indie auteur.",
+    "ai_reason": "An elevated genre piece from Zach Cregger, an emerging horror auteur known for subverting expectations with artistic precision.",
     "mathyas-pick": true
   },
   {
@@ -406,29 +405,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "SANTIAGO - UN CAMMINO PER RICOMINCIARE",
-    "cast": "Alexandra Lamy, Julien Le Berre, Maëlle Vidou, Eric Métayer",
-    "details": "Il racconto di un viaggio interiore. Da una prospettiva laica e con due ottimi attori. Drammatico, Commedia - Francia 2026. Durata 102 Minuti.",
-    "cinemas": [
-      {
-        "name": "Il Piccolo",
-        "times": [
-          "18:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1404604,
-    "tmdb_title": "Santiago - Un cammino per ricominciare",
-    "original_title": "Compostelle",
-    "overview": "Adam, un adolescente dalla vita turbolenta e Fred, una professoressa che sta attraversando un periodo difficile, non si conoscono. Eppure, grazie a un’associazione, intraprendono insieme il cammino di Santiago di Compostela. Lei ha bisogno di rimettere ordine nella sua vita, lui di placare la sua rabbia e il suo sentimento di abbandono. Chilometro dopo chilometro, lungo le incantevoli tappe del cammino, tra scontri, stanchezza e momenti felici, i due costruiscono a poco a poco un legame delicato. Di fronte alle difficoltà del cammino, entrambi impareranno che ogni passo può essere una rinascita e che, a volte, gli incontri più improbabili sono quelli che cambiano davvero la vita.",
-    "release_date": "2026-04-01",
-    "vote_average": 6.7,
-    "poster_url": "https://image.tmdb.org/t/p/w500/sKkVmciht8qqC0wmAfUdVCTaeMz.jpg",
-    "genres": "Dramma, Commedia",
-    "director": "Yann Samuell",
-    "mathyas-pick": false
-  },
-  {
     "title": "L'ALBERO DI MOLTO LONTANO",
     "cast": "Andrew Garfield, Claire Foy, Rebecca Ferguson, Nonso Anozie",
     "details": "Un film che celebra il senso della meraviglia infantile e il ritorno alla natura. Tra nostalgia, ironia e buffe creature fatate. Family, Avventura, Fantasy - Regno Unito, USA, Francia 2026. Durata 110 Minuti.",
@@ -452,10 +428,33 @@
     "original_title": "The Magic Faraway Tree",
     "overview": "Subito dopo l'arrivo della famiglia Thompson in campagna, i tre figli – Joe, Beth e Fran – scoprono un albero magico e i suoi residenti straordinari ed eccentrici, tra cui Moonface, Silky, Dame Washalot e Saucepan Man. In cima all'albero, vengono trasportati in terre spettacolari e fantastiche e, attraverso le gioie e le sfide delle loro avventure, i Thompson imparano a riconnettersi e valorizzarsi a vicenda per la prima volta dopo anni.",
     "release_date": "2026-03-26",
-    "vote_average": 6.657,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/q8rVIdLn2PUIEoot8JOnmK65EGr.jpg",
     "genres": "Avventura, Famiglia, Fantasy",
     "director": "Ben Gregor",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SANTIAGO - UN CAMMINO PER RICOMINCIARE",
+    "cast": "Alexandra Lamy, Julien Le Berre, Maëlle Vidou, Eric Métayer",
+    "details": "Il racconto di un viaggio interiore. Da una prospettiva laica e con due ottimi attori. Drammatico, Commedia - Francia 2026. Durata 102 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1404604,
+    "tmdb_title": "Santiago - Un cammino per ricominciare",
+    "original_title": "Compostelle",
+    "overview": "Adam, un adolescente dalla vita turbolenta e Fred, una professoressa che sta attraversando un periodo difficile, non si conoscono. Eppure, grazie a un’associazione, intraprendono insieme il cammino di Santiago di Compostela. Lei ha bisogno di rimettere ordine nella sua vita, lui di placare la sua rabbia e il suo sentimento di abbandono. Chilometro dopo chilometro, lungo le incantevoli tappe del cammino, tra scontri, stanchezza e momenti felici, i due costruiscono a poco a poco un legame delicato. Di fronte alle difficoltà del cammino, entrambi impareranno che ogni passo può essere una rinascita e che, a volte, gli incontri più improbabili sono quelli che cambiano davvero la vita.",
+    "release_date": "2026-04-01",
+    "vote_average": 6.7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sKkVmciht8qqC0wmAfUdVCTaeMz.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Yann Samuell",
     "mathyas-pick": false
   },
   {
@@ -479,7 +478,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A prestigious work of Italian auteur cinema by master Gianni Amelio, exploring profound themes of guilt and human connection.",
+    "ai_reason": "A masterwork from legendary Italian auteur Gianni Amelio, featuring a powerhouse performance by Alessandro Borghi.",
     "mathyas-pick": true
   },
   {
@@ -572,11 +571,11 @@
     "original_title": "Other Mommy",
     "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
     "release_date": "2026-10-07",
-    "vote_average": 6.364,
+    "vote_average": 6.211,
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "Modern indie horror by Rob Savage, an auteur focused on psychological dread and innovative tension-building.",
+    "ai_reason": "Psychological indie horror from emerging auteur Rob Savage that prioritizes atmosphere and deep thematic exploration over generic tropes.",
     "mathyas-pick": true
   },
   {
@@ -607,7 +606,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "ai_reason": "A sophisticated and dark psychological drama from Edoardo Gabbriellini, capturing the complexities of contemporary Italian urban life.",
+    "ai_reason": "A dark and elevated psychological drama that explores the fringes of Italian society, fitting the criteria for major auteur-driven works.",
     "mathyas-pick": true
   },
   {
@@ -627,7 +626,7 @@
     "original_title": "Ghost Rider",
     "overview": "Johnny Blaze ha fatto un patto con il diavolo. Letteralmente. Stuntman infallibile con la sua motocicletta, è costretto, per salvare il padre, a stringere un accordo faustiano con il maligno: in suo nome dovrà affrontare demoni e malvagi di ogni sorta, ma anche Lucifero può essere sconfitto e la maledizione messa a vantaggio dei deboli e degli innocenti...",
     "release_date": "2007-01-15",
-    "vote_average": 5.624,
+    "vote_average": 5.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/9s2RG61wmVangExXXHbmvhzzIiw.jpg",
     "genres": "Thriller, Azione, Fantasy",
     "director": "Mark Steven Johnson",
@@ -654,7 +653,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "The return of cult auteur Nicolas Winding Refn with a surrealist, neon-soaked odyssey that fits the definition of high-brow transgressive cinema.",
+    "ai_reason": "A neon-soaked, surrealist nightmare from the quintessential cinephile auteur Nicolas Winding Refn.",
     "mathyas-pick": true
   }
 ]
