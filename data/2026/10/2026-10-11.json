@@ -24,32 +24,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "L'ISOLA DEI RICORDI",
-    "cast": "Giulia Vecchio, Alessandro Tiberi, Dave Franco, Jenny Slate",
-    "details": "Sorprendente caleidoscopio di idee con un'animazione cangiante. Animazione, Avventura, Commedia - USA 2026. Durata 109 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:00",
-          "14:25",
-          "16:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1465063,
-    "tmdb_title": "L'isola dei ricordi",
-    "original_title": "Forgotten Island",
-    "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
-    "release_date": "2026-09-10",
-    "vote_average": 8.208,
-    "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
-    "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "Prestige animation that moves beyond commercial tropes to explore cultural mythology and the psychology of memory.",
-    "mathyas-pick": true
-  },
-  {
     "title": "QUEEN BUDAPEST",
     "cast": "Queen, John Deacon, Brian May, Freddie Mercury",
     "details": "Riedizione restaurata nell'immagine e nel suono dell'ultimo concerto filmato con Freddie Mercury: un primato tecnologico. Documentario, Musicale - Ungheria, Canada, USA 1986. Durata 92 Minuti.",
@@ -70,7 +44,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
     "genres": "Musica, Documentario",
     "director": "Zsombolyai János",
-    "ai_reason": "A high-value theatrical re-release of a historic 1986 concert film, serving as an essential event for music and cinema historians.",
+    "ai_reason": "A essential theatrical re-release of a legendary musical event, capturing cinema history and the cult aura of Freddie Mercury.",
     "mathyas-pick": true
   },
   {
@@ -119,6 +93,32 @@
     "genres": "Famiglia, Commedia, Avventura, Fantasy, Animazione",
     "director": "Michael Jelenic, Aaron Horvath",
     "mathyas-pick": false
+  },
+  {
+    "title": "L'ISOLA DEI RICORDI",
+    "cast": "Giulia Vecchio, Alessandro Tiberi, Dave Franco, Jenny Slate",
+    "details": "Sorprendente caleidoscopio di idee con un'animazione cangiante. Animazione, Avventura, Commedia - USA 2026. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:00",
+          "14:25",
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1465063,
+    "tmdb_title": "L'isola dei ricordi",
+    "original_title": "Forgotten Island",
+    "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
+    "release_date": "2026-09-10",
+    "vote_average": 8.09,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+    "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
+    "director": "Januel Mercado, Joel Crawford",
+    "ai_reason": "A sophisticated work of prestige animation that explores folklore and memory with high artistic merit and emotional depth.",
+    "mathyas-pick": true
   },
   {
     "title": "NAZA",
@@ -178,7 +178,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "A sophisticated piece of Iranian arthouse cinema by Ali Asgari, perfect for the high-brow cinephile seeking deep human drama.",
+    "ai_reason": "A poignant and minimalist study of existence by Ali Asgari, a significant and highly acclaimed voice in modern international arthouse cinema.",
     "mathyas-pick": true
   },
   {
@@ -214,7 +214,7 @@
         "name": "The Space Casamassima",
         "times": [
           "21:40",
-          "00:00"
+          "21:05"
         ]
       },
       {
@@ -234,7 +234,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A major cinematic event directed by Academy Award winner Alejandro G. Iñárritu, featuring a powerhouse cast including Sandra Hüller and Riz Ahmed.",
+    "ai_reason": "A massive cinematic event from Academy Award-winning auteur Alejandro G. Iñárritu, featuring a high-prestige ensemble cast led by Sandra Hüller and Tom Cruise.",
     "mathyas-pick": true
   },
   {
@@ -246,8 +246,7 @@
         "name": "The Space Casamassima",
         "times": [
           "16:40",
-          "20:15",
-          "00:15"
+          "20:15"
         ]
       },
       {
@@ -277,8 +276,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "22:50",
-          "00:30"
+          "22:50"
         ]
       }
     ],
@@ -291,7 +289,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger (Barbarian), this represents the modern trend of indie horror auteurs reimagining genre tropes with high artistic merit.",
+    "ai_reason": "Reimagined by emerging genre auteur Zach Cregger (Barbarian), this transcends its franchise roots to become a high-concept survivalist nightmare.",
     "mathyas-pick": true
   },
   {
@@ -324,7 +322,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
     "genres": "Dramma, Storia, Thriller",
     "director": "Aaron Sorkin",
-    "ai_reason": "Prestige drama from Aaron Sorkin; a high-stakes, dialogue-driven thriller that fits the 'major cinematic event' criteria.",
+    "ai_reason": "A high-prestige production by Aaron Sorkin, delivering the kind of intellectual, rapid-fire drama that defines modern event cinema.",
     "mathyas-pick": true
   },
   {
@@ -345,7 +343,7 @@
     "original_title": "The Invite",
     "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
     "release_date": "2026-06-25",
-    "vote_average": 7.204,
+    "vote_average": 7.203,
     "poster_url": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
     "genres": "Commedia, Dramma, Romance",
     "director": "Olivia Wilde",
@@ -433,7 +431,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A compelling Italian psychological drama featuring Jasmine Trinca and Valeria Bruni Tedeschi, focusing on deep-seated familial secrets.",
+    "ai_reason": "An emerging auteur of Italian genre cinema, Paolo Strippoli delivers an elevated thriller rich with psychological tension and atmospheric dread.",
     "mathyas-pick": true
   },
   {
@@ -513,7 +511,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A significant work from Gianni Amelio, one of Italy's most respected living auteurs, exploring profound themes of guilt and redemption.",
+    "ai_reason": "A masterwork by Gianni Amelio, one of Italy's greatest living auteurs, exploring profound themes of guilt and human connection.",
     "mathyas-pick": true
   },
   {
@@ -530,8 +528,7 @@
           "18:10",
           "19:30",
           "21:00",
-          "22:20",
-          "00:00"
+          "22:20"
         ]
       },
       {
@@ -547,11 +544,12 @@
     "original_title": "Verity",
     "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
     "release_date": "2026-09-30",
-    "vote_average": 6.42,
+    "vote_average": 6.408,
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
-    "mathyas-pick": false
+    "ai_reason": "A gripping psychological thriller that delves into the dark complexities of obsession and manipulation, anchored by top-tier performances.",
+    "mathyas-pick": true
   },
   {
     "title": "LA CITTÀ DEI VIVI",
@@ -581,7 +579,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "ai_reason": "An auteur-driven Italian thriller by Edoardo Gabbriellini that explores the dark undercurrents of urban youth and senseless violence.",
+    "ai_reason": "A sophisticated Italian psychological drama that eschews commercial tropes for a raw, auteur-driven look at urban violence.",
     "mathyas-pick": true
   },
   {
@@ -598,8 +596,7 @@
           "18:45",
           "19:15",
           "21:10",
-          "22:00",
-          "00:20"
+          "22:00"
         ]
       },
       {
@@ -621,7 +618,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "mathyas-pick": false
+    "ai_reason": "Elevated indie horror featuring Jessica Chastain, focusing on the psychological loss of autonomy and sinister maternal archetypes.",
+    "mathyas-pick": true
   },
   {
     "title": "RIDER",
@@ -667,7 +665,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "genres": "Fantascienza, Horror, Thriller",
     "director": "Nicolas Winding Refn",
-    "ai_reason": "A surrealist sci-fi horror from cult auteur Nicolas Winding Refn, embodying the 'elevated genre' aesthetic with his signature visual style.",
+    "ai_reason": "Nicolas Winding Refn brings his signature surrealist, neon-soaked aesthetic to this elevated sci-fi horror, a true cinephile event.",
     "mathyas-pick": true
   }
 ]
