@@ -57,6 +57,12 @@
           "18:15",
           "21:00"
         ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:00"
+        ]
       }
     ],
     "tmdb_id": 935,
@@ -68,7 +74,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9VrxpHVS5zjcWKauMNEDyehsV9w.jpg",
     "genres": "Commedia, Guerra",
     "director": "Stanley Kubrick",
-    "ai_reason": "An essential masterpiece of cinema history by Stanley Kubrick; the definitive benchmark for political satire.",
+    "ai_reason": "A definitive masterpiece of cinema history; Kubrick’s essential biting satire is a mandatory inclusion for any serious collection.",
     "mathyas-pick": true
   },
   {
@@ -120,7 +126,7 @@
     "original_title": "Forgotten Island",
     "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
     "release_date": "2026-09-10",
-    "vote_average": 8.024,
+    "vote_average": 8.039,
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
@@ -147,7 +153,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "Exemplary high-brow Iranian auteur cinema from festival-favorite director Ali Asgari.",
+    "ai_reason": "An exquisite example of contemporary Iranian minimalist cinema from festival favorite Ali Asgari; a poignant, high-brow drama.",
     "mathyas-pick": true
   },
   {
@@ -202,7 +208,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A major cinematic event directed by Alejandro G. Iñárritu, featuring a world-class ensemble cast including Sandra Hüller and Riz Ahmed.",
+    "ai_reason": "A major cinematic event from Alejandro G. Iñárritu, featuring a powerhouse cast in a high-concept, auteur-driven narrative.",
     "mathyas-pick": true
   },
   {
@@ -251,7 +257,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
     "genres": "Dramma, Storia, Thriller",
     "director": "Aaron Sorkin",
-    "ai_reason": "High-prestige drama from auteur screenwriter/director Aaron Sorkin, featuring an elite cast of modern prestige television and film stars.",
+    "ai_reason": "Prestige storytelling from Aaron Sorkin featuring the year's most acclaimed indie darlings, Jeremy Strong and Mikey Madison.",
     "mathyas-pick": true
   },
   {
@@ -275,7 +281,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Elevated horror from Zach Cregger, the breakout auteur of the subversive indie hit 'Barbarian'.",
+    "ai_reason": "Emerging genre auteur Zach Cregger (Barbarian) brings his subversive, elevated horror sensibilities to this high-stakes production.",
     "mathyas-pick": true
   },
   {
@@ -299,6 +305,36 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
     "genres": "Commedia, Dramma, Romance",
     "director": "Olivia Wilde",
+    "mathyas-pick": false
+  },
+  {
+    "title": "THE BIBI FILES",
+    "cast": "Benjamin Netanyahu, Ami Ayalon, Sheldon Adelson, Yair Lapid",
+    "details": "Benjamin Netanyahu si considera al di sopra della legge. Inchiesta incandescente, tra materiali e interviste inedite. Documentario, USA 2024. Durata 83 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:20",
+          "16:20"
+        ]
+      },
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1353263,
+    "tmdb_title": "The Bibi Files",
+    "original_title": "The Bibi Files",
+    "overview": "Utilizzando filmati di interrogatori mai visti prima, questa indagine su Benjamin Netanyahu e la sua cerchia ristretta fornisce uno sguardo risoluto sul mondo privato dietro i titoli dei giornali. La meschina vanità e il senso di diritto portano alla corruzione e alla riluttanza dei Netanyahu a rinunciare al potere. L’estrema destra intuisce un’opportunità nella debolezza di Bibi, e le tessere del domino cadono.",
+    "release_date": "2024-12-13",
+    "vote_average": 7.088,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
+    "genres": "Documentario",
+    "director": "Alexis Bloom",
     "mathyas-pick": false
   },
   {
@@ -329,36 +365,12 @@
     "original_title": "L'estranea",
     "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
     "release_date": "2026-10-08",
-    "vote_average": 7.135,
+    "vote_average": 7.036,
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Emerging Italian auteur Paolo Strippoli directs a high-prestige cast in this gripping psychological drama.",
+    "ai_reason": "An elevated Italian psychological thriller from emerging auteur Paolo Strippoli, exploring deep themes of familial trauma.",
     "mathyas-pick": true
-  },
-  {
-    "title": "THE BIBI FILES",
-    "cast": "Benjamin Netanyahu, Ami Ayalon, Sheldon Adelson, Yair Lapid",
-    "details": "Benjamin Netanyahu si considera al di sopra della legge. Inchiesta incandescente, tra materiali e interviste inedite. Documentario, USA 2024. Durata 83 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "17:20",
-          "16:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1353263,
-    "tmdb_title": "The Bibi Files",
-    "original_title": "The Bibi Files",
-    "overview": "Utilizzando filmati di interrogatori mai visti prima, questa indagine su Benjamin Netanyahu e la sua cerchia ristretta fornisce uno sguardo risoluto sul mondo privato dietro i titoli dei giornali. La meschina vanità e il senso di diritto portano alla corruzione e alla riluttanza dei Netanyahu a rinunciare al potere. L’estrema destra intuisce un’opportunità nella debolezza di Bibi, e le tessere del domino cadono.",
-    "release_date": "2024-12-13",
-    "vote_average": 7.088,
-    "poster_url": "https://image.tmdb.org/t/p/w500/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
-    "genres": "Documentario",
-    "director": "Alexis Bloom",
-    "mathyas-pick": false
   },
   {
     "title": "L'ALBERO DI MOLTO LONTANO",
@@ -410,8 +422,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
     "genres": "Dramma",
     "director": "Tommaso Landucci",
-    "ai_reason": "An unsettling auteur-driven family drama featuring Riccardo Scamarcio, focusing on complex psychological projections.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "VERITY",
@@ -472,7 +483,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "ai_reason": "A dark Italian psychological thriller that delves into the loss of autonomy and senseless violence, led by Valerio Mastandrea.",
+    "ai_reason": "A somber, literary-leaning Italian drama featuring Valerio Mastandrea, exploring the psychological depths of human violence.",
     "mathyas-pick": true
   },
   {
@@ -507,7 +518,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "Psychological indie horror from Rob Savage exploring themes of maternal dread and toxic domesticity.",
+    "ai_reason": "Sophisticated psychological horror led by Jessica Chastain, delving into the uncanny and the loss of autonomy.",
     "mathyas-pick": true
   },
   {
