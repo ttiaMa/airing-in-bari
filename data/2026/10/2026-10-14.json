@@ -71,7 +71,7 @@
     "original_title": "NAZA",
     "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
     "release_date": "2026-09-25",
-    "vote_average": 8.116,
+    "vote_average": 8.108,
     "poster_url": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "genres": "Documentario",
     "director": "Yuval Abraham, Rachel Szor",
@@ -105,8 +105,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9VrxpHVS5zjcWKauMNEDyehsV9w.jpg",
     "genres": "Commedia, Guerra",
     "director": "Stanley Kubrick",
-    "ai_reason": "A mandatory re-release of Kubrick's definitive Cold War satire; a pillar of cinema history and a masterclass in dark comedy.",
+    "ai_reason": "An indispensable cinematic masterpiece and Kubrick’s definitive satirical work, returning to the big screen as a essential cult re-release.",
     "mathyas-pick": true
+  },
+  {
+    "title": "L'ISOLA DEI RICORDI",
+    "cast": "Giulia Vecchio, Alessandro Tiberi, Dave Franco, Jenny Slate",
+    "details": "Sorprendente caleidoscopio di idee con un'animazione cangiante. Animazione, Avventura, Commedia - USA 2026. Durata 109 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1465063,
+    "tmdb_title": "L'isola dei ricordi",
+    "original_title": "Forgotten Island",
+    "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
+    "release_date": "2026-09-10",
+    "vote_average": 8.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+    "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
+    "director": "Januel Mercado, Joel Crawford",
+    "mathyas-pick": false
   },
   {
     "title": "UN PO' DI LUCE",
@@ -129,31 +152,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg",
     "genres": "Dramma",
     "director": "Ali Asgari",
-    "ai_reason": "An exquisite example of contemporary Iranian arthouse cinema, following the minimalist and soul-stirring tradition of international festival darlings.",
+    "ai_reason": "An exquisite piece of world cinema from Ali Asgari, a celebrated fixture of the international festival circuit (Cannes, Berlin).",
     "mathyas-pick": true
-  },
-  {
-    "title": "L'ISOLA DEI RICORDI",
-    "cast": "Giulia Vecchio, Alessandro Tiberi, Dave Franco, Jenny Slate",
-    "details": "Sorprendente caleidoscopio di idee con un'animazione cangiante. Animazione, Avventura, Commedia - USA 2026. Durata 109 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1465063,
-    "tmdb_title": "L'isola dei ricordi",
-    "original_title": "Forgotten Island",
-    "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
-    "release_date": "2026-09-10",
-    "vote_average": 8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
-    "director": "Januel Mercado, Joel Crawford",
-    "mathyas-pick": false
   },
   {
     "title": "BALCANICA",
@@ -177,7 +177,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/zReOL1Nh4p0VPHbCbL618DwCpRD.jpg",
     "genres": "Dramma",
     "director": "Nicola Sorcinelli",
-    "mathyas-pick": false
+    "ai_reason": "A significant example of contemporary Italian social realism by David di Donatello winner Nicola Sorcinelli.",
+    "mathyas-pick": true
   },
   {
     "title": "DIGGER",
@@ -203,11 +204,11 @@
     "original_title": "Digger",
     "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
     "release_date": "2026-09-28",
-    "vote_average": 7.5,
+    "vote_average": 7.481,
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A major cinematic event from multi-Oscar winner Iñárritu, featuring an elite ensemble cast in a high-concept auteurist vision.",
+    "ai_reason": "A major cinematic event from multi-Oscar winner Alejandro G. Iñárritu, featuring an elite ensemble cast in a high-stakes dramatic narrative.",
     "mathyas-pick": true
   },
   {
@@ -234,7 +235,7 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.421,
+    "vote_average": 7.398,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -268,11 +269,11 @@
     "original_title": "L'estranea",
     "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
     "release_date": "2026-10-08",
-    "vote_average": 7.275,
+    "vote_average": 7.324,
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A haunting piece of Italian psychological surrealism that elevates genre tropes into the realm of auteur-driven arthouse.",
+    "ai_reason": "An elevated Italian thriller from emerging auteur Paolo Strippoli, blending psychological tension with deep-seated familial secrets.",
     "mathyas-pick": true
   },
   {
@@ -352,7 +353,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
     "genres": "Dramma, Thriller",
     "director": "Aaron Sorkin",
-    "ai_reason": "A prestige investigative drama from Aaron Sorkin, utilizing a high-caliber cast to explore the dark underbelly of modern social structures.",
+    "ai_reason": "A high-prestige drama written and directed by Aaron Sorkin, featuring the most sought-after actors of the current indie and television landscape.",
     "mathyas-pick": true
   },
   {
@@ -376,7 +377,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
     "genres": "Dramma",
     "director": "Gianni Amelio",
-    "ai_reason": "A profound work by major Italian auteur Gianni Amelio, featuring a powerhouse cast that represents the pinnacle of contemporary Italian prestige cinema.",
+    "ai_reason": "A profound work by the legendary Gianni Amelio, one of the great masters of Italian auteur cinema, exploring guilt and human connection.",
     "mathyas-pick": true
   },
   {
@@ -425,7 +426,7 @@
     "original_title": "Compostelle",
     "overview": "Adam, un adolescente dalla vita turbolenta e Fred, una professoressa che sta attraversando un periodo difficile, non si conoscono. Eppure, grazie a un’associazione, intraprendono insieme il cammino di Santiago di Compostela. Lei ha bisogno di rimettere ordine nella sua vita, lui di placare la sua rabbia e il suo sentimento di abbandono. Chilometro dopo chilometro, lungo le incantevoli tappe del cammino, tra scontri, stanchezza e momenti felici, i due costruiscono a poco a poco un legame delicato. Di fronte alle difficoltà del cammino, entrambi impareranno che ogni passo può essere una rinascita e che, a volte, gli incontri più improbabili sono quelli che cambiano davvero la vita.",
     "release_date": "2026-04-01",
-    "vote_average": 6.673,
+    "vote_average": 6.69,
     "poster_url": "https://image.tmdb.org/t/p/w500/sKkVmciht8qqC0wmAfUdVCTaeMz.jpg",
     "genres": "Dramma, Commedia",
     "director": "Yann Samuell",
@@ -458,7 +459,7 @@
     "original_title": "Verity",
     "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
     "release_date": "2026-09-30",
-    "vote_average": 6.337,
+    "vote_average": 6.3,
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
@@ -491,7 +492,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
     "genres": "Dramma, Thriller",
     "director": "Edoardo Gabbriellini",
-    "ai_reason": "A dark, elevated psychological thriller that delves into the urban psyche, anchored by the presence of prestigious Italian actors like Valerio Mastandrea.",
+    "ai_reason": "A dark, psychological descent based on Nicola Lagioia’s acclaimed literary work, representing the best of modern Italian prestige noir.",
     "mathyas-pick": true
   },
   {
@@ -526,7 +527,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "Elevated psychological horror featuring Jessica Chastain, directed by emerging genre auteur Rob Savage; a sophisticated exploration of maternal trauma.",
+    "ai_reason": "Elevated psychological horror starring Jessica Chastain; a surreal and unsettling exploration of the maternal bond by a rising genre auteur.",
     "mathyas-pick": true
   },
   {
