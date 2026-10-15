@@ -17,7 +17,7 @@
     "original_title": "NAZA",
     "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
     "release_date": "2026-09-25",
-    "vote_average": 8.163,
+    "vote_average": 8.173,
     "poster_url": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "genres": "Documentario, Guerra",
     "director": "Yuval Abraham, Rachel Szor",
@@ -44,7 +44,40 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "mathyas-pick": false
+    "ai_reason": "Prestige animation at its finest, blending sophisticated Filipino folklore with a visually stunning and emotionally resonant narrative.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "WHALEFALL - NELLA BALENA",
+    "cast": "Austin Abrams, Elisabeth Shue, Josh Brolin, Jane Levy",
+    "details": "Avventura, Drammatico, Thriller - USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "19:40",
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1255833,
+    "tmdb_title": "Whalefall - Nella balena",
+    "original_title": "Whalefall",
+    "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+    "release_date": "2026-10-14",
+    "vote_average": 7.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "genres": "Thriller, Horror",
+    "director": "Brian Duffield",
+    "ai_reason": "A high-concept, elevated genre piece from visionary auteur Brian Duffield that transcends standard thriller tropes.",
+    "mathyas-pick": true
   },
   {
     "title": "JUMBO",
@@ -88,7 +121,7 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.384,
+    "vote_average": 7.389,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -123,12 +156,35 @@
     "original_title": "L'estranea",
     "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
     "release_date": "2026-10-08",
-    "vote_average": 7.355,
+    "vote_average": 7.381,
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Sophisticated Italian auteur-driven psychological drama featuring arthouse icons Jasmine Trinca and Valeria Bruni Tedeschi.",
+    "ai_reason": "A sophisticated Italian psychological thriller from emerging auteur Paolo Strippoli, featuring the high-brow talent of Jasmine Trinca.",
     "mathyas-pick": true
+  },
+  {
+    "title": "FRANKIE E LE CREATURE DIMENTICATE",
+    "cast": "Asa Butterfield, Joel Fry, Alison Steadman, Rob Brydon",
+    "details": "Un'avventura animata che mescola gag ed emozioni, affrontando pregiudizi e solitudine. Animazione, Gran Bretagna, Germania, Lussemburgo, Francia 2025. Durata 89 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1214130,
+    "tmdb_title": "Frankie e le creature dimenticate",
+    "original_title": "Stitch Head",
+    "overview": "Stitch Head è stata la prima creatura riportata a una “quasi vita” dal folle professor Erasmus. Negli anni successivi è diventato il custode della sempre più ampia collezione di creature trascurate del suo padrone, con il compito di insegnare loro a reprimere il proprio “mostro interiore” e a nascondersi nel castello — lontano dagli sguardi indiscreti e dalle mani impazienti della folla del villaggio nella valle sottostante. Ma quando il sudicio impresario di circo Fulbert Freakfinder arriva offrendogli un ruolo da protagonista nel suo spettacolo di mostri, Stitch Head viene tentato dalla promessa di amore e accettazione.",
+    "release_date": "2025-10-16",
+    "vote_average": 7.057,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AaDoLXs4D22i65OLw7HxMkj5sKN.jpg",
+    "genres": "Animazione, Avventura, Famiglia, Commedia",
+    "director": "Steve Hudson",
+    "mathyas-pick": false
   },
   {
     "title": "THE SOCIAL - IL PREZZO DELLA VERITÀ",
@@ -151,7 +207,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
     "genres": "Dramma, Thriller",
     "director": "Aaron Sorkin",
-    "ai_reason": "A major cinematic event written and directed by Aaron Sorkin; a prestige drama with high critical pedigree and a stellar ensemble cast.",
+    "ai_reason": "A major cinematic event from master screenwriter Aaron Sorkin, featuring a prestige ensemble cast in a high-stakes intellectual thriller.",
     "mathyas-pick": true
   },
   {
@@ -180,11 +236,35 @@
     "original_title": "Primetime",
     "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
     "release_date": "2026-09-23",
-    "vote_average": 6.897,
+    "vote_average": 6.907,
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "An elevated meta-commentary on media voyeurism featuring Robert Pattinson, directed by Sundance darling Lance Oppenheim.",
+    "ai_reason": "An elevated, A24-style psychological exploration of media ethics starring Robert Pattinson, directed by rising auteur Lance Oppenheim.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA BAMBOLA",
+    "cast": "Vincent Macaigne, Cécile De France, Zoé Marchal, Marianne Basler",
+    "details": "Sophie Beaulieu gioca tra ironia, farsa e commedia romantica, strappando qualche sonora risata. Commedia, Francia 2026. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "19:15"
+        ]
+      }
+    ],
+    "tmdb_id": 10585,
+    "tmdb_title": "La bambola assassina",
+    "original_title": "Child's Play",
+    "overview": "Chicago. Lo spietato pluriomicida Charles Lee Ray, braccato e mortalmente ferito dal poliziotto Mike Norris, si rifugia in un negozio di giocattoli e muore su una pila di popolari bambolotti “Good Guy” pronunciando un rituale magico che gli consente di trasferire la sua anima in uno di essi. Di mattina presto, Andy Barclay si sveglia entusiasta per scoprire i regali per i suoi sei anni ed è deluso di non trovarvi il bambolotto che desiderava, della serie “Good Guy”. La comprensiva mamma Karen riesce a procurarsene uno a buon prezzo e lo porta ad Andy che, entusiasta, lo battezza Chucky...",
+    "release_date": "1988-11-09",
+    "vote_average": 6.776,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nq45RcTx3fTRSbVLMU2BuxQ2i4E.jpg",
+    "genres": "Horror",
+    "director": "Tom Holland",
+    "ai_reason": "A foundational piece of 80s genre history, this cult classic re-release is a priority for any collector of cinematic milestones.",
     "mathyas-pick": true
   },
   {
@@ -237,7 +317,7 @@
   {
     "title": "STREET FIGHTER",
     "cast": "Noah Centineo, Andrew Koji, Callina Liang, Joe Anoa'i",
-    "details": "Street Fighter torna al cinema. Azione, USA 2026.",
+    "details": "Street Fighter torna al cinema. Azione, USA 2026. Durata 120 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -289,10 +369,33 @@
     "original_title": "Verity",
     "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
     "release_date": "2026-09-30",
-    "vote_average": 6.404,
+    "vote_average": 6.393,
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL TEMPO DI ANNE",
+    "cast": "Sophie Marceau, Thaïs Alessandrin, Vincent Elbaz, Alexandre Astier",
+    "details": "Lisa Azuelos ritrova una sempre adorabile Sophie Marceau. E si sorride delle derive della contemporaneità. Commedia, Francia 2026. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1477170,
+    "tmdb_title": "Il tempo di Anne",
+    "original_title": "LOL 2.0",
+    "overview": "Anne si gode finalmente la sua libertà dopo la partenza dei figli. Ma tutto cambia quando sua figlia Louise torna a vivere con lei in seguito a un fallimento professionale e sentimentale. E siccome le sorprese non arrivano mai da sole, suo figlio Théo le annuncia che sta per diventare nonna. Tra scontri generazionali, sogni in evoluzione e nuovi slanci amorosi, Anne capisce che la vita non segue mai del tutto i piani stabiliti e che, a qualsiasi età, non si smette mai di imparare a crescere.",
+    "release_date": "2026-02-11",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/27qj8GYVEgKPUlnxcnK6XJevgNd.jpg",
+    "genres": "Commedia",
+    "director": "Lisa Azuelos",
     "mathyas-pick": false
   },
   {
@@ -327,8 +430,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "Elevated indie horror that utilizes psychological depth to explore maternal trauma, anchored by a prestige performance from Jessica Chastain.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ZUSTISSIA",
@@ -364,7 +466,7 @@
   {
     "title": "JE SO' PAZZO",
     "cast": "Massimiliano Caiazzo, Mariasole Pollio, Giovanni Ludeno, Giuseppe Brunetti",
-    "details": "Biografico, Italia 2026. Durata 105 Minuti.",
+    "details": "Un biopic autentico e appassionato su Pino Daniele. Con una grande performance di Massimiliano Caiazzo. Biografico, Italia 2026. Durata 105 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
