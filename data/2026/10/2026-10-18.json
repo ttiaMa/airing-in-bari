@@ -20,7 +20,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
     "genres": "Fantascienza, Avventura",
     "director": "Phil Lord, Christopher Miller",
-    "ai_reason": "A massive sci-fi event from the visionary duo Lord & Miller, promising the same high-level execution as their previous acclaimed works.",
+    "ai_reason": "A significant cinematic event that balances high-concept science fiction with critical weight, echoing the intellectual ambition of Villeneuve or Nolan.",
     "mathyas-pick": true
   },
   {
@@ -93,8 +93,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "A high-rated, artistic animation that moves beyond commercial tropes to explore cultural folklore and the emotional weight of memory.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "JUMBO",
@@ -144,32 +143,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-    "cast": "Brad Pitt, J.K. Simmons, Anna Lambe",
-    "details": "Un'avventura dura e disperata. David Ayer ritrova il lato più umano del suo cinema. Azione, Avventura, Drammatico - USA 2026. Durata 101 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "13:25",
-          "18:55",
-          "22:40",
-          "00:05"
-        ]
-      }
-    ],
-    "tmdb_id": 1263337,
-    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
-    "original_title": "Heart of the Beast",
-    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-    "release_date": "2026-09-19",
-    "vote_average": 7.407,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "genres": "Avventura, Thriller",
-    "director": "David Ayer",
-    "mathyas-pick": false
-  },
-  {
     "title": "FATHERLAND",
     "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Devid Striesow",
     "details": "Una nuova riflessione sul percorso di indagine sul rapporto tra l'uomo e la Storia. Drammatico, Italia, Polonia, Francia, Germania 2026. Durata 82 Minuti.",
@@ -192,8 +165,33 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A major cinematic event from Paweł Pawlikowski (Ida, Cold War), featuring Sandra Hüller. This is peak prestige European cinema.",
+    "ai_reason": "A major cinematic event for the high-brow circuit: Paweł Pawlikowski (Ida, Cold War) returns with Sandra Hüller in a rigorous, auteur-driven exploration of historical and filial tension.",
     "mathyas-pick": true
+  },
+  {
+    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+    "cast": "Brad Pitt, J.K. Simmons, Anna Lambe",
+    "details": "Un'avventura dura e disperata. David Ayer ritrova il lato più umano del suo cinema. Azione, Avventura, Drammatico - USA 2026. Durata 101 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:25",
+          "18:55",
+          "22:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1263337,
+    "tmdb_title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "release_date": "2026-09-19",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "genres": "Avventura, Thriller",
+    "director": "David Ayer",
+    "mathyas-pick": false
   },
   {
     "title": "L'ESTRANEA",
@@ -229,7 +227,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A sophisticated example of modern Italian genre cinema, anchored by the talent of Jasmine Trinca and exploring deep psychological themes.",
+    "ai_reason": "A sophisticated example of the new wave of elevated Italian genre cinema, featuring a prestige cast including Jasmine Trinca and Valeria Bruni Tedeschi.",
     "mathyas-pick": true
   },
   {
@@ -255,30 +253,6 @@
     "genres": "Animazione, Avventura, Famiglia, Commedia",
     "director": "Steve Hudson",
     "mathyas-pick": false
-  },
-  {
-    "title": "THE SOCIAL - IL PREZZO DELLA VERITÀ",
-    "cast": "Jeremy Strong, Mikey Madison, Jeremy Allen White, Bill Burr",
-    "details": "Una sceneggiatura brillante di Aaron Sorkin per un film che cerca risposte nella tradizione del cinema d'impegno civile. Drammatico, USA 2026. Durata 114 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "00:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1281331,
-    "tmdb_title": "The Social - Il prezzo della verità",
-    "original_title": "The Social Reckoning",
-    "overview": "Frances Haugen, giovane ingegnere di Facebook, si avvale dell'aiuto di Jeff Horwitz, un reporter del Wall Street Journal, per intraprendere un pericoloso viaggio che finisce per rivelare i segreti più custoditi del social network.",
-    "release_date": "2026-10-07",
-    "vote_average": 6.941,
-    "poster_url": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
-    "genres": "Dramma, Thriller",
-    "director": "Aaron Sorkin",
-    "ai_reason": "Aaron Sorkin's razor-sharp dialogue combined with a cast featuring Jeremy Strong and Mikey Madison makes this a significant prestige event.",
-    "mathyas-pick": true
   },
   {
     "title": "WHALEFALL - NELLA BALENA",
@@ -308,10 +282,9 @@
     "release_date": "2026-10-14",
     "vote_average": 6.927,
     "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-    "genres": "Thriller, Dramma, Horror",
+    "genres": "Thriller",
     "director": "Brian Duffield",
-    "ai_reason": "An elevated, high-concept survival thriller that uses its claustrophobic setting to explore psychological depth and familial legacy.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "PRIMETIME",
@@ -324,8 +297,7 @@
           "11:10",
           "16:10",
           "19:50",
-          "21:50",
-          "00:30"
+          "21:50"
         ]
       },
       {
@@ -342,11 +314,11 @@
     "original_title": "Primetime",
     "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
     "release_date": "2026-09-23",
-    "vote_average": 6.806,
+    "vote_average": 6.827,
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "Lance Oppenheim is an emerging auteur known for his distinct visual style; paired with Robert Pattinson, this is a must-watch elevated thriller.",
+    "ai_reason": "An elevated indie thriller featuring Robert Pattinson, the modern icon of auteur cinema, exploring the dark meta-narratives of television justice and voyeurism.",
     "mathyas-pick": true
   },
   {
@@ -438,7 +410,7 @@
     "original_title": "Verity",
     "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
     "release_date": "2026-09-30",
-    "vote_average": 6.333,
+    "vote_average": 6.309,
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
