@@ -29,9 +29,9 @@
     "details": "Un esercizio di stile diventato un cult che ritrae una generazione senza ideali. Drammatico, Gran Bretagna 1996. Durata 115 Minuti. Consigli per la visione: Ragazzi +16",
     "cinemas": [
       {
-        "name": "Galleria",
+        "name": "The Space Casamassima",
         "times": [
-          "18:20",
+          "19:30",
           "21:15"
         ]
       },
@@ -51,7 +51,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rW8igIeFq2reJPgUYK5gukdSVVB.jpg",
     "genres": "Dramma, Crime",
     "director": "Danny Boyle",
-    "ai_reason": "A quintessential cult classic re-release; Danny Boyle's kinetic masterpiece remains an essential pillar of transgressive cinema.",
+    "ai_reason": "An essential cult classic and a pillar of 90s transgressive cinema. This re-release is a mandatory event for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -75,7 +75,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "mathyas-pick": false
+    "ai_reason": "An artistically ambitious animated feature that transcends its genre, exploring themes of memory and folklore with high critical pedigree.",
+    "mathyas-pick": true
   },
   {
     "title": "INSIDIOUS - FUORI DALL'ALTROVE",
@@ -140,7 +141,7 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.404,
+    "vote_average": 7.396,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -177,7 +178,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Sophisticated Italian genre cinema from emerging auteur Paolo Strippoli, blending psychological depth with a surreal narrative structure.",
+    "ai_reason": "High-prestige Italian arthouse cinema featuring a powerhouse ensemble of European icons in a gripping psychological family drama.",
     "mathyas-pick": true
   },
   {
@@ -263,7 +264,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "A sophisticated meta-cinematic dive into media voyeurism featuring Robert Pattinson, directed by the rising auteur Lance Oppenheim.",
+    "ai_reason": "A sophisticated psychological thriller exploring media ethics and voyeurism, anchored by the magnetic Robert Pattinson and directed by a rising indie auteur.",
     "mathyas-pick": true
   },
   {
@@ -340,7 +341,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
     "genres": "Dramma, Commedia",
     "director": "Roberto De Paolis",
-    "ai_reason": "High-brow Italian cinema from auteur Roberto De Paolis; a Kafkaesque social satire featuring the country's most prestigious contemporary actors.",
+    "ai_reason": "A Kafkaesque and satirical exploration of guilt from Roberto De Paolis, featuring a stellar cast of Italy's most relevant contemporary actors.",
     "mathyas-pick": true
   },
   {
@@ -396,12 +397,11 @@
     "original_title": "Verity",
     "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
     "release_date": "2026-09-30",
-    "vote_average": 6.338,
+    "vote_average": 6.354,
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
-    "ai_reason": "An elevated psychological thriller that perfectly aligns with the criteria of exploring toxic domesticity and the loss of autonomy.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "STREET FIGHTER",
@@ -488,8 +488,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "Arthouse-leaning horror from indie innovator Rob Savage, utilizing genre tropes to explore complex maternal themes and psychological trauma.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "LA BAMBOLA",
