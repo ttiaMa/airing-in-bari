@@ -51,7 +51,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/rW8igIeFq2reJPgUYK5gukdSVVB.jpg",
     "genres": "Dramma, Crime",
     "director": "Danny Boyle",
-    "ai_reason": "A definitive cult classic of the 1990s. Danny Boyle’s gritty, stylish exploration of Edinburgh's underbelly remains a cornerstone of contemporary cinema history.",
+    "ai_reason": "A seminal masterpiece of 90s British cinema, this cult classic's re-release is an essential viewing for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -75,8 +75,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "genres": "Animazione, Avventura, Fantasy, Commedia, Famiglia",
     "director": "Januel Mercado, Joel Crawford",
-    "ai_reason": "From the creative minds behind the acclaimed Puss in Boots: The Last Wish, this represents prestige animation with high artistic ambition, blending Filipino mythology with sophisticated storytelling.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "JUMBO",
@@ -154,7 +153,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A vital addition to any cinephile's watch-list, Paweł Pawlikowski (Ida, Cold War) returns with a historical drama starring the incomparable Sandra Hüller. A masterclass in European auteur cinema.",
+    "ai_reason": "A major cinematic event from visionary auteur Paweł Pawlikowski, featuring the peerless Sandra Hüller in a high-prestige historical drama.",
     "mathyas-pick": true
   },
   {
@@ -174,7 +173,7 @@
     "original_title": "Heart of the Beast",
     "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
     "release_date": "2026-09-19",
-    "vote_average": 7.386,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "genres": "Avventura, Thriller",
     "director": "David Ayer",
@@ -212,7 +211,32 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli is part of the new wave of Italian genre auteurs. This psychological thriller promises a sophisticated and dark exploration of familial trauma.",
+    "ai_reason": "A sophisticated Italian psychological thriller that avoids generic tropes, anchored by the high-brow presence of Jasmine Trinca and Valeria Bruni Tedeschi.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "CLAYFACE",
+    "cast": "Max Minghella, Naomi Ackie, Eddie Marsan, Tom Rhys Harries",
+    "details": "Horror, Avventura, Azione - 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20",
+          "22:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1400940,
+    "tmdb_title": "Clayface",
+    "original_title": "Clayface",
+    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
+    "release_date": "2026-10-19",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+    "genres": "Horror, Thriller, Fantascienza",
+    "director": "James Watkins",
+    "ai_reason": "James Watkins reimagines the genre through a Cronenbergian lens, offering a surrealist exploration of identity and Hollywood’s corrosive nature.",
     "mathyas-pick": true
   },
   {
@@ -262,11 +286,11 @@
     "original_title": "Primetime",
     "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
     "release_date": "2026-09-23",
-    "vote_average": 6.828,
+    "vote_average": 6.834,
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "Rising auteur Lance Oppenheim teams with Robert Pattinson for a psychological descent into the voyeuristic ethics of television history. A sharp, modern indie production.",
+    "ai_reason": "An elevated psychological thriller exploring the voyeuristic rot of media culture, led by the quintessential modern auteur-actor Robert Pattinson.",
     "mathyas-pick": true
   },
   {
@@ -320,7 +344,7 @@
     "original_title": "The Magic Faraway Tree",
     "overview": "Subito dopo l'arrivo della famiglia Thompson in campagna, i tre figli – Joe, Beth e Fran – scoprono un albero magico e i suoi residenti straordinari ed eccentrici, tra cui Moonface, Silky, Dame Washalot e Saucepan Man. In cima all'albero, vengono trasportati in terre spettacolari e fantastiche e, attraverso le gioie e le sfide delle loro avventure, i Thompson imparano a riconnettersi e valorizzarsi a vicenda per la prima volta dopo anni.",
     "release_date": "2026-03-26",
-    "vote_average": 6.675,
+    "vote_average": 6.7,
     "poster_url": "https://image.tmdb.org/t/p/w500/q8rVIdLn2PUIEoot8JOnmK65EGr.jpg",
     "genres": "Avventura, Famiglia, Fantasy",
     "director": "Ben Gregor",
@@ -350,7 +374,7 @@
     "original_title": "Whalefall",
     "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
     "release_date": "2026-10-14",
-    "vote_average": 6.619,
+    "vote_average": 6.5,
     "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
     "genres": "Thriller",
     "director": "Brian Duffield",
@@ -405,7 +429,7 @@
     "original_title": "Street Fighter",
     "overview": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
     "release_date": "2026-10-13",
-    "vote_average": 6.283,
+    "vote_average": 6.229,
     "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
     "genres": "Azione, Fantasy",
     "director": "Kitao Sakurai",
@@ -483,7 +507,7 @@
     "original_title": "Other Mommy",
     "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
     "release_date": "2026-10-07",
-    "vote_average": 5.928,
+    "vote_average": 5.923,
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
@@ -535,6 +559,35 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4wbgRMaRid41JwZwp0F1pJKNiNn.jpg",
     "genres": "Documentario",
     "director": "Luca Salmaso",
+    "mathyas-pick": false
+  },
+  {
+    "title": "DIO RIDE",
+    "cast": "Pierfrancesco Favino, Alma Noce, Maurizio Lombardi, Silvio Orlando",
+    "details": "Il film più ambizioso e riuscito di Giovanni Veronesi. Commedia, Italia 2026. Durata 114 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "20:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1506710,
+    "tmdb_title": "Dio ride",
+    "original_title": "Dio ride",
+    "overview": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
+    "release_date": "2026-10-29",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Giovanni Veronesi",
     "mathyas-pick": false
   }
 ]
