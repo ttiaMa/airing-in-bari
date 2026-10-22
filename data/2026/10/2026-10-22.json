@@ -28,8 +28,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "The latest stop-motion masterpiece from Laika Studios, representing the pinnacle of prestige animation with its artisanal craftsmanship and dark fantasy narrative.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "POSSIBLE LOVE",
@@ -52,42 +51,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
     "genres": "Dramma",
     "director": "Lee Chang-dong",
-    "ai_reason": "A masterclass in psychological depth and social critique from South Korean auteur Lee Chang-dong, essential for any serious student of world cinema.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
-    "title": "CLAYFACE",
-    "cast": "Max Minghella, Naomi Ackie, Eddie Marsan, Tom Rhys Harries",
-    "details": "Horror, Avventura, Azione - 2026.",
+    "title": "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA",
+    "cast": "Óscar Barberán, Luis Posada, Michelle Jenner, Ana Esther Alborg",
+    "details": "Animazione, Spagna 2026. Durata 94 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
         "times": [
-          "18:50",
-          "19:20",
-          "22:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "17:00",
-          "19:30",
-          "21:50"
+          "17:15"
         ]
       }
     ],
-    "tmdb_id": 1400940,
-    "tmdb_title": "Clayface",
-    "original_title": "Clayface",
-    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
-    "release_date": "2026-10-19",
-    "vote_average": 7.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "genres": "Horror, Thriller, Fantascienza",
-    "director": "James Watkins",
-    "ai_reason": "An elevated, Cronenbergian exploration of identity and corrosive ambition that transforms genre tropes into a sophisticated character study.",
-    "mathyas-pick": true
+    "tmdb_id": 1187326,
+    "tmdb_title": "Taddeo l’esploratore e la lampada magica",
+    "original_title": "Tadeo Jones y La Lámpara Maravillosa",
+    "overview": "Taddeo e Sara sono diventati genitori della piccola Oli. Durante una vacanza a Londra, trovano la Lampada delle Mille e una Notte. Un desiderio inaspettato della Momia fa viaggiare il gruppo nel tempo: dovranno attraversare diverse epoche, dalla Grecia Antica al Medio Oriente, per salvare la Storia prima che venga riscritta",
+    "release_date": "2026-08-26",
+    "vote_average": 7.807,
+    "poster_url": "https://image.tmdb.org/t/p/w500/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
+    "genres": "Animazione, Commedia, Famiglia",
+    "director": "Enrique Gato",
+    "mathyas-pick": false
   },
   {
     "title": "FATHERLAND",
@@ -97,8 +84,9 @@
       {
         "name": "Il Piccolo",
         "times": [
+          "18:00",
           "19:30",
-          "18:00"
+          "21:00"
         ]
       }
     ],
@@ -111,8 +99,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A significant cinematic event from Oscar-winner Paweł Pawlikowski, featuring a towering performance by Sandra Hüller in a profound post-war historical odyssey.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ZUSTISSIA",
@@ -173,8 +160,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A high-prestige Italian psychological thriller led by Jasmine Trinca and Valeria Bruni Tedeschi, exploring domestic trauma through a sharp, arthouse lens.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "RAGIONE E SENTIMENTO",
@@ -205,8 +191,40 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "Following the success of 'Blue Jean,' Georgia Oakley delivers a refined, emotionally intelligent period drama that prioritizes psychological interiority over convention.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "CLAYFACE",
+    "cast": "Tom Rhys Harries, Ruby Sear, Naomi Ackie, Eddie Marsan",
+    "details": "Horror, Avventura, Azione - 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:50",
+          "19:20",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00",
+          "19:30",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1400940,
+    "tmdb_title": "Clayface",
+    "original_title": "Clayface",
+    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
+    "release_date": "2026-10-19",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+    "genres": "Horror, Thriller, Fantascienza",
+    "director": "James Watkins",
+    "mathyas-pick": false
   },
   {
     "title": "FRANKIE E LE CREATURE DIMENTICATE",
@@ -258,8 +276,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "An incisive, stylistically bold exploration of media voyeurism starring Robert Pattinson, directed by rising indie auteur Lance Oppenheim.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "JE SO' PAZZO",
@@ -297,29 +314,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "WHALEFALL - NELLA BALENA",
-    "cast": "Austin Abrams, Elisabeth Shue, Josh Brolin, Jane Levy",
-    "details": "Sorprendente survival movie che mette in scena un'ora di pura claustrofobia. Avventura, Drammatico, Thriller - USA 2026. Durata 106 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "22:35"
-        ]
-      }
-    ],
-    "tmdb_id": 1255833,
-    "tmdb_title": "Whalefall - Nella balena",
-    "original_title": "Whalefall",
-    "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
-    "release_date": "2026-10-14",
-    "vote_average": 6.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-    "genres": "Thriller",
-    "director": "Brian Duffield",
-    "mathyas-pick": false
-  },
-  {
     "title": "L'ASSURDA STORIA DELLA GIALAPPA'S BAND",
     "cast": "Giacomo Poretti, Giovanni Storti",
     "details": "Sul filo della memoria e della nostalgia, un doc che sembra un raduno generazionale e indaga 40 anni di storia nazionale. Documentario, Italia 2026. Durata 105 Minuti.",
@@ -349,6 +343,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg",
     "genres": "Documentario",
     "director": "Walter Veltroni",
+    "mathyas-pick": false
+  },
+  {
+    "title": "WHALEFALL - NELLA BALENA",
+    "cast": "Austin Abrams, Elisabeth Shue, Josh Brolin, Jane Levy",
+    "details": "Sorprendente survival movie che mette in scena un'ora di pura claustrofobia. Avventura, Drammatico, Thriller - USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1255833,
+    "tmdb_title": "Whalefall - Nella balena",
+    "original_title": "Whalefall",
+    "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+    "release_date": "2026-10-14",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "genres": "Thriller",
+    "director": "Brian Duffield",
     "mathyas-pick": false
   },
   {
@@ -396,6 +413,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
     "genres": "Azione, Fantasy",
     "director": "Kitao Sakurai",
+    "mathyas-pick": false
+  },
+  {
+    "title": "KLARA E IL SOLE",
+    "cast": "Aran Murphy, Jenna Ortega, Amy Adams, Steve Buscemi",
+    "details": "Un'estetica edulcorata banalizza la profondità filosofica del romanzo bestseller del Premio Nobel Kazuo Ishiguro. Drammatico, Fantascienza - Regno Unito, USA 2026. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:40"
+        ]
+      }
+    ],
+    "tmdb_id": 858035,
+    "tmdb_title": "Klara e il sole",
+    "original_title": "Klara and the Sun",
+    "overview": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
+    "release_date": "2026-10-21",
+    "vote_average": 6.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "Taika Waititi",
     "mathyas-pick": false
   },
   {
