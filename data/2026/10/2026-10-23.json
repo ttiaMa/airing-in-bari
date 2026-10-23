@@ -29,7 +29,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "The latest from LAIKA, the gold standard for prestige stop-motion animation, ensuring high artistic value over commercial tropes.",
+    "ai_reason": "High-art stop-motion animation from the visionaries at Laika Studios; a visually stunning and prestigious fantasy epic that transcends the genre.",
     "mathyas-pick": true
   },
   {
@@ -49,17 +49,17 @@
     "original_title": "가능한 사랑",
     "overview": "Un operaio licenziato e sua moglie incontrano una regista di documentari e suo marito, e si ritrovano a confrontarsi con i loro desideri nascosti.",
     "release_date": "2026-09-23",
-    "vote_average": 8.2,
+    "vote_average": 8.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
     "genres": "Dramma",
     "director": "Lee Chang-dong",
-    "ai_reason": "A work by Korean master Lee Chang-dong, whose filmography represents the pinnacle of contemporary global auteur cinema.",
+    "ai_reason": "A masterclass in South Korean cinema by Lee Chang-dong, this is a profound exploration of human desire and social alienation from a true festival favorite.",
     "mathyas-pick": true
   },
   {
     "title": "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA",
     "cast": "Óscar Barberán, Luis Posada, Michelle Jenner, Ana Esther Alborg",
-    "details": "Animazione, Spagna 2026. Durata 94 Minuti.",
+    "details": "Un film d'animazione di marca europea davvero per famiglie. Animazione, Spagna 2026. Durata 94 Minuti.",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -140,7 +140,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated psychological horror that utilizes sci-fi tropes to explore the corrosive nature of Hollywood ambition and identity loss.",
+    "ai_reason": "A visceral, psychological descent into Hollywood’s dark underbelly that explores identity loss through the lens of elevated genre filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -173,7 +173,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A sophisticated Italian psychological thriller from rising auteur Paolo Strippoli, focusing on familial trauma and secrets.",
+    "ai_reason": "Paolo Strippoli is a rising force in Italian auteur-genre cinema, here delivering a psychological mystery rich in atmosphere and tension.",
     "mathyas-pick": true
   },
   {
@@ -199,7 +199,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A major cinematic event from Oscar-winner Paweł Pawlikowski, featuring Sandra Hüller in a rigorous historical exploration of the German soul.",
+    "ai_reason": "A must-see historical drama from Oscar-winner Paweł Pawlikowski, exploring the intellectual and emotional exile of Thomas Mann through a refined, auteur lens.",
     "mathyas-pick": true
   },
   {
@@ -231,7 +231,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "mathyas-pick": false
+    "ai_reason": "A fresh take on the Austen classic from Georgia Oakley, the acclaimed director of 'Blue Jean', ensuring a sophisticated and nuanced perspective.",
+    "mathyas-pick": true
   },
   {
     "title": "RESIDENT EVIL",
@@ -254,8 +255,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Directed by Zach Cregger (of 'Barbarian' fame), this promises to be a viral genre hit that subverts its franchise origins with auteurist flair.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "PRIMETIME",
@@ -280,11 +280,11 @@
     "original_title": "Primetime",
     "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
     "release_date": "2026-09-23",
-    "vote_average": 6.851,
+    "vote_average": 6.856,
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "An elevated indie thriller produced by Robert Pattinson, offering a subversive meta-critique of media and the surveillance state.",
+    "ai_reason": "An elevated indie thriller starring Robert Pattinson that promises a sharp, meta-textual critique of media obsession and moral boundaries.",
     "mathyas-pick": true
   },
   {
@@ -419,7 +419,7 @@
     "original_title": "Street Fighter",
     "overview": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
     "release_date": "2026-10-13",
-    "vote_average": 6.3,
+    "vote_average": 6.306,
     "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
     "genres": "Azione, Fantasy",
     "director": "Kitao Sakurai",
@@ -446,7 +446,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
     "genres": "Fantascienza, Dramma",
     "director": "Taika Waititi",
-    "ai_reason": "A high-concept adaptation of Kazuo Ishiguro’s novel, exploring the intersection of technology and humanity through a sophisticated lens.",
+    "ai_reason": "A high-concept philosophical sci-fi based on Kazuo Ishiguro's literary masterpiece, directed by the versatile Taika Waititi.",
     "mathyas-pick": true
   },
   {
@@ -475,7 +475,7 @@
     "original_title": "Other Mommy",
     "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
     "release_date": "2026-10-07",
-    "vote_average": 5.872,
+    "vote_average": 5.845,
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
