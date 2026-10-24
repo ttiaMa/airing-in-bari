@@ -30,8 +30,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "Laika Studios represents the absolute pinnacle of artisanal stop-motion; this is a major event for prestige animation enthusiasts.",
+    "ai_reason": "From the visionary Laika Studios, this stop-motion feature represents the pinnacle of contemporary prestige animation.",
     "mathyas-pick": true
+  },
+  {
+    "title": "NAZA",
+    "cast": "",
+    "details": "Un'opera analitica e razionale nel cuore di Tel Aviv. Un atto necessario di resistenza. Documentario, Gran Bretagna 2026. Durata 80 Minuti.",
+    "cinemas": [
+      {
+        "name": "AncheCinema",
+        "times": [
+          "20:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1755291,
+    "tmdb_title": "NAZA",
+    "original_title": "NAZA",
+    "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
+    "release_date": "2026-09-25",
+    "vote_average": 8.12,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
+    "genres": "Documentario, Guerra",
+    "director": "Yuval Abraham, Rachel Szor",
+    "mathyas-pick": false
   },
   {
     "title": "POSSIBLE LOVE",
@@ -54,7 +77,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
     "genres": "Dramma",
     "director": "Lee Chang-dong",
-    "ai_reason": "Lee Chang-dong is a titan of contemporary world cinema; his return to the screen is an essential event for any serious cinephile.",
+    "ai_reason": "A long-awaited return from South Korean master Lee Chang-dong, offering a profound and poetic exploration of human desire.",
     "mathyas-pick": true
   },
   {
@@ -110,11 +133,11 @@
     "original_title": "Clayface",
     "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
     "release_date": "2026-10-19",
-    "vote_average": 7.614,
+    "vote_average": 7.645,
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "James Watkins delivers a dark, psychological exploration of identity and ambition that transcends its sci-fi origins.",
+    "ai_reason": "A visceral study of identity loss and ambition that elevates its sci-fi premise into the realm of high-brow psychological horror.",
     "mathyas-pick": true
   },
   {
@@ -174,11 +197,11 @@
     "original_title": "L'estranea",
     "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
     "release_date": "2026-10-08",
-    "vote_average": 7.411,
+    "vote_average": 7.408,
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli is a rising star in Italian genre cinema, delivering the kind of psychological and atmospheric depth the 'New Italian Horror' needs.",
+    "ai_reason": "Paolo Strippoli’s latest confirms his status as a leading auteur of the sophisticated new wave of Italian psychological thrillers.",
     "mathyas-pick": true
   },
   {
@@ -204,7 +227,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "Directed by multi-award winner Paweł Pawlikowski and starring Sandra Hüller, this is the epitome of European prestige cinema.",
+    "ai_reason": "Master auteur Paweł Pawlikowski directs Sandra Hüller in a visually rigorous and historically resonant post-war odyssey.",
     "mathyas-pick": true
   },
   {
@@ -251,8 +274,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "genres": "Horror, Fantascienza, Avventura",
     "director": "Zach Cregger",
-    "ai_reason": "Zach Cregger is the new master of elevated horror; his interpretation of this franchise is a significant event for genre aficionados.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "RAGIONE E SENTIMENTO",
@@ -285,8 +307,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "Auteur director Georgia Oakley (Blue Jean) brings a fresh, sophisticated perspective to this cornerstone of literary history.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "FRANKIE E LE CREATURE DIMENTICATE",
@@ -339,7 +360,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "Robert Pattinson continues his streak of challenging roles in this psychological thriller exploring the rot of media voyeurism.",
+    "ai_reason": "An unsettling look at the voyeuristic rot of media culture featuring a transformative Robert Pattinson.",
     "mathyas-pick": true
   },
   {
@@ -436,35 +457,11 @@
     "original_title": "Street Fighter",
     "overview": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
     "release_date": "2026-10-13",
-    "vote_average": 6.348,
+    "vote_average": 6.377,
     "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
     "genres": "Azione, Fantasy",
     "director": "Kitao Sakurai",
     "mathyas-pick": false
-  },
-  {
-    "title": "KLARA E IL SOLE",
-    "cast": "Aran Murphy, Jenna Ortega, Amy Adams, Steve Buscemi",
-    "details": "Un'estetica edulcorata banalizza la profondità filosofica del romanzo bestseller del Premio Nobel Kazuo Ishiguro. Drammatico, Fantascienza - Regno Unito, USA 2026. Durata 116 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "17:50"
-        ]
-      }
-    ],
-    "tmdb_id": 858035,
-    "tmdb_title": "Klara e il sole",
-    "original_title": "Klara and the Sun",
-    "overview": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
-    "release_date": "2026-10-21",
-    "vote_average": 6.2,
-    "poster_url": "https://image.tmdb.org/t/p/w500/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
-    "genres": "Fantascienza, Dramma",
-    "director": "Taika Waititi",
-    "ai_reason": "An adaptation of the Kazuo Ishiguro masterpiece by Taika Waititi, blending high-concept sci-fi with poignant human drama.",
-    "mathyas-pick": true
   },
   {
     "title": "JE SO' PAZZO",
@@ -505,6 +502,30 @@
     "mathyas-pick": false
   },
   {
+    "title": "KLARA E IL SOLE",
+    "cast": "Aran Murphy, Jenna Ortega, Amy Adams, Steve Buscemi",
+    "details": "Un'estetica edulcorata banalizza la profondità filosofica del romanzo bestseller del Premio Nobel Kazuo Ishiguro. Drammatico, Fantascienza - Regno Unito, USA 2026. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:50"
+        ]
+      }
+    ],
+    "tmdb_id": 858035,
+    "tmdb_title": "Klara e il sole",
+    "original_title": "Klara and the Sun",
+    "overview": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
+    "release_date": "2026-10-21",
+    "vote_average": 6.071,
+    "poster_url": "https://image.tmdb.org/t/p/w500/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "Taika Waititi",
+    "ai_reason": "A major cinematic event adapting Kazuo Ishiguro's Nobel-worthy prose into a high-profile exploration of artificial consciousness.",
+    "mathyas-pick": true
+  },
+  {
     "title": "MAMMINA",
     "cast": "Jessica Chastain, Jay Duplass, Karen Allen, Dichen Lachman",
     "details": "Horror in pieno stile Blumhouse. Estenuante nella ripetività dei jump scare. Horror, USA 2026. Durata 93 Minuti.",
@@ -530,7 +551,7 @@
     "original_title": "Other Mommy",
     "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
     "release_date": "2026-10-07",
-    "vote_average": 5.8,
+    "vote_average": 5.85,
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
