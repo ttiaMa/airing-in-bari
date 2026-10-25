@@ -1,0 +1,80 @@
+[
+  {
+    "title": "POSSIBLE LOVE",
+    "cast": "Jeon Do-yeon, Sul Kyoung-gu, In-sung Jo, Yeo-jeong Jo",
+    "details": "Un'opera densa che contiene moltitudini, girata con un controllo totale dell'inquadratura. Drammatico, Corea del sud 2026. Durata 164 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "18:00",
+          "18:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1483525,
+    "tmdb_title": "Possible Love",
+    "original_title": "가능한 사랑",
+    "overview": "Un operaio licenziato e sua moglie incontrano una regista di documentari e suo marito, e si ritrovano a confrontarsi con i loro desideri nascosti.",
+    "release_date": "2026-09-23",
+    "vote_average": 8.1,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
+    "genres": "Dramma",
+    "director": "Lee Chang-dong",
+    "ai_reason": "A masterpiece of South Korean cinema; Lee Chang-dong is a titan of the festival circuit whose profound psychological depth is essential for any high-brow collection.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "FATHERLAND",
+    "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Devid Striesow",
+    "details": "Una nuova riflessione sul percorso di indagine sul rapporto tra l'uomo e la Storia. Drammatico, Italia, Polonia, Francia, Germania 2026. Durata 82 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:00",
+          "19:30",
+          "21:00",
+          "18:00",
+          "19:30",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1437696,
+    "tmdb_title": "Fatherland",
+    "original_title": "Ojczyzna",
+    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
+    "release_date": "2026-06-19",
+    "vote_average": 7.327,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
+    "genres": "Dramma, Storia",
+    "director": "Paweł Pawlikowski",
+    "ai_reason": "A significant event for cinephiles: Paweł Pawlikowski directs Sandra Hüller in a historical drama that promises the same austere, visual mastery as 'Ida' and 'Cold War'.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "CARO MONDO CRUDELE",
+    "cast": "Aurora Malianni, Francesco Turbanti, Petra Valentini, Guglielmo Favilla",
+    "details": "Un romanzo di formazione sull'elaborazione del lutto. Dove resiste il sacro vincolo dell'amicizia, come bussola in un contesto limitante. Drammatico, Italia 2026. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1508704,
+    "tmdb_title": "Caro mondo crudele",
+    "original_title": "Caro mondo crudele",
+    "overview": "Albinia, fine anni ’90. Giovanna, una dodicenne dalla fantasia straordinaria, non si capacita di come Mirko, suo unico e migliore amico, sia potuto sparire nel nulla, lasciandola da sola fra le vessazioni dei bulli della scuola. Ha così inizio la sua avventura alla ricerca della verità. Fra un mondo di adulti che appare sempre più distante, ed il nascere di nuove e inaspettate amicizie, Giovanna si ritroverà a dover fare i conti con la realtà, segnando il suo ingresso in questo caro mondo crudele.",
+    "release_date": "2026-10-22",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Niccolò Falsetti",
+    "mathyas-pick": false
+  }
+]
