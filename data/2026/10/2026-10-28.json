@@ -1,0 +1,486 @@
+[
+  {
+    "title": "WILDWOOD - I SEGRETI DEL BOSCO PROIBITO",
+    "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali",
+    "details": "Un'avventura epica, tra meraviglia e atmosfere da commedia nera. Che incoraggia l'universo femminile alla rivolta. Animazione, Avventura, Drammatico - USA 2026. Durata 139 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "17:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:30"
+        ]
+      }
+    ],
+    "tmdb_id": 791523,
+    "tmdb_title": "Wildwood - I segreti del bosco proibito",
+    "original_title": "Wildwood",
+    "overview": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+    "release_date": "2026-10-19",
+    "vote_average": 8.6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
+    "genres": "Animazione, Avventura, Fantasy",
+    "director": "Travis Knight",
+    "ai_reason": "Laika Studios continues to champion stop-motion as a high-art form, delivering a prestige animation with immense artistic value.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "MATRIX",
+    "cast": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+    "details": "Cinema capace di rappresentare un futuro che è già presente. Fantascienza, USA 1999. Durata 133 Minuti. Consigli per la visione: Ragazzi +16",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:50"
+        ]
+      }
+    ],
+    "tmdb_id": 603,
+    "tmdb_title": "Matrix",
+    "original_title": "The Matrix",
+    "overview": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e della bella Trinity, può tentare di scoprire la verità, ma non sarà un'impresa facile.",
+    "release_date": "1999-03-31",
+    "vote_average": 8.261,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3vmTUXJHlKkvenf8G35dr5HlTEh.jpg",
+    "genres": "Azione, Fantascienza",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "ai_reason": "A seminal work of cyberpunk philosophy and visual innovation that defines the cult classic category.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA",
+    "cast": "Óscar Barberán, Luis Posada, Michelle Jenner, Ana Esther Alborg",
+    "details": "Un film d'animazione di marca europea davvero per famiglie. Animazione, Spagna 2026. Durata 94 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1187326,
+    "tmdb_title": "Taddeo l’esploratore e la lampada magica",
+    "original_title": "Tadeo Jones y La Lámpara Maravillosa",
+    "overview": "Taddeo e Sara sono diventati genitori della piccola Oli. Durante una vacanza a Londra, trovano la Lampada delle Mille e una Notte. Un desiderio inaspettato della Momia fa viaggiare il gruppo nel tempo: dovranno attraversare diverse epoche, dalla Grecia Antica al Medio Oriente, per salvare la Storia prima che venga riscritta",
+    "release_date": "2026-08-26",
+    "vote_average": 8.099,
+    "poster_url": "https://image.tmdb.org/t/p/w500/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
+    "genres": "Animazione, Commedia, Famiglia",
+    "director": "Enrique Gato",
+    "mathyas-pick": false
+  },
+  {
+    "title": "POSSIBLE LOVE",
+    "cast": "Jeon Do-yeon, Sul Kyoung-gu, In-sung Jo, Yeo-jeong Jo",
+    "details": "Un'opera densa che contiene moltitudini, girata con un controllo totale dell'inquadratura. Drammatico, Corea del sud 2026. Durata 164 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "18:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1483525,
+    "tmdb_title": "Possible Love",
+    "original_title": "가능한 사랑",
+    "overview": "Un operaio licenziato e sua moglie incontrano una regista di documentari e suo marito, e si ritrovano a confrontarsi con i loro desideri nascosti.",
+    "release_date": "2026-09-23",
+    "vote_average": 7.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
+    "genres": "Dramma",
+    "director": "Lee Chang-dong",
+    "ai_reason": "The return of South Korean master Lee Chang-dong is a mandatory event for any serious follower of world cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "CLAYFACE",
+    "cast": "Tom Rhys Harries, Ruby Sear, Naomi Ackie, Eddie Marsan",
+    "details": "Un body horror dalle formule abusate e da una trasformazione tragica che arriva troppo tardi. Horror, Avventura, Azione - 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20",
+          "22:00",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1400940,
+    "tmdb_title": "Clayface",
+    "original_title": "Clayface",
+    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
+    "release_date": "2026-10-19",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+    "genres": "Horror, Thriller, Fantascienza",
+    "director": "James Watkins",
+    "ai_reason": "An elevated psychological horror that explores the dissolution of identity and the corrosive nature of ambition.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "ZUSTISSIA",
+    "cast": "Michele Riondino, Fabrizio Ferracane, Paola Giannini, Jacopo Cullin",
+    "details": "Un'odissea carceraria raccontata con essenzialità e rigore. Che ti fa uscire dalla sala con un barlume di speranza. Drammatico, Italia 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "18:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1639616,
+    "tmdb_title": "Zustìssia",
+    "original_title": "Zustìssia",
+    "overview": "Nel 1991, un triplice omicidio commesso sui monti del Sud Sardegna porta alla rapida condanna di un uomo innocente: Beniamino Zuncheddu. Tre gradi di giudizio in un anno per dare un ergastolo. Venticinque anni dopo, un giovane avvocato decide di lottare - pro bono - per restituirgli la libertà. La storia di una vita rubata dal più lungo errore giudiziario della storia italiana: 33 anni di ingiusta detenzione. Ed è anche la storia dell’emozionante battaglia che l’avvocato Mauro Trogu e altri alleati hanno ingaggiato per arrivare alla revisione del processo e all’assoluzione, giunta il 26 gennaio 2024.",
+    "release_date": "2026-10-08",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
+    "genres": "Dramma",
+    "director": "Francesco Piras",
+    "mathyas-pick": false
+  },
+  {
+    "title": "L'ESTRANEA",
+    "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi",
+    "details": "Strippoli trasforma l'horror in un perturbante dramma familiare. Thriller, Italia 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:25",
+          "21:15",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:40",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1412795,
+    "tmdb_title": "L'estranea",
+    "original_title": "L'estranea",
+    "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
+    "release_date": "2026-10-08",
+    "vote_average": 7.471,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
+    "genres": "Dramma, Thriller",
+    "director": "Paolo Strippoli",
+    "ai_reason": "Paolo Strippoli represents the vital new wave of Italian genre auteurs, blending high-tension thriller with deep psychological weight.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "RAGIONE E SENTIMENTO",
+    "cast": "Esme Creed-Miles, Bodhi Rae Breathnach, James Carcaterra, Daisy Edgar-Jones",
+    "details": "Un adattamento che coniuga il commento storico e sociale del testo austeniano con un autentico senso di modernità. Drammatico, USA, Regno Unito 2026. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "20:50",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1503762,
+    "tmdb_title": "Ragione e sentimento",
+    "original_title": "Sense and Sensibility",
+    "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
+    "release_date": "2026-09-23",
+    "vote_average": 7.346,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Georgia Oakley",
+    "ai_reason": "Emerging auteur Georgia Oakley brings a sharp, contemporary sensibility to this literary adaptation, elevating it beyond standard period drama.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "FATHERLAND",
+    "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Devid Striesow",
+    "details": "Una nuova riflessione sul percorso di indagine sul rapporto tra l'uomo e la Storia. Drammatico, Italia, Polonia, Francia, Germania 2026. Durata 82 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "18:00",
+          "19:30",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1437696,
+    "tmdb_title": "Fatherland",
+    "original_title": "Ojczyzna",
+    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
+    "release_date": "2026-06-19",
+    "vote_average": 7.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
+    "genres": "Dramma, Storia",
+    "director": "Paweł Pawlikowski",
+    "ai_reason": "A major cinematic event from Oscar-winner Paweł Pawlikowski, featuring the formidable Sandra Hüller in a rigorous historical inquiry.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "CARO MONDO CRUDELE",
+    "cast": "Aurora Malianni, Francesco Turbanti, Petra Valentini, Guglielmo Favilla",
+    "details": "Un romanzo di formazione sull'elaborazione del lutto. Dove resiste il sacro vincolo dell'amicizia, come bussola in un contesto limitante. Drammatico, Italia 2026. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1508704,
+    "tmdb_title": "Caro mondo crudele",
+    "original_title": "Caro mondo crudele",
+    "overview": "Albinia, fine anni ’90. Giovanna, una dodicenne dalla fantasia straordinaria, non si capacita di come Mirko, suo unico e migliore amico, sia potuto sparire nel nulla, lasciandola da sola fra le vessazioni dei bulli della scuola. Ha così inizio la sua avventura alla ricerca della verità. Fra un mondo di adulti che appare sempre più distante, ed il nascere di nuove e inaspettate amicizie, Giovanna si ritroverà a dover fare i conti con la realtà, segnando il suo ingresso in questo caro mondo crudele.",
+    "release_date": "2026-10-22",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
+    "genres": "Dramma, Commedia",
+    "director": "Niccolò Falsetti",
+    "mathyas-pick": false
+  },
+  {
+    "title": "PRIMETIME",
+    "cast": "Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher",
+    "details": "Un film di filtri e di superfici che lascia fuori l'ipocrisia glossy di Los Angeles e si immerge nel torbido. Drammatico, USA 2026. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "21:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1375441,
+    "tmdb_title": "Primetime",
+    "original_title": "Primetime",
+    "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+    "release_date": "2026-09-23",
+    "vote_average": 6.85,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "genres": "Dramma, Thriller",
+    "director": "Lance Oppenheim",
+    "ai_reason": "A sophisticated, A24-style interrogation of media ethics and voyeurism featuring a daring performance by Robert Pattinson.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "WHALEFALL - NELLA BALENA",
+    "cast": "Austin Abrams, Elisabeth Shue, Josh Brolin, Jane Levy",
+    "details": "Sorprendente survival movie che mette in scena un'ora di pura claustrofobia. Avventura, Drammatico, Thriller - USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1255833,
+    "tmdb_title": "Whalefall - Nella balena",
+    "original_title": "Whalefall",
+    "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+    "release_date": "2026-10-14",
+    "vote_average": 6.623,
+    "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "genres": "Thriller",
+    "director": "Brian Duffield",
+    "ai_reason": "A visceral, high-concept survival thriller from Brian Duffield, a filmmaker known for subverting genre expectations with artistic flair.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "L'ASSURDA STORIA DELLA GIALAPPA'S BAND",
+    "cast": "Giacomo Poretti, Giovanni Storti",
+    "details": "Sul filo della memoria e della nostalgia, un doc che sembra un raduno generazionale e indaga 40 anni di storia nazionale. Documentario, Italia 2026. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:15",
+          "21:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1713924,
+    "tmdb_title": "L'assurda storia della Gialappa's Band",
+    "original_title": "L'assurda storia della Gialappa's Band",
+    "overview": "Nata a metà degli anni '80 in ambito radiofonico, la Gialappa’s Band ha imposto nel panorama mediatico italiano uno stile inconfondibile, fatto di un'ironia tagliente, surreale e profondamente innovativa. Il travolgente successo televisivo ha dato vita a programmi divenuti veri e propri cult, capaci di ridefinire radicalmente i linguaggi della comicità e della narrazione in TV, oltre a fungere da prezioso trampolino di lancio per numerosi protagonisti della scena comica nazionale.  A celebrare questo percorso artistico sarà un documentario d'eccezione, affidato alla regia di Walter Veltroni. Questa prestigiosa firma autoriale garantisce al progetto un notevole spessore culturale, promettendo di restituire non solo la storia della Gialappa’s, ma anche il profondo impatto che il gruppo ha avuto sulla cultura pop italiana.",
+    "release_date": "2026-10-22",
+    "vote_average": 6.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg",
+    "genres": "Documentario",
+    "director": "Walter Veltroni",
+    "mathyas-pick": false
+  },
+  {
+    "title": "STREET FIGHTER",
+    "cast": "Noah Centineo, Andrew Koji, Callina Liang, Joe Anoa'i",
+    "details": "Kitao Sakurai rilancia uno dei videogiochi più popolari degli anni '90, tra combattimenti adrenalinici, nostalgia e tono demenziale. Azione, USA 2026. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1153576,
+    "tmdb_title": "Street Fighter",
+    "original_title": "Street Fighter",
+    "overview": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
+    "release_date": "2026-10-13",
+    "vote_average": 6.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "genres": "Azione, Fantasy",
+    "director": "Kitao Sakurai",
+    "mathyas-pick": false
+  },
+  {
+    "title": "JE SO' PAZZO",
+    "cast": "Massimiliano Caiazzo, Mariasole Pollio, Giovanni Ludeno, Giuseppe Brunetti",
+    "details": "Un biopic autentico e appassionato su Pino Daniele. Con una grande performance di Massimiliano Caiazzo. Biografico, Italia 2026. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "18:40",
+          "20:15",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30",
+          "19:00",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1438966,
+    "tmdb_title": "Je so’ pazzo",
+    "original_title": "Je so’ pazzo",
+    "overview": "Je so’ pazzo è un ritratto intenso di Pino Daniele, un’anima ribelle nata nei vicoli di Napoli, che ha rivoluzionato la musica italiana fondendo blues, jazz e tradizione partenopea. Il film racconta la sua ascesa, dagli anni difficili dell’infanzia segnata dall’abbandono, fino al leggendario concerto del 1981 davanti a 200.000 persone. Tra conflitti familiari, fragilità personali e amori profondi, Pino trova nella musica un linguaggio per esprimere ciò che non riesce a dire. Ma il successo porta con sé nuove sfide: il rapporto irrisolto con il padre, il peso delle aspettative, e il rischio di ripetere gli stessi errori. Non è solo la storia di un musicista straordinario, ma quella di un uomo in lotta con se stesso, in cerca di riconciliazione con le sue radici e con l’amore di una città che non ha mai smesso di aspettarlo.",
+    "release_date": "2026-10-15",
+    "vote_average": 6.293,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+    "genres": "Dramma, Musica",
+    "director": "Nicola Prosatore",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MAMMINA",
+    "cast": "Jessica Chastain, Jay Duplass, Karen Allen, Dichen Lachman",
+    "details": "Horror in pieno stile Blumhouse. Estenuante nella ripetività dei jump scare. Horror, USA 2026. Durata 93 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "22:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1400837,
+    "tmdb_title": "Mammina",
+    "original_title": "Other Mommy",
+    "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
+    "release_date": "2026-10-07",
+    "vote_average": 5.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "genres": "Horror",
+    "director": "Rob Savage",
+    "mathyas-pick": false
+  },
+  {
+    "title": "KLARA E IL SOLE",
+    "cast": "Aran Murphy, Jenna Ortega, Amy Adams, Steve Buscemi",
+    "details": "Un'estetica edulcorata banalizza la profondità filosofica del romanzo bestseller del Premio Nobel Kazuo Ishiguro. Drammatico, Fantascienza - Regno Unito, USA 2026. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 858035,
+    "tmdb_title": "Klara e il sole",
+    "original_title": "Klara and the Sun",
+    "overview": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
+    "release_date": "2026-10-21",
+    "vote_average": 5.625,
+    "poster_url": "https://image.tmdb.org/t/p/w500/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
+    "genres": "Fantascienza, Dramma",
+    "director": "Taika Waititi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SE AMI QUALCUNO DILLO",
+    "cast": "Claudia Gerini, Edoardo Leo, Giovanna Mezzogiorno, Thomas Trabacchi",
+    "details": "Una storia magmatica e corale che riflette su come il maschile tossico e patriarcale possa essere corretto. Commedia, Italia 2026. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:45"
+        ]
+      }
+    ],
+    "tmdb_id": 1713935,
+    "tmdb_title": "Se ami qualcuno dillo",
+    "original_title": "Se ami qualcuno dillo",
+    "overview": "Colto in flagrante durante un tradimento Sergio (Edoardo Leo) ha un malore e finisce in coma. In sala d’attesa si ritrovano tre persone che avrebbero ottimi motivi per non volerlo più vedere: la sua compagna Gabriella (Claudia Gerini), l’ex moglie Alba (Giovanna Mezzogiorno) e il figlio Giulio (Biagio Venditti). Quando Sergio si risveglia è come un bambino nel corpo di un adulto: deve reimparare tutto da capo. E da uomo prepotente e anaffettivo si trasforma in un buffo eroe tragicomico che continua a ripetere di essere rinato, di essere finalmente in grado di amare. E’ proprio questa seconda improbabile infanzia finisce per insegnargli qualcosa che prima gli era sempre sfuggito: come voler bene alla sua complicata famiglia allargata.",
+    "release_date": "2026-10-16",
+    "vote_average": 4.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg",
+    "genres": "Commedia",
+    "director": "Marco Bonini",
+    "mathyas-pick": false
+  }
+]
