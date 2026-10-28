@@ -1,5 +1,34 @@
 [
   {
+    "title": "WILD HORSE NINE",
+    "cast": "Sam Rockwell, Steve Buscemi, Parker Posey, John Malkovich",
+    "details": "Esilarante e raggelante. Il film più politico di un cineasta che non smette di superarsi. Commedia, Drammatico - Regno Unito, USA 2026. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 891621,
+    "tmdb_title": "Wild Horse Nine",
+    "original_title": "Wild Horse Nine",
+    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+    "release_date": "2026-10-30",
+    "vote_average": 9.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "genres": "Commedia, Crime, Thriller",
+    "director": "Martin McDonagh",
+    "mathyas-pick": false
+  },
+  {
     "title": "WILDWOOD - I SEGRETI DEL BOSCO PROIBITO",
     "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali",
     "details": "Un'avventura epica, tra meraviglia e atmosfere da commedia nera. Che incoraggia l'universo femminile alla rivolta. Animazione, Avventura, Drammatico - USA 2026. Durata 139 Minuti.",
@@ -27,8 +56,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "Laika Studios continues to champion stop-motion as a high-art form, delivering a prestige animation with immense artistic value.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "MATRIX",
@@ -51,8 +79,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/3vmTUXJHlKkvenf8G35dr5HlTEh.jpg",
     "genres": "Azione, Fantascienza",
     "director": "Lana Wachowski, Lilly Wachowski",
-    "ai_reason": "A seminal work of cyberpunk philosophy and visual innovation that defines the cult classic category.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA",
@@ -98,41 +125,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
     "genres": "Dramma",
     "director": "Lee Chang-dong",
-    "ai_reason": "The return of South Korean master Lee Chang-dong is a mandatory event for any serious follower of world cinema.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "CLAYFACE",
-    "cast": "Tom Rhys Harries, Ruby Sear, Naomi Ackie, Eddie Marsan",
-    "details": "Un body horror dalle formule abusate e da una trasformazione tragica che arriva troppo tardi. Horror, Avventura, Azione - 2026. Durata 108 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "19:20",
-          "22:00",
-          "21:15"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "17:00",
-          "19:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1400940,
-    "tmdb_title": "Clayface",
-    "original_title": "Clayface",
-    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
-    "release_date": "2026-10-19",
-    "vote_average": 7.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "genres": "Horror, Thriller, Fantascienza",
-    "director": "James Watkins",
-    "ai_reason": "An elevated psychological horror that explores the dissolution of identity and the corrosive nature of ambition.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ZUSTISSIA",
@@ -187,8 +180,39 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli represents the vital new wave of Italian genre auteurs, blending high-tension thriller with deep psychological weight.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "CLAYFACE",
+    "cast": "Tom Rhys Harries, Ruby Sear, Naomi Ackie, Eddie Marsan",
+    "details": "Un body horror dalle formule abusate e da una trasformazione tragica che arriva troppo tardi. Horror, Avventura, Azione - 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:20",
+          "22:00",
+          "21:15"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00",
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1400940,
+    "tmdb_title": "Clayface",
+    "original_title": "Clayface",
+    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
+    "release_date": "2026-10-19",
+    "vote_average": 7.46,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+    "genres": "Horror, Thriller, Fantascienza",
+    "director": "James Watkins",
+    "mathyas-pick": false
   },
   {
     "title": "RAGIONE E SENTIMENTO",
@@ -220,8 +244,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "Emerging auteur Georgia Oakley brings a sharp, contemporary sensibility to this literary adaptation, elevating it beyond standard period drama.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.",
+    "cast": "Kate Harbour, Justin Fletcher, John Sparkes",
+    "details": "Lo Studio Aardoman compie 50 anni e ci regala un film divertente e spensierato. Animazione, Regno Unito, Francia, USA 2026. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:00",
+          "19:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1477104,
+    "tmdb_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
+    "release_date": "2026-09-17",
+    "vote_average": 7.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
+    "genres": "Animazione, Fantascienza, Commedia",
+    "director": "Steve Cox, Matthew Walker",
+    "mathyas-pick": false
   },
   {
     "title": "FATHERLAND",
@@ -246,8 +293,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A major cinematic event from Oscar-winner Paweł Pawlikowski, featuring the formidable Sandra Hüller in a rigorous historical inquiry.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "CARO MONDO CRUDELE",
@@ -289,12 +335,11 @@
     "original_title": "Primetime",
     "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
     "release_date": "2026-09-23",
-    "vote_average": 6.85,
+    "vote_average": 6.848,
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "A sophisticated, A24-style interrogation of media ethics and voyeurism featuring a daring performance by Robert Pattinson.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "WHALEFALL - NELLA BALENA",
@@ -317,8 +362,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
     "genres": "Thriller",
     "director": "Brian Duffield",
-    "ai_reason": "A visceral, high-concept survival thriller from Brian Duffield, a filmmaker known for subverting genre expectations with artistic flair.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "L'ASSURDA STORIA DELLA GIALAPPA'S BAND",
@@ -438,6 +482,31 @@
     "mathyas-pick": false
   },
   {
+    "title": "IT ENDS",
+    "cast": "Phinehas Yoon, Akira Jackson, Noah Toth, Mitchell Cole",
+    "details": "Una strada senza fine e un viaggio infernale. Un'opera prima da segnalare. Horror, Drammatico, Fantastico - USA 2025. Durata 89 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "18:20",
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1422011,
+    "tmdb_title": "It Ends",
+    "original_title": "It Ends",
+    "overview": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
+    "release_date": "2026-08-21",
+    "vote_average": 5.639,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+    "genres": "Horror, Mistero",
+    "director": "Alexander Ullom",
+    "mathyas-pick": false
+  },
+  {
     "title": "KLARA E IL SOLE",
     "cast": "Aran Murphy, Jenna Ortega, Amy Adams, Steve Buscemi",
     "details": "Un'estetica edulcorata banalizza la profondità filosofica del romanzo bestseller del Premio Nobel Kazuo Ishiguro. Drammatico, Fantascienza - Regno Unito, USA 2026. Durata 116 Minuti.",
@@ -454,7 +523,7 @@
     "original_title": "Klara and the Sun",
     "overview": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
     "release_date": "2026-10-21",
-    "vote_average": 5.625,
+    "vote_average": 5.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
     "genres": "Fantascienza, Dramma",
     "director": "Taika Waititi",
@@ -481,6 +550,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg",
     "genres": "Commedia",
     "director": "Marco Bonini",
+    "mathyas-pick": false
+  },
+  {
+    "title": "OZZY & BLACK SABBATH - BACK TO THE BEGINNING",
+    "cast": "Black Sabbath, Metallica",
+    "details": "Documentario, Musicale - USA 2026. Durata 147 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1515139,
+    "tmdb_title": "Back to the Beginning: Ozzy's Final Bow",
+    "original_title": "Back to the Beginning: Ozzy's Final Bow",
+    "overview": "",
+    "release_date": "2026-10-28",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
+    "genres": "Musica, Documentario",
+    "director": "Ben Wainwright-Pearce",
     "mathyas-pick": false
   }
 ]
