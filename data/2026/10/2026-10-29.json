@@ -26,7 +26,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "The pinnacle of prestige animation from Laika Studios and Travis Knight, representing a major artistic achievement in contemporary stop-motion.",
+    "ai_reason": "A pinnacle of prestige animation from Laika Studios and Travis Knight, offering the kind of artisanal craftsmanship that transcends family entertainment.",
     "mathyas-pick": true
   },
   {
@@ -50,7 +50,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/deNnRUbRnImW2n5RQrQHWwH5ox6.jpg",
     "genres": "Dramma",
     "director": "Mélisa Godet",
-    "mathyas-pick": false
+    "ai_reason": "A critically acclaimed work of French social realism and arthouse drama, marked by profound psychological depth and a stellar performance by Karin Viard.",
+    "mathyas-pick": true
   },
   {
     "title": "CLAYFACE",
@@ -76,11 +77,11 @@
     "original_title": "Clayface",
     "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
     "release_date": "2026-10-19",
-    "vote_average": 7.5,
+    "vote_average": 7.466,
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated psychological horror that delves into the dark side of ambition and the loss of autonomy, moving beyond generic genre tropes.",
+    "ai_reason": "An elevated work of psychological body horror from James Watkins that dissects the corrosive nature of Hollywood ambition and identity loss.",
     "mathyas-pick": true
   },
   {
@@ -106,7 +107,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A prime example of the new wave of elevated Italian genre cinema, directed by Paolo Strippoli, focusing on deep-seated psychological trauma.",
+    "ai_reason": "A sophisticated piece of Italian genre cinema featuring Jasmine Trinca, leaning into the psychological depth and atmospheric tension of contemporary auteurs.",
     "mathyas-pick": true
   },
   {
@@ -126,11 +127,11 @@
     "original_title": "Sense and Sensibility",
     "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
     "release_date": "2026-09-23",
-    "vote_average": 7.378,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "An auteur-driven period drama from Georgia Oakley, one of the most exciting emerging voices in modern indie cinema following her success with 'Blue Jean'.",
+    "ai_reason": "A prestige literary adaptation by emerging indie auteur Georgia Oakley, promising a refined and modern perspective on classical sensibilities.",
     "mathyas-pick": true
   },
   {
@@ -185,7 +186,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A significant cinematic event from Oscar-winning auteur Paweł Pawlikowski, featuring the formidable Sandra Hüller in a rigorous exploration of historical and personal identity.",
+    "ai_reason": "A major cinematic event from Academy Award winner Paweł Pawlikowski, starring the incomparable Sandra Hüller in a rigorous exploration of historical memory.",
     "mathyas-pick": true
   },
   {
@@ -209,6 +210,39 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/AaDoLXs4D22i65OLw7HxMkj5sKN.jpg",
     "genres": "Animazione, Avventura, Famiglia, Commedia",
     "director": "Steve Hudson",
+    "mathyas-pick": false
+  },
+  {
+    "title": "FAST & FURIOUS",
+    "cast": "Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster",
+    "details": "Piloti di corse clandestine, rock, ragazze sempre vestite di pelle. Azione, USA 2001. Durata 98 Minuti. Consigli per la visione: Ragazzi +13",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:10",
+          "18:50",
+          "20:50",
+          "21:30",
+          "22:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 384018,
+    "tmdb_title": "Fast & Furious - Hobbs & Shaw",
+    "original_title": "Fast & Furious Presents: Hobbs & Shaw",
+    "overview": "In seguito al loro primo scontro in Fast & Furious 7 del 2015, tra Hobbs, mastodontico veterano del dipartimento di polizia statunitense Diplomatic Security Service, e Shaw, emarginato fuorilegge ed ex agente scelto dell'esercito inglese, c'è sempre stato un forte scambio di provocazioni e scontri nel tentativo di farsi fuori a vicenda.  Ma quando Brixton, un anarchico ciberneticamente e geneticamente potenziato, si trova in possesso di una minaccia biologica che potrebbe alterare il genere umano per sempre - ed ha la meglio contro una brillante ed impavida agente dell'MI6, nonché sorella di Shaw - i due acerrimi nemici dovranno unire le forze per annientare l'unico uomo che potrebbe dimostrarsi più duro di loro due.",
+    "release_date": "2019-07-31",
+    "vote_average": 6.815,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cnzGX61xD0G02D3EqivfZ1bOCDv.jpg",
+    "genres": "Azione, Avventura, Commedia",
+    "director": "David Leitch",
     "mathyas-pick": false
   },
   {
@@ -241,6 +275,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
     "genres": "Dramma, Musica",
     "director": "Nicola Prosatore",
+    "mathyas-pick": false
+  },
+  {
+    "title": "NEL SILENZIO DELLE STANZE",
+    "cast": "Swann Arlaud, Louise Chevillotte, Emmanuelle Devos, Galatéa Bellugi",
+    "details": "Un dramma familiare che esplora da molto vicino la vera natura umana. Drammatico, Francia 2025. Durata 103 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1119548,
+    "tmdb_title": "Nel silenzio delle stanze",
+    "original_title": "La Condition",
+    "overview": "Normandia, 1908. Céleste è una giovane domestica che lavora nella grande villa di André, un ricco notaio, e sua moglie Victoire, una donna oppressa dalle convenzioni borghesi che la vogliono moglie modello. Un giorno Victoire scopre che Céleste è incinta e intuisce che il padre è Andre. Per evitare lo scandalo e proteggere la reputazione della coppia, la donna impone al marito una condizione: l’integrità dell’uomo sarà preservata ma un accordo segreto legherà Victoire e Céleste in un’inaspettata alleanza che porterà le due donne a sfidare il rigido ordine sociale del tempo.",
+    "release_date": "2025-12-10",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
+    "genres": "Dramma, Storia",
+    "director": "Jérôme Bonnell",
     "mathyas-pick": false
   },
   {
@@ -300,7 +357,7 @@
     "original_title": "Ice Cream Man",
     "overview": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
     "release_date": "2026-08-03",
-    "vote_average": 5.261,
+    "vote_average": 5.277,
     "poster_url": "https://image.tmdb.org/t/p/w500/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
     "genres": "Horror, Commedia, Thriller",
     "director": "Eli Roth",
@@ -328,6 +385,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nwSYtZNc42WaqOzkMpSuZ4NElJr.jpg",
     "genres": "Horror, Avventura, Fantasy",
     "director": "Jonathan English",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SE AMI QUALCUNO DILLO",
+    "cast": "Claudia Gerini, Edoardo Leo, Giovanna Mezzogiorno, Thomas Trabacchi",
+    "details": "Una storia magmatica e corale che riflette su come il maschile tossico e patriarcale possa essere corretto. Commedia, Italia 2026. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1713935,
+    "tmdb_title": "Se ami qualcuno dillo",
+    "original_title": "Se ami qualcuno dillo",
+    "overview": "Colto in flagrante durante un tradimento Sergio (Edoardo Leo) ha un malore e finisce in coma. In sala d’attesa si ritrovano tre persone che avrebbero ottimi motivi per non volerlo più vedere: la sua compagna Gabriella (Claudia Gerini), l’ex moglie Alba (Giovanna Mezzogiorno) e il figlio Giulio (Biagio Venditti). Quando Sergio si risveglia è come un bambino nel corpo di un adulto: deve reimparare tutto da capo. E da uomo prepotente e anaffettivo si trasforma in un buffo eroe tragicomico che continua a ripetere di essere rinato, di essere finalmente in grado di amare. E’ proprio questa seconda improbabile infanzia finisce per insegnargli qualcosa che prima gli era sempre sfuggito: come voler bene alla sua complicata famiglia allargata.",
+    "release_date": "2026-10-16",
+    "vote_average": 4.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg",
+    "genres": "Commedia",
+    "director": "Marco Bonini",
     "mathyas-pick": false
   },
   {
@@ -397,7 +477,7 @@
   {
     "title": "OZZY & BLACK SABBATH - BACK TO THE BEGINNING",
     "cast": "Black Sabbath, Metallica",
-    "details": "Documentario, Musicale - USA 2026. Durata 147 Minuti.",
+    "details": "L'ultima serata trionfale di Ozzy Osbourne, celebrata in grande stile tra ospiti illustri e fan adoranti. Documentario, Musicale - USA 2026. Durata 147 Minuti.",
     "cinemas": [
       {
         "name": "Uci Cinemas Showville",
