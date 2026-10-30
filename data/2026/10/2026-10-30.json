@@ -22,11 +22,11 @@
     "original_title": "Wildwood",
     "overview": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
     "release_date": "2026-10-19",
-    "vote_average": 8.63,
+    "vote_average": 8.628,
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "The latest from LAIKA Studios, representing the pinnacle of prestige stop-motion animation and artisanal cinematic craftsmanship.",
+    "ai_reason": "Prestige stop-motion animation from Laika Studios, representing the pinnacle of artistic value and meticulous craftsmanship in the medium.",
     "mathyas-pick": true
   },
   {
@@ -50,7 +50,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/deNnRUbRnImW2n5RQrQHWwH5ox6.jpg",
     "genres": "Dramma",
     "director": "Mélisa Godet",
-    "mathyas-pick": false
+    "ai_reason": "Highly acclaimed French social-realist drama that avoids sentimentality for deep, arthouse-inflected exploration of human trauma.",
+    "mathyas-pick": true
   },
   {
     "title": "CLAYFACE",
@@ -82,7 +83,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated psychological horror that utilizes genre tropes to explore the corrosive nature of ambition and the loss of autonomy.",
+    "ai_reason": "An elevated psychological horror that delves into identity and ambition, fitting the mold of sophisticated genre hits by emerging auteurs.",
     "mathyas-pick": true
   },
   {
@@ -115,7 +116,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A sophisticated Italian psychological thriller from rising auteur Paolo Strippoli, featuring an elite cast and deep thematic undertones.",
+    "ai_reason": "A gripping Italian psychological thriller from emerging genre-auteur Paolo Strippoli, featuring the esteemed Jasmine Trinca.",
     "mathyas-pick": true
   },
   {
@@ -130,9 +131,9 @@
         ]
       },
       {
-        "name": "Uci Cinemas Showville",
+        "name": "The Space Casamassima",
         "times": [
-          "19:50",
+          "18:30",
           "21:15",
           "23:25"
         ]
@@ -147,7 +148,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4F3t9sAdpmJ8adyForeCcj5G8pX.jpg",
     "genres": "Romance, Horror",
     "director": "Francis Ford Coppola",
-    "ai_reason": "An essential theatrical re-release of Francis Ford Coppola’s gothic masterpiece, offering a masterclass in production design and operatic practical effects.",
+    "ai_reason": "An essential cinematic re-release of Francis Ford Coppola’s Gothic masterpiece, a cornerstone of cult horror and visual opulence.",
     "mathyas-pick": true
   },
   {
@@ -171,7 +172,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "A modern interpretation of a classic by emerging auteur Georgia Oakley, known for her sharp, psychological depth and acclaimed indie sensibility.",
+    "ai_reason": "A sophisticated and elevated take on the Dashwood sisters by emerging indie auteur Georgia Oakley, moving beyond standard period romance.",
     "mathyas-pick": true
   },
   {
@@ -226,7 +227,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A major cinematic event from visionary auteur Paweł Pawlikowski, featuring the prestigious Sandra Hüller in a rigorous exploration of post-war identity.",
+    "ai_reason": "A major cinematic event from Oscar-winning auteur Paweł Pawlikowski, starring Sandra Hüller in a high-prestige historical drama.",
     "mathyas-pick": true
   },
   {
@@ -303,11 +304,11 @@
     "original_title": "Primetime",
     "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
     "release_date": "2026-09-23",
-    "vote_average": 6.848,
+    "vote_average": 6.833,
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "A high-stakes psychological thriller led by Robert Pattinson, exploring the blurred lines between justice and media voyeurism through an auteurist lens.",
+    "ai_reason": "A highly anticipated psychological drama starring Robert Pattinson, blending social commentary with the elevated style of modern indie cinema.",
     "mathyas-pick": true
   },
   {
@@ -395,7 +396,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
     "genres": "Dramma, Storia",
     "director": "Jérôme Bonnell",
-    "mathyas-pick": false
+    "ai_reason": "An elegant and understated French period piece that explores social constraints through a refined arthouse lens.",
+    "mathyas-pick": true
   },
   {
     "title": "IT ENDS",
@@ -431,7 +433,7 @@
   },
   {
     "title": "ICE CREAM MAN",
-    "cast": "Eli Roth, Ari Millen, Ryan Allen (II), Benjamin Byron Davis",
+    "cast": "Kiori Mirza Waldman, Carina Battrick, Ari Millen, Ryan Allen (II)",
     "details": "Sempre più grottesco e caricaturale nello stile, Eli Roth mette in scena un violento horror derivativo e caricaturale. Horror, USA 2026. Durata 86 Minuti.",
     "cinemas": [
       {
