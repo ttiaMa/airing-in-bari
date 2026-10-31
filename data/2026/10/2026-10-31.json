@@ -27,8 +27,45 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "The latest offering from Laika Studios, representing the pinnacle of high-art stop-motion animation and visual storytelling.",
+    "ai_reason": "Prestige stop-motion from LAIKA Studios, maintaining the high artistic standard of adult-friendly, artisanal animation.",
     "mathyas-pick": true
+  },
+  {
+    "title": "IL GATTO COL CAPPELLO",
+    "cast": "Matt Berry, Bill Hader, Quinta Brunson, Bowen Yang",
+    "details": "Animazione, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:30",
+          "17:10"
+        ]
+      },
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:45",
+          "18:30"
+        ]
+      },
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1117898,
+    "tmdb_title": "Il gatto col cappello",
+    "original_title": "The Cat in the Hat",
+    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+    "release_date": "2026-11-04",
+    "vote_average": 8.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "genres": "Animazione, Commedia, Avventura, Fantasy, Famiglia",
+    "director": "Erica Rivinoja, Alessandro Carloni",
+    "mathyas-pick": false
   },
   {
     "title": "LA MAISON DES FEMMES - LA CASA DELLE DONNE",
@@ -51,7 +88,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/deNnRUbRnImW2n5RQrQHWwH5ox6.jpg",
     "genres": "Dramma",
     "director": "Mélisa Godet",
-    "mathyas-pick": false
+    "ai_reason": "Rigorous European social realism that offers a profound psychological portrait of resilience and structural violence.",
+    "mathyas-pick": true
   },
   {
     "title": "L'ESTRANEA",
@@ -82,7 +120,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A compelling example of 'elevated' psychological thriller from an emerging Italian auteur, blending domestic drama with unsettling genre elements.",
+    "ai_reason": "Elevated Italian genre cinema starring Jasmine Trinca; a psychological thriller that avoids mainstream tropes for a darker, auteurist vision.",
     "mathyas-pick": true
   },
   {
@@ -115,7 +153,32 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4F3t9sAdpmJ8adyForeCcj5G8pX.jpg",
     "genres": "Romance, Horror",
     "director": "Francis Ford Coppola",
-    "ai_reason": "A definitive re-release of Francis Ford Coppola's baroque masterpiece; a cornerstone of gothic cinema that epitomizes cult classic status.",
+    "ai_reason": "A cornerstone of cinema history; Coppola's baroque masterpiece returns to the screen in all its practical-effects glory.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "RAGIONE E SENTIMENTO",
+    "cast": "Esme Creed-Miles, Bodhi Rae Breathnach, James Carcaterra, Daisy Edgar-Jones",
+    "details": "Un adattamento che coniuga il commento storico e sociale del testo austeniano con un autentico senso di modernità. Drammatico, USA, Regno Unito 2026. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:25",
+          "20:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1503762,
+    "tmdb_title": "Ragione e sentimento",
+    "original_title": "Sense and Sensibility",
+    "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
+    "release_date": "2026-09-23",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
+    "genres": "Dramma, Romance, Storia",
+    "director": "Georgia Oakley",
+    "ai_reason": "A reimagining of the classic by Georgia Oakley (Blue Jean), bringing a distinct modern indie sensibility to the period drama.",
     "mathyas-pick": true
   },
   {
@@ -146,32 +209,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated genre piece that examines the dark side of Hollywood ambition through a lens of psychological horror and identity loss.",
+    "ai_reason": "A sophisticated descent into psychological and body horror, exploring the corrosive nature of Hollywood ambition.",
     "mathyas-pick": true
-  },
-  {
-    "title": "RAGIONE E SENTIMENTO",
-    "cast": "Esme Creed-Miles, Bodhi Rae Breathnach, James Carcaterra, Daisy Edgar-Jones",
-    "details": "Un adattamento che coniuga il commento storico e sociale del testo austeniano con un autentico senso di modernità. Drammatico, USA, Regno Unito 2026. Durata 132 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "18:25",
-          "20:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1503762,
-    "tmdb_title": "Ragione e sentimento",
-    "original_title": "Sense and Sensibility",
-    "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
-    "release_date": "2026-09-23",
-    "vote_average": 7.4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
-    "genres": "Dramma, Romance, Storia",
-    "director": "Georgia Oakley",
-    "mathyas-pick": false
   },
   {
     "title": "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.",
@@ -199,7 +238,7 @@
     "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
     "release_date": "2026-09-17",
-    "vote_average": 7.381,
+    "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
     "genres": "Animazione, Fantascienza, Commedia",
     "director": "Steve Cox, Matthew Walker",
@@ -227,7 +266,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A mandatory selection for any cinephile, directed by Oscar-winner Paweł Pawlikowski and starring the incomparable Sandra Hüller in a post-war psychological journey.",
+    "ai_reason": "A major cinematic event: the return of Paweł Pawlikowski (Cold War, Ida) with the formidable Sandra Hüller. Pure auteur prestige.",
     "mathyas-pick": true
   },
   {
@@ -321,6 +360,30 @@
     "mathyas-pick": false
   },
   {
+    "title": "HOPE",
+    "cast": "Hwang Jung-min, In-sung Jo, Alicia Vikander, Michael Fassbender",
+    "details": "Un fanta-horror costantemente sopra le righe. L'incipit è molto buono ma l'esito inadeguato. Azione, Fantascienza, Horror - Corea del sud 2026. Durata 160 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "10:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1058424,
+    "tmdb_title": "Hope",
+    "original_title": "호프",
+    "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
+    "release_date": "2026-07-15",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
+    "genres": "Fantascienza, Mistero, Azione",
+    "director": "나홍진",
+    "ai_reason": "A significant event for world cinema aficionados, marking the return of South Korean master Na Hong-jin (The Wailing).",
+    "mathyas-pick": true
+  },
+  {
     "title": "PRIMETIME",
     "cast": "Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher",
     "details": "Un film di filtri e di superfici che lascia fuori l'ipocrisia glossy di Los Angeles e si immerge nel torbido. Drammatico, USA 2026. Durata 110 Minuti.",
@@ -341,7 +404,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "A sophisticated exploration of media voyeurism featuring Robert Pattinson, aligning with the prestige indie sensibilities of an A24 production.",
+    "ai_reason": "Modern indie excellence featuring Robert Pattinson; a sharp, A24-adjacent exploration of media voyeurism and ethics.",
     "mathyas-pick": true
   },
   {
@@ -365,7 +428,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
     "genres": "Thriller",
     "director": "Brian Duffield",
-    "mathyas-pick": false
+    "ai_reason": "Intelligent, high-concept survival thriller from Brian Duffield, a rising voice in modern genre-bending cinema.",
+    "mathyas-pick": true
   },
   {
     "title": "JE SO' PAZZO",
@@ -420,7 +484,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
     "genres": "Dramma, Storia",
     "director": "Jérôme Bonnell",
-    "mathyas-pick": false
+    "ai_reason": "A masterclass in French arthouse drama, examining class tensions and domestic claustrophobia with surgical precision.",
+    "mathyas-pick": true
   },
   {
     "title": "MAMMINA",
@@ -443,7 +508,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "A high-caliber psychological horror starring Jessica Chastain that delves into themes of autonomy and maternal identity, moving far beyond standard genre tropes.",
+    "ai_reason": "High-concept elevated horror featuring Jessica Chastain; a gripping exploration of maternal trauma and loss of autonomy.",
     "mathyas-pick": true
   },
   {
