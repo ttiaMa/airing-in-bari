@@ -29,7 +29,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "The latest prestige stop-motion feat from Laika Studios, following in the high-art tradition of 'Coraline' and 'Kubo'.",
+    "ai_reason": "A pinnacle of artistic prestige animation from the visionary LAIKA Studios and director Travis Knight.",
     "mathyas-pick": true
   },
   {
@@ -53,7 +53,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/l5qUox5uroubMi8sihD9RGPbcwO.jpg",
     "genres": "Famiglia, Animazione, Musica, Avventura",
     "director": "Lee Unkrich",
-    "ai_reason": "A modern masterpiece of animation that represents Pixar's highest artistic achievement in recent years.",
+    "ai_reason": "A Pixar original of immense critical acclaim and artistic depth, representing the highest tier of prestige animation.",
     "mathyas-pick": true
   },
   {
@@ -100,8 +100,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/deNnRUbRnImW2n5RQrQHWwH5ox6.jpg",
     "genres": "Dramma",
     "director": "Mélisa Godet",
-    "ai_reason": "A powerful piece of contemporary French arthouse cinema, lauded for its raw social realism and emotional depth.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL GATTO COL CAPPELLO",
+    "cast": "Matt Berry, Bill Hader, Quinta Brunson, Bowen Yang",
+    "details": "Animazione, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "14:30",
+          "17:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1117898,
+    "tmdb_title": "Il gatto col cappello",
+    "original_title": "The Cat in the Hat",
+    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+    "release_date": "2026-11-04",
+    "vote_average": 7.667,
+    "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "genres": "Animazione, Commedia, Avventura, Fantasy, Famiglia",
+    "director": "Erica Rivinoja, Alessandro Carloni",
+    "mathyas-pick": false
   },
   {
     "title": "NORIMBERGA",
@@ -124,7 +147,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ucZHG8KD2A9Czl1aZz1f4bIvbLR.jpg",
     "genres": "Storia, Dramma",
     "director": "James Vanderbilt",
-    "ai_reason": "A heavyweight historical drama with major performances, documenting a pivotal moment in human history with high production value.",
+    "ai_reason": "A high-prestige historical drama with a powerhouse cast, delving into the moral and psychological complexities of the Nuremberg trials.",
     "mathyas-pick": true
   },
   {
@@ -137,8 +160,7 @@
         "times": [
           "14:10",
           "20:30",
-          "22:20",
-          "00:20"
+          "22:20"
         ]
       },
       {
@@ -158,7 +180,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated horror exploration of identity and ambition from James Watkins, a director known for visceral, psychological storytelling.",
+    "ai_reason": "James Watkins delivers a Cronenbergian exploration of identity and ambition, elevating body horror into a sophisticated genre study.",
     "mathyas-pick": true
   },
   {
@@ -191,7 +213,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli represents the new wave of elevated Italian genre cinema, blending psychological tension with auteur sensibilities.",
+    "ai_reason": "An essential piece of contemporary Italian cinema by rising auteur Paolo Strippoli, blending psychological tension with a prestige cast.",
     "mathyas-pick": true
   },
   {
@@ -223,7 +245,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/4F3t9sAdpmJ8adyForeCcj5G8pX.jpg",
     "genres": "Romance, Horror",
     "director": "Francis Ford Coppola",
-    "ai_reason": "A cornerstone of gothic cinema, this essential re-release allows audiences to experience Coppola's visual masterpiece on the big screen.",
+    "ai_reason": "A quintessential theatrical re-release of Francis Ford Coppola's gothic masterpiece; a cornerstone of cinema history.",
     "mathyas-pick": true
   },
   {
@@ -282,7 +304,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance, Storia",
     "director": "Georgia Oakley",
-    "ai_reason": "A sophisticated reimagining of Austen through the lens of Georgia Oakley, the acclaimed director of 'Blue Jean'.",
+    "ai_reason": "Arthouse director Georgia Oakley brings a refined, modern perspective to this prestigious literary adaptation.",
     "mathyas-pick": true
   },
   {
@@ -307,7 +329,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A major cinematic event from Paweł Pawlikowski, the Academy Award-winning visionary behind 'Ida' and 'Cold War'.",
+    "ai_reason": "A major cinematic event from Oscar-winning auteur Paweł Pawlikowski, featuring the formidable Sandra Hüller in a historical journey through post-war Germany.",
     "mathyas-pick": true
   },
   {
@@ -348,8 +370,7 @@
           "16:35",
           "17:50",
           "18:50",
-          "21:30",
-          "00:35"
+          "21:30"
         ]
       },
       {
@@ -392,7 +413,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "genres": "Dramma, Thriller",
     "director": "Lance Oppenheim",
-    "ai_reason": "A meta-narrative thriller led by Robert Pattinson and directed by rising auteur Lance Oppenheim, exploring the darker side of media.",
+    "ai_reason": "A sophisticated, high-stakes psychological thriller led by Robert Pattinson, exploring the dark intersection of media justice and voyeurism.",
     "mathyas-pick": true
   },
   {
@@ -435,11 +456,11 @@
     "original_title": "Whalefall",
     "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
     "release_date": "2026-10-14",
-    "vote_average": 6.6,
+    "vote_average": 6.573,
     "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
     "genres": "Thriller",
     "director": "Brian Duffield",
-    "ai_reason": "A high-concept survival thriller from Brian Duffield, exploring profound themes of paternal legacy within a surreal, claustrophobic setting.",
+    "ai_reason": "A high-concept arthouse thriller that transforms a survival premise into a profound exploration of paternal legacy.",
     "mathyas-pick": true
   },
   {
@@ -528,7 +549,7 @@
     "original_title": "Street Fighter",
     "overview": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
     "release_date": "2026-10-13",
-    "vote_average": 6.319,
+    "vote_average": 6.314,
     "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
     "genres": "Azione, Fantasy",
     "director": "Kitao Sakurai",
@@ -555,7 +576,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
     "genres": "Dramma, Storia",
     "director": "Jérôme Bonnell",
-    "ai_reason": "A refined French period drama that deconstructs bourgeois conventions through a lens of female solidarity.",
+    "ai_reason": "A delicate French arthouse period drama examining class dynamics and secret alliances within the rigid social order of 1908 Normandy.",
     "mathyas-pick": true
   },
   {
@@ -599,8 +620,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "22:35",
-          "00:10"
+          "22:35"
         ]
       }
     ],
@@ -613,7 +633,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "Psychological horror featuring Jessica Chastain, focusing on the unsettling distortion of maternal bonds—a hallmark of elevated genre hits.",
+    "ai_reason": "An elevated psychological horror anchored by Jessica Chastain, exploring themes of maternal autonomy and sinister domesticity.",
     "mathyas-pick": true
   },
   {
@@ -627,8 +647,7 @@
           "11:00",
           "15:30",
           "20:00",
-          "21:50",
-          "00:10"
+          "21:50"
         ]
       },
       {
@@ -644,7 +663,7 @@
     "original_title": "Ice Cream Man",
     "overview": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
     "release_date": "2026-08-03",
-    "vote_average": 5.284,
+    "vote_average": 5.287,
     "poster_url": "https://image.tmdb.org/t/p/w500/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
     "genres": "Horror, Commedia, Thriller",
     "director": "Eli Roth",
