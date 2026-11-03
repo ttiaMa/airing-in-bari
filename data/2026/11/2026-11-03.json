@@ -26,7 +26,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "Travis Knight and Laika Studios deliver another pinnacle of stop-motion artistry, representing the absolute gold standard of contemporary prestige animation.",
+    "ai_reason": "A prestige stop-motion achievement from Travis Knight and Laika, representing the highest artistic tier of contemporary animation.",
     "mathyas-pick": true
   },
   {
@@ -83,7 +83,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/deNnRUbRnImW2n5RQrQHWwH5ox6.jpg",
     "genres": "Dramma",
     "director": "Mélisa Godet",
-    "mathyas-pick": false
+    "ai_reason": "A powerful, high-rated piece of international social realism that offers a sophisticated critique of systemic violence.",
+    "mathyas-pick": true
   },
   {
     "title": "STRANGE JOURNEY: THE STORY OF ROCKY HORROR",
@@ -106,7 +107,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/dsmzcTYLKrHLeZZZXiLPN0uUuYH.jpg",
     "genres": "Documentario",
     "director": "Linus O'Brien",
-    "ai_reason": "An essential deep-dive into the genesis of cinema's most enduring cult phenomenon, mandatory viewing for any serious cinephile.",
+    "ai_reason": "An essential archaeological look into the history and making of the ultimate cult masterpiece of cinema history.",
     "mathyas-pick": true
   },
   {
@@ -130,7 +131,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "genres": "Commedia, Dramma",
     "director": "Alejandro G. Iñárritu",
-    "ai_reason": "A monumental cinematic collision: Alejandro G. Iñárritu directs Tom Cruise in a high-stakes, high-art event movie with major auteur pedigree.",
+    "ai_reason": "A major cinematic event from multi-Oscar winner Alejandro G. Iñárritu, blending auteur sensibility with a high-profile cast led by Tom Cruise.",
     "mathyas-pick": true
   },
   {
@@ -163,7 +164,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli confirms his status as a key auteur of the 'new Italian gothic' with this high-brow psychological thriller starring Jasmine Trinca.",
+    "ai_reason": "A sophisticated example of elevated Italian genre cinema from auteur Paolo Strippoli, featuring a prestige cast including Jasmine Trinca.",
     "mathyas-pick": true
   },
   {
@@ -197,7 +198,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated psychological thriller and body horror that dissects Hollywood ambition and the loss of autonomy through a sophisticated, surreal lens.",
+    "ai_reason": "James Watkins crafts a psychological horror that transcends the genre to explore the corrosive nature of Hollywood ambition and identity.",
     "mathyas-pick": true
   },
   {
@@ -252,7 +253,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A masterclass in prestige cinema from Paweł Pawlikowski, exploring post-war Germany through a haunting lens with the incomparable Sandra Hüller.",
+    "ai_reason": "Directed by Paweł Pawlikowski and starring Sandra Hüller, this is a top-tier European arthouse production from a master of modern cinema.",
     "mathyas-pick": true
   },
   {
@@ -277,7 +278,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Romance, Dramma, Storia",
     "director": "Georgia Oakley",
-    "ai_reason": "Arthouse director Georgia Oakley applies a refined, indie sensibility to this exquisite period drama, lead by the luminous Daisy Edgar-Jones.",
+    "ai_reason": "Emerging auteur Georgia Oakley applies her acclaimed indie lens to a refined and psychologically deep historical drama.",
     "mathyas-pick": true
   },
   {
@@ -302,30 +303,6 @@
     "genres": "Animazione, Avventura, Famiglia, Commedia",
     "director": "Steve Hudson",
     "mathyas-pick": false
-  },
-  {
-    "title": "PRIMETIME",
-    "cast": "Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher",
-    "details": "Un film di filtri e di superfici che lascia fuori l'ipocrisia glossy di Los Angeles e si immerge nel torbido. Drammatico, USA 2026. Durata 110 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:10"
-        ]
-      }
-    ],
-    "tmdb_id": 1375441,
-    "tmdb_title": "Primetime",
-    "original_title": "Primetime",
-    "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
-    "release_date": "2026-09-23",
-    "vote_average": 6.845,
-    "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
-    "genres": "Dramma, Thriller",
-    "director": "Lance Oppenheim",
-    "ai_reason": "An A24-style descent into the dark heart of media voyeurism, anchored by Robert Pattinson’s chameleonic intensity and emerging auteur direction.",
-    "mathyas-pick": true
   },
   {
     "title": "FAST & FURIOUS",
@@ -358,6 +335,30 @@
     "genres": "Azione, Avventura, Commedia",
     "director": "David Leitch",
     "mathyas-pick": false
+  },
+  {
+    "title": "PRIMETIME",
+    "cast": "Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher",
+    "details": "Un film di filtri e di superfici che lascia fuori l'ipocrisia glossy di Los Angeles e si immerge nel torbido. Drammatico, USA 2026. Durata 110 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1375441,
+    "tmdb_title": "Primetime",
+    "original_title": "Primetime",
+    "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+    "release_date": "2026-09-23",
+    "vote_average": 6.785,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "genres": "Dramma, Thriller",
+    "director": "Lance Oppenheim",
+    "ai_reason": "An elevated psychological thriller starring Robert Pattinson, exploring the dark, voyeuristic intersection of media and justice.",
+    "mathyas-pick": true
   },
   {
     "title": "JE SO' PAZZO",
@@ -409,11 +410,12 @@
     "original_title": "La Condition",
     "overview": "Normandia, 1908. Céleste è una giovane domestica che lavora nella grande villa di André, un ricco notaio, e sua moglie Victoire, una donna oppressa dalle convenzioni borghesi che la vogliono moglie modello. Un giorno Victoire scopre che Céleste è incinta e intuisce che il padre è Andre. Per evitare lo scandalo e proteggere la reputazione della coppia, la donna impone al marito una condizione: l’integrità dell’uomo sarà preservata ma un accordo segreto legherà Victoire e Céleste in un’inaspettata alleanza che porterà le due donne a sfidare il rigido ordine sociale del tempo.",
     "release_date": "2025-12-10",
-    "vote_average": 6,
+    "vote_average": 6.076,
     "poster_url": "https://image.tmdb.org/t/p/w500/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
     "genres": "Dramma, Storia",
     "director": "Jérôme Bonnell",
-    "mathyas-pick": false
+    "ai_reason": "A refined piece of French arthouse cinema exploring rigid social orders and secret alliances with high artistic merit.",
+    "mathyas-pick": true
   },
   {
     "title": "IT ENDS",
