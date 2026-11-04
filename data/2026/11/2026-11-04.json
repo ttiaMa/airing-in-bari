@@ -27,7 +27,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "A pinnacle of prestige animation from Studio Laika, offering the hand-crafted artistic depth that cinephiles demand over commercial CGI.",
+    "ai_reason": "A pinnacle of prestige animation from the visionary Laika Studios and director Travis Knight. A masterful example of stop-motion artistry.",
     "mathyas-pick": true
   },
   {
@@ -116,7 +116,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller, Horror",
     "director": "Paolo Strippoli",
-    "ai_reason": "A prime example of the new wave of elevated Italian genre cinema, blending arthouse sensibilities with psychological horror.",
+    "ai_reason": "A sophisticated entry in the Italian 'new wave' of elevated genre cinema. Directed by emerging auteur Paolo Strippoli and featuring a high-caliber cast including Jasmine Trinca.",
     "mathyas-pick": true
   },
   {
@@ -149,7 +149,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "James Watkins delivers a surreal, psychological descent into identity loss that echoes the body-horror philosophy of Cronenberg.",
+    "ai_reason": "An elevated psychological thriller exploring the corrosiveness of identity and ambition. Watkins provides a dark, auteur-driven take on the genre.",
     "mathyas-pick": true
   },
   {
@@ -204,7 +204,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Romance, Dramma, Storia",
     "director": "Georgia Oakley",
-    "ai_reason": "Rising indie auteur Georgia Oakley (Blue Jean) provides a sophisticated, modern-eyed perspective on this period masterpiece.",
+    "ai_reason": "A prestige period drama from rising indie director Georgia Oakley. A refined, psychological re-imagining of a classic text.",
     "mathyas-pick": true
   },
   {
@@ -229,7 +229,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
     "genres": "Dramma, Storia",
     "director": "Paweł Pawlikowski",
-    "ai_reason": "A major cinematic event from Oscar-winning auteur Paweł Pawlikowski, starring the incomparable Sandra Hüller in a rigorous historical drama.",
+    "ai_reason": "A major cinematic event directed by Paweł Pawlikowski (Ida, Cold War) and starring Sandra Hüller. Essential viewing from a master of modern European auteur cinema.",
     "mathyas-pick": true
   },
   {
@@ -342,8 +342,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
     "genres": "Dramma, Storia",
     "director": "Jérôme Bonnell",
-    "ai_reason": "An elegant French arthouse drama that explores complex themes of autonomy and class with surgical precision.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
@@ -427,12 +426,11 @@
     "original_title": "Other Mommy",
     "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
     "release_date": "2026-10-07",
-    "vote_average": 5.814,
+    "vote_average": 5.758,
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "ai_reason": "A gripping work of psychological horror starring Jessica Chastain, directed by a rising auteur of the genre.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "ICE CREAM MAN",
