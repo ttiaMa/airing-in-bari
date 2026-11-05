@@ -27,11 +27,11 @@
     "original_title": "Wild Horse Nine",
     "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
     "release_date": "2026-10-30",
-    "vote_average": 8.81,
+    "vote_average": 8.8,
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "Martin McDonagh's return with a powerhouse cast; a cinematic event defined by the director's signature dark wit and narrative complexity.",
+    "ai_reason": "Auteur Martin McDonagh directs a high-stakes, character-driven narrative featuring a powerhouse ensemble of cinephile favorites.",
     "mathyas-pick": true
   },
   {
@@ -91,30 +91,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "MINOTAUR",
-    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Yuriy Zavalnyouk",
-    "details": "Un cinema che prende le mosse da microstorie. E diventa politico. Drammatico, Thriller - Francia, Germania, Lettonia 2026. Durata 135 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "18:00"
-        ]
-      }
-    ],
-    "tmdb_id": 848700,
-    "tmdb_title": "Minotaur - Nel labirinto del potere",
-    "original_title": "Minotaure",
-    "overview": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
-    "release_date": "2026-10-14",
-    "vote_average": 7.645,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gMPqcNmJaEmIArwxzvnuPI7H1Ob.jpg",
-    "genres": "Dramma, Crime, Thriller",
-    "director": "Андрей Звягинцев",
-    "ai_reason": "A new masterpiece from world-renowned auteur Andrey Zvyagintsev, whose clinical gaze into the collapse of the human soul is peak high-brow cinema.",
-    "mathyas-pick": true
-  },
-  {
     "title": "L'ESTRANEA",
     "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi",
     "details": "Strippoli trasforma l'horror in un perturbante dramma familiare. Thriller, Italia 2026. Durata 115 Minuti.",
@@ -136,7 +112,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A prestige Italian production featuring Jasmine Trinca; this elevated psychological thriller avoids clichés to explore deep familial trauma.",
+    "ai_reason": "A chillingly atmospheric psychological thriller that marks Paolo Strippoli as a leading voice in the resurgence of elevated Italian genre cinema.",
     "mathyas-pick": true
   },
   {
@@ -160,7 +136,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated horror piece from James Watkins that uses the lens of Hollywood ambition to explore the loss of identity and psychological decay.",
+    "ai_reason": "An unsettling exploration of Hollywood ambition and identity loss, fitting the contemporary wave of elevated, auteur-driven psychological horror.",
     "mathyas-pick": true
   },
   {
@@ -219,7 +195,7 @@
     "release_date": "2026-11-04",
     "vote_average": 7.4,
     "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
-    "genres": "Avventura, Animazione, Commedia, Famiglia, Fantasy",
+    "genres": "Animazione, Fantasy, Commedia",
     "director": "Erica Rivinoja, Alessandro Carloni",
     "mathyas-pick": false
   },
@@ -240,11 +216,12 @@
     "original_title": "Sense and Sensibility",
     "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
     "release_date": "2026-09-23",
-    "vote_average": 7.3,
+    "vote_average": 7.248,
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Romance, Dramma, Storia",
     "director": "Georgia Oakley",
-    "mathyas-pick": false
+    "ai_reason": "A sophisticated, high-brow reimagining of the Dashwood sisters by Georgia Oakley, the critically acclaimed director of 'Blue Jean'.",
+    "mathyas-pick": true
   },
   {
     "title": "TETSUO - THE IRON MAN",
@@ -267,7 +244,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwxZhH96ackHaC6keW5w36FbZA0.jpg",
     "genres": "Horror, Fantascienza",
     "director": "塚本晋也",
-    "ai_reason": "An essential cult classic of Japanese cyberpunk, this re-release is a cornerstone of transgressive body-horror and industrial cinema.",
+    "ai_reason": "A seminal masterpiece of Japanese cyberpunk and transgressive body-horror; an essential cult classic for any serious film library.",
     "mathyas-pick": true
   },
   {
@@ -299,7 +276,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "From the visionary director of 'The Wailing', this is an elevated genre event that blends high-stakes tension with sophisticated atmosphere.",
+    "ai_reason": "The long-awaited return of visionary director Na Hong-jin, a titan of contemporary South Korean genre-bending cinema.",
     "mathyas-pick": true
   },
   {
@@ -340,7 +317,7 @@
       {
         "name": "Abc",
         "times": [
-          "20:30"
+          "18:30"
         ]
       }
     ],
@@ -412,26 +389,26 @@
     "mathyas-pick": false
   },
   {
-    "title": "SE AMI QUALCUNO DILLO",
-    "cast": "Claudia Gerini, Edoardo Leo, Giovanna Mezzogiorno, Thomas Trabacchi",
-    "details": "Una storia magmatica e corale che riflette su come il maschile tossico e patriarcale possa essere corretto. Commedia, Italia 2026. Durata 100 Minuti.",
+    "title": "MINOTAUR",
+    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Yuriy Zavalnyouk",
+    "details": "Un cinema che prende le mosse da microstorie. E diventa politico. Drammatico, Thriller - Francia, Germania, Lettonia 2026. Durata 135 Minuti.",
     "cinemas": [
       {
-        "name": "Abc",
+        "name": "Splendor",
         "times": [
-          "18:30"
+          "18:00"
         ]
       }
     ],
-    "tmdb_id": 1713935,
-    "tmdb_title": "Se ami qualcuno dillo",
-    "original_title": "Se ami qualcuno dillo",
-    "overview": "Colto in flagrante durante un tradimento Sergio (Edoardo Leo) ha un malore e finisce in coma. In sala d’attesa si ritrovano tre persone che avrebbero ottimi motivi per non volerlo più vedere: la sua compagna Gabriella (Claudia Gerini), l’ex moglie Alba (Giovanna Mezzogiorno) e il figlio Giulio (Biagio Venditti). Quando Sergio si risveglia è come un bambino nel corpo di un adulto: deve reimparare tutto da capo. E da uomo prepotente e anaffettivo si trasforma in un buffo eroe tragicomico che continua a ripetere di essere rinato, di essere finalmente in grado di amare. E’ proprio questa seconda improbabile infanzia finisce per insegnargli qualcosa che prima gli era sempre sfuggito: come voler bene alla sua complicata famiglia allargata.",
-    "release_date": "2026-10-16",
-    "vote_average": 4.8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg",
-    "genres": "Commedia",
-    "director": "Marco Bonini",
+    "tmdb_id": 18870,
+    "tmdb_title": "Minotauro",
+    "original_title": "Minotaur",
+    "overview": "Nella notte dei tempi, il leggendario Minotauro, nato dall’incrocio tra una regina e un toro (ognuno ha i suoi gusti), esige periodici sacrifici umani. Nel piccolo villaggio che deve sacrificare i suoi giovani al mostro, Theo (Tom Hardy), figlio del capo Cyrnan (Rutger Hauer), è turbato e non ci sta. Una vecchia gli dice che i sacrificati, compresa la sua fidanzata, non sono morti, ma vivono in realtà nel labirinto assieme al Minotauro. Theo decide quindi di compiere l’impresa di uccidere il Minotauro e salvare i prigionieri. Quando arrivano i guerrieri per prelevare le vittime sacrificali, Cyrnan si oppone, ma quelli scatenano un massacro e si prendono ugualmente i giovani. Theo si imbarca non visto sulla nave, pronto a dare battaglia.",
+    "release_date": "2006-03-11",
+    "vote_average": 4.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nwSYtZNc42WaqOzkMpSuZ4NElJr.jpg",
+    "genres": "Horror, Avventura, Fantasy",
+    "director": "Jonathan English",
     "mathyas-pick": false
   },
   {
@@ -456,7 +433,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/g691fkK4mB5GCFziGG7gZP6oP2Y.jpg",
     "genres": "Horror",
     "director": "Federico Zampaglione",
-    "ai_reason": "Federico Zampaglione represents the auteur-driven revival of Italian genre cinema, here offering a dark, atmospheric study of creative obsession.",
+    "ai_reason": "Federico Zampaglione constructs a haunting descent into isolation and psychological fragility, blending traditional horror with arthouse sensibilities.",
     "mathyas-pick": true
   },
   {
