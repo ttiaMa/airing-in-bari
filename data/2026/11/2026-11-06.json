@@ -89,11 +89,11 @@
     "original_title": "Wild Horse Nine",
     "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
     "release_date": "2026-10-30",
-    "vote_average": 8.648,
+    "vote_average": 8.6,
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "A major cinematic event from prestige auteur Martin McDonagh, blending his signature dark wit with a high-caliber ensemble cast.",
+    "ai_reason": "Martin McDonagh’s distinctively acerbic wit and a powerhouse cast of character actors define this must-watch auteur-driven work.",
     "mathyas-pick": true
   },
   {
@@ -175,7 +175,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A compelling work from emerging Italian genre auteur Paolo Strippoli, focusing on psychological tension and ancestral secrets rather than commercial tropes.",
+    "ai_reason": "An evocative example of the 'New Italian Genre' movement, prioritizing atmospheric dread and psychological depth over standard thrills.",
     "mathyas-pick": true
   },
   {
@@ -195,11 +195,11 @@
     "original_title": "Clayface",
     "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
     "release_date": "2026-10-19",
-    "vote_average": 7.432,
+    "vote_average": 7.433,
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated psychological thriller exploring the loss of autonomy and the dark side of Hollywood ambition, fitting the A24-style genre mold.",
+    "ai_reason": "A surrealist descent into identity dissolution that channels the visceral, thematic body horror of modern genre auteurs.",
     "mathyas-pick": true
   },
   {
@@ -252,7 +252,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Romance, Dramma, Storia",
     "director": "Georgia Oakley",
-    "mathyas-pick": false
+    "ai_reason": "Arthouse favorite Georgia Oakley reinterprets a literary classic through a refined, modern cinematic lens typical of high-end indie productions.",
+    "mathyas-pick": true
   },
   {
     "title": "IL GATTO COL CAPPELLO",
@@ -281,7 +282,7 @@
     "release_date": "2026-10-31",
     "vote_average": 7.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
-    "genres": "Animazione, Fantasy, Commedia, Avventura, Famiglia",
+    "genres": "Animazione, Fantasy, Avventura, Famiglia",
     "director": "Erica Rivinoja, Alessandro Carloni",
     "mathyas-pick": false
   },
@@ -306,7 +307,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
     "genres": "Mistero, Thriller",
     "director": "Michael Showalter",
-    "mathyas-pick": false
+    "ai_reason": "A sophisticated exercise in psychological tension that interrogates the dark intersections of authorship, manipulation, and truth.",
+    "mathyas-pick": true
   },
   {
     "title": "HOPE",
@@ -333,11 +335,11 @@
     "original_title": "호프",
     "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
     "release_date": "2026-07-15",
-    "vote_average": 6.778,
+    "vote_average": 6.767,
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "The highly anticipated return of South Korean auteur Na Hong-jin, known for the arthouse horror masterpiece 'The Wailing'.",
+    "ai_reason": "A monumental cinematic event from South Korean visionary Na Hong-jin, blending high-stakes mystery with a prestigious international cast.",
     "mathyas-pick": true
   },
   {
@@ -542,7 +544,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/g691fkK4mB5GCFziGG7gZP6oP2Y.jpg",
     "genres": "Horror",
     "director": "Federico Zampaglione",
-    "ai_reason": "A stylistic descent into psychological horror by Italian genre specialist Federico Zampaglione, exploring the intersection of fragile artistry and supernatural dread.",
+    "ai_reason": "A haunting, claustrophobic study of the tortured artist, cementing Zampaglione’s status as a key voice in contemporary Italian cult cinema.",
     "mathyas-pick": true
   }
 ]
