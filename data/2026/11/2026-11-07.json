@@ -83,11 +83,11 @@
     "original_title": "Wildwood",
     "overview": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
     "release_date": "2026-10-19",
-    "vote_average": 8.5,
+    "vote_average": 8.486,
     "poster_url": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "genres": "Animazione, Avventura, Fantasy",
     "director": "Travis Knight",
-    "ai_reason": "Produced by the prestigious Laika Studios, this stop-motion feature represents the pinnacle of contemporary artistic animation and high-brow fantasy.",
+    "ai_reason": "A pinnacle of prestige animation from the visionary Laika Studios, promising the high artistic value that stop-motion cinephiles demand.",
     "mathyas-pick": true
   },
   {
@@ -121,7 +121,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "Martin McDonagh’s signature blend of dark wit and existential angst, paired with a legendary ensemble cast, makes this a definitive auteur-driven event movie.",
+    "ai_reason": "Martin McDonagh returns with his signature dark wit and an elite ensemble cast, marking a significant event for lovers of sophisticated crime-drama.",
     "mathyas-pick": true
   },
   {
@@ -155,8 +155,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
     "genres": "Commedia, Dramma",
     "director": "Giovanni Veronesi",
-    "ai_reason": "A high-prestige Italian production that transcends standard comedy, utilizing titans of the screen to explore complex theological and historical themes.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA",
@@ -233,32 +232,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Emerging Italian auteur Paolo Strippoli delivers a gripping, thematic thriller that prioritizes psychological depth and atmosphere over generic tropes.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "CLAYFACE",
-    "cast": "Tom Rhys Harries, Ruby Sear, Naomi Ackie, Eddie Marsan",
-    "details": "Un body horror dalle formule abusate e da una trasformazione tragica che arriva troppo tardi. Horror, Avventura, Azione - 2026. Durata 108 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:15",
-          "23:40"
-        ]
-      }
-    ],
-    "tmdb_id": 1400940,
-    "tmdb_title": "Clayface",
-    "original_title": "Clayface",
-    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
-    "release_date": "2026-10-19",
-    "vote_average": 7.435,
-    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "genres": "Horror, Thriller, Fantascienza",
-    "director": "James Watkins",
-    "ai_reason": "A sophisticated exploration of psychological decay and loss of autonomy, perfectly aligning with the modern movement of elevated, auteur-driven horror.",
+    "ai_reason": "Paolo Strippoli is a key figure in the new wave of Italian elevated genre cinema, delivering a tense and atmospheric psychological study.",
     "mathyas-pick": true
   },
   {
@@ -292,6 +266,31 @@
     "mathyas-pick": false
   },
   {
+    "title": "CLAYFACE",
+    "cast": "Tom Rhys Harries, Ruby Sear, Naomi Ackie, Eddie Marsan",
+    "details": "Un body horror dalle formule abusate e da una trasformazione tragica che arriva troppo tardi. Horror, Avventura, Azione - 2026. Durata 108 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:15",
+          "23:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1400940,
+    "tmdb_title": "Clayface",
+    "original_title": "Clayface",
+    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
+    "release_date": "2026-10-19",
+    "vote_average": 7.4,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+    "genres": "Horror, Thriller, Fantascienza",
+    "director": "James Watkins",
+    "ai_reason": "An elevated psychological thriller that eschews standard tropes for a visceral exploration of identity and human decay.",
+    "mathyas-pick": true
+  },
+  {
     "title": "RAGIONE E SENTIMENTO",
     "cast": "Esme Creed-Miles, Bodhi Rae Breathnach, James Carcaterra, Daisy Edgar-Jones",
     "details": "Un adattamento che coniuga il commento storico e sociale del testo austeniano con un autentico senso di modernità. Drammatico, USA, Regno Unito 2026. Durata 132 Minuti.",
@@ -308,7 +307,7 @@
     "original_title": "Sense and Sensibility",
     "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
     "release_date": "2026-09-23",
-    "vote_average": 7.259,
+    "vote_average": 7.243,
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Romance, Dramma, Storia",
     "director": "Georgia Oakley",
@@ -403,7 +402,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "A monumental cinematic event for global cinephiles, marking the return of South Korean master Na Hong-jin with a high-stakes, atmospheric genre piece.",
+    "ai_reason": "A major cinematic event from South Korean master Na Hong-jin, blending genre elements with high-brow auteur sensibility.",
     "mathyas-pick": true
   },
   {
@@ -633,6 +632,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/xuiQPHckCw9xagLroALw0TBO0p3.jpg",
     "genres": "Documentario",
     "director": "Alexandra D'Onofrio, Sara Zavarise",
+    "mathyas-pick": false
+  },
+  {
+    "title": "STRAY KIDS - WORLD TOUR - RUN IT - LIVE VIEWING",
+    "cast": "",
+    "details": "Concerto, 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "13:00",
+          "17:15"
+        ]
+      }
+    ],
+    "tmdb_id": 1738187,
+    "tmdb_title": "Beyond Live - Stray Kids World Tour RUN IT SEOUL",
+    "original_title": "Beyond Live - Stray Kids World Tour RUN IT SEOUL",
+    "overview": "",
+    "release_date": "2026-07-26",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/d8JDufXE0g20dO45NOtTb0MCCvz.jpg",
+    "genres": null,
+    "director": null,
     "mathyas-pick": false
   }
 ]
