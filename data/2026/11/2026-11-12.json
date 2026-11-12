@@ -44,7 +44,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "A critical triumph in prestige animation; this is a deeply artistic and emotional exploration of the creative process that transcends the medium.",
+    "ai_reason": "An exquisite example of prestige animation, this poignant adaptation captures the internal struggle of the creative process with high artistic merit.",
     "mathyas-pick": true
   },
   {
@@ -75,7 +75,41 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "A major cinematic event from Martin McDonagh, whose sharp, intellectual screenwriting and dark humor define the modern prestige indie landscape.",
+    "ai_reason": "Martin McDonagh brings his razor-sharp wit and prestige ensemble cast to a complex period piece, cementing his status as a premier cinematic auteur.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "cast": "Minami Hamabe, Ryûnosuke Kamiki, Masami Nagasawa, Jun Kunimura",
+    "details": "Un'opera sovraccarica, in cui le intuizioni più originali vengono sacrificate a una struttura narrativa ridondante. Azione, Avventura, Drammatico - Giappone 2026. Durata 135 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "18:00",
+          "19:00",
+          "21:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:30",
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1381071,
+    "tmdb_title": "Godzilla Minus Zero",
+    "original_title": "ゴジラ-0.0",
+    "overview": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
+    "release_date": "2026-11-03",
+    "vote_average": 7.842,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
+    "genres": "Fantascienza, Horror, Azione",
+    "director": "Takashi Yamazaki",
+    "ai_reason": "A monumental critical event that revitalizes the kaiju genre with profound historical weight and exceptional craftsmanship, far exceeding standard blockbuster tropes.",
     "mathyas-pick": true
   },
   {
@@ -130,7 +164,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller, Horror",
     "director": "Paolo Strippoli",
-    "ai_reason": "An example of elevated Italian genre cinema; Paolo Strippoli is a rising auteur bringing arthouse sensibilities and psychological depth to Italian horror.",
+    "ai_reason": "Representing the elevated 'new wave' of Italian genre cinema, Strippoli crafts a haunting psychological thriller anchored by the prestige talent of Jasmine Trinca.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LA MOSCA",
+    "cast": "Jeff Goldblum, Geena Davis, John Getz, Joy Boushel, Leslie Carlson",
+    "details": "La metamorfosi kafkiana affrontata da Cronenberg in versione orrorifica. Horror, USA 1986. Durata 95 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "20:45"
+        ]
+      }
+    ],
+    "tmdb_id": 9426,
+    "tmdb_title": "La mosca",
+    "original_title": "The Fly",
+    "overview": "Lo scienziato Seth Brundle inventa una macchina in grado di teletrasportare la materia e decide di sperimentarla in prima persona, non accorgendosi però, che nella cabina di teletrasporto è entrata anche una mosca. Il teletrasporto funziona alla perfezione, ma qualcosa in Seth sta cambiando.",
+    "release_date": "1986-08-15",
+    "vote_average": 7.45,
+    "poster_url": "https://image.tmdb.org/t/p/w500/iIUZPJk6geT25BYm329lO6KvMpl.jpg",
+    "genres": "Horror, Fantascienza",
+    "director": "David Cronenberg",
+    "ai_reason": "A definitive masterpiece of body horror by David Cronenberg, this cult classic explores the terrifying intersection of science and the loss of physical autonomy.",
     "mathyas-pick": true
   },
   {
@@ -150,41 +208,12 @@
     "original_title": "Clayface",
     "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
     "release_date": "2026-10-19",
-    "vote_average": 7.4,
+    "vote_average": 7.423,
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "A compelling psychological horror that utilizes genre tropes to explore the high-brow themes of identity loss and the corrosiveness of ambition.",
+    "ai_reason": "A sophisticated psychological horror that utilizes genre tropes to investigate identity, ambition, and the visceral decay of the self.",
     "mathyas-pick": true
-  },
-  {
-    "title": "IL GATTO COL CAPPELLO",
-    "cast": "Stefano Fresi, Luigi Luciano, Bill Hader, Matt Berry",
-    "details": "Un divertimento trascinante che procede a rotta di collo ci racconta la dimensione allegramente anarchica dell'infanzia. Animazione, USA 2026. Durata 107 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "18:10"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "17:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1117898,
-    "tmdb_title": "Il gatto col cappello",
-    "original_title": "The Cat in the Hat",
-    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-    "release_date": "2026-10-31",
-    "vote_average": 7.262,
-    "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
-    "genres": "Animazione, Fantasy, Avventura, Famiglia, Commedia",
-    "director": "Erica Rivinoja, Alessandro Carloni",
-    "mathyas-pick": false
   },
   {
     "title": "SE DOMANI NON TORNO",
@@ -213,10 +242,62 @@
     "original_title": "Se domani non torno",
     "overview": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
     "release_date": "2026-11-05",
-    "vote_average": 7.205,
+    "vote_average": 7.229,
     "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
     "genres": "Dramma",
     "director": "Paola Randi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL GATTO COL CAPPELLO",
+    "cast": "Stefano Fresi, Luigi Luciano, Bill Hader, Matt Berry",
+    "details": "Un divertimento trascinante che procede a rotta di collo ci racconta la dimensione allegramente anarchica dell'infanzia. Animazione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1117898,
+    "tmdb_title": "Il gatto col cappello",
+    "original_title": "The Cat in the Hat",
+    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+    "release_date": "2026-10-31",
+    "vote_average": 7.205,
+    "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "genres": "Animazione, Fantasy, Avventura, Famiglia, Commedia",
+    "director": "Erica Rivinoja, Alessandro Carloni",
+    "mathyas-pick": false
+  },
+  {
+    "title": "RAGIONE E SENTIMENTO",
+    "cast": "Esme Creed-Miles, Bodhi Rae Breathnach, James Carcaterra, Daisy Edgar-Jones",
+    "details": "Un adattamento che coniuga il commento storico e sociale del testo austeniano con un autentico senso di modernità. Drammatico, USA, Regno Unito 2026. Durata 132 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "18:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1503762,
+    "tmdb_title": "Ragione e sentimento",
+    "original_title": "Sense and Sensibility",
+    "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
+    "release_date": "2026-09-23",
+    "vote_average": 7.2,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
+    "genres": "Dramma, Romance",
+    "director": "Georgia Oakley",
     "mathyas-pick": false
   },
   {
@@ -241,7 +322,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "Rodrigo Sorogoyen is a premier European auteur; this 'film-mondo' promises a rigorous, sophisticated exploration of human relationships.",
+    "ai_reason": "Rodrigo Sorogoyen is one of the most vital voices in modern European cinema; this 'film-mondo' explores the psychological depths of love with auteur precision.",
     "mathyas-pick": true
   },
   {
@@ -261,35 +342,12 @@
     "original_title": "호프",
     "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
     "release_date": "2026-07-15",
-    "vote_average": 6.749,
+    "vote_average": 6.759,
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "Na Hong-jin is a titan of Korean cinema; this highly anticipated return promises the same visceral, elevated genre-bending mastery as 'The Wailing'.",
+    "ai_reason": "The long-awaited return of Na Hong-jin, the visionary director of 'The Wailing', offering a high-stakes, atmospheric blend of mystery and elevated genre.",
     "mathyas-pick": true
-  },
-  {
-    "title": "LA GUERRA DEI PREZZI",
-    "cast": "Ana Girardot, Olivier Gourmet, Julien Frison, Jonas Bloquet",
-    "details": "Un dramma personale e familiare che racconta con efficacia le contraddizioni del capitalismo. Drammatico, Thriller - Francia 2026. Durata 96 Minuti.",
-    "cinemas": [
-      {
-        "name": "Abc",
-        "times": [
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1376412,
-    "tmdb_title": "La guerra dei prezzi",
-    "original_title": "La Guerre des prix",
-    "overview": "Audrey, appassionata di prodotti biologici e locali, è responsabile del reparto latticini di un'importante catena di supermercati. Riconosciuta dai suoi superiori, entra a far parte dell'ufficio acquisti centrale. Guidata da un veterano delle trattative, Audrey affronterà le contraddizioni interiori di una giovane donna idealista ma ambiziosa e vendicativa.",
-    "release_date": "2026-03-18",
-    "vote_average": 6.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/uYErQw5TdQHTAg310y01ayDLOEw.jpg",
-    "genres": "Thriller, Dramma",
-    "director": "Anthony Déchaux",
-    "mathyas-pick": false
   },
   {
     "title": "JE SO' PAZZO",
@@ -312,29 +370,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
     "genres": "Dramma, Musica",
     "director": "Nicola Prosatore",
-    "mathyas-pick": false
-  },
-  {
-    "title": "NEL SILENZIO DELLE STANZE",
-    "cast": "Swann Arlaud, Louise Chevillotte, Emmanuelle Devos, Galatéa Bellugi",
-    "details": "Un dramma familiare che esplora da molto vicino la vera natura umana. Drammatico, Francia 2025. Durata 103 Minuti.",
-    "cinemas": [
-      {
-        "name": "Abc",
-        "times": [
-          "18:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1119548,
-    "tmdb_title": "Nel silenzio delle stanze",
-    "original_title": "La Condition",
-    "overview": "Normandia, 1908. Céleste è una giovane domestica che lavora nella grande villa di André, un ricco notaio, e sua moglie Victoire, una donna oppressa dalle convenzioni borghesi che la vogliono moglie modello. Un giorno Victoire scopre che Céleste è incinta e intuisce che il padre è Andre. Per evitare lo scandalo e proteggere la reputazione della coppia, la donna impone al marito una condizione: l’integrità dell’uomo sarà preservata ma un accordo segreto legherà Victoire e Céleste in un’inaspettata alleanza che porterà le due donne a sfidare il rigido ordine sociale del tempo.",
-    "release_date": "2025-12-10",
-    "vote_average": 6.076,
-    "poster_url": "https://image.tmdb.org/t/p/w500/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
-    "genres": "Dramma, Storia",
-    "director": "Jérôme Bonnell",
     "mathyas-pick": false
   },
   {
@@ -415,11 +450,27 @@
         ]
       },
       {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10",
+          "19:15",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "15:55",
+          "18:10"
+        ]
+      },
+      {
         "name": "Uci Cinemas Showville",
         "times": [
-          "16:20",
-          "19:00",
-          "21:40"
+          "16:10",
+          "18:50",
+          "21:50",
+          "18:30"
         ]
       }
     ],
