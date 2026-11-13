@@ -21,7 +21,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "A pinnacle of prestige animation, this poignant story captures the artistic soul with the same depth as the best of Studio Ghibli.",
+    "ai_reason": "Prestige Japanese animation that serves as a touching, artistically significant meditation on the creative process.",
     "mathyas-pick": true
   },
   {
@@ -48,46 +48,11 @@
     "original_title": "Wild Horse Nine",
     "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
     "release_date": "2026-10-30",
-    "vote_average": 8.092,
+    "vote_average": 8.1,
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "Martin McDonagh is a master of the dark-comedy-thriller; his distinctive voice makes this an essential selection for the high-brow viewer.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "cast": "Johnny Depp, Ian McKellen, Sam Claflin, Arthur Conti",
-    "details": "Un one-man-show gotico e grottesco, in cui Johnny Depp è mattatore. Drammatico, Fantasy - USA 2026. Durata 116 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:40",
-          "18:40",
-          "22:00"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:10",
-          "18:50",
-          "21:50",
-          "23:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1567605,
-    "tmdb_title": "Scrooge e gli spiriti del Natale",
-    "original_title": "Ebenezer",
-    "overview": "",
-    "release_date": "2026-11-11",
-    "vote_average": 7.96,
-    "poster_url": "https://image.tmdb.org/t/p/w500/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
-    "genres": "Fantasy, Commedia",
-    "director": "Ti West",
-    "ai_reason": "Elevated genre at its finest: emerging auteur Ti West brings a gothic, surrealist perspective to a classic narrative.",
+    "ai_reason": "A high-prestige production from Martin McDonagh, a master of dark wit and character-driven narratives.",
     "mathyas-pick": true
   },
   {
@@ -120,7 +85,42 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "ai_reason": "A rare genre event that transcends its blockbuster roots with historical gravitas and immense critical acclaim.",
+    "ai_reason": "A monumental cinematic event that elevates the kaiju genre into a profound exploration of post-war trauma and survival.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "cast": "Johnny Depp, Ian McKellen, Sam Claflin, Arthur Conti",
+    "details": "Un one-man-show gotico e grottesco, in cui Johnny Depp è mattatore. Drammatico, Fantasy - USA 2026. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "18:40",
+          "22:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "18:50",
+          "21:50",
+          "23:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1567605,
+    "tmdb_title": "Scrooge e gli spiriti del Natale",
+    "original_title": "Ebenezer",
+    "overview": "",
+    "release_date": "2026-11-11",
+    "vote_average": 7.69,
+    "poster_url": "https://image.tmdb.org/t/p/w500/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
+    "genres": "Fantasy, Commedia",
+    "director": "Ti West",
+    "ai_reason": "Emerging genre auteur Ti West delivers a gothic and grotesque one-man-show, perfectly aligning with the elevated horror movement.",
     "mathyas-pick": true
   },
   {
@@ -172,35 +172,11 @@
     "original_title": "L'estranea",
     "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
     "release_date": "2026-10-08",
-    "vote_average": 7.5,
+    "vote_average": 7.467,
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Horror, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Strippoli represents the new wave of elevated Italian genre; a psychological horror that prioritizes atmosphere and theme over cheap scares.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "MINOTAUR",
-    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Yuriy Zavalnyouk",
-    "details": "Un cinema che prende le mosse da microstorie. E diventa politico. Drammatico, Thriller - Francia, Germania, Lettonia 2026. Durata 135 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "18:30"
-        ]
-      }
-    ],
-    "tmdb_id": 848700,
-    "tmdb_title": "Minotaur - Nel labirinto del potere",
-    "original_title": "Minotaure",
-    "overview": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
-    "release_date": "2026-10-14",
-    "vote_average": 7.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gMPqcNmJaEmIArwxzvnuPI7H1Ob.jpg",
-    "genres": "Dramma, Crime, Thriller",
-    "director": "Андрей Звягинцев",
-    "ai_reason": "Zvyagintsev is a titan of contemporary cinema; this bleak, surgical exploration of human collapse is mandatory viewing.",
+    "ai_reason": "A sophisticated example of the new wave of Italian genre cinema, blending psychological dread with arthouse sensibilities.",
     "mathyas-pick": true
   },
   {
@@ -224,7 +200,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
     "genres": "Dramma",
     "director": "Marine Atlan",
-    "ai_reason": "A sophisticated arthouse drama that juxtaposes the stillness of history with the volatility of youth.",
+    "ai_reason": "A surrealist arthouse piece where the intensity of youth meets the frozen history of Pompeii.",
     "mathyas-pick": true
   },
   {
@@ -248,7 +224,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "A visceral psychological thriller that explores the disintegration of identity with the precision of modern horror masters.",
+    "ai_reason": "An elevated horror exploration of identity and ambition, fitting the modern trend of psychological genre hits.",
     "mathyas-pick": true
   },
   {
@@ -335,7 +311,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "Following her acclaimed debut, Georgia Oakley offers a refined, prestige interpretation of classic literature.",
+    "ai_reason": "Rising indie director Georgia Oakley brings a sharp, prestigious lens to this adaptation, balancing reason and sensibility.",
     "mathyas-pick": true
   },
   {
@@ -356,11 +332,11 @@
     "original_title": "El ser querido",
     "overview": "",
     "release_date": "2026-05-16",
-    "vote_average": 6.9,
+    "vote_average": 6.93,
     "poster_url": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "Sorogoyen is one of Europe's most vital voices; this 'film-mondo' promises a challenging, auteur-driven exploration of emotional limits.",
+    "ai_reason": "Rodrigo Sorogoyen is a major force in modern European cinema; this ambitious 'film-world' is a must for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -384,7 +360,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "From the visionary director of 'The Wailing,' Na Hong-jin delivers another masterclass in atmospheric tension and elevated genre.",
+    "ai_reason": "A highly anticipated mystery-thriller from Na Hong-jin, one of contemporary South Korean cinema's most formidable auteurs.",
     "mathyas-pick": true
   },
   {
@@ -427,11 +403,12 @@
     "original_title": "Other Mommy",
     "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
     "release_date": "2026-10-07",
-    "vote_average": 6.113,
+    "vote_average": 6.163,
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror",
     "director": "Rob Savage",
-    "mathyas-pick": false
+    "ai_reason": "A psychological descent into the loss of autonomy and toxic maternal bonds from a notable genre filmmaker.",
+    "mathyas-pick": true
   },
   {
     "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
@@ -487,6 +464,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c0wJ0zBp0pgacpdn3foT9MlFZpW.jpg",
     "genres": "Azione, Crime, Thriller",
     "director": "David Leitch",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MINOTAUR",
+    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Yuriy Zavalnyouk",
+    "details": "Un cinema che prende le mosse da microstorie. E diventa politico. Drammatico, Thriller - Francia, Germania, Lettonia 2026. Durata 135 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 18870,
+    "tmdb_title": "Minotauro",
+    "original_title": "Minotaur",
+    "overview": "Nella notte dei tempi, il leggendario Minotauro, nato dall’incrocio tra una regina e un toro (ognuno ha i suoi gusti), esige periodici sacrifici umani. Nel piccolo villaggio che deve sacrificare i suoi giovani al mostro, Theo (Tom Hardy), figlio del capo Cyrnan (Rutger Hauer), è turbato e non ci sta. Una vecchia gli dice che i sacrificati, compresa la sua fidanzata, non sono morti, ma vivono in realtà nel labirinto assieme al Minotauro. Theo decide quindi di compiere l’impresa di uccidere il Minotauro e salvare i prigionieri. Quando arrivano i guerrieri per prelevare le vittime sacrificali, Cyrnan si oppone, ma quelli scatenano un massacro e si prendono ugualmente i giovani. Theo si imbarca non visto sulla nave, pronto a dare battaglia.",
+    "release_date": "2006-03-11",
+    "vote_average": 4.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nwSYtZNc42WaqOzkMpSuZ4NElJr.jpg",
+    "genres": "Horror, Avventura, Fantasy",
+    "director": "Jonathan English",
     "mathyas-pick": false
   },
   {
