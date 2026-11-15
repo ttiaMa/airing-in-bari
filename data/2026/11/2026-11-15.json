@@ -21,7 +21,39 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "A critical masterpiece of contemporary Japanese animation that explores the artistic process with profound emotional depth.",
+    "ai_reason": "A masterpiece of prestige animation that explores the creative spirit with the sensitivity and depth typical of top-tier Japanese cinema.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "WILD HORSE NINE",
+    "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Bastián Bodenhöfer",
+    "details": "Esilarante e raggelante. Il film più politico di un cineasta che non smette di superarsi. Commedia, Drammatico - Regno Unito, USA 2026. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:15",
+          "21:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "13:00",
+          "19:00"
+        ]
+      }
+    ],
+    "tmdb_id": 891621,
+    "tmdb_title": "Wild Horse Nine",
+    "original_title": "Wild Horse Nine",
+    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+    "release_date": "2026-10-30",
+    "vote_average": 8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "genres": "Commedia, Crime, Thriller",
+    "director": "Martin McDonagh",
+    "ai_reason": "A major cinematic event from acclaimed auteur Martin McDonagh, blending his signature dark wit with sharp geopolitical tension.",
     "mathyas-pick": true
   },
   {
@@ -57,8 +89,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
     "genres": "Dramma",
     "director": "Paolo Genovese",
-    "ai_reason": "A prestige Italian ensemble drama from Paolo Genovese, one of the country's most internationally recognized contemporary directors.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "GOAT - SOGNA IN GRANDE",
@@ -82,38 +113,6 @@
     "genres": "Animazione, Commedia, Famiglia",
     "director": "Tyree Dillihay",
     "mathyas-pick": false
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Bastián Bodenhöfer",
-    "details": "Esilarante e raggelante. Il film più politico di un cineasta che non smette di superarsi. Commedia, Drammatico - Regno Unito, USA 2026. Durata 118 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "20:15",
-          "21:10"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "13:00",
-          "19:00"
-        ]
-      }
-    ],
-    "tmdb_id": 891621,
-    "tmdb_title": "Wild Horse Nine",
-    "original_title": "Wild Horse Nine",
-    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-    "release_date": "2026-10-30",
-    "vote_average": 7.956,
-    "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
-    "genres": "Commedia, Crime, Thriller",
-    "director": "Martin McDonagh",
-    "ai_reason": "A major cinematic event from prestige auteur Martin McDonagh, featuring a high-caliber ensemble cast.",
-    "mathyas-pick": true
   },
   {
     "title": "SCROOGE E GLI SPIRITI DEL NATALE",
@@ -150,7 +149,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
     "genres": "Fantasy, Commedia",
     "director": "Ti West",
-    "ai_reason": "Cult horror director Ti West brings his stylized, gothic sensibility to a grotesque reimagining of a classic tale.",
+    "ai_reason": "Indie horror auteur Ti West applies his stylistic lens to a gothic, grostesque reimagining, featuring a transformative performance by Johnny Depp.",
     "mathyas-pick": true
   },
   {
@@ -185,7 +184,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "ai_reason": "An Oscar-winning reimagining that elevates kaiju cinema to a poignant historical tragedy with massive critical acclaim.",
+    "ai_reason": "A rare blockbuster of immense artistic merit and historical weight, hailed globally as a modern masterpiece of the kaiju genre.",
     "mathyas-pick": true
   },
   {
@@ -204,6 +203,7 @@
       {
         "name": "Uci Cinemas Showville",
         "times": [
+          "16:50",
           "21:00"
         ]
       }
@@ -217,8 +217,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
     "genres": "Commedia, Dramma",
     "director": "Giovanni Veronesi",
-    "ai_reason": "A high-prestige Italian production featuring the country's most acclaimed actors in a theological and historical drama.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "L'ESTRANEA",
@@ -241,7 +240,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Horror, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli is an emerging auteur in the new wave of elevated Italian horror, focusing on psychological tension and secrets.",
+    "ai_reason": "A sophisticated example of the 'New Wave' of elevated Italian horror, exploring psychological trauma and dark family legacies.",
     "mathyas-pick": true
   },
   {
@@ -265,7 +264,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
     "genres": "Dramma",
     "director": "Marine Atlan",
-    "ai_reason": "An arthouse, dreamlike meditation on youth and history set in the evocative ruins of Pompeii.",
+    "ai_reason": "A sublime example of contemporary French arthouse cinema, blending youth, history, and desire in a dreamlike setting.",
     "mathyas-pick": true
   },
   {
@@ -289,7 +288,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated horror take on identity and Hollywood ambition from respected genre director James Watkins.",
+    "ai_reason": "An elevated psychological thriller and body-horror descent that explores the corrosive nature of Hollywood ambition.",
     "mathyas-pick": true
   },
   {
@@ -327,8 +326,7 @@
           "11:15",
           "14:05",
           "18:40",
-          "21:00",
-          "00:30"
+          "21:00"
         ]
       },
       {
@@ -374,7 +372,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "A fresh interpretation of a classic directed by emerging indie talent Georgia Oakley, focusing on psychological depth and social nuances.",
+    "ai_reason": "Rising auteur Georgia Oakley reinterprets this classic narrative with the same sensitive, prestige lens seen in her previous acclaimed work.",
     "mathyas-pick": true
   },
   {
@@ -399,7 +397,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "Rodrigo Sorogoyen is a vital force in modern European auteur cinema; this exploration of the limits of love is pure cinephile bait.",
+    "ai_reason": "Rodrigo Sorogoyen continues his streak as one of Europe's most vital auteurs with this ambitious and profound exploration of human limits.",
     "mathyas-pick": true
   },
   {
@@ -477,11 +475,11 @@
     "original_title": "호프",
     "overview": "Nel remoto villaggio sudcoreano di Hope Harbor, il capo della polizia Bum-seok e l'agente Sung-ae vengono chiamati a indagare su una creatura misteriosa che sta seminando il caos nella comunità. Tuttavia, non tutto è come sembra, e le percezioni possono essere fuorvianti. Ciò che si crede sia basato sull'ignoranza, semina il seme del disastro, che si trasforma attraverso il conflitto umano in una tragedia di proporzioni enormi.",
     "release_date": "2026-07-15",
-    "vote_average": 6.784,
+    "vote_average": 6.796,
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "A highly anticipated work from South Korean master Na Hong-jin, known for his atmospheric and elevated genre-bending films.",
+    "ai_reason": "The highly anticipated return of South Korean master Na Hong-jin; an international event for cinephiles seeking visionary genre-blending.",
     "mathyas-pick": true
   },
   {
@@ -505,7 +503,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/yWXRXvEOKgVGCJojLqWrR8pOVva.jpg",
     "genres": "Romance, Dramma",
     "director": "Emerald Fennell",
-    "ai_reason": "Emerald Fennell is a defining voice in modern stylized cinema, making this Brontë adaptation a significant cinematic event.",
+    "ai_reason": "Emerald Fennell brings her provocative, highly stylized aesthetic to Brontë’s classic, creating a must-watch event of modern prestige cinema.",
     "mathyas-pick": true
   },
   {
