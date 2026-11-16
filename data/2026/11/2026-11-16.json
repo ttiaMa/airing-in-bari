@@ -21,7 +21,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "An exquisite piece of prestige animation that eschews commercial tropes for a deeply moving, meta-fictional exploration of the artist's journey.",
+    "ai_reason": "A prestigious piece of modern Japanese animation with exceptional critical acclaim, exploring the artistic process with profound emotional depth.",
     "mathyas-pick": true
   },
   {
@@ -52,7 +52,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "A high-priority entry from Martin McDonagh, whose sharp, auteur-driven scripts define contemporary elevated dark comedy.",
+    "ai_reason": "Martin McDonagh's acerbic wit and prestige storytelling, paired with a powerhouse cast, make this a major cinematic event for high-brow audiences.",
     "mathyas-pick": true
   },
   {
@@ -84,7 +84,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "ai_reason": "A critically acclaimed masterpiece that restores the weight of historical trauma and cinematic scale to the genre; a true event movie.",
+    "ai_reason": "A rare masterpiece of genre cinema that transcends its blockbuster roots to offer a visceral, historically grounded exploration of trauma and survival.",
     "mathyas-pick": true
   },
   {
@@ -118,7 +118,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
     "genres": "Fantasy, Commedia",
     "director": "Ti West",
-    "ai_reason": "Indie horror icon Ti West brings his subversive, auteurist lens to a gothic reimagining, bridging the gap between cult horror and prestige fantasy.",
+    "ai_reason": "Emerging genre auteur Ti West brings a gothic, grotesque sensibility to this reimagining, fitting the mold of elevated, modern indie horror.",
     "mathyas-pick": true
   },
   {
@@ -172,7 +172,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/gMPqcNmJaEmIArwxzvnuPI7H1Ob.jpg",
     "genres": "Dramma, Crime, Thriller",
     "director": "Andrej Zvjagincev",
-    "ai_reason": "Directed by Andrej Zvjagincev, a master of modern world cinema; this is a rigorous, prestige examination of social and individual collapse.",
+    "ai_reason": "Andrej Zvjagincev is a titan of contemporary cinema; his return with a clinical, high-stakes psychological drama is a mandatory event for any serious cinephile.",
     "mathyas-pick": true
   },
   {
@@ -228,7 +228,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
     "genres": "Dramma",
     "director": "Marine Atlan",
-    "ai_reason": "A sophisticated example of contemporary French arthouse that blends the historical with the surreal, exploring youth and desire amidst ruins.",
+    "ai_reason": "A dreamlike, sensory piece of arthouse cinema that juxtaposes the vitality of youth against the frozen ruins of Pompeii.",
     "mathyas-pick": true
   },
   {
@@ -257,7 +257,7 @@
   {
     "title": "LA STORIA INFINITA",
     "cast": "Barret Oliver, Noah Hathaway, Tami Stronach, Gerald McRaney",
-    "details": "Dal bestseller di Michael Ende un classico del fantasy per sognare. Fantastico, Germania 1984. Durata 92 Minuti. Consigli per la visione: Film per tutti",
+    "details": "Datato negli effetti speciali ma sempre attuale nella morale, un viaggio fantastico che insegna molto sulla vita. Fantastico, Germania 1984. Durata 92 Minuti. Consigli per la visione: Film per tutti",
     "cinemas": [
       {
         "name": "The Space Casamassima",
@@ -275,7 +275,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m5plr6ylu6sXPPRQ5hlQC8JkYWx.jpg",
     "genres": "Avventura, Fantasy, Famiglia",
     "director": "Wolfgang Petersen",
-    "ai_reason": "An essential theatrical re-release of a seminal work of fantasy history, preserving its status as a cornerstone of cult cinema.",
+    "ai_reason": "A definitive classic of 1980s fantasy cinema; this theatrical re-release preserves the dark, atmospheric magic that influenced a generation of filmmakers.",
     "mathyas-pick": true
   },
   {
@@ -299,7 +299,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "mathyas-pick": false
+    "ai_reason": "Directed by the acclaimed Georgia Oakley, this offers a refined and artistically driven perspective on the classic period drama genre.",
+    "mathyas-pick": true
   },
   {
     "title": "IL RUMORE DELLE COSE NUOVE",
@@ -414,32 +415,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "The return of Na Hong-jin is a cinematic event; his work represents the pinnacle of the visceral and elevated South Korean New Wave.",
+    "ai_reason": "The long-awaited return of South Korean master Na Hong-jin promises a dark, atmospheric mystery that blends elevated genre with pure auteur sensibility.",
     "mathyas-pick": true
-  },
-  {
-    "title": "COME RAPINARE UNA BANCA",
-    "cast": "Nicholas Hoult, Christian Slater, Zoë Kravitz, Tati Gabrielle",
-    "details": "David Leitch confeziona un heist movie dal ritmo esplosivo, dove lo spettacolo funziona meglio della rivoluzione. Azione, Thriller - USA 2026. Durata 122 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "17:00",
-          "22:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1437511,
-    "tmdb_title": "Come rapinare una banca",
-    "original_title": "How to Rob a Bank",
-    "overview": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
-    "release_date": "2026-11-10",
-    "vote_average": 6.5,
-    "poster_url": "https://image.tmdb.org/t/p/w500/c0wJ0zBp0pgacpdn3foT9MlFZpW.jpg",
-    "genres": "Azione, Crime, Thriller",
-    "director": "David Leitch",
-    "mathyas-pick": false
   },
   {
     "title": "JE SO' PAZZO",
@@ -481,12 +458,36 @@
     "original_title": "Other Mommy",
     "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
     "release_date": "2026-10-07",
-    "vote_average": 6.292,
+    "vote_average": 6.3,
     "poster_url": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "genres": "Horror, Mistero",
     "director": "Rob Savage",
-    "ai_reason": "Rob Savage continues to evolve the indie horror landscape with this psychological exploration of maternal identity and the loss of autonomy.",
+    "ai_reason": "Rob Savage moves into sophisticated, elevated horror territory with this unsettling psychological exploration of maternal identity and surreal entities.",
     "mathyas-pick": true
+  },
+  {
+    "title": "COME RAPINARE UNA BANCA",
+    "cast": "Nicholas Hoult, Christian Slater, Zoë Kravitz, Tati Gabrielle",
+    "details": "David Leitch confeziona un heist movie dal ritmo esplosivo, dove lo spettacolo funziona meglio della rivoluzione. Azione, Thriller - USA 2026. Durata 122 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:00",
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1437511,
+    "tmdb_title": "Come rapinare una banca",
+    "original_title": "How to Rob a Bank",
+    "overview": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+    "release_date": "2026-11-10",
+    "vote_average": 6.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/c0wJ0zBp0pgacpdn3foT9MlFZpW.jpg",
+    "genres": "Azione, Crime, Thriller",
+    "director": "David Leitch",
+    "mathyas-pick": false
   },
   {
     "title": "UN WEEKEND ARTIFICIALE",
@@ -550,6 +551,29 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
     "genres": "Commedia",
     "director": "Massimiliano Bruno",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IN UN BATTITO",
+    "cast": "Edoardo Bove",
+    "details": "Un racconto intenso di determinazione, sogni bambini e legami, che segue la battaglia di un giovane calciatore. Documentario, Italia 2026. Durata 97 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1795686,
+    "tmdb_title": "In un battito",
+    "original_title": "In un battito",
+    "overview": "Il film racconta i mesi successivi al 1° dicembre 2024, quando, durante Fiorentina-Inter, Edoardo Bove si accascia improvvisamente sul terreno di gioco. Un episodio che interrompe il percorso che sembrava già tracciato per una delle promesse più brillanti del calcio italiano e apre una fase completamente nuova della sua vita. Da quel momento Edoardo si confronta con un futuro diventato improvvisamente incerto: tornerà a giocare? Potrà ancora farlo in Italia? E chi è Edoardo al di fuori del calcio?",
+    "release_date": "2026-11-16",
+    "vote_average": 0,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cuYB8P1i9iySjMop9HJaGlMywE6.jpg",
+    "genres": "Documentario",
+    "director": "Giovanni Troilo",
     "mathyas-pick": false
   }
 ]
