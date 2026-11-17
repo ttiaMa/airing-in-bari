@@ -21,7 +21,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "A prestige animation that serves as a profound meditation on the creative process, already garnering immense critical acclaim.",
+    "ai_reason": "A masterpiece of prestige animation that explores the artistic soul; far removed from commercial cartoons, it is a touching tribute to the creative process.",
     "mathyas-pick": true
   },
   {
@@ -52,7 +52,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "A highly anticipated new work from acclaimed auteur Martin McDonagh, promising his signature blend of dark wit and sharp dialogue.",
+    "ai_reason": "Martin McDonagh is a contemporary master of the dark comedy and character study; his return with a stellar cast makes this an absolute priority for cinephiles.",
     "mathyas-pick": true
   },
   {
@@ -80,11 +80,11 @@
     "original_title": "ゴジラ-0.0",
     "overview": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
     "release_date": "2026-11-03",
-    "vote_average": 7.7,
+    "vote_average": 7.685,
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "ai_reason": "A critically acclaimed cinematic event that masterfully elevates the kaiju genre into a poignant historical drama.",
+    "ai_reason": "A rare cinematic event that elevates the Kaiju genre to high art, blending historical trauma with technical mastery; a critical darling and award winner.",
     "mathyas-pick": true
   },
   {
@@ -115,11 +115,11 @@
     "original_title": "Ebenezer",
     "overview": "",
     "release_date": "2026-11-11",
-    "vote_average": 7.639,
+    "vote_average": 7.631,
     "poster_url": "https://image.tmdb.org/t/p/w500/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
     "genres": "Fantasy, Commedia, Horror",
     "director": "Ti West",
-    "ai_reason": "Genre auteur Ti West brings an elevated, gothic sensibility to this reimagining, likely subverting festive tropes.",
+    "ai_reason": "Indie horror icon Ti West reimagines a classic through a gothic, surrealist lens, fitting the criteria for elevated genre hits by emerging auteurs.",
     "mathyas-pick": true
   },
   {
@@ -186,6 +186,30 @@
     "mathyas-pick": false
   },
   {
+    "title": "LA GRADIVA",
+    "cast": "Colas Quignard, Suzanne Gerin, Mitia Capellier, Antonia Buresi",
+    "details": "La regista Marine Altan riesce a creare un ritratto fresco, inquieto e realistico di una generazione allo sbando. Drammatico, Francia, Italia 2026. Durata 145 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1154730,
+    "tmdb_title": "La Gradiva",
+    "original_title": "La Gradiva",
+    "overview": "Una classe di liceali si reca a Pompei alla scoperta delle rovine e dei corpi pietrificati dal Vesuvio. Il viaggio si trasforma in un momento unico in cui la forza della giovinezza incontra un mondo congelato nel tempo. I loro desideri cominciano ad affiorare con intensità inaspettata, conducendoli verso una frattura irreversibile.",
+    "release_date": "2026-10-21",
+    "vote_average": 7.3,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
+    "genres": "Dramma",
+    "director": "Marine Atlan",
+    "ai_reason": "Sophisticated French arthouse cinema that uses the ruins of Pompei to explore the ephemerality of youth and desire.",
+    "mathyas-pick": true
+  },
+  {
     "title": "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.",
     "cast": "Kate Harbour, Justin Fletcher, John Sparkes",
     "details": "Lo Studio Aardoman compie 50 anni e ci regala un film divertente e spensierato. Animazione, Regno Unito, Francia, USA 2026. Durata 91 Minuti.",
@@ -209,30 +233,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "LA GRADIVA",
-    "cast": "Colas Quignard, Suzanne Gerin, Mitia Capellier, Antonia Buresi",
-    "details": "La regista Marine Altan riesce a creare un ritratto fresco, inquieto e realistico di una generazione allo sbando. Drammatico, Francia, Italia 2026. Durata 145 Minuti.",
-    "cinemas": [
-      {
-        "name": "Abc",
-        "times": [
-          "20:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1154730,
-    "tmdb_title": "La Gradiva",
-    "original_title": "La Gradiva",
-    "overview": "Una classe di liceali si reca a Pompei alla scoperta delle rovine e dei corpi pietrificati dal Vesuvio. Il viaggio si trasforma in un momento unico in cui la forza della giovinezza incontra un mondo congelato nel tempo. I loro desideri cominciano ad affiorare con intensità inaspettata, conducendoli verso una frattura irreversibile.",
-    "release_date": "2026-10-21",
-    "vote_average": 7.284,
-    "poster_url": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
-    "genres": "Dramma",
-    "director": "Marine Atlan",
-    "ai_reason": "A contemplative piece of arthouse cinema that juxtaposes youth with the frozen history of Pompeii.",
-    "mathyas-pick": true
-  },
-  {
     "title": "LA STORIA INFINITA",
     "cast": "Barret Oliver, Noah Hathaway, Tami Stronach, Gerald McRaney",
     "details": "Datato negli effetti speciali ma sempre attuale nella morale, un viaggio fantastico che insegna molto sulla vita. Fantastico, Germania 1984. Durata 92 Minuti. Consigli per la visione: Film per tutti",
@@ -253,7 +253,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m5plr6ylu6sXPPRQ5hlQC8JkYWx.jpg",
     "genres": "Avventura, Fantasy, Famiglia",
     "director": "Wolfgang Petersen",
-    "ai_reason": "A seminal cult classic of fantasy cinema, essential for its practical effects and historical significance.",
+    "ai_reason": "A seminal piece of cinema history; this theatrical re-release allows a new generation to experience its practical-effects magic and thematic depth.",
     "mathyas-pick": true
   },
   {
@@ -277,7 +277,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "A refined and psychologically acute literary adaptation from the emerging voice behind 'Blue Jean'.",
+    "ai_reason": "Following the success of 'Blue Jean', Georgia Oakley brings an auteur's perspective to this adaptation, focusing on psychological depth over period tropes.",
     "mathyas-pick": true
   },
   {
@@ -292,22 +292,9 @@
         ]
       },
       {
-        "name": "The Space Casamassima",
-        "times": [
-          "21:40"
-        ]
-      },
-      {
-        "name": "Galleria",
-        "times": [
-          "15:40",
-          "21:00"
-        ]
-      },
-      {
         "name": "Uci Cinemas Showville",
         "times": [
-          "21:20"
+          "17:00"
         ]
       }
     ],
@@ -340,11 +327,11 @@
     "original_title": "El ser querido",
     "overview": "",
     "release_date": "2026-05-16",
-    "vote_average": 6.967,
+    "vote_average": 6.96,
     "poster_url": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "A rigorous exploration of the limits of love by Spanish auteur Rodrigo Sorogoyen, showcasing Javier Bardem.",
+    "ai_reason": "Rodrigo Sorogoyen is one of the most exciting European auteurs working today; his exploration of the 'film-world' is a must for lovers of formalist cinema.",
     "mathyas-pick": true
   },
   {
@@ -368,7 +355,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "A high-concept genre piece from Korean auteur Na Hong-jin, exploring deep themes through a sophisticated lens.",
+    "ai_reason": "Na Hong-jin, the visionary director of 'The Wailing', returns with an ambitious, elevated sci-fi that promises to transcend genre boundaries.",
     "mathyas-pick": true
   },
   {
@@ -428,30 +415,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "COME RAPINARE UNA BANCA",
-    "cast": "Nicholas Hoult, Christian Slater, Zoë Kravitz, Tati Gabrielle",
-    "details": "David Leitch confeziona un heist movie dal ritmo esplosivo, dove lo spettacolo funziona meglio della rivoluzione. Azione, Thriller - USA 2026. Durata 122 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:20",
-          "22:20"
-        ]
-      }
-    ],
-    "tmdb_id": 1437511,
-    "tmdb_title": "Come rapinare una banca",
-    "original_title": "How to Rob a Bank",
-    "overview": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
-    "release_date": "2026-11-10",
-    "vote_average": 6.4,
-    "poster_url": "https://image.tmdb.org/t/p/w500/c0wJ0zBp0pgacpdn3foT9MlFZpW.jpg",
-    "genres": "Azione, Crime, Thriller",
-    "director": "David Leitch",
-    "mathyas-pick": false
-  },
-  {
     "title": "UN WEEKEND ARTIFICIALE",
     "cast": "Leonardo Pieraccioni, Giulia Vecchio, Luigi Luciano, Massimo Ceccherini",
     "details": "Pieraccioni dirige una commedia fiera d'una radicale toscanità. Con uno sguardo dotato di una certa grazia. Commedia, Italia 2026. Durata 91 Minuti.",
@@ -465,11 +428,24 @@
         ]
       },
       {
-        "name": "Uci Cinemas Showville",
+        "name": "The Space Casamassima",
         "times": [
-          "17:10",
+          "21:40",
           "19:40",
           "22:00"
+        ]
+      },
+      {
+        "name": "Galleria",
+        "times": [
+          "15:40",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:20"
         ]
       }
     ],
@@ -507,6 +483,30 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
     "genres": "Commedia",
     "director": "Massimiliano Bruno",
+    "mathyas-pick": false
+  },
+  {
+    "title": "COME RAPINARE UNA BANCA",
+    "cast": "Nicholas Hoult, Christian Slater, Zoë Kravitz, Tati Gabrielle",
+    "details": "David Leitch confeziona un heist movie dal ritmo esplosivo, dove lo spettacolo funziona meglio della rivoluzione. Azione, Thriller - USA 2026. Durata 122 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:20",
+          "22:20"
+        ]
+      }
+    ],
+    "tmdb_id": 1437511,
+    "tmdb_title": "Come rapinare una banca",
+    "original_title": "How to Rob a Bank",
+    "overview": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+    "release_date": "2026-11-10",
+    "vote_average": 6.03,
+    "poster_url": "https://image.tmdb.org/t/p/w500/c0wJ0zBp0pgacpdn3foT9MlFZpW.jpg",
+    "genres": "Azione, Crime, Thriller",
+    "director": "David Leitch",
     "mathyas-pick": false
   },
   {
