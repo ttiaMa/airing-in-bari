@@ -21,7 +21,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "A sophisticated and visually arresting achievement in prestige animation, capturing the raw emotionality of the creative process with high critical acclaim.",
+    "ai_reason": "A pinnacle of prestige animation, this poignant work explores the artistic soul with rare depth and visual elegance.",
     "mathyas-pick": true
   },
   {
@@ -51,7 +51,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "Martin McDonagh’s return is a major cinematic event, blending his trademark dark wit with a tense, character-driven narrative that demands attention.",
+    "ai_reason": "A new masterwork from auteur Martin McDonagh, promising his signature blend of dark wit and sharp psychological tension.",
     "mathyas-pick": true
   },
   {
@@ -83,7 +83,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "ai_reason": "An elevated take on a cinematic icon, this acclaimed masterpiece elevates the genre through profound historical trauma and immense artistic merit.",
+    "ai_reason": "An Academy Award-winning cinematic event that elevates the kaiju genre into a profound post-war human drama.",
     "mathyas-pick": true
   },
   {
@@ -119,7 +119,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
     "genres": "Fantasy, Commedia, Horror",
     "director": "Ti West",
-    "ai_reason": "Ti West’s gothic and grotesque vision transforms a familiar tale into a surrealist, high-concept piece of elevated genre cinema.",
+    "ai_reason": "Indie horror auteur Ti West brings his stylized, elevated aesthetic to a gothic and grotesque reimagining of a literary staple.",
     "mathyas-pick": true
   },
   {
@@ -174,31 +174,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Horror, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "An essential entry in the new wave of elevated Italian genre films, exploring family secrets through a sophisticated and gripping psychological lens.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "MINOTAUR",
-    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Yuriy Zavalnyouk",
-    "details": "Un cinema che prende le mosse da microstorie. E diventa politico. Drammatico, Thriller - Francia, Germania, Lettonia 2026. Durata 135 Minuti.",
-    "cinemas": [
-      {
-        "name": "Splendor",
-        "times": [
-          "18:30"
-        ]
-      }
-    ],
-    "tmdb_id": 848700,
-    "tmdb_title": "Minotaur - Nel labirinto del potere",
-    "original_title": "Minotaure",
-    "overview": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
-    "release_date": "2026-10-14",
-    "vote_average": 7.441,
-    "poster_url": "https://image.tmdb.org/t/p/w500/gMPqcNmJaEmIArwxzvnuPI7H1Ob.jpg",
-    "genres": "Dramma, Crime, Thriller",
-    "director": "Andrej Zvjagincev",
-    "ai_reason": "A harrowing exploration of societal decay from Andrej Zvjagincev, one of the most uncompromising and prestigious voices in contemporary world cinema.",
+    "ai_reason": "A striking example of the new wave of elevated Italian horror, focusing on deep-seated psychological trauma and ancestral secrets.",
     "mathyas-pick": true
   },
   {
@@ -227,7 +203,7 @@
     "original_title": "Se domani non torno",
     "overview": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
     "release_date": "2026-11-05",
-    "vote_average": 7.35,
+    "vote_average": 7.435,
     "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
     "genres": "Dramma",
     "director": "Paola Randi",
@@ -277,7 +253,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
     "genres": "Dramma",
     "director": "Marine Atlan",
-    "ai_reason": "Arthouse cinema at its most evocative, using the ruins of Pompeii to meditate on the fragility of youth and the weight of history through a surrealist lens.",
+    "ai_reason": "A sophisticated arthouse meditation on youth and history, blending the ethereal beauty of Pompeii with intimate psychological discovery.",
     "mathyas-pick": true
   },
   {
@@ -301,7 +277,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m5plr6ylu6sXPPRQ5hlQC8JkYWx.jpg",
     "genres": "Avventura, Fantasy, Famiglia",
     "director": "Wolfgang Petersen",
-    "ai_reason": "A quintessential re-release of a cinema history classic, offering a chance to experience the grandeur and magic of Petersen's masterwork on the big screen.",
+    "ai_reason": "A priority re-release of a seminal fantasy classic, essential for its historical impact on imaginative cinema.",
     "mathyas-pick": true
   },
   {
@@ -325,8 +301,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "genres": "Dramma, Romance",
     "director": "Georgia Oakley",
-    "ai_reason": "Georgia Oakley crafts a prestige adaptation that prioritizes psychological nuance and formal elegance over traditional period-piece tropes.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "L'ESSERE AMATO",
@@ -350,7 +325,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "A sharp, psychological masterclass from Rodrigo Sorogoyen, delving into the toxic complexities of artistic legacy and human fragility.",
+    "ai_reason": "Spanish auteur Rodrigo Sorogoyen crafts a high-stakes psychological drama exploring the dark intersections of power and family.",
     "mathyas-pick": true
   },
   {
@@ -444,11 +419,11 @@
     "original_title": "호프",
     "overview": "Nel remoto villaggio sudcoreano di Hope Harbor, il capo della polizia Bum-seok e l'agente Sung-ae vengono chiamati a indagare su una creatura misteriosa che sta seminando il caos nella comunità. Tuttavia, non tutto è come sembra, e le percezioni possono essere fuorvianti. Ciò che si crede sia basato sull'ignoranza, semina il seme del disastro, che si trasforma attraverso il conflitto umano in una tragedia di proporzioni enormi.",
     "release_date": "2026-07-15",
-    "vote_average": 6.845,
+    "vote_average": 6.834,
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "Master of suspense Na Hong-jin delivers a high-stakes, surreal mystery that is already being hailed as a major event in international auteur cinema.",
+    "ai_reason": "The highly anticipated return of Korean master Na Hong-jin, offering a visceral and genre-defying exploration of tragedy.",
     "mathyas-pick": true
   },
   {
@@ -472,39 +447,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
     "genres": "Dramma, Musica",
     "director": "Nicola Prosatore",
-    "mathyas-pick": false
-  },
-  {
-    "title": "IL RUMORE DELLE COSE NUOVE",
-    "cast": "Emanuela Fanelli, Edoardo Pesce, Claudia Pandolfi, Lino Musella",
-    "details": "Un congegno narrativo che sacrifica realismo e spontaneità al tentativo di stupire. Commedia, Italia 2026. Durata 113 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:40",
-          "19:25",
-          "20:50"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:20",
-          "19:00",
-          "21:40"
-        ]
-      }
-    ],
-    "tmdb_id": 1544126,
-    "tmdb_title": "Il rumore delle cose nuove",
-    "original_title": "Il rumore delle cose nuove",
-    "overview": "Andrea è un fotografo, Andreina un’infermiera, e se oggi Andrea è ancora vivo è perché Andreina gli ha donato un pezzo di sé. Umberto al lavoro allevia il dolore e a casa lo infligge ad Alba, che aveva sogni semplici e ora ha smesso di sognare. Ralph di mestiere riproduce suoni, Viola è un’attrice che ha scelto di recitare anche nella vita. E poi c’è Mirko, che ha dieci anni ma fa tanto rumore. Tre famiglie, che per anni si sono sfiorate nelle strade di Milano senza conoscersi, trascorrono le loro esistenze fra rancori, bugie e momenti di felicità finché un incontro imprevisto non stravolge tutto. Allora il caos prende il sopravvento sul fragile equilibrio che le regge e rischia di spazzarle via.",
-    "release_date": "2026-11-12",
-    "vote_average": 6.357,
-    "poster_url": "https://image.tmdb.org/t/p/w500/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "genres": "Dramma",
-    "director": "Paolo Genovese",
     "mathyas-pick": false
   },
   {
@@ -554,6 +496,62 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/c0wJ0zBp0pgacpdn3foT9MlFZpW.jpg",
     "genres": "Azione, Crime, Thriller",
     "director": "David Leitch",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL RUMORE DELLE COSE NUOVE",
+    "cast": "Emanuela Fanelli, Edoardo Pesce, Claudia Pandolfi, Lino Musella",
+    "details": "Un congegno narrativo che sacrifica realismo e spontaneità al tentativo di stupire. Commedia, Italia 2026. Durata 113 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:40",
+          "19:25",
+          "20:50"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:20",
+          "19:00",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1544126,
+    "tmdb_title": "Il rumore delle cose nuove",
+    "original_title": "Il rumore delle cose nuove",
+    "overview": "Andrea è un fotografo, Andreina un’infermiera, e se oggi Andrea è ancora vivo è perché Andreina gli ha donato un pezzo di sé. Umberto al lavoro allevia il dolore e a casa lo infligge ad Alba, che aveva sogni semplici e ora ha smesso di sognare. Ralph di mestiere riproduce suoni, Viola è un’attrice che ha scelto di recitare anche nella vita. E poi c’è Mirko, che ha dieci anni ma fa tanto rumore. Tre famiglie, che per anni si sono sfiorate nelle strade di Milano senza conoscersi, trascorrono le loro esistenze fra rancori, bugie e momenti di felicità finché un incontro imprevisto non stravolge tutto. Allora il caos prende il sopravvento sul fragile equilibrio che le regge e rischia di spazzarle via.",
+    "release_date": "2026-11-12",
+    "vote_average": 5.65,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
+    "genres": "Dramma",
+    "director": "Paolo Genovese",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MINOTAUR",
+    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Yuriy Zavalnyouk",
+    "details": "Un cinema che prende le mosse da microstorie. E diventa politico. Drammatico, Thriller - Francia, Germania, Lettonia 2026. Durata 135 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "tmdb_id": 18870,
+    "tmdb_title": "Minotauro",
+    "original_title": "Minotaur",
+    "overview": "Nella notte dei tempi, il leggendario Minotauro, nato dall’incrocio tra una regina e un toro (ognuno ha i suoi gusti), esige periodici sacrifici umani. Nel piccolo villaggio che deve sacrificare i suoi giovani al mostro, Theo (Tom Hardy), figlio del capo Cyrnan (Rutger Hauer), è turbato e non ci sta. Una vecchia gli dice che i sacrificati, compresa la sua fidanzata, non sono morti, ma vivono in realtà nel labirinto assieme al Minotauro. Theo decide quindi di compiere l’impresa di uccidere il Minotauro e salvare i prigionieri. Quando arrivano i guerrieri per prelevare le vittime sacrificali, Cyrnan si oppone, ma quelli scatenano un massacro e si prendono ugualmente i giovani. Theo si imbarca non visto sulla nave, pronto a dare battaglia.",
+    "release_date": "2006-03-11",
+    "vote_average": 4.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nwSYtZNc42WaqOzkMpSuZ4NElJr.jpg",
+    "genres": "Horror, Avventura, Fantasy",
+    "director": "Jonathan English",
     "mathyas-pick": false
   },
   {
