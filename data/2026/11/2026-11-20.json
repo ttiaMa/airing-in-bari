@@ -21,7 +21,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "A landmark of prestige animation, offering a deeply artistic and meta-textual exploration of the creative soul.",
+    "ai_reason": "A piece of prestige animation with immense critical acclaim, capturing the artistic struggle with profound, high-brow sensitivity.",
     "mathyas-pick": true
   },
   {
@@ -51,7 +51,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "A sharp-witted thriller from Martin McDonagh, whose distinct authorial voice and cynical depth define modern prestige cinema.",
+    "ai_reason": "Martin McDonagh is a high-brow favorite; his caustic wit and auteur sensibility make this a must-see cinematic event.",
     "mathyas-pick": true
   },
   {
@@ -75,7 +75,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "ai_reason": "A rare, critically acclaimed masterpiece that elevates the monster genre into a poignant, award-winning study of post-war grief.",
+    "ai_reason": "A rare genre event that achieved massive critical acclaim and Oscar recognition, blending historical trauma with sophisticated filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -112,7 +112,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
     "genres": "Fantasy, Commedia",
     "director": "Ti West",
-    "ai_reason": "Horror auteur Ti West applies his elevated, surrealist sensibility to a gothic reimagining of a literary classic.",
+    "ai_reason": "Indie horror darling Ti West applies his stylized, surrealist lens to a gothic reimagining of a classic.",
     "mathyas-pick": true
   },
   {
@@ -166,7 +166,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "A sophisticated psychological thriller from Paolo Strippoli that elevates genre tropes through high-brow Italian craftsmanship.",
+    "ai_reason": "An elevated psychological thriller from Paolo Strippoli, an emerging Italian talent focusing on atmospheric and thematic depth.",
     "mathyas-pick": true
   },
   {
@@ -277,7 +277,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
     "genres": "Dramma",
     "director": "Cristian Mungiu",
-    "ai_reason": "Palme d'Or winner Cristian Mungiu returns with a rigorous, chilling examination of cultural friction and moral ambiguity.",
+    "ai_reason": "A major international event from Cristian Mungiu, a Palme d'Or winner and master of the Romanian New Wave.",
     "mathyas-pick": true
   },
   {
@@ -301,7 +301,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "A major cinematic event from Rodrigo Sorogoyen, blending his signature tension with the commanding presence of Javier Bardem.",
+    "ai_reason": "Rodrigo Sorogoyen is a leading figure in elevated European psychological thrillers, here exploring the dark intersection of trauma and art.",
     "mathyas-pick": true
   },
   {
@@ -379,7 +379,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bsUZIWpF5ZvU9oZTBL9pHw1DTP9.jpg",
     "genres": "Crime, Dramma, Thriller",
     "director": "Andrew Patterson",
-    "ai_reason": "Following his cult debut, Andrew Patterson crafts a textured and atmospheric indie noir with a distinct, emerging authorial voice.",
+    "ai_reason": "Directed by Andrew Patterson, the emerging auteur behind 'The Vast of Night', this is a prime example of elevated indie genre filmmaking.",
     "mathyas-pick": true
   },
   {
@@ -403,8 +403,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
     "genres": "Thriller",
     "director": "Brian Duffield",
-    "ai_reason": "Elevated genre filmmaker Brian Duffield explores psychological survival through a gripping, high-concept indie lens.",
-    "mathyas-pick": true
+    "mathyas-pick": false
   },
   {
     "title": "IL RUMORE DELLE COSE NUOVE",
@@ -462,7 +461,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
     "genres": "Dramma",
     "director": "Edoardo De Angelis",
-    "ai_reason": "Edoardo De Angelis cements his status as a major Italian auteur with this visceral, atmospheric exploration of family bonds.",
+    "ai_reason": "Edoardo De Angelis is a significant contemporary Italian auteur, delivering a fierce, non-commercial drama.",
     "mathyas-pick": true
   }
 ]
