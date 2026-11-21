@@ -17,11 +17,11 @@
     "original_title": "ルックバック",
     "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
     "release_date": "2024-06-28",
-    "vote_average": 8.187,
+    "vote_average": 8.188,
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "ai_reason": "A visually stunning and emotionally resonant prestige anime that serves as a sophisticated meta-commentary on the artistic soul.",
+    "ai_reason": "Prestige animation at its finest; a poignant and artistically significant adaptation of Tatsuki Fujimoto's celebrated work.",
     "mathyas-pick": true
   },
   {
@@ -52,7 +52,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "ai_reason": "Martin McDonagh’s acerbic wit meets a star-studded cast in this major auteur-driven cinematic event.",
+    "ai_reason": "Martin McDonagh returns with his signature sharp wit and prestige storytelling; a major event for admirers of elevated crime-comedy.",
     "mathyas-pick": true
   },
   {
@@ -82,7 +82,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "ai_reason": "A rare genre masterpiece that balances spectacular scale with profound post-war trauma and immense critical acclaim.",
+    "ai_reason": "A monumental cinematic event that transcended the genre to receive universal critical acclaim and historical significance.",
     "mathyas-pick": true
   },
   {
@@ -116,6 +116,44 @@
     "mathyas-pick": false
   },
   {
+    "title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "cast": "Johnny Depp, Ian McKellen, Sam Claflin, Arthur Conti",
+    "details": "Un one-man-show gotico e grottesco, in cui Johnny Depp è mattatore. Drammatico, Fantasy - USA 2026. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:30",
+          "14:00",
+          "15:00",
+          "17:50",
+          "19:35",
+          "20:40",
+          "22:40"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30",
+          "20:00",
+          "22:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1567605,
+    "tmdb_title": "Scrooge e gli spiriti del Natale",
+    "original_title": "Ebenezer",
+    "overview": "",
+    "release_date": "2026-11-11",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
+    "genres": "Fantasy, Commedia",
+    "director": "Ti West",
+    "ai_reason": "Indie horror darling Ti West brings a gothic, grottesque sensibility to this reimagining, marking a fascinating auteur-driven genre piece.",
+    "mathyas-pick": true
+  },
+  {
     "title": "L'ESTRANEA",
     "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi",
     "details": "Strippoli trasforma l'horror in un perturbante dramma familiare. Thriller, Italia 2026. Durata 115 Minuti.",
@@ -136,7 +174,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "An atmospheric piece of elevated Italian genre cinema from Paolo Strippoli, exploring deep-seated psychological trauma.",
+    "ai_reason": "An atmospheric Italian psychological thriller that avoids tropes to focus on deep, unsettling themes of family secrets.",
     "mathyas-pick": true
   },
   {
@@ -187,44 +225,6 @@
     "genres": "Fantascienza, Azione, Avventura",
     "director": "Francis Lawrence",
     "mathyas-pick": false
-  },
-  {
-    "title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "cast": "Johnny Depp, Ian McKellen, Sam Claflin, Arthur Conti",
-    "details": "Un one-man-show gotico e grottesco, in cui Johnny Depp è mattatore. Drammatico, Fantasy - USA 2026. Durata 116 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:30",
-          "14:00",
-          "15:00",
-          "17:50",
-          "19:35",
-          "20:40",
-          "22:40"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "16:30",
-          "20:00",
-          "22:40"
-        ]
-      }
-    ],
-    "tmdb_id": 1567605,
-    "tmdb_title": "Scrooge e gli spiriti del Natale",
-    "original_title": "Ebenezer",
-    "overview": "",
-    "release_date": "2026-11-11",
-    "vote_average": 7.471,
-    "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
-    "genres": "Fantasy, Commedia",
-    "director": "Ti West",
-    "ai_reason": "Elevated horror maven Ti West reinvents a classic through a gothic, surrealist, and grottesque lens.",
-    "mathyas-pick": true
   },
   {
     "title": "SE DOMANI NON TORNO",
@@ -278,7 +278,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated psychological descent into body horror that explores the dark underbelly of identity and Hollywood ambition.",
+    "ai_reason": "An elevated psychological horror that utilizes genre elements to explore the profound loss of identity and the price of ambition.",
     "mathyas-pick": true
   },
   {
@@ -317,7 +317,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
     "genres": "Dramma",
     "director": "Cristian Mungiu",
-    "ai_reason": "A rigorous and complex moral drama from Palme d'Or winner Cristian Mungiu, a titan of contemporary European cinema.",
+    "ai_reason": "A mandatory viewing for cinephiles, directed by Palme d'Or winner Cristian Mungiu, the leading figure of the Romanian New Wave.",
     "mathyas-pick": true
   },
   {
@@ -341,7 +341,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "Rodrigo Sorogoyen, a master of tension, delivers a high-stakes psychological drama featuring a powerhouse Javier Bardem.",
+    "ai_reason": "A high-prestige Spanish production from Rodrigo Sorogoyen, one of contemporary cinema's most talented directors of tension.",
     "mathyas-pick": true
   },
   {
@@ -376,6 +376,36 @@
     "mathyas-pick": false
   },
   {
+    "title": "TI PRESENTO I FOTTER",
+    "cast": "Robert De Niro, Ben Stiller, Skyler Gisondo, Ariana Grande",
+    "details": "Commedia, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:30"
+        ]
+      },
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:45",
+          "16:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1400336,
+    "tmdb_title": "Ti presento i Fotter",
+    "original_title": "Focker In-Law",
+    "overview": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+    "release_date": "2026-11-21",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ekWQkK9aI41TUBX4nrmKUyfW5ly.jpg",
+    "genres": "Commedia, Romance",
+    "director": "John Hamburg",
+    "mathyas-pick": false
+  },
+  {
     "title": "HOPE",
     "cast": "Hwang Jung-min, In-sung Jo, Alicia Vikander, Michael Fassbender",
     "details": "Una pura esperienza sensoriale che esplora le nostre paure arcaiche di fronte al caos del mondo. Azione, Fantascienza, Horror - Corea del sud 2026. Durata 145 Minuti.",
@@ -396,7 +426,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "The long-awaited return of South Korean master Na Hong-jin, promising a transcendental and atmospheric mystery.",
+    "ai_reason": "The long-awaited return of South Korean master Na Hong-jin (The Wailing), promising a visceral blend of mystery and existential horror.",
     "mathyas-pick": true
   },
   {
@@ -451,7 +481,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bsUZIWpF5ZvU9oZTBL9pHw1DTP9.jpg",
     "genres": "Crime, Dramma, Thriller",
     "director": "Andrew Patterson",
-    "ai_reason": "An idiosyncratic indie thriller from Andrew Patterson, one of the most distinct and exciting new voices in modern cinema.",
+    "ai_reason": "From the emerging auteur of 'The Vast of Night', this indie thriller promises the same meticulous atmosphere and character depth.",
     "mathyas-pick": true
   },
   {
@@ -557,7 +587,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
     "genres": "Dramma",
     "director": "Edoardo De Angelis",
-    "ai_reason": "Edoardo De Angelis cements his status as a leading Italian auteur with this visceral and stylistically bold family drama.",
+    "ai_reason": "Edoardo De Angelis is a vital voice in modern Italian auteur cinema; this is a visceral, non-standard exploration of family dynamics.",
     "mathyas-pick": true
   }
 ]
