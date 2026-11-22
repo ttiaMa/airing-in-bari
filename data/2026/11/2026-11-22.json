@@ -1,40 +1,5 @@
 [
   {
-    "title": "WILD_HORSE_NINE",
-    "ai_reason": "Martin McDonagh is a cornerstone of modern auteur cinema; his sharp, dark wit makes this a mandatory cinematic event.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "LOOK_BACK",
-    "ai_reason": "A pinnacle of modern prestige animation, this is a profound and artistically significant meditation on the creative spirit.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "L'ESSERE_AMATO",
-    "ai_reason": "Rodrigo Sorogoyen is a titan of contemporary Spanish cinema, delivering a psychologically dense and formally rigorous character study.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "IL_FUOCO_CHE_TI_PORTI_DENTRO",
-    "ai_reason": "Edoardo De Angelis is a leading voice in Italian auteur cinema; this visceral family drama avoids commercial tropes for high-brow tension.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "SCROOGE_E_GLI_SPIRITI_DEL_NATALE",
-    "ai_reason": "Ti West, a darling of elevated indie horror, brings his subversive, gothic aesthetic to this grostesque reimagining.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "GODZILLA_MINUS_ZERO",
-    "ai_reason": "A rare instance of a blockbuster achieving universal critical acclaim and high artistic merit, transcending its genre roots.",
-    "mathyas-pick": true
-  },
-  {
-    "title": "LA_BALLATA_DEL_RE_DELLE_API",
-    "ai_reason": "Following 'The Vast of Night', Andrew Patterson is one of the most exciting emerging auteurs in modern indie cinema.",
-    "mathyas-pick": true
-  },
-  {
     "title": "LOOK BACK",
     "cast": "Ryô Ikeda, Miyu Sasaki, Maho Yamada, Natsuki Deguchi",
     "details": "Una storia su come le storie salvino la vita e possano essere un motore inesauribile di pura gioia. Drammatico, Giappone 2026. Durata 100 Minuti.",
@@ -56,7 +21,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
     "genres": "Animazione, Dramma",
     "director": "押山清高",
-    "mathyas-pick": false
+    "ai_reason": "A breathtaking example of prestige Japanese animation, focusing on the artistic process with profound emotional depth and critical acclaim.",
+    "mathyas-pick": true
   },
   {
     "title": "PAW PATROL - MISSIONE DINOSAURI",
@@ -104,11 +70,12 @@
     "original_title": "Wild Horse Nine",
     "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
     "release_date": "2026-10-30",
-    "vote_average": 8,
+    "vote_average": 7.928,
     "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "genres": "Commedia, Crime, Thriller",
     "director": "Martin McDonagh",
-    "mathyas-pick": false
+    "ai_reason": "Martin McDonagh returns with his signature razor-sharp wit and a stellar ensemble cast; a mandatory event for any serious cinephile.",
+    "mathyas-pick": true
   },
   {
     "title": "HUNGER GAMES - L'ALBA SULLA MIETITURA",
@@ -203,7 +170,8 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/qRq5Oa4hsfjVqTtEgBKi1efTQuv.jpg",
     "genres": "Fantascienza, Horror, Azione",
     "director": "Takashi Yamazaki",
-    "mathyas-pick": false
+    "ai_reason": "A rare blockbuster that transcends its genre with historical gravity and immense critical acclaim; a true cinematic event of the decade.",
+    "mathyas-pick": true
   },
   {
     "title": "DIO RIDE",
@@ -237,6 +205,45 @@
     "mathyas-pick": false
   },
   {
+    "title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "cast": "Johnny Depp, Ian McKellen, Sam Claflin, Arthur Conti",
+    "details": "Un one-man-show gotico e grottesco, in cui Johnny Depp è mattatore. Drammatico, Fantasy - USA 2026. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:10",
+          "14:20",
+          "17:10",
+          "18:40",
+          "20:00",
+          "22:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "10:45",
+          "16:30",
+          "18:30",
+          "20:30",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1567605,
+    "tmdb_title": "Scrooge e gli spiriti del Natale",
+    "original_title": "Ebenezer",
+    "overview": "",
+    "release_date": "2026-11-11",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
+    "genres": "Fantasy, Dramma, Horror",
+    "director": "Ti West",
+    "ai_reason": "Indie horror icon Ti West reimagines a classic through a gothic, surrealist lens—a quintessential example of elevated genre filmmaking.",
+    "mathyas-pick": true
+  },
+  {
     "title": "L'ESTRANEA",
     "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi",
     "details": "Strippoli trasforma l'horror in un perturbante dramma familiare. Thriller, Italia 2026. Durata 115 Minuti.",
@@ -257,7 +264,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "genres": "Dramma, Thriller",
     "director": "Paolo Strippoli",
-    "ai_reason": "Paolo Strippoli is a rising auteur in the Italian 'elevated genre' scene, focusing on psychological depth and atmospheric dread.",
+    "ai_reason": "Paolo Strippoli represents the new wave of elevated Italian genre cinema, blending psychological depth with unsettling, high-concept mystery.",
     "mathyas-pick": true
   },
   {
@@ -295,45 +302,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "cast": "Johnny Depp, Ian McKellen, Sam Claflin, Arthur Conti",
-    "details": "Un one-man-show gotico e grottesco, in cui Johnny Depp è mattatore. Drammatico, Fantasy - USA 2026. Durata 116 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:10",
-          "14:20",
-          "17:10",
-          "18:40",
-          "20:00",
-          "22:10",
-          "00:05"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "10:45",
-          "16:30",
-          "18:30",
-          "20:30",
-          "21:50"
-        ]
-      }
-    ],
-    "tmdb_id": 1567605,
-    "tmdb_title": "Scrooge e gli spiriti del Natale",
-    "original_title": "Ebenezer",
-    "overview": "",
-    "release_date": "2026-11-11",
-    "vote_average": 7.49,
-    "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
-    "genres": "Fantasy, Commedia",
-    "director": "Ti West",
-    "mathyas-pick": false
-  },
-  {
     "title": "FJORD",
     "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Lisa Loven Kongsli",
     "details": "Mungiu delinea in terra norvegese uno scontro ideologico. Sorprendente Sebastian Stan. Drammatico, Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia 2026. Durata 146 Minuti.",
@@ -368,7 +336,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
     "genres": "Dramma",
     "director": "Cristian Mungiu",
-    "ai_reason": "Directed by Palme d'Or winner Cristian Mungiu, this is a rigorous, auteur-driven exploration of moral ambiguity and cultural friction.",
+    "ai_reason": "Palme d’Or winner Cristian Mungiu delivers a rigorous, clinical dissection of cultural and moral clashes in this high-prestige European drama.",
     "mathyas-pick": true
   },
   {
@@ -392,6 +360,63 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
+    "ai_reason": "Rodrigo Sorogoyen, one of Europe’s most vital contemporary directors, crafts a tense psychological character study led by the formidable Javier Bardem.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "TI PRESENTO I FOTTER",
+    "cast": "Robert De Niro, Ben Stiller, Skyler Gisondo, Ariana Grande",
+    "details": "Commedia, USA 2026.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1400336,
+    "tmdb_title": "Ti presento i Fotter",
+    "original_title": "Focker In-Law",
+    "overview": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+    "release_date": "2026-11-21",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ekWQkK9aI41TUBX4nrmKUyfW5ly.jpg",
+    "genres": "Commedia, Romance",
+    "director": "John Hamburg",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL GATTO COL CAPPELLO",
+    "cast": "Stefano Fresi, Luigi Luciano, Bill Hader, Matt Berry",
+    "details": "Un divertimento trascinante che procede a rotta di collo ci racconta la dimensione allegramente anarchica dell'infanzia. Animazione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "11:05",
+          "14:00",
+          "15:35"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "11:15",
+          "14:30",
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1117898,
+    "tmdb_title": "Il gatto col cappello",
+    "original_title": "The Cat in the Hat",
+    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+    "release_date": "2026-10-31",
+    "vote_average": 6.891,
+    "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "genres": "Animazione, Fantasy, Avventura, Famiglia, Commedia",
+    "director": "Erica Rivinoja, Alessandro Carloni",
     "mathyas-pick": false
   },
   {
@@ -411,11 +436,11 @@
     "original_title": "호프",
     "overview": "Nel remoto villaggio sudcoreano di Hope Harbor, il capo della polizia Bum-seok e l'agente Sung-ae vengono chiamati a indagare su una creatura misteriosa che sta seminando il caos nella comunità. Tuttavia, non tutto è come sembra, e le percezioni possono essere fuorvianti. Ciò che si crede sia basato sull'ignoranza, semina il seme del disastro, che si trasforma attraverso il conflitto umano in una tragedia di proporzioni enormi.",
     "release_date": "2026-07-15",
-    "vote_average": 6.855,
+    "vote_average": 6.856,
     "poster_url": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
     "genres": "Fantascienza, Mistero, Azione",
     "director": "나홍진",
-    "ai_reason": "Na Hong-jin (The Wailing) is a master of elevated genre; this promises to be a haunting, atmospheric masterclass in suspense.",
+    "ai_reason": "The highly anticipated return of South Korean master Na Hong-jin; a dark, atmospheric genre-bender that defines elevated suspense and cinematic mastery.",
     "mathyas-pick": true
   },
   {
@@ -451,39 +476,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "IL GATTO COL CAPPELLO",
-    "cast": "Stefano Fresi, Luigi Luciano, Bill Hader, Matt Berry",
-    "details": "Un divertimento trascinante che procede a rotta di collo ci racconta la dimensione allegramente anarchica dell'infanzia. Animazione, USA 2026. Durata 107 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "11:05",
-          "14:00",
-          "15:35"
-        ]
-      },
-      {
-        "name": "Uci Cinemas Showville",
-        "times": [
-          "11:15",
-          "14:30",
-          "17:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1117898,
-    "tmdb_title": "Il gatto col cappello",
-    "original_title": "The Cat in the Hat",
-    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-    "release_date": "2026-10-31",
-    "vote_average": 6.8,
-    "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
-    "genres": "Animazione, Fantasy, Avventura, Famiglia, Commedia",
-    "director": "Erica Rivinoja, Alessandro Carloni",
-    "mathyas-pick": false
-  },
-  {
     "title": "LA BALLATA DEL RE DELLE API",
     "cast": "Matthew McConaughey, Angelina LookingGlass, Jake Horowitz, Owen Teague",
     "details": "Una meravigliosa sorpresa diretta con grazia rara e con una grandissima interpretazione di Matthew McConaughey. Drammatico, Thriller - USA, Regno Unito 2025. Durata 130 Minuti.",
@@ -500,11 +492,38 @@
     "original_title": "The Rivals of Amziah King",
     "overview": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
     "release_date": "2026-08-13",
-    "vote_average": 6.7,
+    "vote_average": 6.707,
     "poster_url": "https://image.tmdb.org/t/p/w500/bsUZIWpF5ZvU9oZTBL9pHw1DTP9.jpg",
     "genres": "Crime, Dramma, Thriller",
     "director": "Andrew Patterson",
-    "mathyas-pick": false
+    "ai_reason": "From the visionary director of 'The Vast of Night', this film promises the unique, atmospheric indie sensibility that defines modern cult hits.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IL FUOCO CHE TI PORTI DENTRO",
+    "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito",
+    "details": "La famiglia è un luogo di barbarie. De Angelis la racconta senza sconti, servendosi di un cast di grandi attori. Drammatico, Italia 2026. Durata 94 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:00",
+          "18:30",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1632188,
+    "tmdb_title": "Il fuoco che ti porti dentro",
+    "original_title": "Il fuoco che ti porti dentro",
+    "overview": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo, lontano da sua madre Angela, una donna esagerata nel bene e nel male, irresistibile, antica e ostile come poche, che lo ha raggiunto per Natale e sembra decisa a restare. La cena della Vigilia diventa così un campo di battaglia emotivo, comico e feroce al tempo stesso che fa riemergere un passato di sopraffazioni e incomprensioni. Con un tenace cappone che non vuole saperne di finire in pentola, una figlia che non si sa se mai arriverà e un illustre ospite inatteso, la serata si trasforma in una resa dei conti tra madre e figlio destinata a cambiare per sempre il senso del loro legame: un amore che brucia come un fuoco dentro e che mai si consuma, neppure andando via.",
+    "release_date": "2026-11-19",
+    "vote_average": 6.667,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
+    "genres": "Dramma",
+    "director": "Edoardo De Angelis",
+    "ai_reason": "Edoardo De Angelis continues his exploration of fierce Italian identities with this visceral, high-brow domestic drama from a major national auteur.",
+    "mathyas-pick": true
   },
   {
     "title": "IL RUMORE DELLE COSE NUOVE",
@@ -565,29 +584,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-    "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli",
-    "details": "Commedia cattiva e divertentissima basata sulla sceneggiatura di Dean Craig di The Funeral Party. Commedia, Italia 2026. Durata 98 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "00:30"
-        ]
-      }
-    ],
-    "tmdb_id": 1678120,
-    "tmdb_title": "Un tranquillo funerale di famiglia",
-    "original_title": "Un tranquillo funerale di famiglia",
-    "overview": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
-    "release_date": "2026-10-29",
-    "vote_average": 6.167,
-    "poster_url": "https://image.tmdb.org/t/p/w500/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "genres": "Commedia",
-    "director": "Massimiliano Bruno",
-    "mathyas-pick": false
-  },
-  {
     "title": "AGATA CHRISTIAN - DELITTO SULLE NEVI",
     "cast": "Christian De Sica, Pasquale Petrolo, Paolo Calabresi, Marcello Macchia",
     "details": "Battute surreali e un cast azzeccato per una storia giallo-comica che potrebbe diventare un piccolo cult. Commedia, Italia 2026. Durata 109 Minuti.",
@@ -608,31 +604,6 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nLOF571J6YOTAmryyO5qOwSyURm.jpg",
     "genres": "Commedia, Mistero",
     "director": "Eros Puglielli",
-    "mathyas-pick": false
-  },
-  {
-    "title": "IL FUOCO CHE TI PORTI DENTRO",
-    "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito",
-    "details": "La famiglia è un luogo di barbarie. De Angelis la racconta senza sconti, servendosi di un cast di grandi attori. Drammatico, Italia 2026. Durata 94 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "16:00",
-          "18:30",
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1632188,
-    "tmdb_title": "Il fuoco che ti porti dentro",
-    "original_title": "Il fuoco che ti porti dentro",
-    "overview": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo, lontano da sua madre Angela, una donna esagerata nel bene e nel male, irresistibile, antica e ostile come poche, che lo ha raggiunto per Natale e sembra decisa a restare. La cena della Vigilia diventa così un campo di battaglia emotivo, comico e feroce al tempo stesso che fa riemergere un passato di sopraffazioni e incomprensioni. Con un tenace cappone che non vuole saperne di finire in pentola, una figlia che non si sa se mai arriverà e un illustre ospite inatteso, la serata si trasforma in una resa dei conti tra madre e figlio destinata a cambiare per sempre il senso del loro legame: un amore che brucia come un fuoco dentro e che mai si consuma, neppure andando via.",
-    "release_date": "2026-11-19",
-    "vote_average": 0,
-    "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
-    "genres": "Dramma",
-    "director": "Edoardo De Angelis",
     "mathyas-pick": false
   }
 ]
