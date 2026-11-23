@@ -1,0 +1,500 @@
+[
+  {
+    "title": "YOUR NAME.",
+    "cast": "Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yuki",
+    "details": "Uno scambio di anime e corpi che nasconde una parabola universale e senza tempo, semplice e insieme spettacolare. Animazione, Giappone 2016. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "tmdb_id": 372058,
+    "tmdb_title": "Your Name.",
+    "original_title": "君の名は。",
+    "overview": "Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell’arte o dell’architettura. Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai visitato. Ma quale sarà il segreto che si cela dietro questi strani sogni incrociati?",
+    "release_date": "2016-07-01",
+    "vote_average": 8.492,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uyOd5E0dNTp2AJAJWv0V3asf31u.jpg",
+    "genres": "Animazione, Romance, Dramma",
+    "director": "新海誠",
+    "ai_reason": "A visually transcendent masterpiece of modern Japanese animation returning to the big screen as a prestige theatrical event.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "LOOK BACK",
+    "cast": "Ryô Ikeda, Miyu Sasaki, Maho Yamada, Natsuki Deguchi",
+    "details": "Una storia su come le storie salvino la vita e possano essere un motore inesauribile di pura gioia. Drammatico, Giappone 2026. Durata 100 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1244492,
+    "tmdb_title": "Look Back",
+    "original_title": "ルックバック",
+    "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
+    "release_date": "2024-06-28",
+    "vote_average": 8.191,
+    "poster_url": "https://image.tmdb.org/t/p/w500/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
+    "genres": "Animazione, Dramma",
+    "director": "押山清高",
+    "ai_reason": "A breathtaking work of prestige animation that offers an intimate, meta-narrative on the nature of artistic creation.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "WILD HORSE NINE",
+    "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Bastián Bodenhöfer",
+    "details": "Esilarante e raggelante. Il film più politico di un cineasta che non smette di superarsi. Commedia, Drammatico - Regno Unito, USA 2026. Durata 118 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "18:20"
+        ]
+      }
+    ],
+    "tmdb_id": 891621,
+    "tmdb_title": "Wild Horse Nine",
+    "original_title": "Wild Horse Nine",
+    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+    "release_date": "2026-10-30",
+    "vote_average": 7.928,
+    "poster_url": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "genres": "Commedia, Crime, Thriller",
+    "director": "Martin McDonagh",
+    "ai_reason": "A major cinematic event from Oscar-winner Martin McDonagh, blending sharp wit with his signature existential nihilism.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "HUNGER GAMES - L'ALBA SULLA MIETITURA",
+    "cast": "Mckenna Grace, Jennifer Lawrence, Joseph Zada, Josh Hutcherson",
+    "details": "Il ritorno della saga ribalta le certezze dello spettatore e trova un'inquietante risonanza con l'attuale movimento studentesco. Azione, Avventura, Fantasy - USA 2026. Durata 158 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:05",
+          "17:25",
+          "17:50",
+          "18:40",
+          "19:55",
+          "20:25",
+          "21:00",
+          "21:20",
+          "21:45"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "17:45",
+          "19:00",
+          "20:40",
+          "21:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1300968,
+    "tmdb_title": "Hunger Games - L'alba sulla mietitura",
+    "original_title": "The Hunger Games: Sunrise on the Reaping",
+    "overview": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
+    "release_date": "2026-11-18",
+    "vote_average": 7.799,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
+    "genres": "Fantascienza, Azione, Avventura",
+    "director": "Francis Lawrence",
+    "mathyas-pick": false
+  },
+  {
+    "title": "ZUSTISSIA",
+    "cast": "Michele Riondino, Fabrizio Ferracane, Paola Giannini, Jacopo Cullin",
+    "details": "Un'odissea carceraria raccontata con essenzialità e rigore. Che ti fa uscire dalla sala con un barlume di speranza. Drammatico, Italia 2026. Durata 111 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "21:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1639616,
+    "tmdb_title": "Zustìssia",
+    "original_title": "Zustìssia",
+    "overview": "Nel 1991, un triplice omicidio commesso sui monti del Sud Sardegna porta alla rapida condanna di un uomo innocente: Beniamino Zuncheddu. Tre gradi di giudizio in un anno per dare un ergastolo. Venticinque anni dopo, un giovane avvocato decide di lottare - pro bono - per restituirgli la libertà. La storia di una vita rubata dal più lungo errore giudiziario della storia italiana: 33 anni di ingiusta detenzione. Ed è anche la storia dell’emozionante battaglia che l’avvocato Mauro Trogu e altri alleati hanno ingaggiato per arrivare alla revisione del processo e all’assoluzione, giunta il 26 gennaio 2024.",
+    "release_date": "2026-10-08",
+    "vote_average": 7.792,
+    "poster_url": "https://image.tmdb.org/t/p/w500/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
+    "genres": "Dramma",
+    "director": "Francesco Piras",
+    "mathyas-pick": false
+  },
+  {
+    "title": "MUSTANG",
+    "cast": "",
+    "details": "Un racconto commovente e senza filtri, in cui il ricordo non si ferma alla perdita, ma si lascia andare al flusso della vita. Documentario, Italia 2026. Durata 105 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:30",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:00",
+          "19:20"
+        ]
+      }
+    ],
+    "tmdb_id": 336804,
+    "tmdb_title": "Mustang",
+    "original_title": "Mustang",
+    "overview": "Mustang è l'opera prima della regista Deniz Gamze Ergüven, scelta per rappresentare la Francia ai Premi Oscar 2015. Racconta la storia di cinque giovani sorelle che lottano per la loro libertà contro un potere maschile e patriarcale soffocante.",
+    "release_date": "2015-06-17",
+    "vote_average": 7.69,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r999TpiqMJdTAJ2bphJt4i7ZhOv.jpg",
+    "genres": "Dramma",
+    "director": "Deniz Gamze Ergüven",
+    "ai_reason": "A celebrated milestone of modern international cinema and an Oscar-nominated feminist triumph.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "cast": "Johnny Depp, Ian McKellen, Sam Claflin, Arthur Conti",
+    "details": "Un one-man-show gotico e grottesco, in cui Johnny Depp è mattatore. Drammatico, Fantasy - USA 2026. Durata 116 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:00",
+          "18:55",
+          "22:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:20",
+          "18:30",
+          "21:40"
+        ]
+      }
+    ],
+    "tmdb_id": 1567605,
+    "tmdb_title": "Scrooge e gli spiriti del Natale",
+    "original_title": "Ebenezer",
+    "overview": "Un anziano avaro intraprende un viaggio soprannaturale dopo che le visite del fantasma del suo ex socio in affari e degli Spiriti del Natale passato, presente e ancora da venire lo costringono a confrontarsi con il suo passato e a lottare per una seconda possibilità di felicità.",
+    "release_date": "2026-11-11",
+    "vote_average": 7.512,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
+    "genres": "Fantasy, Dramma, Horror",
+    "director": "Ti West",
+    "ai_reason": "Genre auteur Ti West applies his elevated horror sensibilities to a gothic, psychological reimagining of Dickens.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "L'ESTRANEA",
+    "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi",
+    "details": "Strippoli trasforma l'horror in un perturbante dramma familiare. Thriller, Italia 2026. Durata 115 Minuti.",
+    "cinemas": [
+      {
+        "name": "Abc",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1412795,
+    "tmdb_title": "L'estranea",
+    "original_title": "L'estranea",
+    "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
+    "release_date": "2026-10-08",
+    "vote_average": 7.5,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
+    "genres": "Dramma, Thriller",
+    "director": "Paolo Strippoli",
+    "ai_reason": "An atmospheric piece of elevated Italian genre cinema exploring psychological secrets and autonomy.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "DIO RIDE",
+    "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Francesco Gheghi",
+    "details": "Il film più ambizioso e riuscito di Giovanni Veronesi. Commedia, Italia 2026. Durata 114 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10",
+          "18:10"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1506710,
+    "tmdb_title": "Dio ride",
+    "original_title": "Dio ride",
+    "overview": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
+    "release_date": "2026-10-29",
+    "vote_average": 7.472,
+    "poster_url": "https://image.tmdb.org/t/p/w500/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
+    "genres": "Commedia, Dramma",
+    "director": "Giovanni Veronesi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "SE DOMANI NON TORNO",
+    "cast": "Tommaso Allione, Tecla Bossi, Sabrina Martina, Filippo Timi",
+    "details": "Una storia intima di perdita e disperazione che diventa riflessione sul patriarcato. Con l'interpretazione potentissima di Filippo Timi. Drammatico, Italia 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "21:35"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:30",
+          "19:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1583853,
+    "tmdb_title": "Se domani non torno",
+    "original_title": "Se domani non torno",
+    "overview": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+    "release_date": "2026-11-05",
+    "vote_average": 7.443,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+    "genres": "Dramma",
+    "director": "Paola Randi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "FJORD",
+    "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Lisa Loven Kongsli",
+    "details": "Mungiu delinea in terra norvegese uno scontro ideologico. Sorprendente Sebastian Stan. Drammatico, Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia 2026. Durata 146 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:40",
+          "18:05",
+          "21:00"
+        ]
+      },
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "18:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1401459,
+    "tmdb_title": "Fjord",
+    "original_title": "Fjord",
+    "overview": "Una famiglia rumeno-norvegese profondamente religiosa si trasferisce in un remoto villaggio tra i fiordi della Norvegia per ricominciare una nuova vita. Quando la figlia maggiore arriva a scuola con alcuni lividi, la comunità e le autorità iniziano a sospettare che l'educazione tradizionale impartita dai genitori possa nascondere abusi. Ne nasce un intenso dramma giudiziario e morale che mette a confronto valori, fede, identità culturale e i limiti della tolleranza.",
+    "release_date": "2026-06-13",
+    "vote_average": 7.208,
+    "poster_url": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
+    "genres": "Dramma",
+    "director": "Cristian Mungiu",
+    "ai_reason": "A clinical, surgical exploration of faith and morality from Romanian New Wave heavyweight Cristian Mungiu.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "L'ESSERE AMATO",
+    "cast": "Javier Bardem, Vicky Luengo, Melina Matthews, Marina Foïs",
+    "details": "Sorogoyen spinge e si diverte ad esplorare la Settima Arte in tutte le sue potenzialità. Un film-mondo sui limiti dell'amore. Drammatico, Spagna 2026. Durata 135 Minuti.",
+    "cinemas": [
+      {
+        "name": "Il Piccolo",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1074074,
+    "tmdb_title": "L'essere amato",
+    "original_title": "El ser querido",
+    "overview": "L'acclamato regista Esteban Martínez è una vera e propria leggenda, noto tanto per i suoi capolavori quanto per il suo difficile passato segnato da violenza ed eccessi. Per il suo nuovo e ambizioso progetto, decide di offrire a sua figlia Emilia un ruolo, con il pretesto di rilanciare la sua carriera di attrice ormai in stallo.",
+    "release_date": "2026-05-16",
+    "vote_average": 7,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
+    "genres": "Dramma",
+    "director": "Rodrigo Sorogoyen",
+    "ai_reason": "A high-prestige psychological drama featuring Javier Bardem, directed by one of Spain's most vital contemporary auteurs.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IL GATTO COL CAPPELLO",
+    "cast": "Stefano Fresi, Luigi Luciano, Bill Hader, Matt Berry",
+    "details": "Un divertimento trascinante che procede a rotta di collo ci racconta la dimensione allegramente anarchica dell'infanzia. Animazione, USA 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1117898,
+    "tmdb_title": "Il gatto col cappello",
+    "original_title": "The Cat in the Hat",
+    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+    "release_date": "2026-10-31",
+    "vote_average": 6.985,
+    "poster_url": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "genres": "Animazione, Fantasy, Avventura, Famiglia, Commedia",
+    "director": "Erica Rivinoja, Alessandro Carloni",
+    "mathyas-pick": false
+  },
+  {
+    "title": "UN WEEKEND ARTIFICIALE",
+    "cast": "Leonardo Pieraccioni, Giulia Vecchio, Luigi Luciano, Massimo Ceccherini",
+    "details": "Pieraccioni dirige una commedia fiera d'una radicale toscanità. Con uno sguardo dotato di una certa grazia. Commedia, Italia 2026. Durata 91 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "16:10",
+          "18:05"
+        ]
+      }
+    ],
+    "tmdb_id": 1723882,
+    "tmdb_title": "Un weekend artificiale",
+    "original_title": "Un weekend artificiale",
+    "overview": "Leonardo, parrucchiere fiorentino, viene invitato insieme ad altri sei sconosciuti in una villa da sogno per partecipare a un esperimento senza precedenti: dovranno scoprire chi tra di loro è un umanoide creato con l’intelligenza artificiale. Un incasinatissimo weekend di sospetti, emozioni e colpi di scena… prima che siano i sentimenti e la vita vera a mandare tutti in tilt.",
+    "release_date": "2026-11-12",
+    "vote_average": 6.8,
+    "poster_url": "https://image.tmdb.org/t/p/w500/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
+    "genres": "Commedia, Fantascienza",
+    "director": "Leonardo Pieraccioni",
+    "mathyas-pick": false
+  },
+  {
+    "title": "LA BALLATA DEL RE DELLE API",
+    "cast": "Matthew McConaughey, Angelina LookingGlass, Jake Horowitz, Owen Teague",
+    "details": "Una meravigliosa sorpresa diretta con grazia rara e con una grandissima interpretazione di Matthew McConaughey. Drammatico, Thriller - USA, Regno Unito 2025. Durata 130 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "18:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1124142,
+    "tmdb_title": "La ballata del re delle api",
+    "original_title": "The Rivals of Amziah King",
+    "overview": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+    "release_date": "2026-08-13",
+    "vote_average": 6.687,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bsUZIWpF5ZvU9oZTBL9pHw1DTP9.jpg",
+    "genres": "Crime, Dramma, Thriller",
+    "director": "Andrew Patterson",
+    "ai_reason": "The highly anticipated sophomore effort from Andrew Patterson, the visionary director behind the indie hit 'The Vast of Night'.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "WHALEFALL - NELLA BALENA",
+    "cast": "Austin Abrams, Elisabeth Shue, Josh Brolin, Jane Levy",
+    "details": "Sorprendente survival movie che mette in scena un'ora di pura claustrofobia. Avventura, Drammatico, Thriller - USA 2026. Durata 106 Minuti.",
+    "cinemas": [
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "22:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1255833,
+    "tmdb_title": "Whalefall - Nella balena",
+    "original_title": "Whalefall",
+    "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+    "release_date": "2026-10-14",
+    "vote_average": 6.587,
+    "poster_url": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "genres": "Thriller",
+    "director": "Brian Duffield",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL FUOCO CHE TI PORTI DENTRO",
+    "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito",
+    "details": "La famiglia è un luogo di barbarie. De Angelis la racconta senza sconti, servendosi di un cast di grandi attori. Drammatico, Italia 2026. Durata 94 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "16:00",
+          "18:30",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1632188,
+    "tmdb_title": "Il fuoco che ti porti dentro",
+    "original_title": "Il fuoco che ti porti dentro",
+    "overview": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo, lontano da sua madre Angela, una donna esagerata nel bene e nel male, irresistibile, antica e ostile come poche, che lo ha raggiunto per Natale e sembra decisa a restare. La cena della Vigilia diventa così un campo di battaglia emotivo, comico e feroce al tempo stesso che fa riemergere un passato di sopraffazioni e incomprensioni. Con un tenace cappone che non vuole saperne di finire in pentola, una figlia che non si sa se mai arriverà e un illustre ospite inatteso, la serata si trasforma in una resa dei conti tra madre e figlio destinata a cambiare per sempre il senso del loro legame: un amore che brucia come un fuoco dentro e che mai si consuma, neppure andando via.",
+    "release_date": "2026-11-19",
+    "vote_average": 6.583,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
+    "genres": "Dramma",
+    "director": "Edoardo De Angelis",
+    "ai_reason": "Major Italian auteur Edoardo De Angelis returns with a visceral, operatic study of family dysfunction.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "IL RUMORE DELLE COSE NUOVE",
+    "cast": "Emanuela Fanelli, Edoardo Pesce, Claudia Pandolfi, Lino Musella",
+    "details": "Un congegno narrativo che sacrifica realismo e spontaneità al tentativo di stupire. Commedia, Italia 2026. Durata 113 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "17:35",
+          "22:05"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "16:10",
+          "21:50"
+        ]
+      }
+    ],
+    "tmdb_id": 1544126,
+    "tmdb_title": "Il rumore delle cose nuove",
+    "original_title": "Il rumore delle cose nuove",
+    "overview": "Andrea è un fotografo, Andreina un’infermiera, e se oggi Andrea è ancora vivo è perché Andreina gli ha donato un pezzo di sé. Umberto al lavoro allevia il dolore e a casa lo infligge ad Alba, che aveva sogni semplici e ora ha smesso di sognare. Ralph di mestiere riproduce suoni, Viola è un’attrice che ha scelto di recitare anche nella vita. E poi c’è Mirko, che ha dieci anni ma fa tanto rumore. Tre famiglie, che per anni si sono sfiorate nelle strade di Milano senza conoscersi, trascorrono le loro esistenze fra rancori, bugie e momenti di felicità finché un incontro imprevisto non stravolge tutto. Allora il caos prende il sopravvento sul fragile equilibrio che le regge e rischia di spazzarle via.",
+    "release_date": "2026-11-12",
+    "vote_average": 6.367,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
+    "genres": "Dramma",
+    "director": "Paolo Genovese",
+    "mathyas-pick": false
+  }
+]
