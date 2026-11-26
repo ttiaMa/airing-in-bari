@@ -11,6 +11,12 @@
         ]
       },
       {
+        "name": "Splendor",
+        "times": [
+          "20:45"
+        ]
+      },
+      {
         "name": "Abc",
         "times": [
           "17:30"
@@ -26,7 +32,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
     "genres": "Commedia, Dramma",
     "director": "Simón Mesa Soto",
-    "ai_reason": "A melancholic and highly-rated piece of world cinema that embodies the best of the international festival circuit, marking Simón Mesa Soto as a voice to watch.",
+    "ai_reason": "A stark work of international arthouse cinema from a rising auteur of the New Colombian cinema, boasting exceptional critical reception.",
     "mathyas-pick": true
   },
   {
@@ -93,7 +99,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
     "genres": "Fantasy, Commedia",
     "director": "Ti West",
-    "ai_reason": "Modern genre-deconstructing auteur Ti West reimagines a literary classic, creating a high-profile cinematic event for followers of elevated indie cinema.",
+    "ai_reason": "Modern genre auteur Ti West (X, Pearl) applies his stylistic precision to a holiday classic, representing a significant 'Elevated' cinematic reimagining.",
     "mathyas-pick": true
   },
   {
@@ -152,7 +158,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
     "genres": "Dramma",
     "director": "Cristian Mungiu",
-    "ai_reason": "A rigorous and clinical moral inquiry from Romanian New Wave master Cristian Mungiu, starring the exceptional Renate Reinsve.",
+    "ai_reason": "Directed by Palme d’Or winner Cristian Mungiu, this is a rigorous, high-stakes moral drama from one of the leading voices of the New Romanian Wave.",
     "mathyas-pick": true
   },
   {
@@ -176,7 +182,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "Rodrigo Sorogoyen's razor-sharp direction meets Javier Bardem in this high-stakes psychological character study from one of Spain's most vital auteurs.",
+    "ai_reason": "A meta-cinematic exploration of artistic legacy directed by Rodrigo Sorogoyen, one of the most vital and intense voices in contemporary Spanish cinema.",
     "mathyas-pick": true
   },
   {
@@ -258,7 +264,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
     "genres": "Dramma",
     "director": "Edoardo De Angelis",
-    "ai_reason": "Edoardo De Angelis delivers a visceral, auteur-driven exploration of the dark complexities within Italian domesticity.",
+    "ai_reason": "A visceral family drama from Edoardo De Angelis, a key auteur in modern Italian cinema known for his distinctive and powerful visual language.",
     "mathyas-pick": true
   },
   {
@@ -324,6 +330,77 @@
     "genres": "Avventura, Animazione, Famiglia, Fantasy, Commedia",
     "director": "Jason Hand, ฝน วีระสุนทร",
     "mathyas-pick": false
+  },
+  {
+    "title": "È ANDATA COSÌ",
+    "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi",
+    "details": "Una scatenata e surreale commedia sentimentale che raccoglie il meglio dell'eredità della commedia all'italiana. Commedia, Italia 2026. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "15:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1329664,
+    "tmdb_title": "È andata così",
+    "original_title": "È andata così",
+    "overview": "Cecilia (Valentina Lodovini), determinata e appassionata, due figli a carico e tre relazioni fallite alle spalle. Per fronteggiare un’improvvisa situazione di crisi chiede aiuto agli uomini della sua vita: Christophe (Valerio Mastandrea), il suo primo grande amore e padre della sua figlia maggiore, regista teatrale che vive nel ricordo della sua sfolgorante carriera. Guido (Leonardo Lidi), padre del suo secondo figlio, ex manager promettente, che ha deciso di dare una svolta alla sua vita diventando un rider. E, infine, Tony (Michele Riondino), sedicente manager musicale, ma l’unico che l’ha sposata… per poi lasciarla per un’altra.",
+    "release_date": "2026-11-26",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/IpSuXa9O1yWq38g0bzhEmlXUX6.jpg",
+    "genres": "Commedia",
+    "director": "Gianni Zanasi",
+    "mathyas-pick": false
+  },
+  {
+    "title": "IL RISVEGLIO DI BOIÚNA",
+    "cast": "Logan Marshall-Green, Jessica Rothe, Kiana Madeira, Jackson Bews",
+    "details": "Horror ecologico-sociale, più ambizioso che riuscito. Horror, USA, Germania 2026. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:25"
+        ]
+      }
+    ],
+    "tmdb_id": 1244523,
+    "tmdb_title": "Il risveglio di Boiúna",
+    "original_title": "Beware Boiúna",
+    "overview": "Un gruppo di giovani medici impegnato a portare assistenza sanitaria nei villaggi più remoti dell’Amazzonia è costretto a fuggire nella giungla dopo un violento scontro con alcuni uomini coinvolti nella costruzione di una strada. Ma nelle profondità della foresta li attende una minaccia ancora più terrificante: Boiúna, un gigantesco serpente leggendario che sembra essere molto più di una semplice creatura del folklore. Braccati in un ambiente estremo e implacabile, i protagonisti dovranno lottare per sopravvivere contro un predatore che domina la giungla da milioni di anni.",
+    "release_date": "2026-10-01",
+    "vote_average": 5.993,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mBvXcLHu1v7U8JiooBizBNbQPRy.jpg",
+    "genres": "Avventura, Horror, Thriller",
+    "director": "Mike P. Nelson",
+    "mathyas-pick": false
+  },
+  {
+    "title": "STORIE PARALLELE",
+    "cast": "Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney",
+    "details": "Una lezione su ciò che sta alla base del fare cinema: la sceneggiatura. Drammatico, Thriller - Francia, Italia, Belgio 2026. Durata 139 Minuti.",
+    "cinemas": [
+      {
+        "name": "Splendor",
+        "times": [
+          "17:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1157869,
+    "tmdb_title": "Storie parallele",
+    "original_title": "Histoires parallèles",
+    "overview": "Sylvie, una scrittrice in cerca d’ispirazione per il suo nuovo romanzo, inizia a osservare di nascosto i vicini, immaginando le loro vite. Quando assume il giovane Adam per aiutarla nella quotidianità, la sua presenza sconvolge ogni equilibrio, fino a rendere sempre più sottile il confine tra realtà e finzione.",
+    "release_date": "2026-05-14",
+    "vote_average": 5.739,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sKa694GSjSMACf4VkW5364qUQPv.jpg",
+    "genres": "Dramma, Thriller, Mistero",
+    "director": "اصغر فرهادی",
+    "ai_reason": "Two-time Academy Award winner Asghar Farhadi directs a formidable European cast in what promises to be a complex, layered psychological masterclass.",
+    "mathyas-pick": true
   },
   {
     "title": "UN WEEKEND ARTIFICIALE",
@@ -394,6 +471,12 @@
           "16:10",
           "21:00",
           "22:35"
+        ]
+      },
+      {
+        "name": "Uci Cinemas Showville",
+        "times": [
+          "20:00"
         ]
       }
     ],
