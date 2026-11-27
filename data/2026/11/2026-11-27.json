@@ -26,7 +26,31 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
     "genres": "Commedia, Dramma",
     "director": "Simón Mesa Soto",
-    "ai_reason": "A sophisticated selection from Cannes-awarded director Simón Mesa Soto, representing high-brow international arthouse cinema.",
+    "ai_reason": "A high-rated, melancholic gem of world cinema by rising auteur Simón Mesa Soto, representative of contemporary global arthouse.",
+    "mathyas-pick": true
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "cast": "Nathan Fielder, Elizabeth Holmes, Amanda Seyfried",
+    "details": "Un vertiginoso gioco di specchi tra realtà e finzione. In cui chi filma manipola ed è manipolato. E lo spettatore non è mai al riparo. Documentario, USA 2026. Durata 174 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "20:30"
+        ]
+      }
+    ],
+    "tmdb_id": 1765072,
+    "tmdb_title": "You Can See Everything",
+    "original_title": "You Can See Everything",
+    "overview": "Trentaquattro giorni prima di entrare in prigione, Elizabeth Holmes, la controversa fondatrice di una società della Silicon Valley, invita una troupe cinematografica scettica a documentare ogni suo passo. Quello che inizia come un ritratto intimo di una figura enigmatica condannata per frode si trasforma in un sorprendente viaggio di tre anni negli abissi di una realtà sempre più inquietante e difficile da decifrare.",
+    "release_date": "2026-10-16",
+    "vote_average": 8.566,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+    "genres": "Documentario",
+    "director": "Nathan Fielder, Lance Oppenheim",
+    "ai_reason": "A major cinematic event from Nathan Fielder, blending reality and artifice in a subversive documentary format.",
     "mathyas-pick": true
   },
   {
@@ -38,9 +62,8 @@
         "name": "The Space Casamassima",
         "times": [
           "17:20",
-          "19:00",
           "20:50",
-          "21:40"
+          "21:10"
         ]
       },
       {
@@ -58,33 +81,10 @@
     "original_title": "The Hunger Games: Sunrise on the Reaping",
     "overview": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
     "release_date": "2026-11-18",
-    "vote_average": 7.797,
+    "vote_average": 7.791,
     "poster_url": "https://image.tmdb.org/t/p/w500/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
     "genres": "Fantascienza, Azione, Avventura",
     "director": "Francis Lawrence",
-    "mathyas-pick": false
-  },
-  {
-    "title": "SE DOMANI NON TORNO",
-    "cast": "Tommaso Allione, Tecla Bossi, Sabrina Martina, Filippo Timi",
-    "details": "Una storia intima di perdita e disperazione che diventa riflessione sul patriarcato. Con l'interpretazione potentissima di Filippo Timi. Drammatico, Italia 2026. Durata 107 Minuti.",
-    "cinemas": [
-      {
-        "name": "The Space Casamassima",
-        "times": [
-          "16:40"
-        ]
-      }
-    ],
-    "tmdb_id": 1583853,
-    "tmdb_title": "Se domani non torno",
-    "original_title": "Se domani non torno",
-    "overview": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
-    "release_date": "2026-11-05",
-    "vote_average": 7.524,
-    "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "genres": "Dramma",
-    "director": "Paola Randi",
     "mathyas-pick": false
   },
   {
@@ -95,9 +95,8 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:25",
-          "18:40",
-          "22:00"
+          "17:40",
+          "21:40"
         ]
       },
       {
@@ -114,12 +113,34 @@
     "original_title": "Ebenezer",
     "overview": "Un anziano avaro intraprende un viaggio soprannaturale dopo che le visite del fantasma del suo ex socio in affari e degli Spiriti del Natale passato, presente e ancora da venire lo costringono a confrontarsi con il suo passato e a lottare per una seconda possibilità di felicità.",
     "release_date": "2026-11-11",
-    "vote_average": 7.5,
+    "vote_average": 7.554,
     "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
     "genres": "Fantasy, Commedia",
     "director": "Ti West",
-    "ai_reason": "Modern indie horror auteur Ti West (X, Pearl) reimagines a classic with his distinct elevated style and an elite cast including Ian McKellen.",
-    "mathyas-pick": true
+    "mathyas-pick": false
+  },
+  {
+    "title": "SE DOMANI NON TORNO",
+    "cast": "Tommaso Allione, Tecla Bossi, Sabrina Martina, Filippo Timi",
+    "details": "Una storia intima di perdita e disperazione che diventa riflessione sul patriarcato. Con l'interpretazione potentissima di Filippo Timi. Drammatico, Italia 2026. Durata 107 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "19:35"
+        ]
+      }
+    ],
+    "tmdb_id": 1583853,
+    "tmdb_title": "Se domani non torno",
+    "original_title": "Se domani non torno",
+    "overview": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+    "release_date": "2026-11-05",
+    "vote_average": 7.524,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+    "genres": "Dramma",
+    "director": "Paola Randi",
+    "mathyas-pick": false
   },
   {
     "title": "CLAYFACE",
@@ -142,7 +163,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "James Watkins (Eden Lake) explores identity and body horror in this elevated genre piece that fits the psychological and surrealist criteria.",
+    "ai_reason": "An elevated psychological horror from James Watkins that explores the loss of autonomy and the corrosive nature of Hollywood ambition.",
     "mathyas-pick": true
   },
   {
@@ -173,7 +194,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
     "genres": "Dramma",
     "director": "Cristian Mungiu",
-    "ai_reason": "Directed by Palme d'Or winner Cristian Mungiu, this is a masterclass in European arthouse drama featuring a top-tier international cast.",
+    "ai_reason": "A rigorous, high-prestige drama from Palme d’Or winner Cristian Mungiu, exploring the clash between cultural tradition and modern morality.",
     "mathyas-pick": true
   },
   {
@@ -184,8 +205,8 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:00",
-          "19:20",
+          "16:55",
+          "18:50",
           "21:30"
         ]
       },
@@ -229,7 +250,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "Rodrigo Sorogoyen is a titan of modern Spanish cinema; this psychological drama starring Javier Bardem is a major auteur release.",
+    "ai_reason": "Rodrigo Sorogoyen, a leading voice in modern Spanish cinema, directs Javier Bardem in a complex meta-narrative on the creative ego.",
     "mathyas-pick": true
   },
   {
@@ -276,7 +297,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bsUZIWpF5ZvU9oZTBL9pHw1DTP9.jpg",
     "genres": "Crime, Dramma, Thriller",
     "director": "Andrew Patterson",
-    "ai_reason": "Following the cult success of The Vast of Night, Andrew Patterson delivers an elevated indie thriller that captures the 'new American auteur' spirit.",
+    "ai_reason": "The highly anticipated follow-up from Andrew Patterson (The Vast of Night), showcasing his unique indie-auteur sensibilities in a gritty thriller.",
     "mathyas-pick": true
   },
   {
@@ -302,7 +323,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
     "genres": "Dramma",
     "director": "Edoardo De Angelis",
-    "ai_reason": "Edoardo De Angelis is a core figure in contemporary Italian auteur cinema, offering a fierce, prestige drama far removed from generic comedy.",
+    "ai_reason": "A visceral, character-driven domestic drama from acclaimed Italian auteur Edoardo De Angelis, focusing on the weight of heritage.",
     "mathyas-pick": true
   },
   {
@@ -313,7 +334,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "18:55",
+          "18:10",
           "21:05"
         ]
       },
@@ -361,6 +382,29 @@
     "mathyas-pick": false
   },
   {
+    "title": "IL RISVEGLIO DI BOIÚNA",
+    "cast": "Logan Marshall-Green, Jessica Rothe, Kiana Madeira, Jackson Bews",
+    "details": "Horror ecologico-sociale, più ambizioso che riuscito. Horror, USA, Germania 2026. Durata 104 Minuti.",
+    "cinemas": [
+      {
+        "name": "The Space Casamassima",
+        "times": [
+          "22:10"
+        ]
+      }
+    ],
+    "tmdb_id": 1244523,
+    "tmdb_title": "Il risveglio di Boiúna",
+    "original_title": "Beware Boiúna",
+    "overview": "Un gruppo di giovani medici impegnato a portare assistenza sanitaria nei villaggi più remoti dell’Amazzonia è costretto a fuggire nella giungla dopo un violento scontro con alcuni uomini coinvolti nella costruzione di una strada. Ma nelle profondità della foresta li attende una minaccia ancora più terrificante: Boiúna, un gigantesco serpente leggendario che sembra essere molto più di una semplice creatura del folklore. Braccati in un ambiente estremo e implacabile, i protagonisti dovranno lottare per sopravvivere contro un predatore che domina la giungla da milioni di anni.",
+    "release_date": "2026-10-01",
+    "vote_average": 5.9,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mBvXcLHu1v7U8JiooBizBNbQPRy.jpg",
+    "genres": "Avventura, Horror, Thriller",
+    "director": "Mike P. Nelson",
+    "mathyas-pick": false
+  },
+  {
     "title": "UN WEEKEND ARTIFICIALE",
     "cast": "Leonardo Pieraccioni, Giulia Vecchio, Luigi Luciano, Massimo Ceccherini",
     "details": "Pieraccioni dirige una commedia fiera d'una radicale toscanità. Con uno sguardo dotato di una certa grazia. Commedia, Italia 2026. Durata 91 Minuti.",
@@ -368,7 +412,7 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:30"
+          "16:15"
         ]
       }
     ],
@@ -405,7 +449,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sKa694GSjSMACf4VkW5364qUQPv.jpg",
     "genres": "Dramma, Thriller, Mistero",
     "director": "اصغر فرهادی",
-    "ai_reason": "Two-time Oscar winner Asghar Farhadi directs this high-prestige mystery starring the legendary Isabelle Huppert; a quintessential cinephile event.",
+    "ai_reason": "Directed by double Oscar-winner Asghar Farhadi and starring the legendary Isabelle Huppert; an essential masterclass in psychological tension.",
     "mathyas-pick": true
   },
   {
@@ -416,11 +460,11 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:15",
+          "16:30",
           "17:15",
-          "18:25",
-          "20:00",
-          "21:10"
+          "18:40",
+          "19:55",
+          "21:20"
         ]
       },
       {
@@ -452,10 +496,10 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:10",
-          "18:35",
+          "16:25",
+          "18:40",
           "19:15",
-          "21:40"
+          "21:10"
         ]
       },
       {
@@ -488,9 +532,9 @@
       {
         "name": "The Space Casamassima",
         "times": [
-          "16:10",
+          "16:25",
           "21:00",
-          "22:35"
+          "22:30"
         ]
       }
     ],
