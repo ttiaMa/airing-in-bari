@@ -16,11 +16,11 @@
     "original_title": "You Can See Everything",
     "overview": "Trentaquattro giorni prima di entrare in prigione, Elizabeth Holmes, la controversa fondatrice di una società della Silicon Valley, invita una troupe cinematografica scettica a documentare ogni suo passo. Quello che inizia come un ritratto intimo di una figura enigmatica condannata per frode si trasforma in un sorprendente viaggio di tre anni negli abissi di una realtà sempre più inquietante e difficile da decifrare.",
     "release_date": "2026-10-16",
-    "vote_average": 8.544,
+    "vote_average": 8.545,
     "poster_url": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
     "genres": "Documentario",
     "director": "Nathan Fielder, Lance Oppenheim",
-    "ai_reason": "A boundary-pushing, high-concept documentary project from cult auteur Nathan Fielder, exploring the nature of truth and artifice.",
+    "ai_reason": "A boundary-pushing meta-documentary from visionary cult director Nathan Fielder.",
     "mathyas-pick": true
   },
   {
@@ -119,7 +119,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
     "genres": "Fantasy, Commedia",
     "director": "Ti West",
-    "ai_reason": "Indie horror auteur Ti West applies his distinct stylistic lens to a literary classic, creating a unique cinematic event.",
+    "ai_reason": "A genre-bending adaptation from indie auteur Ti West, a key figure in the modern elevated cinema movement.",
     "mathyas-pick": true
   },
   {
@@ -169,11 +169,11 @@
     "original_title": "Clayface",
     "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
     "release_date": "2026-10-19",
-    "vote_average": 7.408,
+    "vote_average": 7.41,
     "poster_url": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "genres": "Horror, Thriller, Fantascienza",
     "director": "James Watkins",
-    "ai_reason": "An elevated psychological horror by James Watkins that delves into the loss of identity and the dark side of ambition.",
+    "ai_reason": "Elevated psychological thriller exploring the terrifying disintegration of identity and autonomy.",
     "mathyas-pick": true
   },
   {
@@ -223,11 +223,11 @@
     "original_title": "Fjord",
     "overview": "Una famiglia rumeno-norvegese profondamente religiosa si trasferisce in un remoto villaggio tra i fiordi della Norvegia per ricominciare una nuova vita. Quando la figlia maggiore arriva a scuola con alcuni lividi, la comunità e le autorità iniziano a sospettare che l'educazione tradizionale impartita dai genitori possa nascondere abusi. Ne nasce un intenso dramma giudiziario e morale che mette a confronto valori, fede, identità culturale e i limiti della tolleranza.",
     "release_date": "2026-06-13",
-    "vote_average": 7.238,
+    "vote_average": 7.231,
     "poster_url": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
     "genres": "Dramma",
     "director": "Cristian Mungiu",
-    "ai_reason": "A profound moral and judicial drama from Palme d’Or winner Cristian Mungiu, featuring the exceptional Renate Reinsve.",
+    "ai_reason": "A high-stakes moral drama from Palme d'Or winner Cristian Mungiu, featuring modern indie darling Renate Reinsve.",
     "mathyas-pick": true
   },
   {
@@ -251,7 +251,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/m5plr6ylu6sXPPRQ5hlQC8JkYWx.jpg",
     "genres": "Avventura, Fantasy, Famiglia",
     "director": "Wolfgang Petersen",
-    "ai_reason": "A quintessential cult classic of cinema history returning to the big screen; a masterpiece of imagination and practical effects.",
+    "ai_reason": "A quintessential cinematic re-release of Wolfgang Petersen's fantasy masterpiece, essential for any film historian.",
     "mathyas-pick": true
   },
   {
@@ -307,7 +307,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/aV3dZ2xlUoGHT0N6a47ZZOACZmv.jpg",
     "genres": "Dramma",
     "director": "Rodrigo Sorogoyen",
-    "ai_reason": "Major Spanish auteur Rodrigo Sorogoyen directs Javier Bardem in an intense, high-stakes exploration of power and artistic legacy.",
+    "ai_reason": "Prestige Spanish drama from auteur Rodrigo Sorogoyen, starring Javier Bardem in a complex meta-narrative on fame.",
     "mathyas-pick": true
   },
   {
@@ -354,7 +354,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/bsUZIWpF5ZvU9oZTBL9pHw1DTP9.jpg",
     "genres": "Crime, Dramma, Thriller",
     "director": "Andrew Patterson",
-    "ai_reason": "The latest work from emerging indie auteur Andrew Patterson, following his acclaimed breakout 'The Vast of Night'.",
+    "ai_reason": "Sophisticated psychological horror from the director of 'The Vast of Night', starring Matthew McConaughey.",
     "mathyas-pick": true
   },
   {
@@ -380,7 +380,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
     "genres": "Dramma",
     "director": "Edoardo De Angelis",
-    "ai_reason": "A visceral, auteur-driven Italian drama from Edoardo De Angelis, exploring the jagged edges of familial identity.",
+    "ai_reason": "A visceral family portrait from renowned Italian auteur Edoardo De Angelis, far removed from commercial comedy tropes.",
     "mathyas-pick": true
   },
   {
@@ -415,31 +415,6 @@
     "mathyas-pick": false
   },
   {
-    "title": "È ANDATA COSÌ",
-    "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi",
-    "details": "Una scatenata e surreale commedia sentimentale che raccoglie il meglio dell'eredità della commedia all'italiana. Commedia, Italia 2026. Durata 120 Minuti.",
-    "cinemas": [
-      {
-        "name": "Galleria",
-        "times": [
-          "10:20",
-          "15:45",
-          "21:00"
-        ]
-      }
-    ],
-    "tmdb_id": 1329664,
-    "tmdb_title": "È andata così",
-    "original_title": "È andata così",
-    "overview": "Cecilia (Valentina Lodovini), determinata e appassionata, due figli a carico e tre relazioni fallite alle spalle. Per fronteggiare un’improvvisa situazione di crisi chiede aiuto agli uomini della sua vita: Christophe (Valerio Mastandrea), il suo primo grande amore e padre della sua figlia maggiore, regista teatrale che vive nel ricordo della sua sfolgorante carriera. Guido (Leonardo Lidi), padre del suo secondo figlio, ex manager promettente, che ha deciso di dare una svolta alla sua vita diventando un rider. E, infine, Tony (Michele Riondino), sedicente manager musicale, ma l’unico che l’ha sposata… per poi lasciarla per un’altra.",
-    "release_date": "2026-11-26",
-    "vote_average": 6,
-    "poster_url": "https://image.tmdb.org/t/p/w500/IpSuXa9O1yWq38g0bzhEmlXUX6.jpg",
-    "genres": "Commedia",
-    "director": "Gianni Zanasi",
-    "mathyas-pick": false
-  },
-  {
     "title": "HEXE - IL REGNO DELLE STREGHE",
     "cast": "Mariasole Pollio, Claudia Pandolfi, Isabella Ferrari, Hailee Steinfeld",
     "details": "Una storia di magia e di disobbedienza necessaria, sotto l'influenza di Wicked. Animazione, USA 2026. Durata 103 Minuti.",
@@ -471,10 +446,35 @@
     "original_title": "Hexed",
     "overview": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
     "release_date": "2026-11-25",
-    "vote_average": 5.9,
+    "vote_average": 6,
     "poster_url": "https://image.tmdb.org/t/p/w500/qR6ABfdY3NLLkkN1L5UusJ5TlHU.jpg",
     "genres": "Animazione, Fantasy, Famiglia",
     "director": "Jason Hand, ฝน วีระสุนทร",
+    "mathyas-pick": false
+  },
+  {
+    "title": "È ANDATA COSÌ",
+    "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi",
+    "details": "Una scatenata e surreale commedia sentimentale che raccoglie il meglio dell'eredità della commedia all'italiana. Commedia, Italia 2026. Durata 120 Minuti.",
+    "cinemas": [
+      {
+        "name": "Galleria",
+        "times": [
+          "10:20",
+          "15:45",
+          "21:00"
+        ]
+      }
+    ],
+    "tmdb_id": 1329664,
+    "tmdb_title": "È andata così",
+    "original_title": "È andata così",
+    "overview": "Cecilia (Valentina Lodovini), determinata e appassionata, due figli a carico e tre relazioni fallite alle spalle. Per fronteggiare un’improvvisa situazione di crisi chiede aiuto agli uomini della sua vita: Christophe (Valerio Mastandrea), il suo primo grande amore e padre della sua figlia maggiore, regista teatrale che vive nel ricordo della sua sfolgorante carriera. Guido (Leonardo Lidi), padre del suo secondo figlio, ex manager promettente, che ha deciso di dare una svolta alla sua vita diventando un rider. E, infine, Tony (Michele Riondino), sedicente manager musicale, ma l’unico che l’ha sposata… per poi lasciarla per un’altra.",
+    "release_date": "2026-11-26",
+    "vote_average": 6,
+    "poster_url": "https://image.tmdb.org/t/p/w500/IpSuXa9O1yWq38g0bzhEmlXUX6.jpg",
+    "genres": "Commedia",
+    "director": "Gianni Zanasi",
     "mathyas-pick": false
   },
   {
@@ -522,7 +522,7 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/sKa694GSjSMACf4VkW5364qUQPv.jpg",
     "genres": "Dramma, Thriller, Mistero",
     "director": "اصغر فرهادی",
-    "ai_reason": "An essential psychological thriller from world-renowned auteur Asghar Farhadi, starring cinema legends Isabelle Huppert and Vincent Cassel.",
+    "ai_reason": "Two-time Oscar winner Asghar Farhadi directs international icon Isabelle Huppert in this sophisticated exploration of truth.",
     "mathyas-pick": true
   },
   {
